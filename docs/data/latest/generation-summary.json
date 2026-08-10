@@ -1,6 +1,6 @@
 {
-    "generatedAt": "2026-08-10T16:31:04.764841014Z",
-    "inputVideos": 325,
+    "generatedAt": "2026-08-10T22:20:11.360822389Z",
+    "inputVideos": 338,
     "rankingVideos": 100,
     "genreRankings": 12,
     "collection": {
@@ -44,9 +44,8 @@
             {
                 "source": "category-popular:26:ハウツー",
                 "requested": 20,
-                "collected": 0,
-                "status": "skipped",
-                "message": "YouTube API request failed: videos?chart=mostPopular&maxResults=20&part=snippet&regionCode=JP&videoCategoryId=26 status=403 forbidden: The request cannot access user rating informa"
+                "collected": 20,
+                "status": "ok"
             },
             {
                 "source": "category-popular:28:科学技術",
@@ -169,13 +168,13 @@
                 "status": "ok"
             }
         ],
-        "uniqueCandidateIds": 325,
-        "fetchedVideoIds": 325,
-        "publicVideos": 325,
-        "estimatedQuotaUnits": 1214
+        "uniqueCandidateIds": 338,
+        "fetchedVideoIds": 338,
+        "publicVideos": 338,
+        "estimatedQuotaUnits": 1215
     },
     "retention": {
         "historyDeleted": 0,
-        "videoDetailsDeleted": 96
+        "videoDetailsDeleted": 55
     }
 }
