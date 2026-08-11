@@ -1,10 +1,10 @@
 {
-    "generatedAt": "2026-08-11T16:35:32.755075347Z",
+    "generatedAt": "2026-08-11T22:24:32.519132430Z",
     "period": "24h",
     "genre": {
         "slug": "travel",
         "name": "旅行",
-        "confidence": 0.3
+        "confidence": 0.2
     },
     "status": "reference",
     "totalVideos": 13,
@@ -12,22 +12,66 @@
     "ranking": [
         {
             "rank": 1,
+            "videoId": "CCPgEkCcGKg",
+            "title": "【 #らんどぶいっ！ 】 ぷち旅行！！お友達できるかな【#鬼ヶ島ぴぃち】",
+            "channelId": "UCcq3DnobBkRca4p8pntDntg",
+            "channelName": "鬼ヶ島ぴぃち",
+            "thumbnailUrl": "https://i.ytimg.com/vi/CCPgEkCcGKg/maxresdefault.jpg",
+            "publishedAt": "2026-08-11T17:46:55Z",
+            "viewCount": 10789,
+            "viewIncrease": 10789,
+            "likeCount": 225,
+            "likeIncrease": 225,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 40300,
+            "durationSeconds": 17700,
+            "rawScore": 79.6,
+            "normalizedScore": 100.0,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 92.9,
+                "engagement": 26.1,
+                "subscriberRatio": 85.7,
+                "freshness": 38.9
+            }
+        },
+        {
+            "rank": 2,
+            "previousRank": 2,
+            "rankChange": 0,
             "videoId": "EjqKlJcmIqY",
             "title": "【Machine Party】命がけのパーティーゲームで友情崩壊するかぁも  #ド珍組【ホロライブ/白上フブキ】",
             "channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
             "channelName": "フブキCh。白上フブキ",
             "thumbnailUrl": "https://i.ytimg.com/vi/EjqKlJcmIqY/maxresdefault.jpg",
             "publishedAt": "2026-08-11T14:34:51Z",
-            "viewCount": 262836,
-            "viewIncrease": 262836,
-            "likeCount": 17131,
-            "likeIncrease": 17131,
-            "commentCount": 121,
-            "commentIncrease": 121,
+            "viewCount": 304756,
+            "viewIncrease": 41920,
+            "likeCount": 18065,
+            "likeIncrease": 934,
+            "commentCount": 147,
+            "commentIncrease": 26,
             "subscriberCount": 2670000,
             "durationSeconds": 5100,
-            "rawScore": 127.6,
-            "normalizedScore": 100.0,
+            "rawScore": 70.9,
+            "normalizedScore": 91.7,
             "genres": [
                 {
                     "slug": "gaming",
@@ -51,187 +95,130 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 141.4,
-                "engagement": 39.0,
-                "subscriberRatio": 74.8,
-                "freshness": 50.0
+                "velocity": 135.1,
+                "engagement": 32.0,
+                "subscriberRatio": 55.0,
+                "freshness": 31.9
             }
         },
         {
-            "rank": 2,
-            "videoId": "_PJCFbnKq2E",
-            "title": "【もしも旅行話】海外から帰国後に最初に食べたい日本食／北海道で1食のみなら／自分だけの旅行あるある《たかみち店長》《中村涼子》#旅行 #海外旅行 #空港",
-            "channelId": "UC64iKqf9mXdFNX3WYY1cqMQ",
-            "channelName": "カタルシル【たかみち店長&中村涼子の雑談ch】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/_PJCFbnKq2E/maxresdefault.jpg",
-            "publishedAt": "2026-08-11T11:27:53Z",
-            "viewCount": 6612,
-            "viewIncrease": 6612,
-            "likeCount": 9,
-            "likeIncrease": 9,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 859,
-            "durationSeconds": 148,
-            "rawScore": 80.8,
-            "normalizedScore": 91.7,
+            "rank": 3,
+            "videoId": "UfEAgrDVRBE",
+            "title": "日光　丸山付近にて #きれいな風景 #旅行 #景色綺麗",
+            "channelId": "UCxmMz7YpsoZPJLXImU8F0Fw",
+            "channelName": "Beautiful　scenery",
+            "thumbnailUrl": "https://i.ytimg.com/vi/UfEAgrDVRBE/maxresdefault.jpg",
+            "publishedAt": "2026-08-11T21:54:51Z",
+            "viewCount": 240,
+            "viewIncrease": 240,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "subscriberCount": 17,
+            "durationSeconds": 50,
+            "isShort": true,
+            "rawScore": 65.2,
+            "normalizedScore": 83.3,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
                     "confidence": 0.6
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 85.5,
-                "engagement": 9.7,
-                "subscriberRatio": 120.5,
-                "freshness": 37.5
-            }
-        },
-        {
-            "rank": 3,
-            "videoId": "Kr9V_bLlvBU",
-            "title": "上海料理を初めて食べた日本人の感想！残った料理は宅配で持ち帰りたい😆#上海 #料理 #甘い",
-            "channelId": "UCKcxyHeuN-jqSJJRS0arf0A",
-            "channelName": "アリスの小路 　",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Kr9V_bLlvBU/maxresdefault.jpg",
-            "publishedAt": "2026-08-11T15:08:18Z",
-            "viewCount": 441,
-            "viewIncrease": 441,
-            "likeCount": 2,
-            "likeIncrease": 2,
-            "commentCount": 2,
-            "commentIncrease": 2,
-            "subscriberCount": 296,
-            "durationSeconds": 56,
-            "isShort": true,
-            "rawScore": 76.0,
-            "normalizedScore": 83.3,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 45.1,
-                "engagement": 29.9,
-                "subscriberRatio": 91.1,
-                "freshness": 53.8,
+                "velocity": 36.4,
+                "engagement": 0.0,
+                "subscriberRatio": 84.5,
+                "freshness": 63.5,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 4,
-            "videoId": "EioF8RUV-Yc",
-            "title": "【靖国デモ200人→靖国でK-POPツアー旅行❓😵💫何でK-POPが出てくるんだよ😮💨「靖国神社 × K-POP」】日韓で反日運動！？靖国を「戦争神社」呼ばわり…日本で繰り広げられた反靖国デモ",
-            "channelId": "UCZ_SuRDKVceNj62dclYkRMg",
-            "channelName": "Hotch Potch",
-            "thumbnailUrl": "https://i.ytimg.com/vi/EioF8RUV-Yc/maxresdefault.jpg",
-            "publishedAt": "2026-08-11T13:30:06Z",
-            "viewCount": 1012,
-            "viewIncrease": 1012,
-            "likeCount": 97,
-            "likeIncrease": 97,
-            "commentCount": 15,
-            "commentIncrease": 15,
-            "subscriberCount": 80300,
-            "durationSeconds": 1542,
-            "rawScore": 74.6,
+            "videoId": "za4fFqjjw9c",
+            "title": "#dance #一起跳舞 #beauty #台灣台北 #旅行",
+            "channelId": "UC6UY-dq99MqrECvUnJqSNRA",
+            "channelName": "黃凱莉",
+            "thumbnailUrl": "https://i.ytimg.com/vi/za4fFqjjw9c/maxresdefault.jpg",
+            "publishedAt": "2026-08-11T19:52:15Z",
+            "viewCount": 212,
+            "viewIncrease": 212,
+            "likeCount": 6,
+            "likeIncrease": 6,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 822,
+            "durationSeconds": 49,
+            "isShort": true,
+            "rawScore": 57.6,
             "normalizedScore": 75.0,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
                     "confidence": 0.4
-                },
-                {
-                    "slug": "learning",
-                    "name": "学習・情報",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 57.2,
-                "engagement": 58.3,
-                "subscriberRatio": 52.6,
-                "freshness": 44.4
+                "velocity": 34.7,
+                "engagement": 26.4,
+                "subscriberRatio": 83.2,
+                "freshness": 47.0,
+                "formatAdjustment": 85.0
             }
         },
         {
             "rank": 5,
-            "videoId": "ApeXMnHA5zg",
-            "title": "真实的泰国 #旅行攻略 #旅行推荐官 #看世界 #东南亚风情 #SB国际",
-            "channelId": "UCPnmKiA_rvItC1Y8o2ffc6A",
-            "channelName": "SB国际 SB_International",
-            "thumbnailUrl": "https://i.ytimg.com/vi/ApeXMnHA5zg/maxresdefault.jpg",
-            "publishedAt": "2026-08-11T13:40:35Z",
-            "viewCount": 740,
-            "viewIncrease": 740,
-            "likeCount": 16,
-            "likeIncrease": 16,
+            "videoId": "uehFqj1KL6s",
+            "title": "#旅行 #アドベンチャーワールド",
+            "channelId": "UCLVc5e4CuMxUkiPt3LGt_Fw",
+            "channelName": "たびちゃんねる",
+            "thumbnailUrl": "https://i.ytimg.com/vi/uehFqj1KL6s/maxresdefault.jpg",
+            "publishedAt": "2026-08-11T20:27:24Z",
+            "viewCount": 378,
+            "viewIncrease": 378,
+            "likeCount": 0,
+            "likeIncrease": 0,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 904,
-            "durationSeconds": 43,
+            "subscriberCount": 47,
+            "durationSeconds": 49,
             "isShort": true,
-            "rawScore": 66.7,
+            "rawScore": 56.6,
             "normalizedScore": 66.7,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.6
+                    "confidence": 0.4
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 52.6,
-                "engagement": 24.4,
-                "subscriberRatio": 96.7,
-                "freshness": 45.2,
+                "velocity": 42.8,
+                "engagement": 0.0,
+                "subscriberRatio": 89.4,
+                "freshness": 50.3,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 6,
-            "videoId": "4WNzm1exCt4",
-            "title": "韓国語の先生怖い....😅#韓国語勉強　#韓国語　#praktika #韓国旅行　#韓国ワーホリ",
-            "channelId": "UCeBQfjphuTVVbK01n7Ht8XA",
-            "channelName": "Miyu ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/4WNzm1exCt4/maxresdefault.jpg",
-            "publishedAt": "2026-08-11T14:01:23Z",
-            "viewCount": 533,
-            "viewIncrease": 533,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 44,
-            "durationSeconds": 19,
+            "videoId": "wFx0vCmoyPg",
+            "title": "ザ・ビーチタワー沖縄　リスザル　#沖縄 #共立リゾート　#旅行　#リスザル",
+            "channelId": "UCIzxzC4O3v0mKhsls94-dSg",
+            "channelName": "いもちゃんずTV",
+            "thumbnailUrl": "https://i.ytimg.com/vi/wFx0vCmoyPg/maxresdefault.jpg",
+            "publishedAt": "2026-08-11T15:33:49Z",
+            "viewCount": 791,
+            "viewIncrease": 791,
+            "likeCount": 3,
+            "likeIncrease": 3,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 2,
+            "durationSeconds": 40,
             "isShort": true,
-            "rawScore": 60.9,
+            "rawScore": 46.7,
             "normalizedScore": 58.3,
             "genres": [
                 {
@@ -241,65 +228,65 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 47.8,
-                "engagement": 12.2,
-                "subscriberRatio": 93.2,
-                "freshness": 46.8,
+                "velocity": 53.6,
+                "engagement": 12.3,
+                "subscriberRatio": 97.5,
+                "freshness": 33.6,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 7,
-            "videoId": "63dk1Qp7WyE",
-            "title": "沖縄のクレープ屋さん。アメリカンビレッジ#アメリカンビレッジ#沖縄旅行#沖縄",
-            "channelId": "UC5f_nWtWiiY4AhZ2wgpkDtA",
-            "channelName": "クレープと居酒屋",
-            "thumbnailUrl": "https://i.ytimg.com/vi/63dk1Qp7WyE/maxresdefault.jpg",
-            "publishedAt": "2026-08-11T12:00:15Z",
-            "viewCount": 1546,
-            "viewIncrease": 1546,
-            "likeCount": 4,
-            "likeIncrease": 4,
+            "videoId": "5QYq5yGeI5A",
+            "title": "「真正的世界 不在書和地圖裡 它在外面」 #旅行推薦官#治癒系風景",
+            "channelId": "UCeL6vhtPl62sFA5xTvOiHkw",
+            "channelName": "antoine lakehurst",
+            "thumbnailUrl": "https://i.ytimg.com/vi/5QYq5yGeI5A/maxresdefault.jpg",
+            "publishedAt": "2026-08-11T11:59:16Z",
+            "viewCount": 1396,
+            "viewIncrease": 633,
+            "likeCount": 23,
+            "likeIncrease": 6,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 56,
-            "durationSeconds": 14,
+            "subscriberCount": 1340,
+            "durationSeconds": 24,
             "isShort": true,
-            "rawScore": 59.1,
+            "rawScore": 43.8,
             "normalizedScore": 50.0,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.6
+                    "confidence": 0.4
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 63.5,
-                "engagement": 10.0,
-                "subscriberRatio": 104.7,
-                "freshness": 39.0,
+                "velocity": 71.5,
+                "engagement": 18.4,
+                "subscriberRatio": 91.9,
+                "freshness": 28.4,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 8,
-            "videoId": "NqQFhy7ncYo",
-            "title": "【緊急】ブダペストには絶対に来ないでください#ヨーロッパ旅行 #ブダペスト #ハンガリー #やすみょん #大人の遊び",
-            "channelId": "UC1zxzr5CFAv-1mLMBKipx6Q",
-            "channelName": "やすみょん旅日記",
-            "thumbnailUrl": "https://i.ytimg.com/vi/NqQFhy7ncYo/maxresdefault.jpg",
-            "publishedAt": "2026-08-11T11:30:59Z",
-            "viewCount": 808,
-            "viewIncrease": 808,
-            "likeCount": 4,
-            "likeIncrease": 4,
-            "commentCount": 2,
-            "commentIncrease": 2,
-            "subscriberCount": 85,
-            "durationSeconds": 38,
+            "videoId": "4WNzm1exCt4",
+            "title": "韓国語の先生怖い....😅#韓国語勉強　#韓国語　#praktika #韓国旅行　#韓国ワーホリ",
+            "channelId": "UCeBQfjphuTVVbK01n7Ht8XA",
+            "channelName": "Miyu ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/4WNzm1exCt4/maxresdefault.jpg",
+            "publishedAt": "2026-08-11T14:01:23Z",
+            "viewCount": 908,
+            "viewIncrease": 375,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 1,
+            "commentIncrease": 0,
+            "subscriberCount": 44,
+            "durationSeconds": 19,
             "isShort": true,
-            "rawScore": 57.2,
+            "rawScore": 40.3,
             "normalizedScore": 41.7,
             "genres": [
                 {
@@ -309,134 +296,102 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 53.9,
-                "engagement": 27.5,
-                "subscriberRatio": 97.7,
-                "freshness": 37.6,
+                "velocity": 63.6,
+                "engagement": 0.0,
+                "subscriberRatio": 89.4,
+                "freshness": 31.0,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 9,
-            "videoId": "5QYq5yGeI5A",
-            "title": "「真正的世界 不在書和地圖裡 它在外面」 #旅行推薦官#治癒系風景",
-            "channelId": "UCeL6vhtPl62sFA5xTvOiHkw",
-            "channelName": "antoine lakehurst",
-            "thumbnailUrl": "https://i.ytimg.com/vi/5QYq5yGeI5A/maxresdefault.jpg",
-            "publishedAt": "2026-08-11T11:59:16Z",
-            "viewCount": 763,
-            "viewIncrease": 763,
-            "likeCount": 17,
-            "likeIncrease": 17,
+            "videoId": "63dk1Qp7WyE",
+            "title": "沖縄のクレープ屋さん。アメリカンビレッジ#アメリカンビレッジ#沖縄旅行#沖縄",
+            "channelId": "UC5f_nWtWiiY4AhZ2wgpkDtA",
+            "channelName": "クレープと居酒屋",
+            "thumbnailUrl": "https://i.ytimg.com/vi/63dk1Qp7WyE/maxresdefault.jpg",
+            "publishedAt": "2026-08-11T12:00:15Z",
+            "viewCount": 2092,
+            "viewIncrease": 546,
+            "likeCount": 4,
+            "likeIncrease": 0,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 1340,
-            "durationSeconds": 24,
+            "subscriberCount": 56,
+            "durationSeconds": 14,
             "isShort": true,
-            "rawScore": 56.8,
+            "rawScore": 39.3,
             "normalizedScore": 33.3,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.4
+                    "confidence": 0.6
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 53.1,
-                "engagement": 24.6,
-                "subscriberRatio": 93.9,
-                "freshness": 38.9,
+                "velocity": 69.2,
+                "engagement": 0.0,
+                "subscriberRatio": 93.4,
+                "freshness": 28.4,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 10,
-            "videoId": "SiXMWzp8ls4",
-            "title": "それはないw #shorts #おもしろ #男女差 #荷物 #旅行",
-            "channelId": "UCUxZ6yIFpziZOSbRoZsNGuA",
-            "channelName": "バズノート",
-            "thumbnailUrl": "https://i.ytimg.com/vi/SiXMWzp8ls4/maxresdefault.jpg",
-            "publishedAt": "2026-08-11T14:59:22Z",
-            "viewCount": 158,
-            "viewIncrease": 158,
-            "likeCount": 1,
+            "previousRank": 83,
+            "rankChange": 73,
+            "videoId": "ApeXMnHA5zg",
+            "title": "真实的泰国 #旅行攻略 #旅行推荐官 #看世界 #东南亚风情 #SB国际",
+            "channelId": "UCPnmKiA_rvItC1Y8o2ffc6A",
+            "channelName": "SB国际 SB_International",
+            "thumbnailUrl": "https://i.ytimg.com/vi/ApeXMnHA5zg/maxresdefault.jpg",
+            "publishedAt": "2026-08-11T13:40:35Z",
+            "viewCount": 880,
+            "viewIncrease": 140,
+            "likeCount": 17,
             "likeIncrease": 1,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 596,
-            "durationSeconds": 29,
+            "subscriberCount": 904,
+            "durationSeconds": 43,
             "isShort": true,
-            "rawScore": 56.6,
+            "rawScore": 37.4,
             "normalizedScore": 25.0,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.4
+                    "confidence": 0.6
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 30.8,
-                "engagement": 15.6,
-                "subscriberRatio": 80.0,
-                "freshness": 52.7,
+                "velocity": 49.0,
+                "engagement": 16.4,
+                "subscriberRatio": 78.7,
+                "freshness": 30.5,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 11,
-            "videoId": "NHZ2fDXqWXk",
-            "title": "#旅行 #おすすめ #沖縄 #休暇 #海",
-            "channelId": "UCp83hmSyDujG9G51z6HShNg",
-            "channelName": "K Olive",
-            "thumbnailUrl": "https://i.ytimg.com/vi/NHZ2fDXqWXk/maxresdefault.jpg",
-            "publishedAt": "2026-08-11T11:38:39Z",
-            "viewCount": 849,
-            "viewIncrease": 849,
-            "likeCount": 3,
-            "likeIncrease": 3,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 42,
-            "durationSeconds": 34,
-            "isShort": true,
-            "rawScore": 53.2,
-            "normalizedScore": 16.7,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 54.6,
-                "engagement": 11.8,
-                "subscriberRatio": 98.2,
-                "freshness": 38.0,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 12,
             "videoId": "u86jJ2iUzz4",
             "title": "【福岡旅行11選】絶対外さない！博多駅・大濠公園・長浜ラーメン王道ルート🍜✨",
             "channelId": "UCtd_3TFmVQR5HR7lz0j1w9g",
             "channelName": "おとたび -大人の旅行-",
             "thumbnailUrl": "https://i.ytimg.com/vi/u86jJ2iUzz4/maxresdefault.jpg",
             "publishedAt": "2026-08-11T12:37:35Z",
-            "viewCount": 1354,
-            "viewIncrease": 1354,
-            "likeCount": 6,
-            "likeIncrease": 6,
+            "viewCount": 1720,
+            "viewIncrease": 366,
+            "likeCount": 10,
+            "likeIncrease": 4,
             "commentCount": 1,
-            "commentIncrease": 1,
+            "commentIncrease": 0,
             "subscriberCount": 22200,
             "durationSeconds": 54,
             "isShort": true,
-            "rawScore": 53.1,
-            "normalizedScore": 8.3,
+            "rawScore": 34.2,
+            "normalizedScore": 16.7,
             "genres": [
                 {
                     "slug": "travel",
@@ -460,31 +415,72 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 61.6,
-                "engagement": 21.3,
-                "subscriberRatio": 69.6,
-                "freshness": 41.0,
+                "velocity": 63.2,
+                "engagement": 19.4,
+                "subscriberRatio": 55.5,
+                "freshness": 29.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 12,
+            "previousRank": 56,
+            "rankChange": 44,
+            "videoId": "Kr9V_bLlvBU",
+            "title": "上海料理を初めて食べた日本人の感想！残った料理は宅配で持ち帰りたい😆#上海 #料理 #甘い",
+            "channelId": "UCKcxyHeuN-jqSJJRS0arf0A",
+            "channelName": "アリスの小路 　",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Kr9V_bLlvBU/maxresdefault.jpg",
+            "publishedAt": "2026-08-11T15:08:18Z",
+            "viewCount": 534,
+            "viewIncrease": 93,
+            "likeCount": 2,
+            "likeIncrease": 0,
+            "commentCount": 2,
+            "commentIncrease": 0,
+            "subscriberCount": 296,
+            "durationSeconds": 56,
+            "isShort": true,
+            "rawScore": 32.8,
+            "normalizedScore": 8.3,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 43.1,
+                "engagement": 0.0,
+                "subscriberRatio": 74.2,
+                "freshness": 32.9,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 13,
-            "videoId": "v45VBxEBmSM",
-            "title": "#京都 #京都水族館 #旅行",
-            "channelId": "UCMbL8Ntm9g3mdy4FnwB_Sdg",
-            "channelName": "Ranking Royal",
-            "thumbnailUrl": "https://i.ytimg.com/vi/v45VBxEBmSM/maxresdefault.jpg",
-            "publishedAt": "2026-08-11T11:17:27Z",
-            "viewCount": 266,
-            "viewIncrease": 266,
+            "videoId": "SiXMWzp8ls4",
+            "title": "それはないw #shorts #おもしろ #男女差 #荷物 #旅行",
+            "channelId": "UCUxZ6yIFpziZOSbRoZsNGuA",
+            "channelName": "バズノート",
+            "thumbnailUrl": "https://i.ytimg.com/vi/SiXMWzp8ls4/maxresdefault.jpg",
+            "publishedAt": "2026-08-11T14:59:22Z",
+            "viewCount": 179,
+            "viewIncrease": 21,
             "likeCount": 1,
-            "likeIncrease": 1,
+            "likeIncrease": 0,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 874,
-            "durationSeconds": 21,
+            "subscriberCount": 596,
+            "durationSeconds": 29,
             "isShort": true,
-            "rawScore": 42.7,
+            "rawScore": 22.5,
             "normalizedScore": 0.0,
             "genres": [
                 {
@@ -494,10 +490,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 37.9,
-                "engagement": 12.2,
-                "subscriberRatio": 85.6,
-                "freshness": 37.0,
+                "velocity": 23.3,
+                "engagement": 0.0,
+                "subscriberRatio": 58.1,
+                "freshness": 32.6,
                 "formatAdjustment": 85.0
             }
         }
