@@ -1,6 +1,6 @@
 {
-    "generatedAt": "2026-08-12T05:18:38.394264120Z",
-    "inputVideos": 329,
+    "generatedAt": "2026-08-12T10:42:58.407015938Z",
+    "inputVideos": 331,
     "rankingVideos": 100,
     "genreRankings": 12,
     "collection": {
@@ -38,7 +38,7 @@
             {
                 "source": "category-popular:25:ニュース",
                 "requested": 15,
-                "collected": 15,
+                "collected": 14,
                 "status": "ok"
             },
             {
@@ -168,13 +168,13 @@
                 "status": "ok"
             }
         ],
-        "uniqueCandidateIds": 329,
-        "fetchedVideoIds": 329,
-        "publicVideos": 329,
+        "uniqueCandidateIds": 331,
+        "fetchedVideoIds": 331,
+        "publicVideos": 331,
         "estimatedQuotaUnits": 1214
     },
     "retention": {
         "historyDeleted": 0,
-        "videoDetailsDeleted": 90
+        "videoDetailsDeleted": 96
     }
 }
