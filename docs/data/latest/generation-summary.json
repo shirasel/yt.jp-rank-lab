@@ -1,6 +1,6 @@
 {
-    "generatedAt": "2026-08-20T10:05:23.407135475Z",
-    "inputVideos": 327,
+    "generatedAt": "2026-08-20T16:05:14.667113479Z",
+    "inputVideos": 345,
     "rankingVideos": 100,
     "genreRankings": 12,
     "collection": {
@@ -164,17 +164,17 @@
             {
                 "source": "popular:JP",
                 "requested": 50,
-                "collected": 50,
+                "collected": 49,
                 "status": "ok"
             }
         ],
-        "uniqueCandidateIds": 329,
-        "fetchedVideoIds": 329,
-        "publicVideos": 327,
+        "uniqueCandidateIds": 345,
+        "fetchedVideoIds": 345,
+        "publicVideos": 345,
         "estimatedQuotaUnits": 1215
     },
     "retention": {
         "historyDeleted": 0,
-        "videoDetailsDeleted": 99
+        "videoDetailsDeleted": 96
     }
 }
