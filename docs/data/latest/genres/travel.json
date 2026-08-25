@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-24T22:00:48.855015099Z",
+    "generatedAt": "2026-08-25T04:23:18.191113266Z",
     "period": "24h",
     "genre": {
         "slug": "travel",
@@ -7,208 +7,247 @@
         "confidence": 0.4
     },
     "status": "reference",
-    "totalVideos": 11,
-    "totalChannels": 11,
+    "totalVideos": 15,
+    "totalChannels": 14,
     "ranking": [
         {
             "rank": 1,
-            "videoId": "SYqNpksUUWo",
-            "title": "旅行のあと、少しだけ会うのが嫌になった。",
-            "channelId": "UCC2f1yqVaa8lEmiR6K7iWqw",
-            "channelName": "思考翻訳ラボ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/SYqNpksUUWo/maxresdefault.jpg",
-            "publishedAt": "2026-08-24T21:00:30Z",
-            "viewCount": 550,
-            "viewIncrease": 550,
-            "likeCount": 4,
-            "likeIncrease": 4,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 382,
-            "durationSeconds": 43,
-            "isShort": true,
-            "rawScore": 77.7,
+            "videoId": "NnRCuHcTcEs",
+            "title": "こんなに優しくしてくれるなんて！外国人旅行者がおもてなしに感動！ #short #外国人のリアクション #日本観光 #日本グルメ #海外の反応",
+            "channelId": "UC_J5PWlsjCZ1yCF_FxGizPQ",
+            "channelName": "世界が見たニッポンの凄さ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/NnRCuHcTcEs/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T03:30:34Z",
+            "viewCount": 8237,
+            "viewIncrease": 8237,
+            "likeCount": 129,
+            "likeIncrease": 129,
+            "commentCount": 12,
+            "commentIncrease": 12,
+            "subscriberCount": 41100,
+            "durationSeconds": 98,
+            "rawScore": 120.7,
             "normalizedScore": 100.0,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.6
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 48.3,
-                "engagement": 16.5,
-                "subscriberRatio": 93.5,
-                "freshness": 57.7,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 2,
-            "videoId": "E2_SgbOg0dQ",
-            "title": "【鹿児島空港】 #f35 #新田原基地 #鹿児島空港  #ana #osmopocket #f35b  #旅行 #dji #djimini4pro",
-            "channelId": "UCO_3cNJjHL5KOJtKYl492vg",
-            "channelName": "夢乃 マホ【高遠原中】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/E2_SgbOg0dQ/maxresdefault.jpg",
-            "publishedAt": "2026-08-24T21:45:26Z",
-            "viewCount": 154,
-            "viewIncrease": 154,
-            "likeCount": 2,
-            "likeIncrease": 2,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 108,
-            "durationSeconds": 18,
-            "isShort": true,
-            "rawScore": 74.1,
-            "normalizedScore": 90.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
+                    "confidence": 0.9
                 },
                 {
-                    "slug": "gaming",
-                    "name": "ゲーム",
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
                     "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 30.5,
-                "engagement": 20.6,
-                "subscriberRatio": 79.7,
-                "freshness": 66.7,
-                "formatAdjustment": 85.0
+                "velocity": 88.8,
+                "engagement": 33.0,
+                "subscriberRatio": 82.6,
+                "freshness": 59.1
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "XtsA7tnNgWc",
+            "title": "【ニッポンジャーナル】細川バレンタイン×伊藤俊幸 最新ニュースを解説！",
+            "channelId": "UC2dhkM2mQXMlIXcd2vMStvQ",
+            "channelName": "ニッポンジャーナル",
+            "thumbnailUrl": "https://i.ytimg.com/vi/XtsA7tnNgWc/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T02:45:23Z",
+            "viewCount": 17901,
+            "viewIncrease": 17901,
+            "likeCount": 800,
+            "likeIncrease": 800,
+            "commentCount": 8,
+            "commentIncrease": 8,
+            "subscriberCount": 326000,
+            "durationSeconds": 6131,
+            "rawScore": 107.8,
+            "normalizedScore": 92.9,
+            "genres": [
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.99
+                },
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 100.6,
+                "engagement": 36.0,
+                "subscriberRatio": 68.5,
+                "freshness": 52.6
             }
         },
         {
             "rank": 3,
-            "videoId": "LnzzM7DX75A",
-            "title": "中国旅行フライト編✈️✧｡この2泊3日で何回トラブった❓中国旅行上海",
-            "channelId": "UCIf48SUzJAkmATucFYEffxQ",
-            "channelName": "achan",
-            "thumbnailUrl": "https://i.ytimg.com/vi/LnzzM7DX75A/maxresdefault.jpg",
-            "publishedAt": "2026-08-24T18:43:47Z",
-            "viewCount": 619,
-            "viewIncrease": 619,
-            "likeCount": 3,
-            "likeIncrease": 3,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 6,
-            "durationSeconds": 67,
-            "rawScore": 69.0,
-            "normalizedScore": 80.0,
+            "videoId": "yc0vrxDGXNw",
+            "title": "モンゴル旅行で日本人が驚いたこと4選！#shorts #モンゴル #vivant #グルメ #海外生活 #海外一人旅",
+            "channelId": "UCMoCN8-ZDdY53VB2cNmJgYg",
+            "channelName": "やっせんぼー⌇中国出向中",
+            "thumbnailUrl": "https://i.ytimg.com/vi/yc0vrxDGXNw/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T02:45:31Z",
+            "viewCount": 2585,
+            "viewIncrease": 2585,
+            "likeCount": 129,
+            "likeIncrease": 129,
+            "commentCount": 7,
+            "commentIncrease": 7,
+            "subscriberCount": 51000,
+            "durationSeconds": 71,
+            "rawScore": 96.5,
+            "normalizedScore": 85.7,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.6
+                    "confidence": 0.4
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 50.0,
-                "engagement": 13.8,
-                "subscriberRatio": 94.8,
-                "freshness": 43.5
+                "velocity": 71.3,
+                "engagement": 44.7,
+                "subscriberRatio": 67.6,
+                "freshness": 52.6
             }
         },
         {
             "rank": 4,
-            "videoId": "ync0XMpjRzk",
-            "title": "初めての日本食にオーストラリア人家族が感動！沖縄旅行 #shorts",
-            "channelId": "UC4JCOME_QGmZ3c8vYpAXaxg",
-            "channelName": "日本に夢中な世界",
-            "thumbnailUrl": "https://i.ytimg.com/vi/ync0XMpjRzk/maxresdefault.jpg",
-            "publishedAt": "2026-08-24T15:30:10Z",
-            "viewCount": 2758,
-            "viewIncrease": 2758,
-            "likeCount": 37,
-            "likeIncrease": 37,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 3850,
-            "durationSeconds": 42,
-            "isShort": true,
-            "rawScore": 56.8,
-            "normalizedScore": 70.0,
+            "videoId": "tedhuMcUYMk",
+            "title": "秋田犬-迅JIN- じん君との家族旅行④#秋田県#くまくま園#ツキノワグマ#ヒグマ#マタギの里",
+            "channelId": "UCN9idyd0afmA6ryTSaPZt1g",
+            "channelName": "秋田犬-迅JIN-",
+            "thumbnailUrl": "https://i.ytimg.com/vi/tedhuMcUYMk/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T01:47:46Z",
+            "viewCount": 822,
+            "viewIncrease": 822,
+            "likeCount": 47,
+            "likeIncrease": 47,
+            "commentCount": 7,
+            "commentIncrease": 7,
+            "subscriberCount": 6000,
+            "durationSeconds": 180,
+            "rawScore": 86.0,
+            "normalizedScore": 78.6,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
                     "confidence": 0.4
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.2
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 72.2,
-                "engagement": 26.2,
-                "subscriberRatio": 96.4,
-                "freshness": 34.3,
-                "formatAdjustment": 85.0
+                "velocity": 54.2,
+                "engagement": 51.4,
+                "subscriberRatio": 78.4,
+                "freshness": 46.7
             }
         },
         {
             "rank": 5,
-            "videoId": "t2-074HzaWc",
-            "title": "風生水起這一刻具象化了#冰島 #瀑布 #旅行 #自由和遠方 #風景",
-            "channelId": "UCf6b6vezmx7gFpYW0A4r7YA",
-            "channelName": "喵喵吃瓜",
-            "thumbnailUrl": "https://i.ytimg.com/vi/t2-074HzaWc/maxresdefault.jpg",
-            "publishedAt": "2026-08-24T14:20:33Z",
-            "viewCount": 813,
-            "viewIncrease": 813,
-            "likeCount": 21,
-            "likeIncrease": 21,
+            "videoId": "UpK1bB3gSv8",
+            "title": "#グルメ #痛風ライダー #グルメ好き #飯テロ #vlog #料理 #居酒屋 #飲み歩き ＃岡山",
+            "channelId": "UCgr341tckqsfTHE2sz315MA",
+            "channelName": "おけチャンネル【酒と旅の痛風ライダー】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/UpK1bB3gSv8/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T02:54:28Z",
+            "viewCount": 793,
+            "viewIncrease": 793,
+            "likeCount": 3,
+            "likeIncrease": 3,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 833,
-            "durationSeconds": 24,
+            "subscriberCount": 541,
+            "durationSeconds": 16,
             "isShort": true,
-            "rawScore": 48.5,
-            "normalizedScore": 60.0,
+            "rawScore": 74.6,
+            "normalizedScore": 71.4,
             "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
+                },
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.4
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 54.0,
-                "engagement": 25.7,
-                "subscriberRatio": 97.8,
-                "freshness": 32.2,
+                "velocity": 53.6,
+                "engagement": 12.2,
+                "subscriberRatio": 97.5,
+                "freshness": 53.7,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 6,
-            "previousRank": 91,
-            "rankChange": 85,
-            "videoId": "C2zNFRm77mU",
-            "title": "着物の前でいきなりブザー #shorts #vlog #travel #trip #旅行 #観光 #funny #面白い #yoasobi #夜に駆ける #darshimaland",
-            "channelId": "UC3G7Fs0B-9sv-52eye1RL7A",
-            "channelName": "Darshima Land ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/C2zNFRm77mU/maxresdefault.jpg",
-            "publishedAt": "2026-08-24T13:52:03Z",
-            "viewCount": 1260,
-            "viewIncrease": 353,
-            "likeCount": 1,
-            "likeIncrease": 0,
+            "videoId": "udYhNI2Zy24",
+            "title": "空港ルック✈️旅行に行く初めの一歩",
+            "channelId": "UCUhlVftVpFd6mnCFb_gMDLw",
+            "channelName": "ユウマ・カーダジアン",
+            "thumbnailUrl": "https://i.ytimg.com/vi/udYhNI2Zy24/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T02:06:29Z",
+            "viewCount": 643,
+            "viewIncrease": 643,
+            "likeCount": 35,
+            "likeIncrease": 35,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 32000,
+            "durationSeconds": 62,
+            "rawScore": 73.0,
+            "normalizedScore": 64.3,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 50.5,
+                "engagement": 42.7,
+                "subscriberRatio": 57.6,
+                "freshness": 48.4
+            }
+        },
+        {
+            "rank": 7,
+            "videoId": "gjcEHKRBmOw",
+            "title": "【富山温泉】法林寺温泉 #旅行  #観光 #温泉",
+            "channelId": "UCbuypKZYMe9bj_Y2PlSGpiQ",
+            "channelName": "旅行チャンネル【りょこチャン】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/gjcEHKRBmOw/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T03:00:36Z",
+            "viewCount": 659,
+            "viewIncrease": 659,
+            "likeCount": 3,
+            "likeIncrease": 3,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 554,
-            "durationSeconds": 21,
+            "subscriberCount": 1370,
+            "durationSeconds": 26,
             "isShort": true,
-            "rawScore": 40.5,
-            "normalizedScore": 50.0,
+            "rawScore": 72.4,
+            "normalizedScore": 57.1,
             "genres": [
                 {
                     "slug": "travel",
@@ -217,100 +256,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 62.9,
-                "engagement": 0.0,
-                "subscriberRatio": 88.7,
-                "freshness": 31.4,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 7,
-            "videoId": "ZuJ3kmwkvUM",
-            "title": "【ダナン旅行】ダナン最強の配車アプリ！Grabの半額？「inDrive」活用術",
-            "channelId": "UCzwlEh5TRfeXm1IFDd-ZMsA",
-            "channelName": "松村 Da Nang Creative Hub",
-            "thumbnailUrl": "https://i.ytimg.com/vi/ZuJ3kmwkvUM/maxresdefault.jpg",
-            "publishedAt": "2026-08-24T21:00:15Z",
-            "viewCount": 32,
-            "viewIncrease": 32,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 11,
-            "durationSeconds": 53,
-            "isShort": true,
-            "rawScore": 37.1,
-            "normalizedScore": 40.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.8
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 12.9,
-                "engagement": 0.0,
-                "subscriberRatio": 62.7,
-                "freshness": 57.7,
+                "velocity": 50.9,
+                "engagement": 13.4,
+                "subscriberRatio": 92.1,
+                "freshness": 54.5,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 8,
-            "videoId": "80ShKMJ6nxY",
-            "title": "夜なのにこんな集団で何を⁉️ #京都観光 #京都 #京都旅行",
-            "channelId": "UCW0Ha2cSgohMxxnkyqc2wtQ",
-            "channelName": "京都ひとり観光 Kyoto solo sightseeing ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/80ShKMJ6nxY/maxresdefault.jpg",
-            "publishedAt": "2026-08-24T13:45:06Z",
-            "viewCount": 1411,
-            "viewIncrease": 563,
-            "likeCount": 4,
-            "likeIncrease": 2,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 41600,
-            "durationSeconds": 21,
-            "isShort": true,
-            "rawScore": 35.9,
-            "normalizedScore": 30.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.99
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 69.9,
-                "engagement": 11.8,
-                "subscriberRatio": 53.4,
-                "freshness": 31.2,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 9,
-            "videoId": "4cj2ejo-2AM",
-            "title": "【4K】北山崎の磯釜飯 #Shorts #4k環境音 #自然 #旅行 #三陸ジオパーク",
-            "channelId": "UCzMqAtn5zvEtQB0oOn3RISQ",
-            "channelName": "花鳥風月&山紫水明",
-            "thumbnailUrl": "https://i.ytimg.com/vi/4cj2ejo-2AM/maxresdefault.jpg",
-            "publishedAt": "2026-08-24T20:18:51Z",
-            "viewCount": 7,
-            "viewIncrease": 7,
-            "likeCount": 0,
-            "likeIncrease": 0,
+            "videoId": "3K4F1tc4B9E",
+            "title": "地球上感覺最不真實的地方（311）#旅遊 #旅行 #旅游 #travel #amazing #amazingfacts #world #治愈系风景 #环球旅行",
+            "channelId": "UCSbp17a0nwx912W0UUHdNGA",
+            "channelName": "視界MeetWorld",
+            "thumbnailUrl": "https://i.ytimg.com/vi/3K4F1tc4B9E/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T03:19:32Z",
+            "viewCount": 484,
+            "viewIncrease": 484,
+            "likeCount": 18,
+            "likeIncrease": 18,
             "commentCount": 1,
             "commentIncrease": 1,
-            "subscriberCount": 363,
-            "durationSeconds": 56,
+            "subscriberCount": 74300,
+            "durationSeconds": 24,
             "isShort": true,
-            "rawScore": 33.8,
-            "normalizedScore": 20.0,
+            "rawScore": 64.7,
+            "normalizedScore": 50.0,
             "genres": [
                 {
                     "slug": "travel",
@@ -319,66 +290,242 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 3.9,
-                "engagement": 26.1,
-                "subscriberRatio": 46.3,
-                "freshness": 52.1,
+                "velocity": 46.4,
+                "engagement": 41.1,
+                "subscriberRatio": 45.5,
+                "freshness": 57.3,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 9,
+            "videoId": "vt1dQgCcVRs",
+            "title": "好吃的活蝦料理餐廳推薦 #活蝦 #料理 #餐廳 #美食 #好吃",
+            "channelId": "UCsV_O97FapaTJLVSqofFMTg",
+            "channelName": "Artistic Life 跟著藝術家來放風",
+            "thumbnailUrl": "https://i.ytimg.com/vi/vt1dQgCcVRs/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T02:07:47Z",
+            "viewCount": 945,
+            "viewIncrease": 945,
+            "likeCount": 14,
+            "likeIncrease": 14,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 16500,
+            "durationSeconds": 30,
+            "isShort": true,
+            "rawScore": 60.5,
+            "normalizedScore": 42.9,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 56.2,
+                "engagement": 21.6,
+                "subscriberRatio": 69.0,
+                "freshness": 48.5,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 10,
-            "previousRank": 51,
-            "rankChange": 41,
-            "videoId": "ieTekFlNyWs",
-            "title": "大学生暑假旅行之海南万宁，在日月湾边看海边喝椰子水，沉浸式体验本地人扎堆的虎婆香草鸭大排档和海南特色水果炒冰！海南美食万宁美食万宁香草鸭虎婆香草鸭日月湾",
-            "channelId": "UCKz0cUI-tlDMLQxcDL2RVZg",
-            "channelName": "童子佬james",
-            "thumbnailUrl": "https://i.ytimg.com/vi/ieTekFlNyWs/hqdefault.jpg",
-            "publishedAt": "2026-08-24T14:39:05Z",
-            "viewCount": 889,
-            "viewIncrease": 92,
-            "likeCount": 5,
-            "likeIncrease": 0,
+            "videoId": "kHQcPmAUmss",
+            "title": "在地球上感覺不真實的地方🌎#旅行 #世界",
+            "channelId": "UCG3U4TX2zxZWrerUOwuyIrw",
+            "channelName": "發掘世界",
+            "thumbnailUrl": "https://i.ytimg.com/vi/kHQcPmAUmss/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T03:56:30Z",
+            "viewCount": 391,
+            "viewIncrease": 391,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 12,
-            "durationSeconds": 37,
+            "subscriberCount": 11400,
+            "durationSeconds": 24,
             "isShort": true,
-            "rawScore": 32.6,
-            "normalizedScore": 10.0,
+            "rawScore": 58.2,
+            "normalizedScore": 35.7,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.6
+                    "confidence": 0.4
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 43.1,
+                "velocity": 43.3,
                 "engagement": 0.0,
-                "subscriberRatio": 74.1,
-                "freshness": 32.7,
+                "subscriberRatio": 63.4,
+                "freshness": 64.1,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 11,
+            "videoId": "8NKBu7tWkZM",
+            "title": "#感悟 #美食 #大熱門 #food #旅行 #香港",
+            "channelId": "UC90-VglhN5fGiz_mrWyDndA",
+            "channelName": "小確幸",
+            "thumbnailUrl": "https://i.ytimg.com/vi/8NKBu7tWkZM/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T01:31:37Z",
+            "viewCount": 578,
+            "viewIncrease": 578,
+            "likeCount": 5,
+            "likeIncrease": 5,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 4490,
+            "durationSeconds": 18,
+            "isShort": true,
+            "rawScore": 55.8,
+            "normalizedScore": 28.6,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 49.0,
+                "engagement": 17.7,
+                "subscriberRatio": 77.8,
+                "freshness": 45.4,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 12,
+            "videoId": "k8adEbhA0cw",
+            "title": "中国长江上接待外宾Z多的游轮 #cruiseship #旅行 #automobile #何磊带你玩转游轮 #youtubeshorts #旅游#china #travel #viral",
+            "channelId": "UCmvsYrxtdrL8J4UqfvLT_yQ",
+            "channelName": "何磊帶你玩轉郵輪官方頻道 Leo's cruise adventure",
+            "thumbnailUrl": "https://i.ytimg.com/vi/k8adEbhA0cw/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T01:58:08Z",
+            "viewCount": 317,
+            "viewIncrease": 317,
+            "likeCount": 4,
+            "likeIncrease": 4,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 10200,
+            "durationSeconds": 40,
+            "isShort": true,
+            "rawScore": 49.8,
+            "normalizedScore": 21.4,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.7
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 40.3,
+                "engagement": 20.4,
+                "subscriberRatio": 62.3,
+                "freshness": 47.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 13,
+            "videoId": "v9ytUsPsKRI",
+            "title": "地球上感覺最不真實的地方（312）#旅遊 #旅行 #旅游 #travel #amazing #amazingfacts #world #治愈系风景 #环球旅行",
+            "channelId": "UCSbp17a0nwx912W0UUHdNGA",
+            "channelName": "視界MeetWorld",
+            "thumbnailUrl": "https://i.ytimg.com/vi/v9ytUsPsKRI/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T03:20:11Z",
+            "viewCount": 180,
+            "viewIncrease": 180,
+            "likeCount": 5,
+            "likeIncrease": 5,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 74300,
+            "durationSeconds": 24,
+            "isShort": true,
+            "rawScore": 45.7,
+            "normalizedScore": 14.3,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.7
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 32.5,
+                "engagement": 26.3,
+                "subscriberRatio": 35.0,
+                "freshness": 57.3,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 14,
+            "videoId": "O-5UH6xK3OY",
+            "title": "【1分解説】アリババの新AI、資料から30秒動画を一発生成　#ai  #アリババ #動画生成AI #テック #ニュース #1分解説  #2ch",
+            "channelId": "UClvjavDQJs0iKddduHulcwA",
+            "channelName": "テック速報1分ニュース",
+            "thumbnailUrl": "https://i.ytimg.com/vi/O-5UH6xK3OY/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T01:38:35Z",
+            "viewCount": 70,
+            "viewIncrease": 70,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 6,
+            "durationSeconds": 53,
+            "isShort": true,
+            "rawScore": 35.9,
+            "normalizedScore": 7.1,
+            "genres": [
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.75
+                },
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 20.8,
+                "engagement": 0.0,
+                "subscriberRatio": 71.1,
+                "freshness": 46.0,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 15,
             "videoId": "-ch1Iqn44Mg",
             "title": "中国経済ガチカウントダウン！中国人旅行者が日本到着時に銀行カードが全凍結！解除するには中国に帰るしかない？これって強制帰国の新手法ではと話題に！｜上念司チャンネル ニュースの虎側",
             "channelId": "UC6ylTkexHwwJo_22V35lx0A",
             "channelName": "上念司チャンネル ニュースの虎側",
             "thumbnailUrl": "https://i.ytimg.com/vi/-ch1Iqn44Mg/maxresdefault.jpg",
             "publishedAt": "2026-08-22T08:30:11Z",
-            "viewCount": 315398,
-            "viewIncrease": 4220,
-            "likeCount": 6491,
-            "likeIncrease": 44,
-            "commentCount": 356,
-            "commentIncrease": 0,
+            "viewCount": 323360,
+            "viewIncrease": 7962,
+            "likeCount": 6572,
+            "likeIncrease": 81,
+            "commentCount": 364,
+            "commentIncrease": 8,
             "subscriberCount": 682000,
             "durationSeconds": 931,
-            "rawScore": 20.6,
+            "rawScore": 22.5,
             "normalizedScore": 0.0,
             "genres": [
                 {
@@ -393,10 +540,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 100.4,
-                "engagement": 19.0,
-                "subscriberRatio": 45.0,
-                "freshness": 12.5
+                "velocity": 108.4,
+                "engagement": 28.2,
+                "subscriberRatio": 51.8,
+                "freshness": 12.0
             }
         }
     ]
