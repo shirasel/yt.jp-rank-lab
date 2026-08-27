@@ -1,33 +1,74 @@
 {
-    "generatedAt": "2026-08-26T16:38:38.150805576Z",
+    "generatedAt": "2026-08-27T01:04:46.165627788Z",
     "period": "24h",
     "genre": {
         "slug": "gadgets",
         "name": "ガジェット",
         "confidence": 0.1
     },
-    "status": "reference",
-    "totalVideos": 18,
-    "totalChannels": 18,
+    "status": "official",
+    "totalVideos": 21,
+    "totalChannels": 20,
     "ranking": [
         {
             "rank": 1,
+            "videoId": "ieeYXEpsdic",
+            "title": "歌姫宇多田ヒカルさんの『First Love』歌ってみた",
+            "channelId": "UCzHG2fvD3wJuDeKuSGQNyIQ",
+            "channelName": "昭和かれサミー",
+            "thumbnailUrl": "https://i.ytimg.com/vi/ieeYXEpsdic/maxresdefault.jpg",
+            "publishedAt": "2026-08-26T21:49:02Z",
+            "viewCount": 787,
+            "viewIncrease": 787,
+            "likeCount": 3,
+            "likeIncrease": 3,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 64,
+            "durationSeconds": 21,
+            "isShort": true,
+            "rawScore": 60.5,
+            "normalizedScore": 100.0,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 53.5,
+                "engagement": 12.3,
+                "subscriberRatio": 97.4,
+                "freshness": 43.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 2,
+            "previousRank": 21,
+            "rankChange": 19,
             "videoId": "Ed1ErzWNMZ8",
             "title": "新作発表会で大作連発..ウィッチャー3DLCからサプライズ発表/FF7最終作は../日本に占領されたアメリカを描く昭和米国物語/ホヨバの新作がモンハン過ぎる【gamescome】",
             "channelId": "UCWvr04hMa4k4wSilYcQ4qoA",
             "channelName": "キャベツの人【ゲーム紹介】",
             "thumbnailUrl": "https://i.ytimg.com/vi/Ed1ErzWNMZ8/maxresdefault.jpg",
             "publishedAt": "2026-08-26T11:00:33Z",
-            "viewCount": 65298,
-            "viewIncrease": 65298,
-            "likeCount": 1335,
-            "likeIncrease": 1335,
-            "commentCount": 265,
-            "commentIncrease": 265,
+            "viewCount": 118775,
+            "viewIncrease": 53477,
+            "likeCount": 1763,
+            "likeIncrease": 428,
+            "commentCount": 314,
+            "commentIncrease": 49,
             "subscriberCount": 435000,
             "durationSeconds": 1541,
-            "rawScore": 86.7,
-            "normalizedScore": 100.0,
+            "rawScore": 59.0,
+            "normalizedScore": 95.0,
             "genres": [
                 {
                     "slug": "gaming",
@@ -46,36 +87,41 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 120.2,
-                "engagement": 39.9,
-                "subscriberRatio": 79.4,
-                "freshness": 36.2
+                "velocity": 133.1,
+                "engagement": 26.1,
+                "subscriberRatio": 77.3,
+                "freshness": 24.9
             }
         },
         {
-            "rank": 2,
-            "videoId": "C7GI5IVCorQ",
-            "title": "【Qoo10メガ割毛穴ケアにおすすめアイテム3選】#美容 #正直レビュー #スキンケア #qoo10 #メガ割",
-            "channelId": "UCp4gYQjuqDo4uCci18NymIg",
-            "channelName": "一般美容男子AO",
-            "thumbnailUrl": "https://i.ytimg.com/vi/C7GI5IVCorQ/maxresdefault.jpg",
-            "publishedAt": "2026-08-26T13:33:20Z",
-            "viewCount": 778,
-            "viewIncrease": 778,
+            "rank": 3,
+            "videoId": "exnLCakeIf4",
+            "title": "自信の正体とは？ #心のバランス #セルフケア #美容 #あなたの心に #開運",
+            "channelId": "UCrEqSRLWJI84K18NOCfT3TA",
+            "channelName": "美容鍼マスク ココ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/exnLCakeIf4/maxresdefault.jpg",
+            "publishedAt": "2026-08-26T20:12:46Z",
+            "viewCount": 1042,
+            "viewIncrease": 1042,
             "likeCount": 5,
             "likeIncrease": 5,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 696,
-            "durationSeconds": 53,
+            "subscriberCount": 94,
+            "durationSeconds": 56,
             "isShort": true,
-            "rawScore": 62.7,
-            "normalizedScore": 94.1,
+            "rawScore": 55.7,
+            "normalizedScore": 90.0,
             "genres": [
                 {
                     "slug": "beauty",
                     "name": "美容",
                     "confidence": 0.6
+                },
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.3
                 },
                 {
                     "slug": "gadgets",
@@ -84,32 +130,103 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 53.3,
-                "engagement": 15.7,
-                "subscriberRatio": 97.3,
-                "freshness": 44.4,
+                "velocity": 57.7,
+                "engagement": 13.7,
+                "subscriberRatio": 100.4,
+                "freshness": 38.2,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 3,
+            "rank": 4,
+            "videoId": "qLjc2Rfy-Xg",
+            "title": "【Aulumu (オルム) 製品の世界】性能すら凌駕する美しさ。所有欲を満たすプロダクト",
+            "channelId": "UChaitAmE-z9D8awXkZTFGZA",
+            "channelName": "MxJ Gadget life / じぇいそん",
+            "thumbnailUrl": "https://i.ytimg.com/vi/qLjc2Rfy-Xg/maxresdefault.jpg",
+            "publishedAt": "2026-08-26T21:02:26Z",
+            "viewCount": 76,
+            "viewIncrease": 76,
+            "likeCount": 2,
+            "likeIncrease": 2,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 2390,
+            "durationSeconds": 648,
+            "rawScore": 53.8,
+            "normalizedScore": 85.0,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 21.7,
+                "engagement": 47.8,
+                "subscriberRatio": 62.6,
+                "freshness": 40.7
+            }
+        },
+        {
+            "rank": 5,
+            "videoId": "kBc9u7Y8Vfo",
+            "title": "【AIニュース解説】無料の謎AI、正体は中国最強モデルだった衝撃 #Shorts",
+            "channelId": "UCml7KhyacturjCjDcM-NvYQ",
+            "channelName": "ずんだAIニュースえぶりでぃ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/kBc9u7Y8Vfo/maxresdefault.jpg",
+            "publishedAt": "2026-08-26T23:02:17Z",
+            "viewCount": 199,
+            "viewIncrease": 199,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 53,
+            "durationSeconds": 47,
+            "isShort": true,
+            "rawScore": 49.2,
+            "normalizedScore": 80.0,
+            "genres": [
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.95
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 33.9,
+                "engagement": 0.0,
+                "subscriberRatio": 82.5,
+                "freshness": 49.8,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 6,
             "videoId": "OFQ8V8QONtc",
             "title": "あのBBAの粉からマットの限定色出た⁉️ #美容 #コスメレビュー #コスメレポ #垢抜け #プチプラコスメ #新作コスメ #セザンヌ #shorts",
             "channelId": "UCqKxCTSCBhOl8FvkAvua6Qw",
             "channelName": "めるも【ステマしません⚠️】",
             "thumbnailUrl": "https://i.ytimg.com/vi/OFQ8V8QONtc/maxresdefault.jpg",
             "publishedAt": "2026-08-26T12:02:16Z",
-            "viewCount": 5196,
-            "viewIncrease": 5196,
-            "likeCount": 93,
-            "likeIncrease": 93,
-            "commentCount": 1,
-            "commentIncrease": 1,
+            "viewCount": 11073,
+            "viewIncrease": 5877,
+            "likeCount": 149,
+            "likeIncrease": 56,
+            "commentCount": 3,
+            "commentIncrease": 2,
             "subscriberCount": 57900,
             "durationSeconds": 28,
             "isShort": true,
-            "rawScore": 60.3,
-            "normalizedScore": 88.2,
+            "rawScore": 43.5,
+            "normalizedScore": 75.0,
             "genres": [
                 {
                     "slug": "beauty",
@@ -123,41 +240,39 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 81.8,
-                "engagement": 26.5,
-                "subscriberRatio": 73.8,
-                "freshness": 38.9,
+                "velocity": 99.5,
+                "engagement": 23.6,
+                "subscriberRatio": 75.2,
+                "freshness": 25.8,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 4,
-            "videoId": "Hl9Yk_tRdDM",
-            "title": "まだ参考書だけで勉強してるの？AIドローン試験対策 #ドローン免許 #ドローン初心者 #ChatGPT",
-            "channelId": "UCoRf-MvxDmjaGqr9DRE92Vw",
-            "channelName": "はじめてのドローン!一等・二等国家資格免許への道【ドローン資格ナビゲーターⓇ】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Hl9Yk_tRdDM/maxresdefault.jpg",
-            "publishedAt": "2026-08-26T12:21:03Z",
-            "viewCount": 220,
-            "viewIncrease": 220,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 2970,
-            "durationSeconds": 171,
-            "rawScore": 49.3,
-            "normalizedScore": 82.4,
+            "rank": 7,
+            "previousRank": 96,
+            "rankChange": 89,
+            "videoId": "C7GI5IVCorQ",
+            "title": "【Qoo10メガ割毛穴ケアにおすすめアイテム3選】#美容 #正直レビュー #スキンケア #qoo10 #メガ割",
+            "channelId": "UCp4gYQjuqDo4uCci18NymIg",
+            "channelName": "一般美容男子AO",
+            "thumbnailUrl": "https://i.ytimg.com/vi/C7GI5IVCorQ/maxresdefault.jpg",
+            "publishedAt": "2026-08-26T13:33:20Z",
+            "viewCount": 1544,
+            "viewIncrease": 766,
+            "likeCount": 9,
+            "likeIncrease": 4,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 697,
+            "durationSeconds": 53,
+            "isShort": true,
+            "rawScore": 41.6,
+            "normalizedScore": 70.0,
             "genres": [
                 {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.6
                 },
                 {
                     "slug": "gadgets",
@@ -166,111 +281,65 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 35.3,
-                "engagement": 16.5,
-                "subscriberRatio": 71.8,
-                "freshness": 39.9
-            }
-        },
-        {
-            "rank": 5,
-            "videoId": "jz9xgbh2NVA",
-            "title": "自分の声がクローンになる革新的なガジェットがすごい😳 #PR #ガジェット #InnAIO #海外旅行",
-            "channelId": "UCNwkUCe94pAc9Z7Fdn_9WHw",
-            "channelName": "たける / たけぷらす。",
-            "thumbnailUrl": "https://i.ytimg.com/vi/jz9xgbh2NVA/maxresdefault.jpg",
-            "publishedAt": "2026-08-26T12:12:12Z",
-            "viewCount": 864,
-            "viewIncrease": 864,
-            "likeCount": 7,
-            "likeIncrease": 7,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 50400,
-            "durationSeconds": 47,
-            "isShort": true,
-            "rawScore": 42.9,
-            "normalizedScore": 76.5,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.7
-                },
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 54.9,
-                "engagement": 17.3,
-                "subscriberRatio": 55.9,
-                "freshness": 39.4,
+                "velocity": 68.7,
+                "engagement": 14.3,
+                "subscriberRatio": 97.1,
+                "freshness": 27.2,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 6,
-            "videoId": "qOMdINqNjF0",
-            "title": "अब कपड़े प्रेस करना हुआ आसान! 😍🔥#AutomaticIron #Gadget #UsefulGadget #HomeGadget #Shorts #Trending",
-            "channelId": "UCZffT7tY54nAdJ_ZVEMUXiQ",
-            "channelName": "AshByte",
-            "thumbnailUrl": "https://i.ytimg.com/vi/qOMdINqNjF0/maxresdefault.jpg",
-            "publishedAt": "2026-08-26T14:00:04Z",
-            "viewCount": 1258,
-            "viewIncrease": 1258,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 380000,
+            "rank": 8,
+            "videoId": "INf8rMIaREY",
+            "title": "ゴロゴロするパパを一瞬で動かした娘のスカッと一言 #スカッとする話 #家族 #あるある",
+            "channelId": "UCmFYD79jnkeb9vOFOaj61cw",
+            "channelName": "堂々ストーリー",
+            "thumbnailUrl": "https://i.ytimg.com/vi/INf8rMIaREY/maxresdefault.jpg",
+            "publishedAt": "2026-08-24T23:15:13Z",
+            "viewCount": 2314310,
+            "viewIncrease": 100933,
+            "likeCount": 19689,
+            "likeIncrease": 983,
+            "commentCount": 210,
+            "commentIncrease": 8,
+            "subscriberCount": 11700,
             "durationSeconds": 13,
             "isShort": true,
-            "rawScore": 42.3,
-            "normalizedScore": 70.6,
+            "rawScore": 33.8,
+            "normalizedScore": 65.0,
             "genres": [
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
-                    "confidence": 0.3
+                    "confidence": 0.2
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 60.5,
-                "engagement": 8.4,
-                "subscriberRatio": 38.3,
-                "freshness": 46.5,
+                "velocity": 142.7,
+                "engagement": 20.3,
+                "subscriberRatio": 123.4,
+                "freshness": 13.9,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 7,
+            "rank": 9,
             "videoId": "RdpsP-M30sU",
             "title": "「ストリートファイターリーグ JAPAN 2026」Division S 第1節　☆☆18時40分より初心者必見！SFリーグ: ウォームアップ☆☆",
             "channelId": "UCu2Fxqf37DAZ0ZhIsd1FZwA",
             "channelName": "Capcom Fighters JP",
             "thumbnailUrl": "https://i.ytimg.com/vi/RdpsP-M30sU/maxresdefault.jpg",
             "publishedAt": "2026-08-25T14:10:14Z",
-            "viewCount": 848455,
-            "viewIncrease": 14430,
-            "likeCount": 11696,
-            "likeIncrease": 135,
-            "commentCount": 447,
-            "commentIncrease": 30,
+            "viewCount": 857505,
+            "viewIncrease": 9050,
+            "likeCount": 11732,
+            "likeIncrease": 36,
+            "commentCount": 459,
+            "commentIncrease": 12,
             "subscriberCount": 278000,
             "durationSeconds": 15835,
-            "rawScore": 40.6,
-            "normalizedScore": 64.7,
+            "rawScore": 31.6,
+            "normalizedScore": 60.0,
             "genres": [
                 {
                     "slug": "gaming",
@@ -304,158 +373,30 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 117.5,
-                "engagement": 31.0,
-                "subscriberRatio": 67.9,
-                "freshness": 18.7
-            }
-        },
-        {
-            "rank": 8,
-            "videoId": "INf8rMIaREY",
-            "title": "ゴロゴロするパパを一瞬で動かした娘のスカッと一言 #スカッとする話 #家族 #あるある",
-            "channelId": "UCmFYD79jnkeb9vOFOaj61cw",
-            "channelName": "堂々ストーリー",
-            "thumbnailUrl": "https://i.ytimg.com/vi/INf8rMIaREY/maxresdefault.jpg",
-            "publishedAt": "2026-08-24T23:15:13Z",
-            "viewCount": 2213377,
-            "viewIncrease": 189634,
-            "likeCount": 18706,
-            "likeIncrease": 1988,
-            "commentCount": 202,
-            "commentIncrease": 15,
-            "subscriberCount": 11600,
-            "durationSeconds": 13,
-            "isShort": true,
-            "rawScore": 39.7,
-            "normalizedScore": 58.8,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 156.7,
-                "engagement": 20.8,
-                "subscriberRatio": 130.3,
-                "freshness": 15.2,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 9,
-            "videoId": "g-OGNSzAcpw",
-            "title": "ちるるのAI β | AIニュース解説 | 2026.08.26",
-            "channelId": "UCCrIRPEPbTti4qe2OsGg07g",
-            "channelName": "chiruruAI",
-            "thumbnailUrl": "https://i.ytimg.com/vi/g-OGNSzAcpw/maxresdefault.jpg",
-            "publishedAt": "2026-08-26T13:45:15Z",
-            "viewCount": 19,
-            "viewIncrease": 19,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 104,
-            "durationSeconds": 11687,
-            "rawScore": 35.3,
-            "normalizedScore": 52.9,
-            "genres": [
-                {
-                    "slug": "learning",
-                    "name": "学習・情報",
-                    "confidence": 0.8
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 21.1,
-                "engagement": 0.0,
-                "subscriberRatio": 57.0,
-                "freshness": 45.3
+                "velocity": 106.1,
+                "engagement": 23.1,
+                "subscriberRatio": 62.8,
+                "freshness": 16.5
             }
         },
         {
             "rank": 10,
-            "videoId": "fTd3G9xgbng",
-            "title": "【新スマホ】SONYのXperia 10 VIIIが発表された件",
-            "channelId": "UCMXjwK6-rRw-la5SN5j0M6g",
-            "channelName": "スマサポチャンネル",
-            "thumbnailUrl": "https://i.ytimg.com/vi/fTd3G9xgbng/maxresdefault.jpg",
-            "publishedAt": "2026-08-25T10:00:16Z",
-            "viewCount": 70496,
-            "viewIncrease": 9277,
-            "likeCount": 1804,
-            "likeIncrease": 142,
-            "commentCount": 389,
-            "commentIncrease": 24,
-            "subscriberCount": 606000,
-            "durationSeconds": 572,
-            "rawScore": 35.2,
-            "normalizedScore": 47.1,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 110.8,
-                "engagement": 35.6,
-                "subscriberRatio": 54.7,
-                "freshness": 17.5
-            }
-        },
-        {
-            "rank": 11,
             "videoId": "yvQGO8CJGXI",
             "title": "【速報】本日配信開始！新「マイナアプリ」新旧違いのまとめ・ジモティーの本人デジタル認証もiPhoneで試した",
             "channelId": "UCCD76tKlE45u1YTX0cVh1OQ",
             "channelName": "Appleが大好きなんだよ",
             "thumbnailUrl": "https://i.ytimg.com/vi/yvQGO8CJGXI/maxresdefault.jpg",
             "publishedAt": "2026-08-25T03:53:23Z",
-            "viewCount": 144192,
-            "viewIncrease": 25172,
-            "likeCount": 1244,
-            "likeIncrease": 91,
-            "commentCount": 28,
-            "commentIncrease": 0,
+            "viewCount": 156999,
+            "viewIncrease": 12807,
+            "likeCount": 1284,
+            "likeIncrease": 40,
+            "commentCount": 33,
+            "commentIncrease": 5,
             "subscriberCount": 259000,
             "durationSeconds": 711,
-            "rawScore": 34.2,
-            "normalizedScore": 41.2,
+            "rawScore": 28.5,
+            "normalizedScore": 55.0,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -489,36 +430,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 126.0,
-                "engagement": 12.0,
-                "subscriberRatio": 74.7,
-                "freshness": 16.1
+                "velocity": 111.4,
+                "engagement": 16.7,
+                "subscriberRatio": 67.4,
+                "freshness": 14.6
             }
         },
         {
-            "rank": 12,
-            "videoId": "VqjsHEEbThk",
-            "title": "【RTOS vs Windows】「速いOS」と「絶対に間に合うOS」は何が違うのか【ゆっくり解説】",
-            "channelId": "UCaLCN5nUe7T6LVZwu6NV2xA",
-            "channelName": "ゆっくり情報科学ちゃんねる",
-            "thumbnailUrl": "https://i.ytimg.com/vi/VqjsHEEbThk/maxresdefault.jpg",
-            "publishedAt": "2026-08-24T09:30:26Z",
-            "viewCount": 40403,
-            "viewIncrease": 1774,
-            "likeCount": 1234,
-            "likeIncrease": 48,
-            "commentCount": 101,
-            "commentIncrease": 1,
-            "subscriberCount": 44500,
-            "durationSeconds": 2252,
-            "rawScore": 24.3,
-            "normalizedScore": 35.3,
+            "rank": 11,
+            "videoId": "rrHzUolSVh8",
+            "title": "₹200 Mein Apple AirPods ! WTF 🤯 #shorts",
+            "channelId": "UC8vlDm5xvbxOrCvdu9UNOiA",
+            "channelName": "Techno Ruhez",
+            "thumbnailUrl": "https://i.ytimg.com/vi/rrHzUolSVh8/maxresdefault.jpg",
+            "publishedAt": "2026-08-21T07:30:21Z",
+            "viewCount": 7712449,
+            "viewIncrease": 7712449,
+            "likeCount": 267275,
+            "likeIncrease": 267275,
+            "commentCount": 2782,
+            "commentIncrease": 2782,
+            "subscriberCount": 4170000,
+            "durationSeconds": 174,
+            "rawScore": 28.2,
+            "normalizedScore": 50.0,
             "genres": [
-                {
-                    "slug": "learning",
-                    "name": "学習・情報",
-                    "confidence": 0.5
-                },
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
@@ -526,31 +462,120 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 85.7,
-                "engagement": 33.0,
-                "subscriberRatio": 65.0,
-                "freshness": 13.2
+                "velocity": 192.7,
+                "engagement": 33.3,
+                "subscriberRatio": 106.7,
+                "freshness": 8.5
+            }
+        },
+        {
+            "rank": 12,
+            "videoId": "fTd3G9xgbng",
+            "title": "【新スマホ】SONYのXperia 10 VIIIが発表された件",
+            "channelId": "UCMXjwK6-rRw-la5SN5j0M6g",
+            "channelName": "スマサポチャンネル",
+            "thumbnailUrl": "https://i.ytimg.com/vi/fTd3G9xgbng/maxresdefault.jpg",
+            "publishedAt": "2026-08-25T10:00:16Z",
+            "viewCount": 74992,
+            "viewIncrease": 4496,
+            "likeCount": 1840,
+            "likeIncrease": 36,
+            "commentCount": 395,
+            "commentIncrease": 6,
+            "subscriberCount": 606000,
+            "durationSeconds": 572,
+            "rawScore": 26.6,
+            "normalizedScore": 45.0,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 95.5,
+                "engagement": 27.8,
+                "subscriberRatio": 46.9,
+                "freshness": 15.6
             }
         },
         {
             "rank": 13,
+            "videoId": "5ZNwxjEIKS4",
+            "title": "ジュースまみれのマザーボード、水洗いしたら直る？#shorts",
+            "channelId": "UCFHIEC173NAJj-tG6PmEjUA",
+            "channelName": "みやっち / miyaPCチャンネル",
+            "thumbnailUrl": "https://i.ytimg.com/vi/5ZNwxjEIKS4/maxresdefault.jpg",
+            "publishedAt": "2026-08-23T01:00:33Z",
+            "viewCount": 79415,
+            "viewIncrease": 4458,
+            "likeCount": 866,
+            "likeIncrease": 26,
+            "commentCount": 84,
+            "commentIncrease": 1,
+            "subscriberCount": 20000,
+            "durationSeconds": 115,
+            "rawScore": 20.0,
+            "normalizedScore": 40.0,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 95.3,
+                "engagement": 18.9,
+                "subscriberRatio": 83.7,
+                "freshness": 10.1
+            }
+        },
+        {
+            "rank": 14,
             "videoId": "l5a-RBN9FO4",
             "title": "満員電車で一つだけ空いている席に座ってはいけない理由とは",
             "channelId": "UC9UAxVR4Tym2PIICVfLTZUw",
             "channelName": "混血のカレコレ",
             "thumbnailUrl": "https://i.ytimg.com/vi/l5a-RBN9FO4/maxresdefault.jpg",
             "publishedAt": "2026-08-23T08:00:37Z",
-            "viewCount": 4381179,
-            "viewIncrease": 179936,
-            "likeCount": 68132,
-            "likeIncrease": 1798,
-            "commentCount": 352,
-            "commentIncrease": 7,
+            "viewCount": 4441802,
+            "viewIncrease": 60623,
+            "likeCount": 68935,
+            "likeIncrease": 803,
+            "commentCount": 356,
+            "commentIncrease": 4,
             "subscriberCount": 3070000,
             "durationSeconds": 46,
             "isShort": true,
-            "rawScore": 22.9,
-            "normalizedScore": 29.4,
+            "rawScore": 19.1,
+            "normalizedScore": 35.0,
             "genres": [
                 {
                     "slug": "anime",
@@ -579,144 +604,70 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 155.9,
-                "engagement": 19.7,
-                "subscriberRatio": 69.2,
-                "freshness": 11.0,
+                "velocity": 135.0,
+                "engagement": 22.3,
+                "subscriberRatio": 57.4,
+                "freshness": 10.5,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 14,
-            "videoId": "zEUo1B97NXg",
-            "title": "スマホを落としただけなのに… #shorts",
-            "channelId": "UCJ7zf-ZVOVR3c2swL4qajGg",
-            "channelName": "いぶよへスカッシュ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/zEUo1B97NXg/maxresdefault.jpg",
-            "publishedAt": "2026-08-21T11:00:16Z",
-            "viewCount": 4572849,
-            "viewIncrease": 186077,
-            "likeCount": 39250,
-            "likeIncrease": 1014,
-            "commentCount": 528,
-            "commentIncrease": 7,
-            "subscriberCount": 743000,
-            "durationSeconds": 142,
-            "rawScore": 22.7,
-            "normalizedScore": 23.5,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.5
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 156.4,
-                "engagement": 15.5,
-                "subscriberRatio": 85.0,
-                "freshness": 8.9
-            }
-        },
-        {
             "rank": 15,
-            "videoId": "5ZNwxjEIKS4",
-            "title": "ジュースまみれのマザーボード、水洗いしたら直る？#shorts",
-            "channelId": "UCFHIEC173NAJj-tG6PmEjUA",
-            "channelName": "みやっち / miyaPCチャンネル",
-            "thumbnailUrl": "https://i.ytimg.com/vi/5ZNwxjEIKS4/maxresdefault.jpg",
-            "publishedAt": "2026-08-23T01:00:33Z",
-            "viewCount": 74957,
-            "viewIncrease": 4731,
-            "likeCount": 840,
-            "likeIncrease": 36,
-            "commentCount": 83,
+            "videoId": "VqjsHEEbThk",
+            "title": "【RTOS vs Windows】「速いOS」と「絶対に間に合うOS」は何が違うのか【ゆっくり解説】",
+            "channelId": "UCaLCN5nUe7T6LVZwu6NV2xA",
+            "channelName": "ゆっくり情報科学ちゃんねる",
+            "thumbnailUrl": "https://i.ytimg.com/vi/VqjsHEEbThk/maxresdefault.jpg",
+            "publishedAt": "2026-08-24T09:30:26Z",
+            "viewCount": 41579,
+            "viewIncrease": 1176,
+            "likeCount": 1243,
+            "likeIncrease": 9,
+            "commentCount": 101,
             "commentIncrease": 0,
-            "subscriberCount": 20000,
-            "durationSeconds": 115,
-            "rawScore": 21.3,
-            "normalizedScore": 17.6,
+            "subscriberCount": 44500,
+            "durationSeconds": 2252,
+            "rawScore": 18.8,
+            "normalizedScore": 30.0,
             "genres": [
                 {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.3
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.5
                 },
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
-                    "confidence": 0.1
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 100.6,
-                "engagement": 16.8,
-                "subscriberRatio": 84.4,
-                "freshness": 10.6
+                "velocity": 75.2,
+                "engagement": 16.9,
+                "subscriberRatio": 60.6,
+                "freshness": 12.3
             }
         },
         {
             "rank": 16,
-            "videoId": "8xi8-W6U0rc",
-            "title": "エアコンを壊してしまったので自分で修理します",
-            "channelId": "UCGhudK3AIG152KrfURCSb2Q",
-            "channelName": "イチケン / ICHIKEN",
-            "thumbnailUrl": "https://i.ytimg.com/vi/8xi8-W6U0rc/maxresdefault.jpg",
-            "publishedAt": "2026-08-23T07:00:22Z",
-            "viewCount": 123505,
-            "viewIncrease": 3157,
-            "likeCount": 4320,
-            "likeIncrease": 56,
-            "commentCount": 288,
-            "commentIncrease": 6,
-            "subscriberCount": 518000,
-            "durationSeconds": 860,
-            "rawScore": 19.1,
-            "normalizedScore": 11.8,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 94.4,
-                "engagement": 35.2,
-                "subscriberRatio": 44.8,
-                "freshness": 10.9
-            }
-        },
-        {
-            "rank": 17,
             "videoId": "8Dzp5oAb5WI",
             "title": "“PC Parts have arrived 💀” #pcgaming #benchmark #rtx5050 #gtx1080ti",
             "channelId": "UChFJ0H99lMxJZ6RRHj2JTDg",
             "channelName": "Lasa Technology ",
             "thumbnailUrl": "https://i.ytimg.com/vi/8Dzp5oAb5WI/maxresdefault.jpg",
             "publishedAt": "2026-07-23T11:14:13Z",
-            "viewCount": 70374474,
-            "viewIncrease": 1296584,
-            "sevenDayViewIncrease": 51704891,
-            "likeCount": 364814,
-            "likeIncrease": 6817,
-            "commentCount": 4905,
-            "commentIncrease": 110,
-            "subscriberCount": 44400,
+            "viewCount": 72191323,
+            "viewIncrease": 1816849,
+            "sevenDayViewIncrease": 42504537,
+            "likeCount": 372911,
+            "likeIncrease": 8097,
+            "commentCount": 5071,
+            "commentIncrease": 166,
+            "subscriberCount": 44700,
             "durationSeconds": 11,
             "isShort": true,
-            "rawScore": 18.5,
-            "normalizedScore": 5.9,
+            "rawScore": 18.6,
+            "normalizedScore": 25.0,
             "genres": [
                 {
                     "slug": "gaming",
@@ -730,31 +681,184 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 185.9,
-                "engagement": 16.2,
-                "subscriberRatio": 136.6,
+                "velocity": 186.7,
+                "engagement": 15.2,
+                "subscriberRatio": 140.2,
                 "freshness": 3.5,
                 "sevenDayVelocity": 10.0,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 18,
+            "rank": 17,
+            "videoId": "g-OGNSzAcpw",
+            "title": "ちるるのAI β | AIニュース解説 | 2026.08.26",
+            "channelId": "UCCrIRPEPbTti4qe2OsGg07g",
+            "channelName": "chiruruAI",
+            "thumbnailUrl": "https://i.ytimg.com/vi/g-OGNSzAcpw/maxresdefault.jpg",
+            "publishedAt": "2026-08-26T13:45:15Z",
+            "viewCount": 30,
+            "viewIncrease": 11,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 104,
+            "durationSeconds": 11687,
+            "rawScore": 17.5,
+            "normalizedScore": 20.0,
+            "genres": [
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.8
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 12.7,
+                "engagement": 0.0,
+                "subscriberRatio": 51.1,
+                "freshness": 27.4
+            }
+        },
+        {
+            "rank": 17,
+            "videoId": "GeSFl8AN0Mo",
+            "title": "Wait… This Speaker Actually Splits in Half! 🤯 | Detachable Dual Speakers",
+            "channelId": "UCnxvhzINEXzpTaxbS59JL-g",
+            "channelName": "SimpleGhar Tamil",
+            "thumbnailUrl": "https://i.ytimg.com/vi/GeSFl8AN0Mo/maxresdefault.jpg",
+            "publishedAt": "2026-08-14T14:15:07Z",
+            "viewCount": 3252184,
+            "viewIncrease": 3252184,
+            "likeCount": 48342,
+            "likeIncrease": 48342,
+            "commentCount": 27,
+            "commentIncrease": 27,
+            "subscriberCount": 2900000,
+            "durationSeconds": 66,
+            "rawScore": 17.5,
+            "normalizedScore": 20.0,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 179.6,
+                "engagement": 21.8,
+                "subscriberRatio": 101.2,
+                "freshness": 5.8
+            }
+        },
+        {
+            "rank": 19,
+            "videoId": "SqmGgKqdhPU",
+            "title": "【AIニュース解説】オープンAIの自社チップがエヌビディアを超えた衝撃",
+            "channelId": "UCml7KhyacturjCjDcM-NvYQ",
+            "channelName": "ずんだAIニュースえぶりでぃ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/SqmGgKqdhPU/maxresdefault.jpg",
+            "publishedAt": "2026-08-26T22:28:51Z",
+            "viewCount": 2,
+            "viewIncrease": 2,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 53,
+            "durationSeconds": 579,
+            "rawScore": 16.0,
+            "normalizedScore": 10.0,
+            "genres": [
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.95
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 1.2,
+                "engagement": 0.0,
+                "subscriberRatio": 33.1,
+                "freshness": 46.7
+            }
+        },
+        {
+            "rank": 20,
+            "videoId": "8xi8-W6U0rc",
+            "title": "エアコンを壊してしまったので自分で修理します",
+            "channelId": "UCGhudK3AIG152KrfURCSb2Q",
+            "channelName": "イチケン / ICHIKEN",
+            "thumbnailUrl": "https://i.ytimg.com/vi/8xi8-W6U0rc/maxresdefault.jpg",
+            "publishedAt": "2026-08-23T07:00:22Z",
+            "viewCount": 125360,
+            "viewIncrease": 1855,
+            "likeCount": 4338,
+            "likeIncrease": 18,
+            "commentCount": 289,
+            "commentIncrease": 1,
+            "subscriberCount": 518000,
+            "durationSeconds": 860,
+            "rawScore": 15.3,
+            "normalizedScore": 5.0,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 82.1,
+                "engagement": 25.3,
+                "subscriberRatio": 39.1,
+                "freshness": 10.4
+            }
+        },
+        {
+            "rank": 21,
             "videoId": "dhFAP__r0ps",
             "title": "次世代半導体でスマホの充電2週間に1回 #アンパラレルド #スマホ #モバイルバッテリー #半導体  #若林正恭 #オードリー #テレ東 #テレ東BIZ",
             "channelId": "UCkKVQ_GNjd8FbAuT6xDcWgg",
             "channelName": "テレ東BIZ ダイジェスト",
             "thumbnailUrl": "https://i.ytimg.com/vi/dhFAP__r0ps/maxresdefault.jpg",
             "publishedAt": "2026-08-23T03:00:02Z",
-            "viewCount": 129328,
-            "viewIncrease": 963,
-            "likeCount": 1442,
-            "likeIncrease": 6,
+            "viewCount": 130268,
+            "viewIncrease": 940,
+            "likeCount": 1446,
+            "likeIncrease": 4,
             "commentCount": 154,
             "commentIncrease": 0,
             "subscriberCount": 2640000,
             "durationSeconds": 65,
-            "rawScore": 11.6,
+            "rawScore": 10.3,
             "normalizedScore": 0.0,
             "genres": [
                 {
@@ -769,10 +873,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 76.5,
-                "engagement": 15.5,
-                "subscriberRatio": 16.7,
-                "freshness": 10.7
+                "velocity": 71.8,
+                "engagement": 13.0,
+                "subscriberRatio": 16.5,
+                "freshness": 10.2
             }
         }
     ]
