@@ -1,6 +1,6 @@
 {
-    "generatedAt": "2026-08-27T14:46:26.824842474Z",
-    "inputVideos": 352,
+    "generatedAt": "2026-08-28T00:36:49.301968241Z",
+    "inputVideos": 333,
     "rankingVideos": 100,
     "genreRankings": 12,
     "collection": {
@@ -20,7 +20,7 @@
             {
                 "source": "category-popular:17:スポーツ",
                 "requested": 20,
-                "collected": 19,
+                "collected": 20,
                 "status": "ok"
             },
             {
@@ -168,13 +168,13 @@
                 "status": "ok"
             }
         ],
-        "uniqueCandidateIds": 353,
-        "fetchedVideoIds": 353,
-        "publicVideos": 352,
-        "estimatedQuotaUnits": 1216
+        "uniqueCandidateIds": 333,
+        "fetchedVideoIds": 333,
+        "publicVideos": 333,
+        "estimatedQuotaUnits": 1215
     },
     "retention": {
         "historyDeleted": 0,
-        "videoDetailsDeleted": 100
+        "videoDetailsDeleted": 86
     }
 }
