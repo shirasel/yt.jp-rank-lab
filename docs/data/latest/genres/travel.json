@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-08-30T18:49:10.596999701Z",
+    "generatedAt": "2026-08-30T23:52:29.060428848Z",
     "period": "24h",
     "genre": {
         "slug": "travel",
@@ -7,77 +7,369 @@
         "confidence": 0.4
     },
     "status": "reference",
-    "totalVideos": 17,
-    "totalChannels": 17,
+    "totalVideos": 16,
+    "totalChannels": 14,
     "ranking": [
         {
             "rank": 1,
-            "videoId": "JNuvFsOamFQ",
-            "title": "【 日本の魅力 】#２ きっとみんな旅行に行きたくなる！47都道府県の魅力大プレゼン企画【 #ギャルと旅行計画 / #Vtuber /  #うぎちゃみパイセン】",
-            "channelId": "UCvoHbG-CwEZ8vdakzQeCMAw",
-            "channelName": "うぎちゃみパイセン",
-            "thumbnailUrl": "https://i.ytimg.com/vi/JNuvFsOamFQ/maxresdefault.jpg",
-            "publishedAt": "2026-08-30T14:13:46Z",
-            "viewCount": 2045,
-            "viewIncrease": 2045,
-            "likeCount": 160,
-            "likeIncrease": 160,
-            "commentCount": 19,
-            "commentIncrease": 19,
-            "subscriberCount": 15900,
-            "durationSeconds": 10760,
-            "rawScore": 77.9,
+            "videoId": "noVC7w58dE0",
+            "title": "😋絕品美食 | Delicious Food | 맛있는 음식 | 美味しい料理",
+            "channelId": "UC70ccY6Y1e0GqkDKJexTMFw",
+            "channelName": "真真娱乐",
+            "thumbnailUrl": "https://i.ytimg.com/vi/noVC7w58dE0/maxresdefault_live.jpg",
+            "publishedAt": "2026-08-30T23:11:33Z",
+            "viewCount": 2871,
+            "viewIncrease": 2871,
+            "likeCount": 91,
+            "likeIncrease": 91,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 21600,
+            "rawScore": 109.1,
             "normalizedScore": 100.0,
             "genres": [
                 {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.99
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
                 },
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.8
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.2
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 67.7,
-                "engagement": 54.3,
-                "subscriberRatio": 77.7,
-                "freshness": 39.0
+                "velocity": 72.9,
+                "engagement": 27.3,
+                "subscriberRatio": 78.1,
+                "freshness": 61.2
             }
         },
         {
             "rank": 2,
-            "previousRank": 36,
-            "rankChange": 34,
+            "videoId": "-U0jRYUxC2A",
+            "title": "海外旅行で注意したい感染症7選",
+            "channelId": "UCwg8zDir0qxjO7KzwnCitbQ",
+            "channelName": "医師の医学雑学",
+            "thumbnailUrl": "https://i.ytimg.com/vi/-U0jRYUxC2A/maxresdefault.jpg",
+            "publishedAt": "2026-08-30T23:02:50Z",
+            "viewCount": 401,
+            "viewIncrease": 401,
+            "likeCount": 4,
+            "likeIncrease": 4,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 70,
+            "durationSeconds": 25,
+            "isShort": true,
+            "rawScore": 77.2,
+            "normalizedScore": 93.3,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.5
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 43.7,
+                "engagement": 18.7,
+                "subscriberRatio": 90.1,
+                "freshness": 59.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 3,
+            "videoId": "IuBx4BwiUgY",
+            "title": "【秩父・長瀞】急に厳しい母#埼玉#秩父#長瀞#観光#旅行#家族",
+            "channelId": "UCxhFhkctQBslB9o0MzhSRgg",
+            "channelName": "ようこそ古民家へOfficial Channel",
+            "thumbnailUrl": "https://i.ytimg.com/vi/IuBx4BwiUgY/maxresdefault.jpg",
+            "publishedAt": "2026-08-30T23:00:39Z",
+            "viewCount": 447,
+            "viewIncrease": 447,
+            "likeCount": 1,
+            "likeIncrease": 1,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 167,
+            "durationSeconds": 24,
+            "isShort": true,
+            "rawScore": 73.4,
+            "normalizedScore": 86.7,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.99
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 45.2,
+                "engagement": 9.2,
+                "subscriberRatio": 91.3,
+                "freshness": 59.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 4,
+            "videoId": "jTbPjuOzYLo",
+            "title": "村田町のご紹介！！#村田町 #地理 #車 #旅行 #紹介",
+            "channelId": "UCylZj-PJ9Q7kUtkalGa51Ow",
+            "channelName": "いしかわくん",
+            "thumbnailUrl": "https://i.ytimg.com/vi/jTbPjuOzYLo/maxresdefault.jpg",
+            "publishedAt": "2026-08-30T22:40:43Z",
+            "viewCount": 192,
+            "viewIncrease": 192,
+            "likeCount": 1,
+            "likeIncrease": 1,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 888,
+            "durationSeconds": 102,
+            "rawScore": 72.7,
+            "normalizedScore": 80.0,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 33.4,
+                "engagement": 14.3,
+                "subscriberRatio": 82.1,
+                "freshness": 56.0
+            }
+        },
+        {
+            "rank": 5,
+            "videoId": "aUwYhp5J0z0",
+            "title": "淡季来旅游就是好，什么都可以讲价夫妻旅行海南",
+            "channelId": "UCDQJTnIgus-hz2mtk3_mjjA",
+            "channelName": "我是许炼",
+            "thumbnailUrl": "https://i.ytimg.com/vi/aUwYhp5J0z0/hqdefault.jpg",
+            "publishedAt": "2026-08-30T20:44:19Z",
+            "viewCount": 483,
+            "viewIncrease": 483,
+            "likeCount": 9,
+            "likeIncrease": 9,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 35,
+            "durationSeconds": 148,
+            "rawScore": 71.4,
+            "normalizedScore": 73.3,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 46.4,
+                "engagement": 23.3,
+                "subscriberRatio": 92.1,
+                "freshness": 44.1
+            }
+        },
+        {
+            "rank": 6,
+            "videoId": "MNWkrXNgrhY",
+            "title": "青春没有售价毕业旅行去哪？三个小众旅游地请收藏😘青春没有售价毕业季高考结束去哪里玩旅游攻略适合学生党的旅游城市",
+            "channelId": "UCeg11jPzjHcZHZJItWRRjIw",
+            "channelName": "崔催更",
+            "thumbnailUrl": "https://i.ytimg.com/vi/MNWkrXNgrhY/hqdefault.jpg",
+            "publishedAt": "2026-08-30T20:53:24Z",
+            "viewCount": 339,
+            "viewIncrease": 339,
+            "likeCount": 8,
+            "likeIncrease": 8,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 74,
+            "durationSeconds": 154,
+            "rawScore": 69.2,
+            "normalizedScore": 66.7,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 41.3,
+                "engagement": 25.0,
+                "subscriberRatio": 88.3,
+                "freshness": 44.8
+            }
+        },
+        {
+            "rank": 7,
+            "previousRank": 78,
+            "rankChange": 71,
+            "videoId": "k_gw1xP1M7o",
+            "title": "今天跟着渔民体验了一把拉地笼夫妻旅行海南",
+            "channelId": "UCDQJTnIgus-hz2mtk3_mjjA",
+            "channelName": "我是许炼",
+            "thumbnailUrl": "https://i.ytimg.com/vi/k_gw1xP1M7o/hqdefault.jpg",
+            "publishedAt": "2026-08-30T15:49:08Z",
+            "viewCount": 880,
+            "viewIncrease": 696,
+            "likeCount": 12,
+            "likeIncrease": 8,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 35,
+            "durationSeconds": 177,
+            "rawScore": 63.6,
+            "normalizedScore": 60.0,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 75.0,
+                "engagement": 30.7,
+                "subscriberRatio": 96.1,
+                "freshness": 31.5
+            }
+        },
+        {
+            "rank": 8,
+            "videoId": "IUjZKiWBo60",
+            "title": "Relaxing Drive Japan HDR #travel #automobile #旅行 #絶景 #4k #hdr",
+            "channelId": "UCL0IXqnYBcDWYkPB2IQs_0A",
+            "channelName": "Mai Japan 8K HDR",
+            "thumbnailUrl": "https://i.ytimg.com/vi/IUjZKiWBo60/maxresdefault.jpg",
+            "publishedAt": "2026-08-30T21:00:27Z",
+            "viewCount": 711,
+            "viewIncrease": 711,
+            "likeCount": 5,
+            "likeIncrease": 5,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 24,
+            "durationSeconds": 39,
+            "isShort": true,
+            "rawScore": 63.4,
+            "normalizedScore": 53.3,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 52.0,
+                "engagement": 16.3,
+                "subscriberRatio": 96.3,
+                "freshness": 45.3,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 9,
+            "videoId": "QiQj9a8HM7E",
+            "title": "【旅行vlog】八景島シーパラダイスへ #vlog #旅行",
+            "channelId": "UCpDd4ehZo2J7U0-kTsXtilw",
+            "channelName": "シンプルな生活を送りたい",
+            "thumbnailUrl": "https://i.ytimg.com/vi/QiQj9a8HM7E/maxresdefault.jpg",
+            "publishedAt": "2026-08-30T22:00:10Z",
+            "viewCount": 739,
+            "viewIncrease": 739,
+            "likeCount": 7,
+            "likeIncrease": 7,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 63100,
+            "durationSeconds": 85,
+            "rawScore": 62.4,
+            "normalizedScore": 46.7,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 52.6,
+                "engagement": 18.4,
+                "subscriberRatio": 51.8,
+                "freshness": 50.9
+            }
+        },
+        {
+            "rank": 10,
+            "videoId": "9V_yaeUaAJ4",
+            "title": "Relaxing Drive Japan HDR #travel #automobile #旅行 #絶景 #4k #hdr",
+            "channelId": "UCL0IXqnYBcDWYkPB2IQs_0A",
+            "channelName": "Mai Japan 8K HDR",
+            "thumbnailUrl": "https://i.ytimg.com/vi/9V_yaeUaAJ4/maxresdefault.jpg",
+            "publishedAt": "2026-08-30T19:00:06Z",
+            "viewCount": 960,
+            "viewIncrease": 960,
+            "likeCount": 7,
+            "likeIncrease": 7,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 24,
+            "durationSeconds": 39,
+            "isShort": true,
+            "rawScore": 56.0,
+            "normalizedScore": 40.0,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 56.4,
+                "engagement": 16.5,
+                "subscriberRatio": 99.6,
+                "freshness": 38.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 11,
+            "previousRank": 69,
+            "rankChange": 58,
             "videoId": "Brgo4jmVqqA",
             "title": "【激震】福岡県議会【選挙ドットコムちゃんねる 切り抜き 政治解説 政治ニュース  海外旅行視察問題 告発者 吉松源昭県議 林尚行 何があった】",
             "channelId": "UCTZCjTNMBpvjY0ERUFOq8bg",
             "channelName": "賛否で読み解く政治経済",
             "thumbnailUrl": "https://i.ytimg.com/vi/Brgo4jmVqqA/maxresdefault.jpg",
             "publishedAt": "2026-08-30T13:15:07Z",
-            "viewCount": 2382,
-            "viewIncrease": 1161,
-            "likeCount": 38,
-            "likeIncrease": 18,
+            "viewCount": 3393,
+            "viewIncrease": 1011,
+            "likeCount": 48,
+            "likeIncrease": 10,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 188,
+            "subscriberCount": 197,
             "durationSeconds": 44,
             "isShort": true,
-            "rawScore": 64.5,
-            "normalizedScore": 93.8,
+            "rawScore": 47.7,
+            "normalizedScore": 33.3,
             "genres": [
                 {
                     "slug": "learning",
@@ -91,355 +383,44 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 85.2,
-                "engagement": 21.9,
-                "subscriberRatio": 101.6,
-                "freshness": 36.4,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 3,
-            "videoId": "k_gw1xP1M7o",
-            "title": "今天跟着渔民体验了一把拉地笼夫妻旅行海南",
-            "channelId": "UCDQJTnIgus-hz2mtk3_mjjA",
-            "channelName": "我是许炼",
-            "thumbnailUrl": "https://i.ytimg.com/vi/k_gw1xP1M7o/hqdefault.jpg",
-            "publishedAt": "2026-08-30T15:49:08Z",
-            "viewCount": 184,
-            "viewIncrease": 184,
-            "likeCount": 4,
-            "likeIncrease": 4,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 33,
-            "durationSeconds": 177,
-            "rawScore": 62.1,
-            "normalizedScore": 87.5,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.6
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 32.8,
-                "engagement": 24.4,
-                "subscriberRatio": 81.6,
-                "freshness": 44.7
-            }
-        },
-        {
-            "rank": 4,
-            "previousRank": 75,
-            "rankChange": 71,
-            "videoId": "6N1gyG6jMGE",
-            "title": "【ランス・オ・メドー雑学】ランス・オ・メドーの雑学大集合！！#旅行   　#雑学 　#shorts　#ai　#世界遺産　#ランス・オ・メドー",
-            "channelId": "UCHC7ECWjS1ILIq7v_-brJyA",
-            "channelName": "ざつがくオタク",
-            "thumbnailUrl": "https://i.ytimg.com/vi/6N1gyG6jMGE/maxresdefault.jpg",
-            "publishedAt": "2026-08-30T11:38:24Z",
-            "viewCount": 937,
-            "viewIncrease": 467,
-            "likeCount": 15,
-            "likeIncrease": 7,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 574,
-            "durationSeconds": 73,
-            "rawScore": 61.1,
-            "normalizedScore": 81.2,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 71.5,
-                "engagement": 21.7,
-                "subscriberRatio": 91.7,
-                "freshness": 33.0
-            }
-        },
-        {
-            "rank": 5,
-            "videoId": "br0MxMptbgQ",
-            "title": "【1分間の小さな旅】霰舞う妙義山 -群馬- #旅行 #景色綺麗 #実写動画",
-            "channelId": "UCHnZW9CcpPhmsbh2En-CFSQ",
-            "channelName": "夏草屋",
-            "thumbnailUrl": "https://i.ytimg.com/vi/br0MxMptbgQ/maxresdefault.jpg",
-            "publishedAt": "2026-08-30T14:00:11Z",
-            "viewCount": 867,
-            "viewIncrease": 867,
-            "likeCount": 6,
-            "likeIncrease": 6,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 71,
-            "durationSeconds": 35,
-            "isShort": true,
-            "rawScore": 55.3,
-            "normalizedScore": 75.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.7
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 54.9,
-                "engagement": 16.2,
-                "subscriberRatio": 98.5,
-                "freshness": 38.3,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 6,
-            "videoId": "fR9g9uYAkMg",
-            "title": "ジンベイザメと泳いでみたら⁉︎ #セブ島 #フィリピン #ジンベイザメ #新婚旅行 #ハネムーン #vlog  #旅行",
-            "channelId": "UCciP3A--GBcXd8kFVNyeueg",
-            "channelName": "uno room",
-            "thumbnailUrl": "https://i.ytimg.com/vi/fR9g9uYAkMg/maxresdefault.jpg",
-            "publishedAt": "2026-08-30T12:30:22Z",
-            "viewCount": 849,
-            "viewIncrease": 849,
-            "likeCount": 3,
-            "likeIncrease": 3,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 26,
-            "durationSeconds": 43,
-            "isShort": true,
-            "rawScore": 48.6,
-            "normalizedScore": 68.8,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 54.6,
-                "engagement": 11.8,
-                "subscriberRatio": 98.2,
-                "freshness": 34.7,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 7,
-            "videoId": "4CLgklmbV-4",
-            "title": "鹿児島に...実はココで食べられる特別な絶品料理！",
-            "channelId": "UCjgyrTLOiMe5gllvibWjxUQ",
-            "channelName": "ポポの休日【鹿児島グルメ旅】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/4CLgklmbV-4/maxresdefault.jpg",
-            "publishedAt": "2026-08-30T10:54:06Z",
-            "viewCount": 4325,
-            "viewIncrease": 2007,
-            "likeCount": 37,
-            "likeIncrease": 7,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 30600,
-            "durationSeconds": 54,
-            "isShort": true,
-            "rawScore": 47.4,
-            "normalizedScore": 62.5,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 93.5,
-                "engagement": 11.7,
-                "subscriberRatio": 70.4,
-                "freshness": 31.8,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 8,
-            "previousRank": 95,
-            "rankChange": 87,
-            "videoId": "wyDG1jHfigE",
-            "title": "#台湾#キムタク#グルメ#旅行",
-            "channelId": "UC4NrBZWUOqYTtZwfpFhdWxA",
-            "channelName": "あいつは、",
-            "thumbnailUrl": "https://i.ytimg.com/vi/wyDG1jHfigE/maxresdefault.jpg",
-            "publishedAt": "2026-08-30T11:18:57Z",
-            "viewCount": 1270,
-            "viewIncrease": 284,
-            "likeCount": 6,
-            "likeIncrease": 1,
-            "commentCount": 1,
-            "commentIncrease": 0,
-            "subscriberCount": 284,
-            "durationSeconds": 42,
-            "isShort": true,
-            "rawScore": 44.7,
-            "normalizedScore": 56.2,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.7
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 64.0,
-                "engagement": 11.8,
-                "subscriberRatio": 86.3,
-                "freshness": 32.4,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 9,
-            "videoId": "ycJ-QKYX160",
-            "title": "Relaxing Drive Japan HDR #travel #automobile #旅行 #絶景 #4k #hdr",
-            "channelId": "UCL0IXqnYBcDWYkPB2IQs_0A",
-            "channelName": "Mai Japan 8K HDR",
-            "thumbnailUrl": "https://i.ytimg.com/vi/ycJ-QKYX160/maxresdefault.jpg",
-            "publishedAt": "2026-08-30T14:40:09Z",
-            "viewCount": 308,
-            "viewIncrease": 308,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 19,
-            "durationSeconds": 39,
-            "isShort": true,
-            "rawScore": 43.6,
-            "normalizedScore": 50.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 39.9,
-                "engagement": 0.0,
-                "subscriberRatio": 87.2,
-                "freshness": 40.3,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 10,
-            "videoId": "_fJm4FTq2cE",
-            "title": "【ワーホリ&海外旅行 リアル必須アイテム 5選】　#海外一人旅 #旅行準備 #ワーホリ #海外旅行 #海外旅行好きな人と繋がりたい",
-            "channelId": "UCyWctUcBcwNeRXqwDCiB7wA",
-            "channelName": "LiberFlyer Japan Inc",
-            "thumbnailUrl": "https://i.ytimg.com/vi/_fJm4FTq2cE/maxresdefault.jpg",
-            "publishedAt": "2026-08-30T12:17:51Z",
-            "viewCount": 1135,
-            "viewIncrease": 349,
-            "likeCount": 10,
-            "likeIncrease": 1,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 56700,
-            "durationSeconds": 65,
-            "rawScore": 42.0,
-            "normalizedScore": 43.8,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 67.1,
-                "engagement": 10.6,
-                "subscriberRatio": 44.9,
-                "freshness": 34.3
-            }
-        },
-        {
-            "rank": 11,
-            "previousRank": 98,
-            "rankChange": 87,
-            "videoId": "K2vsXR9eqYY",
-            "title": "排隊…南豐魯肉飯… #魯肉飯  #travel  #旅遊 #旅行 #台灣 #taiwan #food  #cooking #kaohsiung",
-            "channelId": "UC42M5DJG7qxOm-B6to4ZZmA",
-            "channelName": "JP 生活樂趣 ( JP GO )",
-            "thumbnailUrl": "https://i.ytimg.com/vi/K2vsXR9eqYY/maxresdefault.jpg",
-            "publishedAt": "2026-08-30T11:09:46Z",
-            "viewCount": 1131,
-            "viewIncrease": 205,
-            "likeCount": 21,
-            "likeIncrease": 0,
-            "commentCount": 2,
-            "commentIncrease": 0,
-            "subscriberCount": 2650,
-            "durationSeconds": 59,
-            "isShort": true,
-            "rawScore": 35.9,
-            "normalizedScore": 37.5,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.7
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 59.1,
-                "engagement": 0.0,
-                "subscriberRatio": 72.2,
-                "freshness": 32.2,
+                "velocity": 80.6,
+                "engagement": 18.7,
+                "subscriberRatio": 100.1,
+                "freshness": 28.2,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 12,
-            "videoId": "TN2UO6cDqaY",
-            "title": "吃什么?? #旅行 #hotel #travel",
-            "channelId": "UCPbo88IIcekZGr5hJ_2oIVA",
-            "channelName": "虾饺烧麦话",
-            "thumbnailUrl": "https://i.ytimg.com/vi/TN2UO6cDqaY/maxresdefault.jpg",
-            "publishedAt": "2026-08-30T15:02:53Z",
-            "viewCount": 70,
-            "viewIncrease": 70,
-            "likeCount": 0,
-            "likeIncrease": 0,
+            "videoId": "8h-4LLQmrCQ",
+            "title": "アラスカクルーズ。シトカお勧めカニレストラン #クルーズ旅行 #レストラン",
+            "channelId": "UC3a13RC3XO_P6YG-ZwSNZCA",
+            "channelName": "エツヨ　Etsuyo",
+            "thumbnailUrl": "https://i.ytimg.com/vi/8h-4LLQmrCQ/maxresdefault.jpg",
+            "publishedAt": "2026-08-30T16:12:18Z",
+            "viewCount": 1181,
+            "viewIncrease": 1181,
+            "likeCount": 2,
+            "likeIncrease": 2,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 142,
-            "durationSeconds": 8,
+            "subscriberCount": 101,
+            "durationSeconds": 31,
             "isShort": true,
-            "rawScore": 32.5,
-            "normalizedScore": 31.2,
+            "rawScore": 46.2,
+            "normalizedScore": 26.7,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.4
+                    "confidence": 0.7
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 20.8,
-                "engagement": 0.0,
-                "subscriberRatio": 71.1,
-                "freshness": 41.6,
+                "velocity": 59.5,
+                "engagement": 7.7,
+                "subscriberRatio": 101.8,
+                "freshness": 32.2,
                 "formatAdjustment": 85.0
             }
         },
@@ -451,14 +432,14 @@
             "channelName": "BBC News Japan",
             "thumbnailUrl": "https://i.ytimg.com/vi/Nc_sQTj2Exk/maxresdefault.jpg",
             "publishedAt": "2026-08-28T08:17:55Z",
-            "viewCount": 525045,
-            "viewIncrease": 14978,
-            "commentCount": 109,
-            "commentIncrease": 0,
+            "viewCount": 528523,
+            "viewIncrease": 3478,
+            "commentCount": 111,
+            "commentIncrease": 2,
             "subscriberCount": 571000,
             "durationSeconds": 134,
-            "rawScore": 23.7,
-            "normalizedScore": 25.0,
+            "rawScore": 18.7,
+            "normalizedScore": 20.0,
             "genres": [
                 {
                     "slug": "learning",
@@ -472,10 +453,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 124.0,
-                "engagement": 0.0,
-                "subscriberRatio": 60.5,
-                "freshness": 12.9
+                "velocity": 99.4,
+                "engagement": 7.1,
+                "subscriberRatio": 44.8,
+                "freshness": 12.3
             }
         },
         {
@@ -486,16 +467,16 @@
             "channelName": "ANNnewsCH",
             "thumbnailUrl": "https://i.ytimg.com/vi/yo1K7xhHjPg/sddefault.jpg",
             "publishedAt": "2026-08-27T15:20:02Z",
-            "viewCount": 1798306,
-            "viewIncrease": 48279,
-            "likeCount": 2881,
-            "likeIncrease": 27,
-            "commentCount": 707,
-            "commentIncrease": 2,
+            "viewCount": 1810433,
+            "viewIncrease": 12127,
+            "likeCount": 2904,
+            "likeIncrease": 23,
+            "commentCount": 712,
+            "commentIncrease": 5,
             "subscriberCount": 5060000,
             "durationSeconds": 686,
-            "rawScore": 22.3,
-            "normalizedScore": 18.8,
+            "rawScore": 18.4,
+            "normalizedScore": 13.3,
             "genres": [
                 {
                     "slug": "travel",
@@ -509,10 +490,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 141.8,
-                "engagement": 4.5,
-                "subscriberRatio": 49.6,
-                "freshness": 11.4
+                "velocity": 118.3,
+                "engagement": 14.1,
+                "subscriberRatio": 34.9,
+                "freshness": 11.0
             }
         },
         {
@@ -523,16 +504,16 @@
             "channelName": "FNNプライムオンライン",
             "thumbnailUrl": "https://i.ytimg.com/vi/C58fkZPWEZI/maxresdefault.jpg",
             "publishedAt": "2026-08-27T09:53:45Z",
-            "viewCount": 1034188,
-            "viewIncrease": 8355,
-            "likeCount": 2170,
-            "likeIncrease": 16,
-            "commentCount": 731,
-            "commentIncrease": 4,
+            "viewCount": 1038530,
+            "viewIncrease": 4342,
+            "likeCount": 2181,
+            "likeIncrease": 11,
+            "commentCount": 734,
+            "commentIncrease": 3,
             "subscriberCount": 2350000,
             "durationSeconds": 582,
-            "rawScore": 18.6,
-            "normalizedScore": 12.5,
+            "rawScore": 16.3,
+            "normalizedScore": 6.7,
             "genres": [
                 {
                     "slug": "learning",
@@ -546,10 +527,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 115.2,
-                "engagement": 14.7,
-                "subscriberRatio": 39.1,
-                "freshness": 11.0
+                "velocity": 102.7,
+                "engagement": 17.7,
+                "subscriberRatio": 32.2,
+                "freshness": 10.7
             }
         },
         {
@@ -560,17 +541,17 @@
             "channelName": "日テレNEWS",
             "thumbnailUrl": "https://i.ytimg.com/vi/4i14qxv-JGY/maxresdefault.jpg",
             "publishedAt": "2026-08-28T00:32:30Z",
-            "viewCount": 312048,
-            "viewIncrease": 3287,
-            "likeCount": 817,
-            "likeIncrease": 4,
+            "viewCount": 313196,
+            "viewIncrease": 1148,
+            "likeCount": 816,
+            "likeIncrease": 0,
             "commentCount": 50,
             "commentIncrease": 0,
             "subscriberCount": 3320000,
             "durationSeconds": 31,
             "isShort": true,
-            "rawScore": 13.7,
-            "normalizedScore": 6.2,
+            "rawScore": 9.8,
+            "normalizedScore": 0.0,
             "genres": [
                 {
                     "slug": "travel",
@@ -589,57 +570,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 101.0,
-                "engagement": 6.2,
-                "subscriberRatio": 25.9,
-                "freshness": 12.1,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 17,
-            "videoId": "QDUbyv-VR2E",
-            "title": "Small happiness - カセットGAKi | Japanese City Pop / シティポップ・作業用BGM (Official Visualizer)",
-            "channelId": "UClGYBAwwWIK1XPNzY7a0V7Q",
-            "channelName": "cassettegaki",
-            "thumbnailUrl": "https://i.ytimg.com/vi/QDUbyv-VR2E/maxresdefault.jpg",
-            "publishedAt": "2026-08-30T17:52:57Z",
-            "viewCount": 1,
-            "viewIncrease": 1,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 49,
-            "durationSeconds": 14,
-            "isShort": true,
-            "rawScore": 13.2,
-            "normalizedScore": 0.0,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.7
-                },
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 0.6,
+                "velocity": 82.5,
                 "engagement": 0.0,
-                "subscriberRatio": 26.0,
-                "freshness": 58.4,
+                "subscriberRatio": 16.2,
+                "freshness": 11.7,
                 "formatAdjustment": 85.0
             }
         }
