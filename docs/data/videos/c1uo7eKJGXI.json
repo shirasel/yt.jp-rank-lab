@@ -1,23 +1,25 @@
 {
-    "generatedAt": "2026-09-02T13:52:36.548009328Z",
+    "generatedAt": "2026-09-02T18:57:34.381132784Z",
     "video": {
-        "rank": 65,
+        "rank": 77,
+        "previousRank": 65,
+        "rankChange": -12,
         "videoId": "c1uo7eKJGXI",
         "title": "ｅスポーツ向けのコンバーター【ウイングマンＦＧＣ２】を紹介しました！　他機種向けのものをＰＳ５へ変換（ゆっくり実況）Brook Wingman",
         "channelId": "UC7B-K-KiiK5WCIW3UVj9tDQ",
         "channelName": "gogo midou",
         "thumbnailUrl": "https://i.ytimg.com/vi/c1uo7eKJGXI/maxresdefault.jpg",
         "publishedAt": "2026-09-02T11:00:15Z",
-        "viewCount": 1590,
-        "viewIncrease": 1590,
-        "likeCount": 63,
-        "likeIncrease": 63,
-        "commentCount": 6,
-        "commentIncrease": 6,
+        "viewCount": 4787,
+        "viewIncrease": 3197,
+        "likeCount": 89,
+        "likeIncrease": 26,
+        "commentCount": 10,
+        "commentIncrease": 4,
         "subscriberCount": 69800,
         "durationSeconds": 751,
-        "rawScore": 75.9,
-        "normalizedScore": 35.4,
+        "rawScore": 60.9,
+        "normalizedScore": 23.2,
         "genres": [
             {
                 "slug": "sports",
@@ -28,20 +30,25 @@
                 "slug": "gaming",
                 "name": "ゲーム",
                 "confidence": 0.5
+            },
+            {
+                "slug": "music",
+                "name": "音楽",
+                "confidence": 0.4
             }
         ],
         "scoreBreakdown": {
-            "velocity": 64.0,
-            "engagement": 44.5,
-            "subscriberRatio": 59.0,
-            "freshness": 45.3
+            "velocity": 98.0,
+            "engagement": 27.6,
+            "subscriberRatio": 66.5,
+            "freshness": 31.7
         }
     },
     "scoreBreakdown": {
-        "velocity": 64.0,
-        "engagement": 44.5,
-        "subscriberRatio": 59.0,
-        "freshness": 45.3
+        "velocity": 98.0,
+        "engagement": 27.6,
+        "subscriberRatio": 66.5,
+        "freshness": 31.7
     },
     "genres": [
         {
@@ -53,6 +60,11 @@
             "slug": "gaming",
             "name": "ゲーム",
             "confidence": 0.5
+        },
+        {
+            "slug": "music",
+            "name": "音楽",
+            "confidence": 0.4
         }
     ]
 }
