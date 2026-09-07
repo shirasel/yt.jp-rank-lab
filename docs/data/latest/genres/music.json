@@ -1,35 +1,352 @@
 {
-    "generatedAt": "2026-09-06T23:10:14.351607201Z",
+    "generatedAt": "2026-09-07T08:38:48.764004156Z",
     "period": "24h",
     "genre": {
         "slug": "music",
         "name": "音楽",
-        "confidence": 0.8
+        "confidence": 0.5
     },
     "status": "official",
-    "totalVideos": 73,
-    "totalChannels": 72,
+    "totalVideos": 72,
+    "totalChannels": 69,
     "ranking": [
         {
             "rank": 1,
-            "previousRank": 2,
-            "rankChange": 1,
+            "videoId": "roEhrokLmL4",
+            "title": "【解けたら天才！】この問題わかりますか？ #歌ってみた #ころしちゃった #わさび抜き",
+            "channelId": "UCogPYnQabUIhtPDG0pS98EA",
+            "channelName": "わさび ぬき",
+            "thumbnailUrl": "https://i.ytimg.com/vi/roEhrokLmL4/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T08:00:13Z",
+            "viewCount": 13601,
+            "viewIncrease": 13601,
+            "likeCount": 463,
+            "likeIncrease": 463,
+            "commentCount": 29,
+            "commentIncrease": 29,
+            "subscriberCount": 130000,
+            "durationSeconds": 19,
+            "isShort": true,
+            "rawScore": 111.3,
+            "normalizedScore": 100.0,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.7
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 96.4,
+                "engagement": 40.6,
+                "subscriberRatio": 75.5,
+                "freshness": 61.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "0JzHXEJ9w_I",
+            "title": "【歌ってみた】不登校がデビットビット歌ってみた🎤",
+            "channelId": "UCBZvg350NEeAdfYXBsf0xnw",
+            "channelName": "非恋愛脳",
+            "thumbnailUrl": "https://i.ytimg.com/vi/0JzHXEJ9w_I/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T07:20:52Z",
+            "viewCount": 1226,
+            "viewIncrease": 1226,
+            "likeCount": 26,
+            "likeIncrease": 26,
+            "commentCount": 6,
+            "commentIncrease": 6,
+            "subscriberCount": 2340,
+            "durationSeconds": 17,
+            "isShort": true,
+            "rawScore": 91.1,
+            "normalizedScore": 98.6,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 60.1,
+                "engagement": 41.1,
+                "subscriberRatio": 93.0,
+                "freshness": 55.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 3,
+            "videoId": "bawJiXWvRqo",
+            "title": "[バーミヤンで晩御飯です😊]#バーミヤン #中華料理 #グルメ #飯テロシリーズ夕食編 #酢豚 #アジフライ #チャーハン  #料理  #food  #music",
+            "channelId": "UCPeeHVu_fSMlOd6J9_xILUw",
+            "channelName": "Uncle Hiro",
+            "thumbnailUrl": "https://i.ytimg.com/vi/bawJiXWvRqo/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T08:05:16Z",
+            "viewCount": 346,
+            "viewIncrease": 346,
+            "likeCount": 7,
+            "likeIncrease": 7,
+            "commentCount": 7,
+            "commentIncrease": 7,
+            "subscriberCount": 2180,
+            "durationSeconds": 38,
+            "isShort": true,
+            "rawScore": 90.3,
+            "normalizedScore": 97.2,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 41.6,
+                "engagement": 48.0,
+                "subscriberRatio": 80.0,
+                "freshness": 62.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 4,
+            "videoId": "R7o9n6OqR5o",
+            "title": "将棋一番 / 歌ってみた / はぐるま⚙️",
+            "channelId": "UCxDw6mjf4q-YafBerVY9jNg",
+            "channelName": "はぐるま",
+            "thumbnailUrl": "https://i.ytimg.com/vi/R7o9n6OqR5o/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T08:07:51Z",
+            "viewCount": 327,
+            "viewIncrease": 327,
+            "likeCount": 2,
+            "likeIncrease": 2,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 45,
+            "durationSeconds": 24,
+            "isShort": true,
+            "rawScore": 85.2,
+            "normalizedScore": 95.8,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 40.8,
+                "engagement": 29.9,
+                "subscriberRatio": 87.9,
+                "freshness": 63.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 5,
+            "videoId": "IcM9D8O8oq8",
+            "title": "【歌ってみた】 メランコリーキッチン /米津玄師  アカペラver 　 #shorts",
+            "channelId": "UCgS10RTYumhZxGHTCj7Idtg",
+            "channelName": "赫音 楽/Akane Raku",
+            "thumbnailUrl": "https://i.ytimg.com/vi/IcM9D8O8oq8/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T08:00:32Z",
+            "viewCount": 406,
+            "viewIncrease": 406,
+            "likeCount": 8,
+            "likeIncrease": 8,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 374,
+            "durationSeconds": 31,
+            "isShort": true,
+            "rawScore": 82.6,
+            "normalizedScore": 94.4,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.7
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 43.9,
+                "engagement": 23.7,
+                "subscriberRatio": 90.2,
+                "freshness": 61.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 6,
+            "videoId": "n2OZJOPFr0s",
+            "title": "ファイトソング / Eve #歌ってみた #ファイトソング #Eve #cover #新人歌い手 #新人vtuber",
+            "channelId": "UCkRExEYhkKeCMW6BkOfq-5g",
+            "channelName": "バーチャルエンジニア ソエノ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/n2OZJOPFr0s/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T08:10:20Z",
+            "viewCount": 293,
+            "viewIncrease": 293,
+            "likeCount": 4,
+            "likeIncrease": 4,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 160,
+            "durationSeconds": 36,
+            "isShort": true,
+            "rawScore": 79.5,
+            "normalizedScore": 93.0,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.7
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.5
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 39.2,
+                "engagement": 21.0,
+                "subscriberRatio": 86.7,
+                "freshness": 63.7,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 7,
+            "videoId": "WqpEz57-YI0",
+            "title": "会社帰りに【栄光の架橋・ゆず】歌ってみた #Shorts",
+            "channelId": "UC1MxLQuFXrOGbgNr5ciSqJA",
+            "channelName": "カリヨリ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/WqpEz57-YI0/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T08:00:08Z",
+            "viewCount": 331,
+            "viewIncrease": 331,
+            "likeCount": 4,
+            "likeIncrease": 4,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 343,
+            "durationSeconds": 48,
+            "isShort": true,
+            "rawScore": 78.1,
+            "normalizedScore": 91.5,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 41.0,
+                "engagement": 20.1,
+                "subscriberRatio": 88.0,
+                "freshness": 61.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 8,
+            "videoId": "NCDAAY-UTGc",
+            "title": "【歌ってみた】替え歌で「種のうた」をドイヒーくんが歌ってみた！　#shorts　（ピクミン４・スイカゲーム・ドパガキ）",
+            "channelId": "UCgLSeZDL_WYHkbF8nmuKAtg",
+            "channelName": "おまめサンシローTV",
+            "thumbnailUrl": "https://i.ytimg.com/vi/NCDAAY-UTGc/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T07:15:30Z",
+            "viewCount": 6298,
+            "viewIncrease": 6298,
+            "likeCount": 151,
+            "likeIncrease": 151,
+            "commentCount": 4,
+            "commentIncrease": 4,
+            "subscriberCount": 893000,
+            "durationSeconds": 25,
+            "isShort": true,
+            "rawScore": 75.6,
+            "normalizedScore": 90.1,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 84.7,
+                "engagement": 32.6,
+                "subscriberRatio": 46.4,
+                "freshness": 54.4,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 9,
+            "previousRank": 3,
+            "rankChange": -6,
             "videoId": "bQBiZ5N-juo",
             "title": "M!LK - 時空超えてユニバース (Official Audio)",
             "channelId": "UCFvSFbT8okMrpuFxBEIB2lg",
             "channelName": "M!LK",
             "thumbnailUrl": "https://i.ytimg.com/vi/bQBiZ5N-juo/maxresdefault.jpg",
             "publishedAt": "2026-09-06T15:00:07Z",
-            "viewCount": 394714,
-            "viewIncrease": 226731,
-            "likeCount": 52650,
-            "likeIncrease": 14893,
-            "commentCount": 6102,
-            "commentIncrease": 609,
-            "subscriberCount": 40000,
+            "viewCount": 897349,
+            "viewIncrease": 502635,
+            "likeCount": 66639,
+            "likeIncrease": 13989,
+            "commentCount": 6773,
+            "commentIncrease": 671,
+            "subscriberCount": 40100,
             "durationSeconds": 211,
-            "rawScore": 102.6,
-            "normalizedScore": 100.0,
+            "rawScore": 74.4,
+            "normalizedScore": 88.7,
             "genres": [
                 {
                     "slug": "music",
@@ -43,30 +360,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 161.7,
-                "engagement": 46.7,
-                "subscriberRatio": 118.8,
-                "freshness": 31.4
+                "velocity": 165.4,
+                "engagement": 36.9,
+                "subscriberRatio": 127.5,
+                "freshness": 22.6
             }
         },
         {
-            "rank": 2,
+            "rank": 10,
+            "previousRank": 4,
+            "rankChange": -6,
             "videoId": "nxf9yHZgWqc",
             "title": "Suki de Ite",
             "channelId": "UC5DHwv9N4OQ9AWtKr8YSefw",
             "channelName": "Ado - Topic",
             "thumbnailUrl": "https://i.ytimg.com/vi/nxf9yHZgWqc/maxresdefault.jpg",
             "publishedAt": "2026-09-06T15:04:34Z",
-            "viewCount": 83880,
-            "viewIncrease": 83880,
-            "likeCount": 10628,
-            "likeIncrease": 10628,
-            "commentCount": 676,
-            "commentIncrease": 676,
+            "viewCount": 250142,
+            "viewIncrease": 166262,
+            "likeCount": 16743,
+            "likeIncrease": 6115,
+            "commentCount": 857,
+            "commentIncrease": 181,
             "subscriberCount": 3480,
             "durationSeconds": 246,
-            "rawScore": 99.3,
-            "normalizedScore": 98.6,
+            "rawScore": 74.3,
+            "normalizedScore": 87.3,
             "genres": [
                 {
                     "slug": "music",
@@ -75,66 +394,240 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 124.0,
-                "engagement": 56.9,
-                "subscriberRatio": 134.6,
-                "freshness": 31.5
+                "velocity": 148.6,
+                "engagement": 38.1,
+                "subscriberRatio": 142.0,
+                "freshness": 22.6
             }
         },
         {
-            "rank": 3,
-            "videoId": "VYvOIUD2cl4",
-            "title": "【けいおん！歌ってみた】ふわふわ時間 / 放課後ティータイム【acoustic guitar cover】",
-            "channelId": "UCdiWJSF8oWUtxsVdWY89qhg",
-            "channelName": "ミャオ -MEOW-",
-            "thumbnailUrl": "https://i.ytimg.com/vi/VYvOIUD2cl4/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T21:58:49Z",
-            "viewCount": 296,
-            "viewIncrease": 296,
-            "likeCount": 6,
-            "likeIncrease": 6,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 828,
-            "durationSeconds": 22,
+            "rank": 11,
+            "videoId": "4f-nf0XB-JU",
+            "title": "おやすみ泣き声、さよなら歌姫(cover) / クリープハイプ  #歌ってみた #cover",
+            "channelId": "UCgE4K8pw6GOBQA9N6VhInkg",
+            "channelName": "解 / Hodoku",
+            "thumbnailUrl": "https://i.ytimg.com/vi/4f-nf0XB-JU/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T08:00:33Z",
+            "viewCount": 313,
+            "viewIncrease": 313,
+            "likeCount": 5,
+            "likeIncrease": 5,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 2710,
+            "durationSeconds": 43,
             "isShort": true,
-            "rawScore": 78.7,
-            "normalizedScore": 97.2,
+            "rawScore": 72.7,
+            "normalizedScore": 85.9,
             "genres": [
                 {
                     "slug": "music",
                     "name": "音楽",
                     "confidence": 0.7
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 39.4,
-                "engagement": 38.9,
-                "subscriberRatio": 86.8,
-                "freshness": 56.0,
+                "velocity": 40.2,
+                "engagement": 22.1,
+                "subscriberRatio": 76.6,
+                "freshness": 61.6,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 4,
-            "previousRank": 25,
-            "rankChange": 21,
+            "rank": 12,
+            "videoId": "V_kTYIeefp8",
+            "title": "【Playlist】夜のドライブに聴きたい# #chillmusic #relaxingmusic #作業用bgm #洋楽bgm #chillpop",
+            "channelId": "UCu8CndDKuZ9TviU6odF9SAQ",
+            "channelName": "Mindful Music",
+            "thumbnailUrl": "https://i.ytimg.com/vi/V_kTYIeefp8/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T07:20:05Z",
+            "viewCount": 392,
+            "viewIncrease": 392,
+            "likeCount": 6,
+            "likeIncrease": 6,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 27,
+            "durationSeconds": 31,
+            "isShort": true,
+            "rawScore": 72.5,
+            "normalizedScore": 84.5,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.65
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 43.4,
+                "engagement": 21.8,
+                "subscriberRatio": 89.8,
+                "freshness": 55.0,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 13,
+            "videoId": "x7A1JNTDGsA",
+            "title": "【睡眠・作業用BGM】究極のワークライフバランス🌙 パステルTownの「まどろみ屋」〜クロエとチップのお昼寝タイム〜",
+            "channelId": "UC1UmGTOi5eN5ADUg-ahWG1g",
+            "channelName": "パステルTownの仲間たち【音楽】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/x7A1JNTDGsA/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T07:48:49Z",
+            "viewCount": 240,
+            "viewIncrease": 240,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 21,
+            "durationSeconds": 166,
+            "rawScore": 72.1,
+            "normalizedScore": 83.1,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.15
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 36.4,
+                "engagement": 0.0,
+                "subscriberRatio": 84.5,
+                "freshness": 59.6
+            }
+        },
+        {
+            "rank": 14,
+            "videoId": "Q6O_d7RlMOU",
+            "title": "#クリスマス #歌ってみた",
+            "channelId": "UC8_GCRSDXP_JZRdecJKjoXw",
+            "channelName": "I'm spring trap",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Q6O_d7RlMOU/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T05:47:49Z",
+            "viewCount": 527,
+            "viewIncrease": 527,
+            "likeCount": 9,
+            "likeIncrease": 9,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 65,
+            "durationSeconds": 30,
+            "isShort": true,
+            "rawScore": 67.9,
+            "normalizedScore": 81.7,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 47.6,
+                "engagement": 34.9,
+                "subscriberRatio": 93.0,
+                "freshness": 45.5,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 15,
+            "videoId": "FouIz6vcf8w",
+            "title": "時空超えてユニバース",
+            "channelId": "UChbU0n7P86fWdZtlzCNCeGg",
+            "channelName": "M!LK - Topic",
+            "thumbnailUrl": "https://i.ytimg.com/vi/FouIz6vcf8w/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T10:00:29Z",
+            "viewCount": 198852,
+            "viewIncrease": 198852,
+            "likeCount": 14010,
+            "likeIncrease": 14010,
+            "commentCount": 887,
+            "commentIncrease": 887,
+            "subscriberCount": 2170,
+            "durationSeconds": 212,
+            "rawScore": 67.7,
+            "normalizedScore": 80.3,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 137.1,
+                "engagement": 49.8,
+                "subscriberRatio": 149.1,
+                "freshness": 20.1
+            }
+        },
+        {
+            "rank": 16,
+            "videoId": "DV6RYi2twog",
+            "title": "【まとめ】叶を電話で２キルする男 ～ じーにあすと小学生の口喧嘩ｗｗｗ（SURGE Town）【叶/にじさんじ切り抜き】",
+            "channelId": "UCeuNlK0yX-6_4930q0JUGNw",
+            "channelName": "白瀬",
+            "thumbnailUrl": "https://i.ytimg.com/vi/DV6RYi2twog/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T19:30:18Z",
+            "viewCount": 196304,
+            "viewIncrease": 196304,
+            "likeCount": 1957,
+            "likeIncrease": 1957,
+            "commentCount": 64,
+            "commentIncrease": 64,
+            "subscriberCount": 206000,
+            "durationSeconds": 1717,
+            "rawScore": 66.9,
+            "normalizedScore": 78.9,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 136.9,
+                "engagement": 23.8,
+                "subscriberRatio": 99.5,
+                "freshness": 25.7
+            }
+        },
+        {
+            "rank": 17,
+            "previousRank": 18,
+            "rankChange": 1,
             "videoId": "VwBPRFADFx4",
             "title": "め",
             "channelId": "UCieSasSDeMIP4m5xGNIwT1Q",
             "channelName": "Hatsuboshi Gakuen - Topic",
             "thumbnailUrl": "https://i.ytimg.com/vi/VwBPRFADFx4/maxresdefault.jpg",
             "publishedAt": "2026-09-06T10:01:55Z",
-            "viewCount": 56417,
-            "viewIncrease": 50283,
-            "likeCount": 3655,
-            "likeIncrease": 1357,
-            "commentCount": 272,
-            "commentIncrease": 61,
+            "viewCount": 161532,
+            "viewIncrease": 105115,
+            "likeCount": 7216,
+            "likeIncrease": 3561,
+            "commentCount": 476,
+            "commentIncrease": 204,
             "subscriberCount": 3050,
             "durationSeconds": 293,
-            "rawScore": 78.5,
-            "normalizedScore": 95.8,
+            "rawScore": 64.5,
+            "normalizedScore": 77.5,
             "genres": [
                 {
                     "slug": "music",
@@ -143,76 +636,30 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 138.8,
-                "engagement": 36.2,
-                "subscriberRatio": 130.4,
-                "freshness": 25.7
+                "velocity": 141.6,
+                "engagement": 40.1,
+                "subscriberRatio": 138.4,
+                "freshness": 20.2
             }
         },
         {
-            "rank": 5,
-            "previousRank": 13,
-            "rankChange": 8,
-            "videoId": "LKQ1hxS9UkE",
-            "title": "君たちもしや！？ 見る目ガァルズ☆／浦島坂田船",
-            "channelId": "UCA_t0trBs1Fcb6U4HeUGT4g",
-            "channelName": "浦島坂田船公式チャンネル",
-            "thumbnailUrl": "https://i.ytimg.com/vi/LKQ1hxS9UkE/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T15:00:05Z",
-            "viewCount": 26571,
-            "viewIncrease": 18746,
-            "likeCount": 5910,
-            "likeIncrease": 1141,
-            "commentCount": 1565,
-            "commentIncrease": 113,
-            "subscriberCount": 428000,
-            "durationSeconds": 279,
-            "rawScore": 75.3,
-            "normalizedScore": 94.4,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.5
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 123.8,
-                "engagement": 50.2,
-                "subscriberRatio": 66.1,
-                "freshness": 31.4
-            }
-        },
-        {
-            "rank": 6,
-            "videoId": "YU6iMB7RX_I",
-            "title": "【#おはようvtuber 】9/7 月曜日【ヤマト屋フロリ】 #vtuber #shorts",
-            "channelId": "UCgck6700zminIB2ilnEHnCQ",
-            "channelName": "ヤマト屋フ口リChannel",
-            "thumbnailUrl": "https://i.ytimg.com/vi/YU6iMB7RX_I/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T21:00:29Z",
-            "viewCount": 756,
-            "viewIncrease": 756,
-            "likeCount": 12,
-            "likeIncrease": 12,
-            "commentCount": 4,
-            "commentIncrease": 4,
-            "subscriberCount": 2440,
-            "durationSeconds": 26,
+            "rank": 18,
+            "videoId": "wjYi21_I_XQ",
+            "title": "Smart Gadget Saves The Phone? 🥰😰 # #facts #funny #viral #trending #comedy # #funpost 😘🤳",
+            "channelId": "UCQV8mJe2SJFs6KY-_161VIg",
+            "channelName": "Lo Facts",
+            "thumbnailUrl": "https://i.ytimg.com/vi/wjYi21_I_XQ/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T04:48:38Z",
+            "viewCount": 9041,
+            "viewIncrease": 9041,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 140000,
+            "durationSeconds": 17,
             "isShort": true,
-            "rawScore": 74.9,
-            "normalizedScore": 93.1,
+            "rawScore": 57.3,
+            "normalizedScore": 76.1,
             "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.99
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                },
                 {
                     "slug": "music",
                     "name": "音楽",
@@ -220,74 +667,65 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 52.9,
-                "engagement": 39.4,
-                "subscriberRatio": 87.3,
-                "freshness": 49.1,
+                "velocity": 90.2,
+                "engagement": 2.3,
+                "subscriberRatio": 70.3,
+                "freshness": 41.4,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 7,
-            "videoId": "-Skrof_395E",
-            "title": "どうぶつの森 シリーズ 24時間LIVE  作業用BGM [E+ ・とび森 ] 稀にゲームプレイ要素有 2026.9.6 [101]",
-            "channelId": "UCGOceG9dFQyBuOtfuA_0xSQ",
-            "channelName": "あおさと",
-            "thumbnailUrl": "https://i.ytimg.com/vi/-Skrof_395E/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T21:28:46Z",
-            "viewCount": 327,
-            "viewIncrease": 327,
-            "likeCount": 4,
-            "likeIncrease": 4,
+            "rank": 19,
+            "videoId": "I0xbuCFXblc",
+            "title": "【歌ってみた】片田ひよりさん作詞作曲｢花蝶風月｣を歌ってチャッピーに加工させたら…",
+            "channelId": "UC3bWRehvPyg0tIJGQOpMofQ",
+            "channelName": "リチャーシューの昆虫研究所 【Ritiasyu insect research】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/I0xbuCFXblc/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T06:56:12Z",
+            "viewCount": 98,
+            "viewIncrease": 98,
+            "likeCount": 3,
+            "likeIncrease": 3,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 1660,
-            "durationSeconds": 42900,
-            "rawScore": 74.7,
-            "normalizedScore": 91.7,
+            "subscriberCount": 141,
+            "durationSeconds": 24,
+            "isShort": true,
+            "rawScore": 55.9,
+            "normalizedScore": 74.6,
             "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.8
-                },
                 {
                     "slug": "music",
                     "name": "音楽",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.1
+                    "confidence": 0.4
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 40.8,
-                "engagement": 20.2,
-                "subscriberRatio": 82.4,
-                "freshness": 52.1
+                "velocity": 24.7,
+                "engagement": 27.0,
+                "subscriberRatio": 74.8,
+                "freshness": 52.0,
+                "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 8,
-            "videoId": "8VxzpI1NYpY",
-            "title": "まつり/藤井風 #shorts  #藤井風  #まつり   #弾き語り #歌ってみた #cover #fujiikaze   2",
-            "channelId": "UCt0Y1yjl4UnxmvM5m7aWdwA",
-            "channelName": "まう。",
-            "thumbnailUrl": "https://i.ytimg.com/vi/8VxzpI1NYpY/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T22:00:12Z",
-            "viewCount": 503,
-            "viewIncrease": 503,
-            "likeCount": 2,
-            "likeIncrease": 2,
+            "rank": 20,
+            "videoId": "GXUHhN9b21A",
+            "title": "【Playlist】秋の始まりに聴きたい洋楽🍂 | 作業用BGM | Chill | Cozy",
+            "channelId": "UCPz34W0WIVBHi0yX0bu93ow",
+            "channelName": "音灯。Onto.",
+            "thumbnailUrl": "https://i.ytimg.com/vi/GXUHhN9b21A/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T08:00:21Z",
+            "viewCount": 94,
+            "viewIncrease": 94,
+            "likeCount": 6,
+            "likeIncrease": 6,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 365,
-            "durationSeconds": 37,
-            "isShort": true,
-            "rawScore": 72.6,
-            "normalizedScore": 90.3,
+            "subscriberCount": 52200,
+            "durationSeconds": 3692,
+            "rawScore": 54.7,
+            "normalizedScore": 73.2,
             "genres": [
                 {
                     "slug": "music",
@@ -296,66 +734,66 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 47.0,
-                "engagement": 12.5,
-                "subscriberRatio": 92.5,
-                "freshness": 56.2,
-                "formatAdjustment": 85.0
+                "velocity": 24.2,
+                "engagement": 32.6,
+                "subscriberRatio": 32.0,
+                "freshness": 61.6
             }
         },
         {
-            "rank": 9,
-            "videoId": "mUFvaJxYNno",
-            "title": "【歌ってみた】自分革命 おくまゆういち #jpop #弾き語り #歌枠 #歌ってみた #acoustic #song",
-            "channelId": "UCi1u5-WlHSt-AGcsHgikoKg",
-            "channelName": "おくまゆういち Okuma Yuichi music channel",
-            "thumbnailUrl": "https://i.ytimg.com/vi/mUFvaJxYNno/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T22:02:13Z",
-            "viewCount": 474,
-            "viewIncrease": 474,
-            "likeCount": 3,
-            "likeIncrease": 3,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 1280,
-            "durationSeconds": 36,
-            "isShort": true,
-            "rawScore": 72.5,
-            "normalizedScore": 88.9,
+            "rank": 21,
+            "previousRank": 26,
+            "rankChange": 5,
+            "videoId": "LKQ1hxS9UkE",
+            "title": "君たちもしや！？ 見る目ガァルズ☆／浦島坂田船",
+            "channelId": "UCA_t0trBs1Fcb6U4HeUGT4g",
+            "channelName": "浦島坂田船公式チャンネル",
+            "thumbnailUrl": "https://i.ytimg.com/vi/LKQ1hxS9UkE/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T15:00:05Z",
+            "viewCount": 56915,
+            "viewIncrease": 30344,
+            "likeCount": 7120,
+            "likeIncrease": 1210,
+            "commentCount": 1694,
+            "commentIncrease": 129,
+            "subscriberCount": 428000,
+            "durationSeconds": 279,
+            "rawScore": 54.0,
+            "normalizedScore": 71.8,
             "genres": [
                 {
                     "slug": "music",
                     "name": "音楽",
-                    "confidence": 0.85
+                    "confidence": 0.5
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 46.1,
-                "engagement": 15.6,
-                "subscriberRatio": 89.2,
-                "freshness": 56.5,
-                "formatAdjustment": 85.0
+                "velocity": 122.7,
+                "engagement": 45.2,
+                "subscriberRatio": 71.3,
+                "freshness": 22.6
             }
         },
         {
-            "rank": 10,
-            "videoId": "Ik3yyvZAq00",
-            "title": "Miyakojima Cat Morning Lofi 🐱 朝の作業用BGM #shorts",
-            "channelId": "UCRSs-VBOlWCvAfx2XpGluFg",
-            "channelName": "悠旅 Lofi | Japan BGM",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Ik3yyvZAq00/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T22:30:33Z",
-            "viewCount": 185,
-            "viewIncrease": 185,
-            "likeCount": 2,
-            "likeIncrease": 2,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 42,
-            "durationSeconds": 15,
-            "isShort": true,
-            "rawScore": 69.9,
-            "normalizedScore": 87.5,
+            "rank": 22,
+            "previousRank": 62,
+            "rankChange": 40,
+            "videoId": "8i-93Ch6zGw",
+            "title": "秋 (Cover)",
+            "channelId": "UC-EozDUihlTDGCfqs6kvmQQ",
+            "channelName": "Rockon Social Club - Topic",
+            "thumbnailUrl": "https://i.ytimg.com/vi/8i-93Ch6zGw/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T10:01:42Z",
+            "viewCount": 19888,
+            "viewIncrease": 13909,
+            "likeCount": 1458,
+            "likeIncrease": 529,
+            "commentCount": 78,
+            "commentIncrease": 41,
+            "subscriberCount": 7170,
+            "durationSeconds": 275,
+            "rawScore": 52.6,
+            "normalizedScore": 70.4,
             "genres": [
                 {
                     "slug": "music",
@@ -364,33 +802,137 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 32.9,
-                "engagement": 19.3,
-                "subscriberRatio": 81.7,
-                "freshness": 61.4,
+                "velocity": 110.9,
+                "engagement": 43.0,
+                "subscriberRatio": 107.2,
+                "freshness": 20.2
+            }
+        },
+        {
+            "rank": 23,
+            "videoId": "gf71AMo5iIw",
+            "title": "18",
+            "channelId": "UCpvym4hXdo4fVz0Rpu_LNoA",
+            "channelName": "FUMINO - Topic",
+            "thumbnailUrl": "https://i.ytimg.com/vi/gf71AMo5iIw/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T10:02:20Z",
+            "viewCount": 28824,
+            "viewIncrease": 28824,
+            "likeCount": 996,
+            "likeIncrease": 996,
+            "commentCount": 39,
+            "commentIncrease": 39,
+            "subscriberCount": 17800,
+            "durationSeconds": 234,
+            "rawScore": 50.7,
+            "normalizedScore": 69.0,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.5
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 107.8,
+                "engagement": 38.6,
+                "subscriberRatio": 105.2,
+                "freshness": 20.2
+            }
+        },
+        {
+            "rank": 24,
+            "previousRank": 60,
+            "rankChange": 36,
+            "videoId": "TKYqYwu-Ti4",
+            "title": "BEHULI | Movie Official Trailer 2026 | Cool Boy (Paras Bam Thakuri), Divya Rayamajhi, Sushant, Padam",
+            "channelId": "UCxCoea3ulOukfXiYAm87ZIA",
+            "channelName": "OSR Digital",
+            "thumbnailUrl": "https://i.ytimg.com/vi/TKYqYwu-Ti4/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T09:26:06Z",
+            "viewCount": 724678,
+            "viewIncrease": 275487,
+            "likeCount": 26995,
+            "likeIncrease": 6018,
+            "commentCount": 2858,
+            "commentIncrease": 384,
+            "subscriberCount": 10700000,
+            "durationSeconds": 235,
+            "rawScore": 50.2,
+            "normalizedScore": 67.6,
+            "genres": [
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 156.2,
+                "engagement": 35.3,
+                "subscriberRatio": 60.3,
+                "freshness": 19.9
+            }
+        },
+        {
+            "rank": 25,
+            "videoId": "girZegA-u8I",
+            "title": "【30分作業用BGM / 汚染された街 × Deep House】毒気をまとった、深く沈み込む都会派グルーヴ｜不思議な音色に落ち着く音楽｜作業用・読書・リラックス",
+            "channelId": "UC9jrFGFWoTF06iefVGTpmpQ",
+            "channelName": "異種融合BGM",
+            "thumbnailUrl": "https://i.ytimg.com/vi/girZegA-u8I/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T08:15:26Z",
+            "viewCount": 62,
+            "viewIncrease": 62,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 35,
+            "durationSeconds": 31,
+            "isShort": true,
+            "rawScore": 49.1,
+            "normalizedScore": 66.2,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.5
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 19.4,
+                "engagement": 0.0,
+                "subscriberRatio": 69.8,
+                "freshness": 64.8,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 11,
-            "previousRank": 15,
-            "rankChange": 4,
+            "rank": 26,
+            "previousRank": 50,
+            "rankChange": 24,
             "videoId": "-acS8BRlNuE",
             "title": "＝LOVE（イコールラブ）/ 21st Single『恋、はじめました。』Dance version",
             "channelId": "UCv7VutirxDn3RWIJXI68n_A",
             "channelName": "＝LOVE（イコールラブ）公式チャンネル",
             "thumbnailUrl": "https://i.ytimg.com/vi/-acS8BRlNuE/maxresdefault.jpg",
             "publishedAt": "2026-09-06T13:00:16Z",
-            "viewCount": 105265,
-            "viewIncrease": 43442,
-            "likeCount": 4612,
-            "likeIncrease": 564,
-            "commentCount": 326,
-            "commentIncrease": 17,
-            "subscriberCount": 853000,
+            "viewCount": 144257,
+            "viewIncrease": 38992,
+            "likeCount": 5527,
+            "likeIncrease": 915,
+            "commentCount": 358,
+            "commentIncrease": 32,
+            "subscriberCount": 854000,
             "durationSeconds": 219,
-            "rawScore": 66.1,
-            "normalizedScore": 86.1,
+            "rawScore": 48.7,
+            "normalizedScore": 64.8,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -414,103 +956,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 136.6,
-                "engagement": 26.3,
-                "subscriberRatio": 67.7,
-                "freshness": 28.7
+                "velocity": 126.5,
+                "engagement": 33.5,
+                "subscriberRatio": 66.5,
+                "freshness": 21.5
             }
         },
         {
-            "rank": 12,
-            "videoId": "qdr0Wj14ylw",
-            "title": "『Squall』 福山雅治 カバー ②  伊藤文博　#歌ってみた #shorts #福山雅治 #Squall #カバー #松本英子",
-            "channelId": "UC0gNrxGdnUW8I7ougOxLKTg",
-            "channelName": "伊藤文博 channel",
-            "thumbnailUrl": "https://i.ytimg.com/vi/qdr0Wj14ylw/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T20:54:26Z",
-            "viewCount": 720,
-            "viewIncrease": 720,
-            "likeCount": 7,
-            "likeIncrease": 7,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 2070,
-            "durationSeconds": 45,
-            "isShort": true,
-            "rawScore": 65.7,
-            "normalizedScore": 84.7,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 52.2,
-                "engagement": 18.5,
-                "subscriberRatio": 88.5,
-                "freshness": 48.5,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 13,
-            "previousRank": 31,
-            "rankChange": 18,
-            "videoId": "TKYqYwu-Ti4",
-            "title": "BEHULI | Movie Official Trailer 2026 | Cool Boy (Paras Bam Thakuri), Divya Rayamajhi, Sushant, Padam",
-            "channelId": "UCxCoea3ulOukfXiYAm87ZIA",
-            "channelName": "OSR Digital",
-            "thumbnailUrl": "https://i.ytimg.com/vi/TKYqYwu-Ti4/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T09:26:06Z",
-            "viewCount": 449191,
-            "viewIncrease": 197470,
-            "likeCount": 20977,
-            "likeIncrease": 1588,
-            "commentCount": 2474,
-            "commentIncrease": 269,
-            "subscriberCount": 10700000,
-            "durationSeconds": 235,
-            "rawScore": 61.6,
-            "normalizedScore": 83.3,
-            "genres": [
-                {
-                    "slug": "anime",
-                    "name": "アニメ",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 159.6,
-                "engagement": 27.9,
-                "subscriberRatio": 56.7,
-                "freshness": 25.2
-            }
-        },
-        {
-            "rank": 14,
-            "videoId": "8i-93Ch6zGw",
-            "title": "秋 (Cover)",
-            "channelId": "UC-EozDUihlTDGCfqs6kvmQQ",
-            "channelName": "Rockon Social Club - Topic",
-            "thumbnailUrl": "https://i.ytimg.com/vi/8i-93Ch6zGw/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T10:01:42Z",
-            "viewCount": 5979,
-            "viewIncrease": 5979,
-            "likeCount": 929,
-            "likeIncrease": 929,
-            "commentCount": 37,
-            "commentIncrease": 37,
-            "subscriberCount": 7170,
-            "durationSeconds": 275,
-            "rawScore": 61.1,
-            "normalizedScore": 81.9,
+            "rank": 27,
+            "previousRank": 71,
+            "rankChange": 44,
+            "videoId": "7xYekUcLRs4",
+            "title": "Libera Me From Hell - Mori Calliope x Elizabeth Rose Bloodflame // GURREN LAGANN (Cover)",
+            "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
+            "channelName": "Mori Calliope Ch. hololive-EN",
+            "thumbnailUrl": "https://i.ytimg.com/vi/7xYekUcLRs4/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T03:00:06Z",
+            "viewCount": 1076425,
+            "viewIncrease": 217413,
+            "likeCount": 69025,
+            "likeIncrease": 9196,
+            "commentCount": 4206,
+            "commentIncrease": 478,
+            "subscriberCount": 2640000,
+            "durationSeconds": 286,
+            "rawScore": 47.6,
+            "normalizedScore": 63.4,
             "genres": [
                 {
                     "slug": "music",
@@ -519,32 +990,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 83.9,
-                "engagement": 55.5,
-                "subscriberRatio": 98.0,
-                "freshness": 25.7
+                "velocity": 152.6,
+                "engagement": 42.4,
+                "subscriberRatio": 72.9,
+                "freshness": 17.8
             }
         },
         {
-            "rank": 15,
-            "previousRank": 23,
-            "rankChange": 8,
+            "rank": 28,
+            "previousRank": 64,
+            "rankChange": 36,
             "videoId": "OeIPHpDNIG0",
             "title": "Fate新作発売日決定！なのに…ディレクターが退職？バンナム撤退が原因？誰も得しない結末に…/FF7完結編とサイゲ新ブランド【今週のゲームニュース】",
             "channelId": "UCrcqCDrC5nn-8KrbzUNrvSA",
             "channelName": "ナカイドのゲーム情報チャンネル",
             "thumbnailUrl": "https://i.ytimg.com/vi/OeIPHpDNIG0/maxresdefault.jpg",
             "publishedAt": "2026-09-06T09:42:58Z",
-            "viewCount": 335305,
-            "viewIncrease": 68872,
-            "likeCount": 1747,
-            "likeIncrease": 197,
-            "commentCount": 258,
-            "commentIncrease": 12,
+            "viewCount": 403546,
+            "viewIncrease": 68241,
+            "likeCount": 2025,
+            "likeIncrease": 278,
+            "commentCount": 299,
+            "commentIncrease": 41,
             "subscriberCount": 411000,
             "durationSeconds": 1064,
-            "rawScore": 60.5,
-            "normalizedScore": 80.6,
+            "rawScore": 47.2,
+            "normalizedScore": 62.0,
             "genres": [
                 {
                     "slug": "gaming",
@@ -563,248 +1034,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 143.6,
-                "engagement": 13.8,
-                "subscriberRatio": 80.6,
-                "freshness": 25.4
+                "velocity": 135.0,
+                "engagement": 19.9,
+                "subscriberRatio": 80.5,
+                "freshness": 20.0
             }
         },
         {
-            "rank": 16,
-            "previousRank": 24,
-            "rankChange": 8,
-            "videoId": "V6mnkiZZXDU",
-            "title": "LEE JISOO / MISMATCH -teaser-",
-            "channelId": "UCWPDq5P9K2hNKFaN5WSfclw",
-            "channelName": "HANA official",
-            "thumbnailUrl": "https://i.ytimg.com/vi/V6mnkiZZXDU/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T12:00:24Z",
-            "viewCount": 313910,
-            "viewIncrease": 104649,
-            "likeCount": 9088,
-            "likeIncrease": 911,
-            "commentCount": 265,
-            "commentIncrease": 5,
-            "subscriberCount": 446000,
-            "durationSeconds": 22,
-            "isShort": true,
-            "rawScore": 59.3,
-            "normalizedScore": 79.2,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.7
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 149.9,
-                "engagement": 18.9,
-                "subscriberRatio": 84.3,
-                "freshness": 27.6,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 17,
-            "previousRank": 53,
-            "rankChange": 36,
-            "videoId": "7xYekUcLRs4",
-            "title": "Libera Me From Hell - Mori Calliope x Elizabeth Rose Bloodflame // GURREN LAGANN (Cover)",
-            "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
-            "channelName": "Mori Calliope Ch. hololive-EN",
-            "thumbnailUrl": "https://i.ytimg.com/vi/7xYekUcLRs4/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T03:00:06Z",
-            "viewCount": 859012,
-            "viewIncrease": 218464,
-            "likeCount": 59829,
-            "likeIncrease": 6383,
-            "commentCount": 3728,
-            "commentIncrease": 332,
-            "subscriberCount": 2640000,
-            "durationSeconds": 286,
-            "rawScore": 57.8,
-            "normalizedScore": 77.8,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 161.1,
-                "engagement": 37.9,
-                "subscriberRatio": 73.0,
-                "freshness": 21.2
-            }
-        },
-        {
-            "rank": 17,
-            "videoId": "7XfvKWFxBtE",
-            "title": "闇が深すぎて「大学の地図から消された校舎」を題材としたホラーゲーム【白栄大学 0号館】",
-            "channelId": "UCzXjPL7zo0bxhOYDxLJ9YEg",
-            "channelName": "ポッキー",
-            "thumbnailUrl": "https://i.ytimg.com/vi/7XfvKWFxBtE/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T10:27:11Z",
-            "viewCount": 121695,
-            "viewIncrease": 121695,
-            "likeCount": 1559,
-            "likeIncrease": 1559,
-            "commentCount": 103,
-            "commentIncrease": 103,
-            "subscriberCount": 3780000,
-            "durationSeconds": 8171,
-            "rawScore": 57.8,
-            "normalizedScore": 77.8,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.8
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 129.7,
-                "engagement": 29.1,
-                "subscriberRatio": 62.7,
-                "freshness": 26.1
-            }
-        },
-        {
-            "rank": 19,
-            "previousRank": 39,
-            "rankChange": 20,
-            "videoId": "U0byYckQEEE",
-            "title": "臓器を集めて脱出する協力ゲームなのに1人だけ裏切り者がいます【臓器女】",
-            "channelId": "UClNdVSK1uy2xFHTaXZYXopw",
-            "channelName": "らっだぁ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/U0byYckQEEE/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T09:00:37Z",
-            "viewCount": 283080,
-            "viewIncrease": 54866,
-            "likeCount": 8043,
-            "likeIncrease": 516,
-            "commentCount": 218,
-            "commentIncrease": 6,
-            "subscriberCount": 1510000,
-            "durationSeconds": 1356,
-            "rawScore": 55.9,
-            "normalizedScore": 75.0,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.8
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 140.1,
-                "engagement": 20.6,
-                "subscriberRatio": 64.0,
-                "freshness": 24.9
-            }
-        },
-        {
-            "rank": 20,
-            "videoId": "-m4ZpCW4mB8",
-            "title": "【朝カフェ☕作業用BGM】初秋の穏やかな朝カフェ洋楽🍂夏の終わりにサヨナラを♪🎧4時間｜リラックスBGM｜Autumn Cafe Music｜Chill &Relax Playlist",
-            "channelId": "UCgnVONNaQdCHLKArTTntydg",
-            "channelName": "wavehibi",
-            "thumbnailUrl": "https://i.ytimg.com/vi/-m4ZpCW4mB8/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T22:00:30Z",
-            "viewCount": 427,
-            "viewIncrease": 427,
-            "likeCount": 3,
-            "likeIncrease": 3,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 34200,
-            "durationSeconds": 51,
-            "isShort": true,
-            "rawScore": 54.3,
-            "normalizedScore": 73.6,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.99
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 44.6,
-                "engagement": 16.3,
-                "subscriberRatio": 52.5,
-                "freshness": 56.3,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 21,
-            "previousRank": 63,
-            "rankChange": 42,
-            "videoId": "-3Y32jF1HDw",
-            "title": "【99％の人がひっかかるらしい】  #クイズ #歌ってみた  #にゃるは  #山下学園",
-            "channelId": "UC-bZHxqfAgVlr_plHf_mjwg",
-            "channelName": "にゃるは",
-            "thumbnailUrl": "https://i.ytimg.com/vi/-3Y32jF1HDw/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T14:00:39Z",
-            "viewCount": 9869,
-            "viewIncrease": 5457,
-            "likeCount": 376,
-            "likeIncrease": 223,
-            "commentCount": 13,
-            "commentIncrease": 5,
-            "subscriberCount": 102000,
-            "durationSeconds": 12,
-            "isShort": true,
-            "rawScore": 53.8,
-            "normalizedScore": 72.2,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.7
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 105.0,
-                "engagement": 38.2,
-                "subscriberRatio": 68.2,
-                "freshness": 29.9,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 22,
-            "previousRank": 58,
-            "rankChange": 36,
+            "rank": 29,
+            "previousRank": 91,
+            "rankChange": 62,
             "videoId": "37X8VVly1y8",
             "title": "エアロピクルス (Live at YouTube Music Weekend 12.0)",
             "channelId": "UCaQwG17UuFQ5PRTZWSinihQ",
             "channelName": "コメアニメ",
             "thumbnailUrl": "https://i.ytimg.com/vi/37X8VVly1y8/maxresdefault.jpg",
             "publishedAt": "2026-09-06T03:00:32Z",
-            "viewCount": 444986,
-            "viewIncrease": 49078,
-            "likeCount": 8448,
-            "likeIncrease": 503,
-            "commentCount": 287,
-            "commentIncrease": 9,
+            "viewCount": 572278,
+            "viewIncrease": 127292,
+            "likeCount": 10138,
+            "likeIncrease": 1690,
+            "commentCount": 319,
+            "commentIncrease": 32,
             "subscriberCount": 202000,
             "durationSeconds": 287,
-            "rawScore": 52.1,
-            "normalizedScore": 70.8,
+            "rawScore": 47.0,
+            "normalizedScore": 60.6,
             "genres": [
                 {
                     "slug": "music",
@@ -828,37 +1083,144 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 138.4,
-                "engagement": 22.3,
-                "subscriberRatio": 84.6,
-                "freshness": 21.2
+                "velocity": 144.5,
+                "engagement": 25.0,
+                "subscriberRatio": 95.0,
+                "freshness": 17.8
             }
         },
         {
-            "rank": 23,
-            "previousRank": 46,
-            "rankChange": 23,
-            "videoId": "S1SjNlJlmB0",
-            "title": "【チャンピオンズ】ちょっとした強化で化けそうなポケモン",
-            "channelId": "UCFEwEYHIvpuKOfMQlsrSHfQ",
-            "channelName": "ゆっくりレジギガス",
-            "thumbnailUrl": "https://i.ytimg.com/vi/S1SjNlJlmB0/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T08:00:10Z",
-            "viewCount": 108165,
-            "viewIncrease": 18652,
-            "likeCount": 707,
-            "likeIncrease": 47,
-            "commentCount": 262,
-            "commentIncrease": 8,
-            "subscriberCount": 224000,
-            "durationSeconds": 1237,
-            "rawScore": 51.3,
-            "normalizedScore": 69.4,
+            "rank": 30,
+            "previousRank": 95,
+            "rankChange": 65,
+            "videoId": "FyS5dAywkEo",
+            "title": "LISA - SaWaDiKa (Official Music Video)",
+            "channelId": "UCg3ymxYCmURj5BFtbgMt-Og",
+            "channelName": "LISAOfficialVEVO",
+            "thumbnailUrl": "https://i.ytimg.com/vi/FyS5dAywkEo/maxresdefault.jpg",
+            "publishedAt": "2026-09-04T00:00:05Z",
+            "viewCount": 135804193,
+            "viewIncrease": 5076997,
+            "likeCount": 2221730,
+            "likeIncrease": 47889,
+            "commentCount": 222029,
+            "commentIncrease": 3952,
+            "subscriberCount": 701,
+            "durationSeconds": 187,
+            "rawScore": 46.2,
+            "normalizedScore": 59.2,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 200.5,
+                "engagement": 26.6,
+                "subscriberRatio": 192.6,
+                "freshness": 11.0
+            }
+        },
+        {
+            "rank": 31,
+            "previousRank": 75,
+            "rankChange": 44,
+            "videoId": "U0byYckQEEE",
+            "title": "臓器を集めて脱出する協力ゲームなのに1人だけ裏切り者がいます【臓器女】",
+            "channelId": "UClNdVSK1uy2xFHTaXZYXopw",
+            "channelName": "らっだぁ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/U0byYckQEEE/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T09:00:37Z",
+            "viewCount": 353593,
+            "viewIncrease": 70513,
+            "likeCount": 9535,
+            "likeIncrease": 1492,
+            "commentCount": 230,
+            "commentIncrease": 12,
+            "subscriberCount": 1510000,
+            "durationSeconds": 1356,
+            "rawScore": 45.4,
+            "normalizedScore": 57.7,
             "genres": [
                 {
                     "slug": "gaming",
                     "name": "ゲーム",
-                    "confidence": 0.3
+                    "confidence": 0.8
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 135.5,
+                "engagement": 27.4,
+                "subscriberRatio": 66.8,
+                "freshness": 19.8
+            }
+        },
+        {
+            "rank": 32,
+            "previousRank": 69,
+            "rankChange": 37,
+            "videoId": "V6mnkiZZXDU",
+            "title": "LEE JISOO / MISMATCH -teaser-",
+            "channelId": "UCWPDq5P9K2hNKFaN5WSfclw",
+            "channelName": "HANA official",
+            "thumbnailUrl": "https://i.ytimg.com/vi/V6mnkiZZXDU/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T12:00:24Z",
+            "viewCount": 428544,
+            "viewIncrease": 114634,
+            "likeCount": 10809,
+            "likeIncrease": 1721,
+            "commentCount": 284,
+            "commentIncrease": 19,
+            "subscriberCount": 446000,
+            "durationSeconds": 22,
+            "isShort": true,
+            "rawScore": 45.2,
+            "normalizedScore": 56.3,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.7
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 142.9,
+                "engagement": 24.8,
+                "subscriberRatio": 85.3,
+                "freshness": 21.0,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 33,
+            "videoId": "tYm_ffDJU1A",
+            "title": "理想の島を50人で作ってみた - マインクラフト【KUN】",
+            "channelId": "UCoQhX2O93MVTWfgIz-8wOmg",
+            "channelName": "KUNの50人クラフト",
+            "thumbnailUrl": "https://i.ytimg.com/vi/tYm_ffDJU1A/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T07:00:01Z",
+            "viewCount": 178087,
+            "viewIncrease": 32502,
+            "likeCount": 2856,
+            "likeIncrease": 375,
+            "commentCount": 208,
+            "commentIncrease": 24,
+            "subscriberCount": 589000,
+            "durationSeconds": 7432,
+            "rawScore": 41.9,
+            "normalizedScore": 54.9,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.5
                 },
                 {
                     "slug": "music",
@@ -869,67 +1231,40 @@
                     "slug": "vtuber",
                     "name": "VTuber",
                     "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 123.7,
-                "engagement": 15.8,
-                "subscriberRatio": 73.0,
-                "freshness": 24.1
-            }
-        },
-        {
-            "rank": 24,
-            "videoId": "FyS5dAywkEo",
-            "title": "LISA - SaWaDiKa (Official Music Video)",
-            "channelId": "UCg3ymxYCmURj5BFtbgMt-Og",
-            "channelName": "LISAOfficialVEVO",
-            "thumbnailUrl": "https://i.ytimg.com/vi/FyS5dAywkEo/maxresdefault.jpg",
-            "publishedAt": "2026-09-04T00:00:05Z",
-            "viewCount": 130727196,
-            "viewIncrease": 9390900,
-            "likeCount": 2173841,
-            "likeIncrease": 42301,
-            "commentCount": 218077,
-            "commentIncrease": 3507,
-            "subscriberCount": 688,
-            "durationSeconds": 187,
-            "rawScore": 51.0,
-            "normalizedScore": 68.1,
-            "genres": [
+                },
                 {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.6
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.1
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 218.3,
-                "engagement": 18.8,
-                "subscriberRatio": 199.3,
-                "freshness": 11.7
+                "velocity": 123.8,
+                "engagement": 27.8,
+                "subscriberRatio": 68.6,
+                "freshness": 19.0
             }
         },
         {
-            "rank": 25,
-            "previousRank": 42,
-            "rankChange": 17,
+            "rank": 34,
+            "previousRank": 96,
+            "rankChange": 62,
             "videoId": "KIHL-jrgUMs",
             "title": "【登場選手予想】おいマジかよ！！今年もダルセレがくるぞ！！登場選手をガチで当てに行きます！！【プロスピA】# 1953",
             "channelId": "UCy9GuRXGTm8TliQ-OJ7KwzA",
             "channelName": "【V.I.P】",
             "thumbnailUrl": "https://i.ytimg.com/vi/KIHL-jrgUMs/maxresdefault.jpg",
             "publishedAt": "2026-09-06T09:08:10Z",
-            "viewCount": 149585,
-            "viewIncrease": 22064,
-            "likeCount": 1820,
-            "likeIncrease": 94,
-            "commentCount": 428,
-            "commentIncrease": 8,
+            "viewCount": 178128,
+            "viewIncrease": 28543,
+            "likeCount": 2023,
+            "likeIncrease": 203,
+            "commentCount": 462,
+            "commentIncrease": 34,
             "subscriberCount": 962000,
             "durationSeconds": 854,
-            "rawScore": 50.9,
-            "normalizedScore": 66.7,
+            "rawScore": 41.6,
+            "normalizedScore": 53.5,
             "genres": [
                 {
                     "slug": "gaming",
@@ -953,318 +1288,103 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 126.3,
-                "engagement": 18.4,
-                "subscriberRatio": 59.1,
-                "freshness": 25.0
+                "velocity": 121.8,
+                "engagement": 26.5,
+                "subscriberRatio": 61.8,
+                "freshness": 19.8
             }
         },
         {
-            "rank": 26,
-            "previousRank": 90,
-            "rankChange": 64,
-            "videoId": "QJLf3Ly5APs",
-            "title": "イエス/Acid BlackCherry #歌ってみた #アカペラ #cover #V系 #イエス #AcidBlackCherry",
-            "channelId": "UCSu_0o9fj2h71FAE_cBbPgA",
-            "channelName": "yu",
-            "thumbnailUrl": "https://i.ytimg.com/vi/QJLf3Ly5APs/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T13:08:31Z",
-            "viewCount": 1118,
-            "viewIncrease": 622,
-            "likeCount": 2,
-            "likeIncrease": 1,
+            "rank": 35,
+            "previousRank": 71,
+            "rankChange": 36,
+            "videoId": "7XfvKWFxBtE",
+            "title": "闇が深すぎて「大学の地図から消された校舎」を題材としたホラーゲーム【白栄大学 0号館】",
+            "channelId": "UCzXjPL7zo0bxhOYDxLJ9YEg",
+            "channelName": "ポッキー",
+            "thumbnailUrl": "https://i.ytimg.com/vi/7XfvKWFxBtE/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T10:27:11Z",
+            "viewCount": 163149,
+            "viewIncrease": 41454,
+            "likeCount": 1993,
+            "likeIncrease": 434,
+            "commentCount": 114,
+            "commentIncrease": 11,
+            "subscriberCount": 3780000,
+            "durationSeconds": 8171,
+            "rawScore": 41.1,
+            "normalizedScore": 52.1,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.8
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 127.5,
+                "engagement": 23.5,
+                "subscriberRatio": 51.1,
+                "freshness": 20.3
+            }
+        },
+        {
+            "rank": 36,
+            "videoId": "CYRFJR2r84c",
+            "title": "【睡眠・作業用BGM 】90年代〜2000年代 R&B スロージャムMIX 🌙  #shorts #RnB #Chill #chillmusic #洋楽 #djmix",
+            "channelId": "UCz_TVbjwMqtumAs6GN5bqmw",
+            "channelName": "DJ Calico",
+            "thumbnailUrl": "https://i.ytimg.com/vi/CYRFJR2r84c/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T08:30:09Z",
+            "viewCount": 24,
+            "viewIncrease": 24,
+            "likeCount": 0,
+            "likeIncrease": 0,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 8,
-            "durationSeconds": 68,
-            "rawScore": 50.3,
-            "normalizedScore": 65.3,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 72.1,
-                "engagement": 7.5,
-                "subscriberRatio": 94.8,
-                "freshness": 28.8
-            }
-        },
-        {
-            "rank": 27,
-            "previousRank": 61,
-            "rankChange": 34,
-            "videoId": "tYm_ffDJU1A",
-            "title": "理想の島を50人で作ってみた - マインクラフト【KUN】",
-            "channelId": "UCoQhX2O93MVTWfgIz-8wOmg",
-            "channelName": "KUNの50人クラフト",
-            "thumbnailUrl": "https://i.ytimg.com/vi/tYm_ffDJU1A/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T07:00:01Z",
-            "viewCount": 145585,
-            "viewIncrease": 21052,
-            "likeCount": 2481,
-            "likeIncrease": 131,
-            "commentCount": 184,
-            "commentIncrease": 10,
-            "subscriberCount": 589000,
-            "durationSeconds": 7432,
-            "rawScore": 49.6,
-            "normalizedScore": 63.9,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.5
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.1
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 125.5,
-                "engagement": 21.8,
-                "subscriberRatio": 63.9,
-                "freshness": 23.5
-            }
-        },
-        {
-            "rank": 28,
-            "videoId": "4Ew5NBEtZPM",
-            "title": "This Amazing Gadget Will Change Your Life! 🤩 Must-Have Tool!",
-            "channelId": "UC-09Kc_SCOdyGaPnnCIRwKA",
-            "channelName": "Buzzify That Buzz",
-            "thumbnailUrl": "https://i.ytimg.com/vi/4Ew5NBEtZPM/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T20:15:11Z",
-            "viewCount": 1142,
-            "viewIncrease": 1142,
-            "likeCount": 15,
-            "likeIncrease": 15,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 156000,
-            "durationSeconds": 49,
+            "subscriberCount": 39,
+            "durationSeconds": 58,
             "isShort": true,
-            "rawScore": 48.5,
-            "normalizedScore": 62.5,
+            "rawScore": 40.8,
+            "normalizedScore": 50.7,
             "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.3
-                },
                 {
                     "slug": "music",
                     "name": "音楽",
-                    "confidence": 0.2
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 59.0,
-                "engagement": 20.7,
-                "subscriberRatio": 46.8,
-                "freshness": 45.1,
+                "velocity": 10.5,
+                "engagement": 0.0,
+                "subscriberRatio": 59.6,
+                "freshness": 68.5,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 29,
-            "videoId": "Rbl0Lfdbeto",
-            "title": "#backnumber #バックナンバー#水平線#歌ってみた#中学1年生は #ギター #アコギ #弾き語り",
-            "channelId": "UCKpLXuxGJ9AiKW7Hw0SqrzA",
-            "channelName": "ゼロアンドチョック🍫",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Rbl0Lfdbeto/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T14:04:08Z",
-            "viewCount": 1068,
-            "viewIncrease": 1068,
-            "likeCount": 5,
-            "likeIncrease": 5,
-            "commentCount": 4,
-            "commentIncrease": 4,
-            "subscriberCount": 74,
-            "durationSeconds": 35,
-            "isShort": true,
-            "rawScore": 47.9,
-            "normalizedScore": 61.1,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.7
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 58.0,
-                "engagement": 29.1,
-                "subscriberRatio": 100.7,
-                "freshness": 30.0,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 30,
-            "previousRank": 67,
-            "rankChange": 37,
-            "videoId": "Xfjatg6kpB0",
-            "title": "【歌ってみた】絶対零度 / くろこちゃ #vtuber #windbreaker #shorts",
-            "channelId": "UCoX_ETXDQLX7T1WzhDNwIQQ",
-            "channelName": "ごまふろこちゃ / Gomafu Rokocha",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Xfjatg6kpB0/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T14:05:42Z",
-            "viewCount": 1511,
-            "viewIncrease": 653,
-            "likeCount": 98,
-            "likeIncrease": 22,
-            "commentCount": 54,
-            "commentIncrease": 3,
-            "subscriberCount": 24500,
-            "durationSeconds": 31,
-            "isShort": true,
-            "rawScore": 45.4,
-            "normalizedScore": 59.7,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.7
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.5
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 72.9,
-                "engagement": 44.3,
-                "subscriberRatio": 60.7,
-                "freshness": 30.1,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 31,
-            "previousRank": 86,
-            "rankChange": 55,
-            "videoId": "mctaE__rS90",
-            "title": "KUNがギリ知らなそうなもの建築選手権 - マインクラフト【KUN】",
-            "channelId": "UCGjV4bsC43On-YuiLZcfL0w",
-            "channelName": "KUN",
-            "thumbnailUrl": "https://i.ytimg.com/vi/mctaE__rS90/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T05:00:15Z",
-            "viewCount": 202965,
-            "viewIncrease": 22812,
-            "likeCount": 3435,
-            "likeIncrease": 159,
-            "commentCount": 238,
-            "commentIncrease": 5,
-            "subscriberCount": 1670000,
-            "durationSeconds": 2011,
-            "rawScore": 44.6,
-            "normalizedScore": 58.3,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.5
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.1
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 126.8,
-                "engagement": 20.1,
-                "subscriberRatio": 53.5,
-                "freshness": 22.3
-            }
-        },
-        {
-            "rank": 32,
-            "videoId": "x0W40excwZs",
-            "title": "【複数視点】ドパタウンを全力で楽しむ叶ｗｗｗ（SURGE Town）【叶/にじさんじ切り抜き】",
-            "channelId": "UCeuNlK0yX-6_4930q0JUGNw",
-            "channelName": "白瀬",
-            "thumbnailUrl": "https://i.ytimg.com/vi/x0W40excwZs/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T02:43:16Z",
-            "viewCount": 264202,
-            "viewIncrease": 13886,
-            "likeCount": 2419,
-            "likeIncrease": 68,
-            "commentCount": 85,
-            "commentIncrease": 1,
-            "subscriberCount": 206000,
-            "durationSeconds": 1898,
-            "rawScore": 43.4,
-            "normalizedScore": 56.9,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 119.2,
-                "engagement": 15.5,
-                "subscriberRatio": 70.7,
-                "freshness": 21.1
-            }
-        },
-        {
-            "rank": 33,
+            "rank": 37,
             "videoId": "7nmvfmUiWEE",
             "title": "One Shot TV size （『仮面ライダーマイス』主題歌）",
             "channelId": "UCd4jeh7Gte72F9jB8hAB2Cw",
             "channelName": "THE RAMPAGE from EXILE TRIBE - Topic",
             "thumbnailUrl": "https://i.ytimg.com/vi/7nmvfmUiWEE/maxresdefault.jpg",
             "publishedAt": "2026-09-05T10:00:32Z",
-            "viewCount": 288602,
-            "viewIncrease": 33086,
-            "likeCount": 6592,
-            "likeIncrease": 295,
-            "commentCount": 347,
-            "commentIncrease": 8,
+            "viewCount": 347494,
+            "viewIncrease": 58892,
+            "likeCount": 7297,
+            "likeIncrease": 705,
+            "commentCount": 374,
+            "commentIncrease": 27,
             "subscriberCount": 7170,
             "durationSeconds": 82,
-            "rawScore": 43.3,
-            "normalizedScore": 55.6,
+            "rawScore": 40.4,
+            "normalizedScore": 49.3,
             "genres": [
                 {
                     "slug": "music",
@@ -1273,102 +1393,146 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 132.4,
-                "engagement": 22.1,
-                "subscriberRatio": 116.6,
-                "freshness": 16.0
+                "velocity": 132.8,
+                "engagement": 26.2,
+                "subscriberRatio": 122.9,
+                "freshness": 14.3
             }
         },
         {
-            "rank": 34,
-            "previousRank": 95,
-            "rankChange": 61,
-            "videoId": "YiMQaAFKW9k",
-            "title": "愛してるひとつ頂戴#晩餐歌 #tuki #cover #歌ってみた",
-            "channelId": "UC8Cwa8byBbq7eKqBtN1LIJQ",
-            "channelName": "みゆら",
-            "thumbnailUrl": "https://i.ytimg.com/vi/YiMQaAFKW9k/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T12:56:16Z",
-            "viewCount": 1202,
-            "viewIncrease": 458,
-            "likeCount": 3,
-            "likeIncrease": 0,
-            "commentCount": 2,
-            "commentIncrease": 1,
-            "subscriberCount": 21,
-            "durationSeconds": 25,
-            "isShort": true,
-            "rawScore": 41.8,
-            "normalizedScore": 54.2,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 67.5,
-                "engagement": 12.9,
-                "subscriberRatio": 91.5,
-                "freshness": 28.6,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 35,
-            "previousRank": 82,
-            "rankChange": 47,
-            "videoId": "rA0dE2jic4I",
-            "title": "【仮面シンガーが】アイ･アイ･ア 全力で歌ってみた⁉️#ado #歌ってみた #cover",
-            "channelId": "UC_De2J1ioywsj9tYgXImYDw",
-            "channelName": "メレン / Meren",
-            "thumbnailUrl": "https://i.ytimg.com/vi/rA0dE2jic4I/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T13:25:41Z",
-            "viewCount": 1261,
-            "viewIncrease": 332,
-            "likeCount": 6,
-            "likeIncrease": 1,
-            "commentCount": 1,
+            "rank": 38,
+            "videoId": "1ExF0J1oLwo",
+            "title": "Anchor Flame",
+            "channelId": "UCu40TBiWdu0Ow8MLFcU2alQ",
+            "channelName": "Nana Mizuki - Topic",
+            "thumbnailUrl": "https://i.ytimg.com/vi/1ExF0J1oLwo/maxresdefault.jpg",
+            "publishedAt": "2026-09-05T10:00:20Z",
+            "viewCount": 58124,
+            "viewIncrease": 58124,
+            "likeCount": 1544,
+            "likeIncrease": 1544,
+            "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 267,
-            "durationSeconds": 19,
-            "isShort": true,
-            "rawScore": 40.1,
-            "normalizedScore": 52.8,
+            "subscriberCount": 4220,
+            "durationSeconds": 249,
+            "rawScore": 39.1,
+            "normalizedScore": 47.9,
             "genres": [
                 {
                     "slug": "music",
                     "name": "音楽",
-                    "confidence": 0.7
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 62.7,
-                "engagement": 10.9,
-                "subscriberRatio": 88.0,
-                "freshness": 29.2,
-                "formatAdjustment": 85.0
+                "velocity": 118.5,
+                "engagement": 25.9,
+                "subscriberRatio": 128.5,
+                "freshness": 14.3
             }
         },
         {
-            "rank": 36,
+            "rank": 39,
+            "videoId": "mctaE__rS90",
+            "title": "KUNがギリ知らなそうなもの建築選手権 - マインクラフト【KUN】",
+            "channelId": "UCGjV4bsC43On-YuiLZcfL0w",
+            "channelName": "KUN",
+            "thumbnailUrl": "https://i.ytimg.com/vi/mctaE__rS90/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T05:00:15Z",
+            "viewCount": 235313,
+            "viewIncrease": 32348,
+            "likeCount": 3811,
+            "likeIncrease": 376,
+            "commentCount": 254,
+            "commentIncrease": 16,
+            "subscriberCount": 1670000,
+            "durationSeconds": 2011,
+            "rawScore": 38.1,
+            "normalizedScore": 46.5,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.5
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 123.7,
+                "engagement": 26.3,
+                "subscriberRatio": 57.2,
+                "freshness": 18.4
+            }
+        },
+        {
+            "rank": 40,
+            "videoId": "x0W40excwZs",
+            "title": "【複数視点】ドパタウンを全力で楽しむ叶ｗｗｗ（SURGE Town）【叶/にじさんじ切り抜き】",
+            "channelId": "UCeuNlK0yX-6_4930q0JUGNw",
+            "channelName": "白瀬",
+            "thumbnailUrl": "https://i.ytimg.com/vi/x0W40excwZs/maxresdefault.jpg",
+            "publishedAt": "2026-09-06T02:43:16Z",
+            "viewCount": 282515,
+            "viewIncrease": 18313,
+            "likeCount": 2610,
+            "likeIncrease": 191,
+            "commentCount": 89,
+            "commentIncrease": 4,
+            "subscriberCount": 206000,
+            "durationSeconds": 1898,
+            "rawScore": 37.5,
+            "normalizedScore": 45.1,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 115.0,
+                "engagement": 22.9,
+                "subscriberRatio": 73.7,
+                "freshness": 17.7
+            }
+        },
+        {
+            "rank": 41,
             "videoId": "e3ArQ6xgpfs",
             "title": "爆裂愛してる / いずれ菖蒲か杜若【歌ってみた】",
             "channelId": "UCYjdP5F0ds2D6deMo5rpoyw",
             "channelName": "いずれ菖蒲か杜若",
             "thumbnailUrl": "https://i.ytimg.com/vi/e3ArQ6xgpfs/maxresdefault.jpg",
             "publishedAt": "2026-09-05T13:00:06Z",
-            "viewCount": 306603,
-            "viewIncrease": 25684,
-            "likeCount": 13558,
-            "likeIncrease": 247,
-            "commentCount": 372,
-            "commentIncrease": 3,
+            "viewCount": 334023,
+            "viewIncrease": 27420,
+            "likeCount": 14271,
+            "likeIncrease": 713,
+            "commentCount": 381,
+            "commentIncrease": 9,
             "subscriberCount": 163000,
             "durationSeconds": 207,
-            "rawScore": 38.1,
-            "normalizedScore": 51.4,
+            "rawScore": 34.4,
+            "normalizedScore": 43.7,
             "genres": [
                 {
                     "slug": "music",
@@ -1382,30 +1546,30 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 128.6,
-                "engagement": 20.9,
-                "subscriberRatio": 79.9,
-                "freshness": 16.6
+                "velocity": 121.2,
+                "engagement": 30.8,
+                "subscriberRatio": 80.7,
+                "freshness": 14.8
             }
         },
         {
-            "rank": 37,
+            "rank": 42,
             "videoId": "V_PDo4_K8OI",
             "title": "青春コンプレックス / MyGO!!!!! cover ver.",
             "channelId": "UC80p_16pSSHA8YmtCVdX51w",
             "channelName": "MyGO!!!!!",
             "thumbnailUrl": "https://i.ytimg.com/vi/V_PDo4_K8OI/maxresdefault.jpg",
             "publishedAt": "2026-09-05T12:00:00Z",
-            "viewCount": 338917,
-            "viewIncrease": 28727,
-            "likeCount": 16592,
-            "likeIncrease": 327,
-            "commentCount": 560,
-            "commentIncrease": 8,
+            "viewCount": 363959,
+            "viewIncrease": 25042,
+            "likeCount": 17300,
+            "likeIncrease": 708,
+            "commentCount": 574,
+            "commentIncrease": 14,
             "subscriberCount": 234000,
             "durationSeconds": 206,
-            "rawScore": 38.0,
-            "normalizedScore": 50.0,
+            "rawScore": 33.5,
+            "normalizedScore": 42.3,
             "genres": [
                 {
                     "slug": "music",
@@ -1419,30 +1583,30 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 130.3,
-                "engagement": 24.2,
-                "subscriberRatio": 77.2,
-                "freshness": 16.4
+                "velocity": 119.8,
+                "engagement": 33.3,
+                "subscriberRatio": 75.7,
+                "freshness": 14.6
             }
         },
         {
-            "rank": 38,
+            "rank": 43,
             "videoId": "cOr-TUxo8Kw",
             "title": "夏空メドレー：Tell Your World × ただ風を追いかけて / 初音ミク＆ロビン【崩壊：スターレイル】",
             "channelId": "UCJwGWV914kBlV4dKRn7AEFA",
             "channelName": "Hatsune Miku",
             "thumbnailUrl": "https://i.ytimg.com/vi/cOr-TUxo8Kw/maxresdefault.jpg",
             "publishedAt": "2026-09-05T10:00:06Z",
-            "viewCount": 1125027,
-            "viewIncrease": 83494,
-            "likeCount": 73127,
-            "likeIncrease": 2526,
-            "commentCount": 1521,
-            "commentIncrease": 31,
+            "viewCount": 1213929,
+            "viewIncrease": 88902,
+            "likeCount": 77025,
+            "likeIncrease": 3898,
+            "commentCount": 1568,
+            "commentIncrease": 47,
             "subscriberCount": 4640000,
             "durationSeconds": 175,
-            "rawScore": 37.6,
-            "normalizedScore": 48.6,
+            "rawScore": 33.4,
+            "normalizedScore": 40.8,
             "genres": [
                 {
                     "slug": "music",
@@ -1451,31 +1615,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 146.5,
-                "engagement": 32.4,
-                "subscriberRatio": 56.4,
-                "freshness": 16.0
+                "velocity": 139.0,
+                "engagement": 36.5,
+                "subscriberRatio": 57.1,
+                "freshness": 14.3
             }
         },
         {
-            "rank": 39,
+            "rank": 44,
             "videoId": "5ElBjw-6F3s",
             "title": "映画館が一瞬でパニックに",
             "channelId": "UCI5xnmGDN5oN0hB4wgc-OIw",
             "channelName": "教えてショート",
             "thumbnailUrl": "https://i.ytimg.com/vi/5ElBjw-6F3s/maxresdefault.jpg",
             "publishedAt": "2026-09-04T09:00:16Z",
-            "viewCount": 3139504,
-            "viewIncrease": 289147,
-            "likeCount": 46737,
-            "likeIncrease": 2645,
-            "commentCount": 2449,
-            "commentIncrease": 100,
-            "subscriberCount": 15800,
+            "viewCount": 3468374,
+            "viewIncrease": 328870,
+            "likeCount": 56240,
+            "likeIncrease": 9503,
+            "commentCount": 2750,
+            "commentIncrease": 301,
+            "subscriberCount": 16000,
             "durationSeconds": 29,
             "isShort": true,
-            "rawScore": 34.0,
-            "normalizedScore": 47.2,
+            "rawScore": 32.4,
+            "normalizedScore": 39.4,
             "genres": [
                 {
                     "slug": "music",
@@ -1489,31 +1653,97 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 165.4,
-                "engagement": 23.3,
-                "subscriberRatio": 131.6,
-                "freshness": 12.5,
+                "velocity": 158.9,
+                "engagement": 35.5,
+                "subscriberRatio": 132.8,
+                "freshness": 11.7,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 40,
+            "rank": 45,
+            "videoId": "UF2rHapYjK4",
+            "title": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
+            "channelId": "UCORTBFZ5MjsvTrWVj0eOweA",
+            "channelName": "YAO - Topic",
+            "thumbnailUrl": "https://i.ytimg.com/vi/UF2rHapYjK4/maxresdefault.jpg",
+            "publishedAt": "2026-09-03T10:02:26Z",
+            "viewCount": 266821,
+            "viewIncrease": 19068,
+            "likeCount": 7771,
+            "likeIncrease": 276,
+            "commentCount": 301,
+            "commentIncrease": 7,
+            "subscriberCount": 161,
+            "durationSeconds": 235,
+            "rawScore": 27.9,
+            "normalizedScore": 38.0,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 115.7,
+                "engagement": 26.8,
+                "subscriberRatio": 132.0,
+                "freshness": 10.2
+            }
+        },
+        {
+            "rank": 45,
+            "videoId": "imw4bOTsvWg",
+            "title": "【30分作業用BGM / 汚染された街 × Deep House】毒気をまとった、深く沈み込む都会派グルーヴ｜不思議な音色に落ち着く音楽｜作業用・読書・リラックス",
+            "channelId": "UC9jrFGFWoTF06iefVGTpmpQ",
+            "channelName": "異種融合BGM",
+            "thumbnailUrl": "https://i.ytimg.com/vi/imw4bOTsvWg/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T08:30:17Z",
+            "viewCount": 6,
+            "viewIncrease": 6,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 35,
+            "durationSeconds": 31,
+            "isShort": true,
+            "rawScore": 27.9,
+            "normalizedScore": 38.0,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.5
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 3.4,
+                "engagement": 0.0,
+                "subscriberRatio": 44.6,
+                "freshness": 68.5,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 47,
             "videoId": "l1UOPIr76CA",
             "title": "DECO*27 - 洗脳 feat. 初音ミク",
             "channelId": "UCGmO0S4S-AunjRdmxA6TQYg",
             "channelName": "DECO*27",
             "thumbnailUrl": "https://i.ytimg.com/vi/l1UOPIr76CA/maxresdefault.jpg",
             "publishedAt": "2026-09-04T10:00:06Z",
-            "viewCount": 1075193,
-            "viewIncrease": 49019,
-            "likeCount": 59838,
-            "likeIncrease": 1133,
-            "commentCount": 1552,
-            "commentIncrease": 14,
+            "viewCount": 1142036,
+            "viewIncrease": 66843,
+            "likeCount": 61889,
+            "likeIncrease": 2051,
+            "commentCount": 1573,
+            "commentIncrease": 21,
             "subscriberCount": 2880000,
             "durationSeconds": 173,
-            "rawScore": 28.2,
-            "normalizedScore": 45.8,
+            "rawScore": 26.5,
+            "normalizedScore": 35.2,
             "genres": [
                 {
                     "slug": "music",
@@ -1522,176 +1752,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 138.4,
-                "engagement": 29.5,
-                "subscriberRatio": 55.8,
-                "freshness": 12.6
+                "velocity": 134.7,
+                "engagement": 31.9,
+                "subscriberRatio": 59.2,
+                "freshness": 11.7
             }
         },
         {
-            "rank": 41,
-            "videoId": "wSWM4TLhVFk",
-            "title": "【作業用BGM】そっと目が覚める朝のlofi #shorts",
-            "channelId": "UCOmDgzZkuMlT14NvoOCZKVw",
-            "channelName": "Hisa Yuki",
-            "thumbnailUrl": "https://i.ytimg.com/vi/wSWM4TLhVFk/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T23:00:34Z",
-            "viewCount": 6,
-            "viewIncrease": 6,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 20,
-            "durationSeconds": 41,
-            "isShort": true,
-            "rawScore": 27.8,
-            "normalizedScore": 44.4,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 3.4,
-                "engagement": 0.0,
-                "subscriberRatio": 44.6,
-                "freshness": 68.2,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 42,
-            "videoId": "UF2rHapYjK4",
-            "title": "ありふれた世界の果てに (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
-            "channelId": "UCORTBFZ5MjsvTrWVj0eOweA",
-            "channelName": "YAO - Topic",
-            "thumbnailUrl": "https://i.ytimg.com/vi/UF2rHapYjK4/maxresdefault.jpg",
-            "publishedAt": "2026-09-03T10:02:26Z",
-            "viewCount": 247753,
-            "viewIncrease": 5802,
-            "likeCount": 7495,
-            "likeIncrease": 70,
-            "commentCount": 294,
-            "commentIncrease": 0,
-            "subscriberCount": 161,
-            "durationSeconds": 235,
-            "rawScore": 26.3,
-            "normalizedScore": 43.1,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 106.0,
-                "engagement": 20.1,
-                "subscriberRatio": 119.1,
-                "freshness": 10.7
-            }
-        },
-        {
-            "rank": 43,
-            "videoId": "jnp7op0rYFk",
-            "title": "【マイクラ映画】ベリティ vs ガガピー",
-            "channelId": "UCdg6QfeRTKRrMfxmxZEyvkQ",
-            "channelName": "やぎさん",
-            "thumbnailUrl": "https://i.ytimg.com/vi/jnp7op0rYFk/maxresdefault.jpg",
-            "publishedAt": "2026-09-05T08:00:20Z",
-            "viewCount": 404945,
-            "viewIncrease": 3186,
-            "likeCount": 2669,
-            "likeIncrease": 52,
-            "commentCount": 88,
-            "commentIncrease": 0,
-            "subscriberCount": 479000,
-            "durationSeconds": 815,
-            "rawScore": 25.7,
-            "normalizedScore": 41.7,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "anime",
-                    "name": "アニメ",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 96.9,
-                "engagement": 22.3,
-                "subscriberRatio": 45.7,
-                "freshness": 15.6
-            }
-        },
-        {
-            "rank": 44,
-            "videoId": "IKJaLVgyfCM",
-            "title": "【作業用BGM】締切までの、静かな伴走｜集中のためのスタディカフェ｜Study Café Radio｜集中・カフェBGM【LIVE】",
-            "channelId": "UCilZnXNFysnBXaXIfunMxBg",
-            "channelName": "Chill Lofi Cat Music",
-            "thumbnailUrl": "https://i.ytimg.com/vi/IKJaLVgyfCM/maxresdefault.jpg",
-            "publishedAt": "2026-09-06T21:32:24Z",
-            "viewCount": 6,
-            "viewIncrease": 6,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 560,
-            "durationSeconds": 2050,
-            "rawScore": 25.3,
-            "normalizedScore": 40.3,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.85
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 3.4,
-                "engagement": 0.0,
-                "subscriberRatio": 44.6,
-                "freshness": 52.6
-            }
-        },
-        {
-            "rank": 45,
+            "rank": 48,
             "videoId": "laKfYfl2Rww",
             "title": "一生を空で過ごした機長の最初で最後の笑顔",
             "channelId": "UCTzMXSNX2ZcCgSz1dsmDWXQ",
             "channelName": "豆腐屋",
             "thumbnailUrl": "https://i.ytimg.com/vi/laKfYfl2Rww/maxresdefault.jpg",
             "publishedAt": "2026-09-02T22:15:37Z",
-            "viewCount": 4693884,
-            "viewIncrease": 113311,
-            "likeCount": 58162,
-            "likeIncrease": 983,
-            "commentCount": 781,
-            "commentIncrease": 14,
-            "subscriberCount": 24600,
+            "viewCount": 4937997,
+            "viewIncrease": 244113,
+            "likeCount": 61789,
+            "likeIncrease": 3627,
+            "commentCount": 827,
+            "commentIncrease": 46,
+            "subscriberCount": 25100,
             "durationSeconds": 44,
             "isShort": true,
-            "rawScore": 24.6,
-            "normalizedScore": 38.9,
+            "rawScore": 24.8,
+            "normalizedScore": 33.8,
             "genres": [
                 {
                     "slug": "music",
@@ -1700,32 +1785,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 151.1,
-                "engagement": 20.2,
-                "subscriberRatio": 116.6,
-                "freshness": 10.1,
+                "velocity": 154.4,
+                "engagement": 25.1,
+                "subscriberRatio": 124.7,
+                "freshness": 9.6,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 46,
+            "rank": 49,
             "videoId": "BDUItFbK_U4",
             "title": "FictionJunction 「彼方」(『劇場版 魔法少女まどか☆マギカ 〈ワルプルギスの廻天〉』主題歌) Music Video",
             "channelId": "UCI_ZEKKftZPbDQZg1LaQapA",
             "channelName": "FictionJunction Official YouTube Channel",
             "thumbnailUrl": "https://i.ytimg.com/vi/BDUItFbK_U4/maxresdefault.jpg",
             "publishedAt": "2026-08-27T15:00:00Z",
-            "viewCount": 1419966,
-            "viewIncrease": 13923,
-            "sevenDayViewIncrease": 744764,
-            "likeCount": 25408,
-            "likeIncrease": 77,
-            "commentCount": 1486,
-            "commentIncrease": 6,
+            "viewCount": 1444356,
+            "viewIncrease": 24390,
+            "sevenDayViewIncrease": 755244,
+            "likeCount": 25628,
+            "likeIncrease": 220,
+            "commentCount": 1500,
+            "commentIncrease": 14,
             "subscriberCount": 56400,
             "durationSeconds": 330,
-            "rawScore": 24.2,
-            "normalizedScore": 37.5,
+            "rawScore": 24.6,
+            "normalizedScore": 32.4,
             "genres": [
                 {
                     "slug": "music",
@@ -1744,108 +1829,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 119.3,
-                "engagement": 20.7,
-                "subscriberRatio": 84.8,
-                "freshness": 6.3,
+                "velocity": 119.4,
+                "engagement": 25.1,
+                "subscriberRatio": 90.9,
+                "freshness": 6.2,
                 "sevenDayVelocity": 10.0
             }
         },
         {
-            "rank": 47,
-            "videoId": "--rTmGtUFhI",
-            "title": "XG - NO GOOD (Performance Video)",
-            "channelId": "UC12HMtO5MYph9dCZZ7yygng",
-            "channelName": "XG",
-            "thumbnailUrl": "https://i.ytimg.com/vi/--rTmGtUFhI/maxresdefault.jpg",
-            "publishedAt": "2026-09-03T09:00:28Z",
-            "viewCount": 1833011,
-            "viewIncrease": 54996,
-            "likeCount": 76811,
-            "likeIncrease": 1151,
-            "commentCount": 2776,
-            "commentIncrease": 12,
-            "subscriberCount": 4870000,
-            "durationSeconds": 161,
-            "rawScore": 23.4,
-            "normalizedScore": 36.1,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 140.1,
-                "engagement": 28.0,
-                "subscriberRatio": 51.4,
-                "freshness": 10.7
-            }
-        },
-        {
-            "rank": 47,
-            "videoId": "iRIrYIE0hrg",
-            "title": "#歌ってみた #art #math #mizisua #drawing #helpmemakethismakesense #boost #fyp #memes #advice #wemmbu",
-            "channelId": "UCf9nSvTr6oq-Ur7sF_Qosxw",
-            "channelName": "⋆˚꩜｡misamii ᐢᴗ͈ ᴗ͈ᐢ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/iRIrYIE0hrg/maxresdefault.jpg",
-            "publishedAt": "2026-08-31T10:55:33Z",
-            "viewCount": 1436601,
-            "viewIncrease": 1436601,
-            "likeCount": 41583,
-            "likeIncrease": 41583,
-            "commentCount": 5460,
-            "commentIncrease": 5460,
-            "subscriberCount": 49700,
-            "durationSeconds": 13,
-            "isShort": true,
-            "rawScore": 23.4,
-            "normalizedScore": 36.1,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 167.2,
-                "engagement": 42.2,
-                "subscriberRatio": 136.5,
-                "freshness": 7.9,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 49,
+            "rank": 50,
             "videoId": "EUCRNhQlKYc",
             "title": "Motoki Ohmori -「灰色」Official MV",
             "channelId": "UCWprqhsiw88d-j07y7mETXw",
             "channelName": "大森元貴 / Motoki Ohmori",
             "thumbnailUrl": "https://i.ytimg.com/vi/EUCRNhQlKYc/maxresdefault.jpg",
             "publishedAt": "2026-08-26T11:03:51Z",
-            "viewCount": 4817168,
-            "viewIncrease": 34484,
-            "sevenDayViewIncrease": 2535012,
-            "likeCount": 64601,
-            "likeIncrease": 64,
-            "commentCount": 3792,
-            "commentIncrease": 16,
-            "subscriberCount": 591000,
+            "viewCount": 4934852,
+            "viewIncrease": 117684,
+            "sevenDayViewIncrease": 2627237,
+            "likeCount": 64824,
+            "likeIncrease": 223,
+            "commentCount": 3813,
+            "commentIncrease": 21,
+            "subscriberCount": 592000,
             "durationSeconds": 276,
-            "rawScore": 23.0,
-            "normalizedScore": 33.3,
+            "rawScore": 24.0,
+            "normalizedScore": 31.0,
             "genres": [
                 {
                     "slug": "music",
@@ -1854,44 +1863,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 133.0,
-                "engagement": 14.5,
-                "subscriberRatio": 69.2,
-                "freshness": 6.0,
-                "sevenDayVelocity": 10.0
-            }
-        },
-        {
-            "rank": 50,
-            "videoId": "nPpMou3jno4",
-            "title": "点描の唄  / 戌亥とこ × 甲斐田晴 (cover) 【歌ってみた】",
-            "channelId": "UCo2N7C-Z91waaR6lF3LL_jw",
-            "channelName": "甲斐田 晴 / Kaida Haru【にじさんじ】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/nPpMou3jno4/maxresdefault.jpg",
-            "publishedAt": "2026-08-30T13:00:07Z",
-            "viewCount": 663751,
-            "viewIncrease": 6039,
-            "sevenDayViewIncrease": 551402,
-            "likeCount": 28510,
-            "likeIncrease": 43,
-            "commentCount": 715,
-            "commentIncrease": 0,
-            "subscriberCount": 742000,
-            "durationSeconds": 306,
-            "rawScore": 22.7,
-            "normalizedScore": 31.9,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.7
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 106.6,
-                "engagement": 16.4,
-                "subscriberRatio": 47.9,
-                "freshness": 7.5,
+                "velocity": 143.3,
+                "engagement": 11.6,
+                "subscriberRatio": 82.5,
+                "freshness": 5.9,
                 "sevenDayVelocity": 10.0
             }
         }
