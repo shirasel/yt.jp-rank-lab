@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-07T23:46:20.422818946Z",
+    "generatedAt": "2026-09-08T08:20:35.414086823Z",
     "period": "24h",
     "genre": {
         "slug": "gadgets",
@@ -7,68 +7,113 @@
         "confidence": 0.1
     },
     "status": "reference",
-    "totalVideos": 17,
-    "totalChannels": 17,
+    "totalVideos": 15,
+    "totalChannels": 14,
     "ranking": [
         {
             "rank": 1,
-            "videoId": "UDsR3AJKyFs",
-            "title": "【ひろゆき】学校の勉強は生産性を上げるのか【切り抜き】",
-            "channelId": "UCqK3KYqEeeJiAWr4nSryJYQ",
-            "channelName": "ひろゆき解説ch【切り抜き】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/UDsR3AJKyFs/maxresdefault.jpg",
-            "publishedAt": "2026-09-07T22:00:23Z",
-            "viewCount": 785,
-            "viewIncrease": 785,
-            "likeCount": 1,
-            "likeIncrease": 1,
+            "videoId": "PfiROmq2-V4",
+            "title": "『ストリートファイター6』アルジュン（Arjun）ゲームプレイトレーラー",
+            "channelId": "UCyuEAZQzRqhcaLZvQd9ZUNA",
+            "channelName": "CapcomChannel",
+            "thumbnailUrl": "https://i.ytimg.com/vi/PfiROmq2-V4/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T22:58:06Z",
+            "viewCount": 414584,
+            "viewIncrease": 414584,
+            "likeCount": 7291,
+            "likeIncrease": 7291,
+            "subscriberCount": 831000,
+            "durationSeconds": 165,
+            "rawScore": 78.2,
+            "normalizedScore": 100.0,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.8
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 148.3,
+                "engagement": 22.8,
+                "subscriberRatio": 92.5,
+                "freshness": 29.7
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "pH76qR3oiig",
+            "title": "【親子で一緒に】『親子自主練オンライン勉強会』を開催決定🏀🔥完全オンライン&完全無料でスマホ1台で受けることができます🏀詳細は概要欄のリンクから✨#バスケ #ミニバス #自主練",
+            "channelId": "UC5vTJ3znVKBn4udB21JQT5Q",
+            "channelName": "mituakiTV",
+            "thumbnailUrl": "https://i.ytimg.com/vi/pH76qR3oiig/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T06:00:10Z",
+            "viewCount": 791,
+            "viewIncrease": 791,
+            "likeCount": 6,
+            "likeIncrease": 6,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 9,
-            "durationSeconds": 40,
+            "subscriberCount": 153000,
+            "durationSeconds": 59,
             "isShort": true,
-            "rawScore": 69.0,
-            "normalizedScore": 100.0,
+            "rawScore": 46.3,
+            "normalizedScore": 92.9,
             "genres": [
                 {
                     "slug": "learning",
                     "name": "学習・情報",
-                    "confidence": 0.35
+                    "confidence": 0.4
                 },
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
                     "confidence": 0.3
+                },
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 53.5,
-                "engagement": 6.4,
-                "subscriberRatio": 97.4,
-                "freshness": 51.6,
+                "velocity": 53.6,
+                "engagement": 16.8,
+                "subscriberRatio": 43.0,
+                "freshness": 48.0,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 2,
-            "previousRank": 6,
-            "rankChange": 4,
+            "rank": 3,
+            "previousRank": 63,
+            "rankChange": 60,
             "videoId": "8k2ySwIdgVg",
             "title": "【#ミリしらスト6チャレンジ】ここが伝説のはじまり、ってワケ・・・【にじさんじ】",
             "channelId": "UCuep1JCrMvSxOGgGhBfJuYw",
             "channelName": "フレン・E・ルスタリオ",
             "thumbnailUrl": "https://i.ytimg.com/vi/8k2ySwIdgVg/maxresdefault.jpg",
             "publishedAt": "2026-09-07T15:29:22Z",
-            "viewCount": 324748,
-            "viewIncrease": 11062,
-            "likeCount": 4131,
-            "likeIncrease": 126,
-            "commentCount": 43,
-            "commentIncrease": 6,
+            "viewCount": 340414,
+            "viewIncrease": 15666,
+            "likeCount": 4317,
+            "likeIncrease": 186,
+            "commentCount": 51,
+            "commentIncrease": 8,
             "subscriberCount": 833000,
             "durationSeconds": 11604,
-            "rawScore": 62.0,
-            "normalizedScore": 93.8,
+            "rawScore": 45.5,
+            "normalizedScore": 85.7,
             "genres": [
                 {
                     "slug": "gaming",
@@ -82,71 +127,30 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 119.1,
-                "engagement": 26.5,
-                "subscriberRatio": 53.2,
-                "freshness": 31.2
-            }
-        },
-        {
-            "rank": 3,
-            "videoId": "5FL1WGLLT58",
-            "title": "その巻き方、寿命を縮めてます #充電ケーブル #豆知識 #ガジェット",
-            "channelId": "UCxNvyL7Hr-92ZLgde4qar-w",
-            "channelName": "面白すぎる知識-動画教材",
-            "thumbnailUrl": "https://i.ytimg.com/vi/5FL1WGLLT58/maxresdefault.jpg",
-            "publishedAt": "2026-09-07T21:00:35Z",
-            "viewCount": 738,
-            "viewIncrease": 738,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 146,
-            "durationSeconds": 53,
-            "isShort": true,
-            "rawScore": 60.8,
-            "normalizedScore": 87.5,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "learning",
-                    "name": "学習・情報",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 52.6,
-                "engagement": 6.7,
-                "subscriberRatio": 96.7,
-                "freshness": 45.9,
-                "formatAdjustment": 85.0
+                "velocity": 114.2,
+                "engagement": 26.6,
+                "subscriberRatio": 56.9,
+                "freshness": 23.0
             }
         },
         {
             "rank": 4,
-            "previousRank": 68,
-            "rankChange": 64,
             "videoId": "5AP06j9bZrs",
             "title": "【直前まとめ】Appleイベントで何が出る？何が出ない?!iPhone 18 Pro・折りたたみiPhoneなど最新予想！",
             "channelId": "UCV4KlwQA-H7XnT3or0m53Hg",
             "channelName": "みずおじさん / 誰でも分かるスマホ講座",
             "thumbnailUrl": "https://i.ytimg.com/vi/5AP06j9bZrs/maxresdefault.jpg",
             "publishedAt": "2026-09-07T09:00:31Z",
-            "viewCount": 124349,
-            "viewIncrease": 14229,
-            "likeCount": 588,
-            "likeIncrease": 42,
-            "commentCount": 130,
-            "commentIncrease": 16,
+            "viewCount": 151710,
+            "viewIncrease": 27361,
+            "likeCount": 675,
+            "likeIncrease": 87,
+            "commentCount": 144,
+            "commentIncrease": 14,
             "subscriberCount": 699000,
             "durationSeconds": 672,
-            "rawScore": 49.2,
-            "normalizedScore": 81.2,
+            "rawScore": 40.8,
+            "normalizedScore": 78.6,
             "genres": [
                 {
                     "slug": "learning",
@@ -170,64 +174,28 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 123.0,
-                "engagement": 20.6,
-                "subscriberRatio": 57.8,
-                "freshness": 24.4
+                "velocity": 122.7,
+                "engagement": 17.8,
+                "subscriberRatio": 64.8,
+                "freshness": 19.9
             }
         },
         {
             "rank": 5,
-            "videoId": "utR6kf2gDFU",
-            "title": "A Cleaning Gadget You Need!",
-            "channelId": "UC35lf-xHzni2qb6hldKclQw",
-            "channelName": "Problems Solved Shop",
-            "thumbnailUrl": "https://i.ytimg.com/vi/utR6kf2gDFU/maxresdefault.jpg",
-            "publishedAt": "2026-09-07T17:29:39Z",
-            "viewCount": 2802,
-            "viewIncrease": 2802,
-            "likeCount": 37,
-            "likeIncrease": 37,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 61000,
-            "durationSeconds": 19,
-            "isShort": true,
-            "rawScore": 48.8,
-            "normalizedScore": 75.0,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 72.5,
-                "engagement": 26.1,
-                "subscriberRatio": 66.6,
-                "freshness": 34.8,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 6,
-            "previousRank": 89,
-            "rankChange": 83,
             "videoId": "ym5INqYmLQw",
             "title": "『モンスターハンターワイルズ：アセンダンス』武器紹介動画：チャージアックス",
             "channelId": "UCyuEAZQzRqhcaLZvQd9ZUNA",
             "channelName": "CapcomChannel",
             "thumbnailUrl": "https://i.ytimg.com/vi/ym5INqYmLQw/maxresdefault.jpg",
             "publishedAt": "2026-09-07T06:00:07Z",
-            "viewCount": 330810,
-            "viewIncrease": 9962,
-            "likeCount": 3616,
-            "likeIncrease": 58,
-            "subscriberCount": 830000,
+            "viewCount": 352464,
+            "viewIncrease": 21654,
+            "likeCount": 3757,
+            "likeIncrease": 141,
+            "subscriberCount": 831000,
             "durationSeconds": 77,
-            "rawScore": 41.5,
-            "normalizedScore": 68.8,
+            "rawScore": 36.7,
+            "normalizedScore": 71.4,
             "genres": [
                 {
                     "slug": "gaming",
@@ -246,115 +214,30 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 117.5,
-                "engagement": 15.0,
-                "subscriberRatio": 52.1,
-                "freshness": 22.5
+                "velocity": 119.1,
+                "engagement": 15.8,
+                "subscriberRatio": 60.4,
+                "freshness": 18.8
             }
         },
         {
-            "rank": 7,
-            "previousRank": 97,
-            "rankChange": 90,
-            "videoId": "gkRgSLyxN_0",
-            "title": "693円とは思えんクオリティ高すぎセザンヌアイシャドウ‼️ #美容 #コスメレビュー #コスメレポ #メイク #makeup #japancosmetics #セザンヌ #アイシャドウ #shorts",
-            "channelId": "UCqKxCTSCBhOl8FvkAvua6Qw",
-            "channelName": "めるも【ステマしません⚠️】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/gkRgSLyxN_0/maxresdefault.jpg",
-            "publishedAt": "2026-09-07T12:00:08Z",
-            "viewCount": 11975,
-            "viewIncrease": 1459,
-            "likeCount": 144,
-            "likeIncrease": 32,
-            "commentCount": 1,
-            "commentIncrease": 0,
-            "subscriberCount": 58000,
-            "durationSeconds": 21,
-            "isShort": true,
-            "rawScore": 39.6,
-            "normalizedScore": 62.5,
-            "genres": [
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.99
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 88.4,
-                "engagement": 24.5,
-                "subscriberRatio": 60.1,
-                "freshness": 27.0,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 8,
-            "videoId": "k5zhlyKCvL0",
-            "title": "【揃ってなかったです】 #錦糸町ショート #錦糸町美容室  #ヘアカタログ #イメチェンカット #ショートヘア #ショートボブ    /",
-            "channelId": "UCgFd8vD6oBnSzX-ODelC_tA",
-            "channelName": "イメチェン・ショート特化美容師かずさん",
-            "thumbnailUrl": "https://i.ytimg.com/vi/k5zhlyKCvL0/maxresdefault.jpg",
-            "publishedAt": "2026-09-07T12:00:07Z",
-            "viewCount": 3191,
-            "viewIncrease": 589,
-            "likeCount": 21,
-            "likeIncrease": 6,
-            "commentCount": 1,
-            "commentIncrease": 0,
-            "subscriberCount": 10700,
-            "durationSeconds": 51,
-            "isShort": true,
-            "rawScore": 37.1,
-            "normalizedScore": 56.2,
-            "genres": [
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.9
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 74.7,
-                "engagement": 18.9,
-                "subscriberRatio": 68.5,
-                "freshness": 27.0,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 9,
+            "rank": 6,
             "videoId": "J1Ej8Xl9fsI",
             "title": "ジンバル内蔵スマホ、HONOR Robot Phoneの現地発表会に唯一の日本人YopuTuberとして参加してきました！スマホもそうだけど会場もやばいw #スマホレビュー #スマホ発表会",
             "channelId": "UCpO8TazCQ81WDwDh9OTB5zQ",
             "channelName": "はっすーのスマホ屋さん",
             "thumbnailUrl": "https://i.ytimg.com/vi/J1Ej8Xl9fsI/maxresdefault.jpg",
             "publishedAt": "2026-09-06T08:43:20Z",
-            "viewCount": 78901,
-            "viewIncrease": 2584,
-            "likeCount": 1479,
-            "likeIncrease": 44,
-            "commentCount": 91,
-            "commentIncrease": 1,
+            "viewCount": 83891,
+            "viewIncrease": 4990,
+            "likeCount": 1574,
+            "likeIncrease": 95,
+            "commentCount": 98,
+            "commentIncrease": 7,
             "subscriberCount": 40400,
             "durationSeconds": 82,
-            "rawScore": 30.5,
-            "normalizedScore": 50.0,
+            "rawScore": 29.6,
+            "normalizedScore": 64.3,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -363,31 +246,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 97.1,
-                "engagement": 28.2,
-                "subscriberRatio": 70.2,
-                "freshness": 15.6
+                "velocity": 96.8,
+                "engagement": 34.3,
+                "subscriberRatio": 77.3,
+                "freshness": 14.2
             }
         },
         {
-            "rank": 10,
+            "rank": 7,
             "videoId": "5ElBjw-6F3s",
             "title": "映画館が一瞬でパニックに",
             "channelId": "UCI5xnmGDN5oN0hB4wgc-OIw",
             "channelName": "教えてショート",
             "thumbnailUrl": "https://i.ytimg.com/vi/5ElBjw-6F3s/maxresdefault.jpg",
             "publishedAt": "2026-09-04T09:00:16Z",
-            "viewCount": 4216041,
-            "viewIncrease": 83239,
-            "likeCount": 75604,
-            "likeIncrease": 2446,
-            "commentCount": 3410,
-            "commentIncrease": 91,
-            "subscriberCount": 16200,
+            "viewCount": 4507540,
+            "viewIncrease": 291499,
+            "likeCount": 83436,
+            "likeIncrease": 7832,
+            "commentCount": 3663,
+            "commentIncrease": 253,
+            "subscriberCount": 16300,
             "durationSeconds": 29,
             "isShort": true,
-            "rawScore": 27.4,
-            "normalizedScore": 43.8,
+            "rawScore": 28.0,
+            "normalizedScore": 57.1,
             "genres": [
                 {
                     "slug": "music",
@@ -401,31 +284,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 149.8,
-                "engagement": 36.4,
-                "subscriberRatio": 117.8,
-                "freshness": 10.6,
+                "velocity": 158.6,
+                "engagement": 34.7,
+                "subscriberRatio": 131.3,
+                "freshness": 10.1,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 11,
+            "rank": 8,
             "videoId": "9f4OuheFU5s",
             "title": "Full Video Below! #skit #gaming #comedy #relatable #pc",
             "channelId": "UCdyMFblTjr-C2N-T5TGftQQ",
             "channelName": "Nathan Doan Comedy",
             "thumbnailUrl": "https://i.ytimg.com/vi/9f4OuheFU5s/maxresdefault.jpg",
             "publishedAt": "2026-09-03T19:25:58Z",
-            "viewCount": 2090450,
-            "viewIncrease": 81144,
-            "likeCount": 116027,
-            "likeIncrease": 3180,
-            "commentCount": 1569,
-            "commentIncrease": 26,
+            "viewCount": 2196043,
+            "viewIncrease": 105593,
+            "likeCount": 120428,
+            "likeIncrease": 4401,
+            "commentCount": 1645,
+            "commentIncrease": 76,
             "subscriberCount": 3860000,
             "durationSeconds": 180,
-            "rawScore": 23.9,
-            "normalizedScore": 37.5,
+            "rawScore": 22.9,
+            "normalizedScore": 50.0,
             "genres": [
                 {
                     "slug": "gaming",
@@ -439,32 +322,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 149.4,
-                "engagement": 33.9,
-                "subscriberRatio": 58.1,
-                "freshness": 9.9
+                "velocity": 143.2,
+                "engagement": 37.3,
+                "subscriberRatio": 61.0,
+                "freshness": 9.5
             }
         },
         {
-            "rank": 12,
+            "rank": 9,
             "videoId": "-Amau8pAD1Y",
             "title": "スマホで文字打つのがしんどい人、これ使ってみて！✨",
             "channelId": "UCJoI6biNx7Vvj9tISU2DkGA",
             "channelName": "Yui Komori",
             "thumbnailUrl": "https://i.ytimg.com/vi/-Amau8pAD1Y/maxresdefault.jpg",
             "publishedAt": "2026-08-29T04:42:29Z",
-            "viewCount": 1724945,
-            "viewIncrease": 6095,
-            "sevenDayViewIncrease": 1260480,
-            "likeCount": 15949,
-            "likeIncrease": 103,
-            "commentCount": 467,
-            "commentIncrease": 2,
-            "subscriberCount": 23300,
+            "viewCount": 1737734,
+            "viewIncrease": 12789,
+            "sevenDayViewIncrease": 1259443,
+            "likeCount": 16138,
+            "likeIncrease": 189,
+            "commentCount": 478,
+            "commentIncrease": 11,
+            "subscriberCount": 23500,
             "durationSeconds": 28,
             "isShort": true,
-            "rawScore": 20.8,
-            "normalizedScore": 31.2,
+            "rawScore": 21.2,
+            "normalizedScore": 42.9,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -473,32 +356,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 110.1,
-                "engagement": 27.6,
-                "subscriberRatio": 85.4,
-                "freshness": 6.5,
+                "velocity": 111.1,
+                "engagement": 30.3,
+                "subscriberRatio": 93.4,
+                "freshness": 6.4,
                 "sevenDayVelocity": 10.0,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 13,
+            "rank": 10,
             "videoId": "vXdD2U265is",
             "title": "これは悪意のあるレトロゲーム修理依頼…？",
             "channelId": "UCiBXkgUQ5rWeNehXsMimYRg",
             "channelName": "和田【Retro Games】",
             "thumbnailUrl": "https://i.ytimg.com/vi/vXdD2U265is/maxresdefault.jpg",
             "publishedAt": "2026-09-02T09:00:37Z",
-            "viewCount": 1395678,
-            "viewIncrease": 7872,
-            "likeCount": 31210,
-            "likeIncrease": 167,
-            "commentCount": 1255,
-            "commentIncrease": 6,
-            "subscriberCount": 221000,
+            "viewCount": 1418908,
+            "viewIncrease": 23230,
+            "likeCount": 31619,
+            "likeIncrease": 409,
+            "commentCount": 1278,
+            "commentIncrease": 23,
+            "subscriberCount": 222000,
             "durationSeconds": 67,
-            "rawScore": 18.0,
-            "normalizedScore": 25.0,
+            "rawScore": 18.9,
+            "normalizedScore": 35.7,
             "genres": [
                 {
                     "slug": "gaming",
@@ -512,32 +395,66 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 114.0,
-                "engagement": 32.4,
-                "subscriberRatio": 63.8,
-                "freshness": 8.6
+                "velocity": 120.2,
+                "engagement": 32.1,
+                "subscriberRatio": 75.5,
+                "freshness": 8.3
             }
         },
         {
-            "rank": 14,
+            "rank": 11,
+            "videoId": "1Ve4T7GOP9A",
+            "title": "Bike में पेट्रोल डालने का ये Gadget देखा? 👀😂#shorts",
+            "channelId": "UCglXlpWjIi95auM3umWWLdw",
+            "channelName": "Tech Master",
+            "thumbnailUrl": "https://i.ytimg.com/vi/1Ve4T7GOP9A/maxresdefault.jpg",
+            "publishedAt": "2026-09-03T13:00:15Z",
+            "viewCount": 7053435,
+            "viewIncrease": 258561,
+            "likeCount": 143365,
+            "likeIncrease": 4689,
+            "commentCount": 503,
+            "commentIncrease": 12,
+            "subscriberCount": 33500000,
+            "durationSeconds": 60,
+            "isShort": true,
+            "rawScore": 17.9,
+            "normalizedScore": 28.6,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 156.8,
+                "engagement": 24.2,
+                "subscriberRatio": 47.3,
+                "freshness": 9.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 12,
             "videoId": "MLJZL9bkLk8",
             "title": "毎月1万円近く払ってるならこれ知ってほしい",
             "channelId": "UCATv06SWiBTAyyf07mrRydA",
             "channelName": "ガジェット兄さん",
             "thumbnailUrl": "https://i.ytimg.com/vi/MLJZL9bkLk8/maxresdefault.jpg",
             "publishedAt": "2026-08-30T09:40:17Z",
-            "viewCount": 264071,
-            "viewIncrease": 177,
-            "sevenDayViewIncrease": 93351,
-            "likeCount": 1394,
-            "likeIncrease": 3,
-            "commentCount": 28,
-            "commentIncrease": 0,
-            "subscriberCount": 73200,
+            "viewCount": 264445,
+            "viewIncrease": 374,
+            "sevenDayViewIncrease": 89663,
+            "likeCount": 1398,
+            "likeIncrease": 4,
+            "commentCount": 29,
+            "commentIncrease": 1,
+            "subscriberCount": 73300,
             "durationSeconds": 23,
             "isShort": true,
-            "rawScore": 15.2,
-            "normalizedScore": 18.8,
+            "rawScore": 16.2,
+            "normalizedScore": 21.4,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -546,67 +463,33 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 56.6,
-                "engagement": 22.6,
-                "subscriberRatio": 35.0,
-                "freshness": 6.9,
+                "velocity": 57.7,
+                "engagement": 33.1,
+                "subscriberRatio": 42.9,
+                "freshness": 6.8,
                 "sevenDayVelocity": 10.0,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 15,
-            "videoId": "1Ve4T7GOP9A",
-            "title": "Bike में पेट्रोल डालने का ये Gadget देखा? 👀😂#shorts",
-            "channelId": "UCglXlpWjIi95auM3umWWLdw",
-            "channelName": "Tech Master",
-            "thumbnailUrl": "https://i.ytimg.com/vi/1Ve4T7GOP9A/maxresdefault.jpg",
-            "publishedAt": "2026-09-03T13:00:15Z",
-            "viewCount": 6794874,
-            "viewIncrease": 41952,
-            "likeCount": 138676,
-            "likeIncrease": 228,
-            "commentCount": 491,
-            "commentIncrease": 1,
-            "subscriberCount": 33500000,
-            "durationSeconds": 60,
-            "isShort": true,
-            "rawScore": 14.9,
-            "normalizedScore": 12.5,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 139.4,
-                "engagement": 15.1,
-                "subscriberRatio": 28.3,
-                "freshness": 9.6,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 16,
+            "rank": 13,
             "videoId": "zb2eqcaTpt4",
             "title": "PS5の純正ゲーミングモニター【27\"ゲーミングモニター DualSense 充電フック付き（CFI-ZDM1J）】 #shorts",
             "channelId": "UCid9Vkt1HqbkPcLvK2US54A",
             "channelName": "ゲーミングPCチャンネル",
             "thumbnailUrl": "https://i.ytimg.com/vi/zb2eqcaTpt4/maxresdefault.jpg",
             "publishedAt": "2026-09-02T09:00:23Z",
-            "viewCount": 297105,
-            "viewIncrease": 2846,
-            "likeCount": 4326,
-            "likeIncrease": 42,
-            "commentCount": 221,
+            "viewCount": 300368,
+            "viewIncrease": 3263,
+            "likeCount": 4373,
+            "likeIncrease": 47,
+            "commentCount": 223,
             "commentIncrease": 2,
             "subscriberCount": 236000,
             "durationSeconds": 52,
             "isShort": true,
-            "rawScore": 13.1,
-            "normalizedScore": 6.2,
+            "rawScore": 12.2,
+            "normalizedScore": 14.3,
             "genres": [
                 {
                     "slug": "gaming",
@@ -625,31 +508,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 98.5,
-                "engagement": 29.4,
-                "subscriberRatio": 52.1,
-                "freshness": 8.6,
+                "velocity": 90.4,
+                "engagement": 28.7,
+                "subscriberRatio": 53.6,
+                "freshness": 8.3,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 17,
+            "rank": 14,
             "videoId": "gH9eyZ_tmTI",
             "title": "The Tiny Mop That Does EVERYTHING! 🤯 | Mini Mop",
             "channelId": "UCnxvhzINEXzpTaxbS59JL-g",
             "channelName": "SimpleGhar Tamil",
             "thumbnailUrl": "https://i.ytimg.com/vi/gH9eyZ_tmTI/maxresdefault.jpg",
             "publishedAt": "2026-08-27T14:20:01Z",
-            "viewCount": 3947720,
-            "viewIncrease": 7464,
-            "likeCount": 60276,
-            "likeIncrease": 22,
+            "viewCount": 3982561,
+            "viewIncrease": 34841,
+            "likeCount": 60771,
+            "likeIncrease": 495,
             "commentCount": 57,
             "commentIncrease": 0,
             "subscriberCount": 2940000,
             "durationSeconds": 83,
-            "rawScore": 9.6,
-            "normalizedScore": 0.0,
+            "rawScore": 11.8,
+            "normalizedScore": 7.1,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -658,10 +541,47 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 113.2,
-                "engagement": 10.7,
-                "subscriberRatio": 35.5,
-                "freshness": 6.0
+                "velocity": 126.3,
+                "engagement": 21.3,
+                "subscriberRatio": 51.9,
+                "freshness": 5.9
+            }
+        },
+        {
+            "rank": 15,
+            "videoId": "kPF_4rtd_NM",
+            "title": "【AIニュース解説】さらばGoogleアシスタント！Gemini完全移行と新型3.8Flashの衝撃",
+            "channelId": "UCml7KhyacturjCjDcM-NvYQ",
+            "channelName": "公式情報で読む☆ずんだAIニュース",
+            "thumbnailUrl": "https://i.ytimg.com/vi/kPF_4rtd_NM/maxresdefault.jpg",
+            "publishedAt": "2026-09-07T23:36:30Z",
+            "viewCount": 2,
+            "viewIncrease": 2,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 68,
+            "durationSeconds": 461,
+            "rawScore": 11.1,
+            "normalizedScore": 0.0,
+            "genres": [
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.95
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 3.2,
+                "engagement": 0.0,
+                "subscriberRatio": 33.1,
+                "freshness": 30.5
             }
         }
     ]
