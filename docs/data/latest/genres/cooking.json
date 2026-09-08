@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-09-08T08:20:35.414086823Z",
+    "generatedAt": "2026-09-08T13:52:51.321056383Z",
     "period": "24h",
     "genre": {
         "slug": "cooking",
@@ -7,33 +7,422 @@
         "confidence": 0.3
     },
     "status": "official",
-    "totalVideos": 22,
-    "totalChannels": 22,
+    "totalVideos": 28,
+    "totalChannels": 28,
     "ranking": [
         {
             "rank": 1,
-            "videoId": "N0qRxoz0-rM",
-            "title": "【ヤニねこ】どっちが可愛い？ #漫画 #アニメ #shorts #ヤニねこ",
-            "channelId": "UCNOsPzeKQ2syTMH9e8g1Mzw",
-            "channelName": "バズーる!イラスト大百科",
-            "thumbnailUrl": "https://i.ytimg.com/vi/N0qRxoz0-rM/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T07:41:39Z",
-            "viewCount": 3491,
-            "viewIncrease": 3491,
-            "likeCount": 67,
-            "likeIncrease": 67,
-            "commentCount": 6,
-            "commentIncrease": 6,
-            "subscriberCount": 8490,
-            "durationSeconds": 32,
-            "isShort": true,
-            "rawScore": 105.5,
+            "videoId": "QY2H3vPgzig",
+            "title": "サーモンをおいしく食べるには！２ #ai #料理 #プチ知識 #雑学 #やせる #魚",
+            "channelId": "UCiuAkD1GsNg3DcYwMOu8IHw",
+            "channelName": "神尾次郎",
+            "thumbnailUrl": "https://i.ytimg.com/vi/QY2H3vPgzig/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T12:30:24Z",
+            "viewCount": 2185,
+            "viewIncrease": 2185,
+            "likeCount": 8,
+            "likeIncrease": 8,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 161,
+            "durationSeconds": 113,
+            "rawScore": 103.1,
             "normalizedScore": 100.0,
             "genres": [
                 {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 68.7,
+                "engagement": 12.0,
+                "subscriberRatio": 108.5,
+                "freshness": 54.5
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "3gXJG6n3Ct4",
+            "title": "相性の悪いスキンケア成分、全部知ってた？",
+            "channelId": "UCyM3l0XFiiasigWCwE0Ulyg",
+            "channelName": "リョウタの美容ライフTV",
+            "thumbnailUrl": "https://i.ytimg.com/vi/3gXJG6n3Ct4/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T12:00:08Z",
+            "viewCount": 1800,
+            "viewIncrease": 1800,
+            "likeCount": 54,
+            "likeIncrease": 54,
+            "commentCount": 2,
+            "commentIncrease": 2,
+            "subscriberCount": 6650,
+            "durationSeconds": 89,
+            "rawScore": 95.8,
+            "normalizedScore": 96.3,
+            "genres": [
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.7
+                },
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 65.8,
+                "engagement": 36.6,
+                "subscriberRatio": 85.8,
+                "freshness": 50.9
+            }
+        },
+        {
+            "rank": 3,
+            "videoId": "t4H2RMAC9UA",
+            "title": "めっちゃ義理feat.ガナッシュサンド #shorts #料理",
+            "channelId": "UC1MxI2VxibHOHVmpzdvmZJQ",
+            "channelName": "なかのいつきの日常",
+            "thumbnailUrl": "https://i.ytimg.com/vi/t4H2RMAC9UA/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T11:19:38Z",
+            "viewCount": 29221,
+            "viewIncrease": 29221,
+            "likeCount": 3794,
+            "likeIncrease": 3794,
+            "commentCount": 34,
+            "commentIncrease": 34,
+            "subscriberCount": 652000,
+            "durationSeconds": 56,
+            "isShort": true,
+            "rawScore": 88.4,
+            "normalizedScore": 92.6,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 108.0,
+                "engagement": 47.5,
+                "subscriberRatio": 66.3,
+                "freshness": 46.9,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 4,
+            "videoId": "0azrWsPiYMU",
+            "title": "【作業雑談】ゼルダダイレクトも見る【Vtuber】",
+            "channelId": "UCyG7hwRLEfHLiK4lPt5g3vw",
+            "channelName": "シラクサアーカイブス",
+            "thumbnailUrl": "https://i.ytimg.com/vi/0azrWsPiYMU/maxresdefault_live.jpg",
+            "publishedAt": "2026-09-08T12:51:23Z",
+            "viewCount": 1771,
+            "viewIncrease": 1771,
+            "likeCount": 23,
+            "likeIncrease": 23,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 59800,
+            "rawScore": 85.2,
+            "normalizedScore": 88.9,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.8
+                },
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.2
+                },
+                {
                     "slug": "anime",
                     "name": "アニメ",
-                    "confidence": 0.7
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 65.6,
+                "engagement": 20.6,
+                "subscriberRatio": 61.8,
+                "freshness": 57.6
+            }
+        },
+        {
+            "rank": 5,
+            "videoId": "l72nT6IAiXQ",
+            "title": "ビールが進む最強のつまみ！　#おつまみ #料理 #簡単レシピ #ビール #おもしろ #ショート",
+            "channelId": "UCgEfprRh5S4i6dG0HSbGH1g",
+            "channelName": "こよいもふたり　-今日の締め-",
+            "thumbnailUrl": "https://i.ytimg.com/vi/l72nT6IAiXQ/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T12:00:01Z",
+            "viewCount": 451,
+            "viewIncrease": 451,
+            "likeCount": 3,
+            "likeIncrease": 3,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 38,
+            "durationSeconds": 62,
+            "rawScore": 77.6,
+            "normalizedScore": 85.2,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.8
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 45.4,
+                "engagement": 15.9,
+                "subscriberRatio": 91.4,
+                "freshness": 50.9
+            }
+        },
+        {
+            "rank": 5,
+            "videoId": "ni2NdjK1iwY",
+            "title": "エジプトおもしろショッピング　買ってみた！④ #エジプト #旅行＃ショッピング＃クルーズ",
+            "channelId": "UCv05yxlRDJpH91iw5h3ozmw",
+            "channelName": "エジプトちゃんねる",
+            "thumbnailUrl": "https://i.ytimg.com/vi/ni2NdjK1iwY/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T13:00:30Z",
+            "viewCount": 574,
+            "viewIncrease": 574,
+            "likeCount": 2,
+            "likeIncrease": 2,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 109,
+            "durationSeconds": 43,
+            "isShort": true,
+            "rawScore": 77.6,
+            "normalizedScore": 85.2,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 48.9,
+                "engagement": 11.7,
+                "subscriberRatio": 94.0,
+                "freshness": 59.1,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 7,
+            "videoId": "60B0VQdrK4g",
+            "title": "キャベツが長持ちする保存方法 #ライフハック #料理",
+            "channelId": "UC7T8AGiewmVfckWg_y3Rr_w",
+            "channelName": "家事のミカタ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/60B0VQdrK4g/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T11:18:02Z",
+            "viewCount": 2484,
+            "viewIncrease": 2484,
+            "likeCount": 112,
+            "likeIncrease": 112,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 32500,
+            "durationSeconds": 52,
+            "isShort": true,
+            "rawScore": 68.7,
+            "normalizedScore": 77.8,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 70.7,
+                "engagement": 29.9,
+                "subscriberRatio": 72.1,
+                "freshness": 46.8,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 8,
+            "videoId": "vMOPpvOGNn0",
+            "title": "【千葉メンズ美容室】女子ウケ抜群のメンズパーマtier",
+            "channelId": "UC3nIViChZqeitz50acvlnLw",
+            "channelName": "THE 3rd HAIR【ザ・サードヘアー】千葉・津田沼・柏・船橋メンズ美容室",
+            "thumbnailUrl": "https://i.ytimg.com/vi/vMOPpvOGNn0/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T11:56:29Z",
+            "viewCount": 2933,
+            "viewIncrease": 2933,
+            "likeCount": 11,
+            "likeIncrease": 11,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 31500,
+            "durationSeconds": 16,
+            "isShort": true,
+            "rawScore": 68.4,
+            "normalizedScore": 74.1,
+            "genres": [
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.99
+                },
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 73.2,
+                "engagement": 12.2,
+                "subscriberRatio": 74.2,
+                "freshness": 50.4,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 9,
+            "videoId": "H-clZCFFLVs",
+            "title": "カルボうどん食べながら雨の日過ごす　#カルボナーラ#料理#簡単レシピ　#ラヴ上等",
+            "channelId": "UC_uh8hd2HTm33wYiu158iEw",
+            "channelName": "てるまる",
+            "thumbnailUrl": "https://i.ytimg.com/vi/H-clZCFFLVs/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T11:16:17Z",
+            "viewCount": 843,
+            "viewIncrease": 843,
+            "likeCount": 8,
+            "likeIncrease": 8,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 14100,
+            "durationSeconds": 61,
+            "rawScore": 66.4,
+            "normalizedScore": 70.4,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.8
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 54.5,
+                "engagement": 18.4,
+                "subscriberRatio": 69.4,
+                "freshness": 46.6
+            }
+        },
+        {
+            "rank": 10,
+            "videoId": "exL1kkHDPSA",
+            "title": "実家の味を再現　ニラ玉編 #料理 #芸人 #お笑い",
+            "channelId": "UCdc1bmoMBamObfuFVrk5GGQ",
+            "channelName": "大和チャンネル",
+            "thumbnailUrl": "https://i.ytimg.com/vi/exL1kkHDPSA/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T12:00:21Z",
+            "viewCount": 357,
+            "viewIncrease": 357,
+            "likeCount": 5,
+            "likeIncrease": 5,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 40,
+            "durationSeconds": 57,
+            "isShort": true,
+            "rawScore": 65.7,
+            "normalizedScore": 66.7,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 42.0,
+                "engagement": 21.2,
+                "subscriberRatio": 88.8,
+                "freshness": 50.9,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 11,
+            "videoId": "rpOAZoJ9vRk",
+            "title": "ベトナムダナンの国内線ラウンジの食事260903 #旅行 #ベトナム航空 #ダナン旅行",
+            "channelId": "UCVp4lfi_1dM6I7XKysh3DTw",
+            "channelName": "ジャイGO!GO!TV",
+            "thumbnailUrl": "https://i.ytimg.com/vi/rpOAZoJ9vRk/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T13:00:25Z",
+            "viewCount": 381,
+            "viewIncrease": 381,
+            "likeCount": 1,
+            "likeIncrease": 1,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 4250,
+            "durationSeconds": 18,
+            "isShort": true,
+            "rawScore": 63.7,
+            "normalizedScore": 63.0,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
                 },
                 {
                     "slug": "cooking",
@@ -47,64 +436,64 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 75.8,
-                "engagement": 35.3,
-                "subscriberRatio": 90.4,
-                "freshness": 61.6,
+                "velocity": 43.0,
+                "engagement": 10.1,
+                "subscriberRatio": 73.8,
+                "freshness": 59.1,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 2,
-            "videoId": "ZQU-xQuwTtw",
-            "title": "回鍋肉で胃袋を掴みたい🔥#おうちごはん #晩御飯 #料理 #簡単レシピ #節約レシピ #今日の晩ごはん #レシピ #自炊 #cooking #料理動画 #簡単 #回鍋肉 #豚肉 #中華料理 #節約",
-            "channelId": "UCvHnqJlXtxgel9-C9mwcqbA",
-            "channelName": "あやかの節約ごはん",
-            "thumbnailUrl": "https://i.ytimg.com/vi/ZQU-xQuwTtw/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T07:00:02Z",
-            "viewCount": 674,
-            "viewIncrease": 674,
-            "likeCount": 16,
-            "likeIncrease": 16,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 400,
-            "durationSeconds": 96,
-            "rawScore": 100.3,
-            "normalizedScore": 95.2,
+            "rank": 12,
+            "videoId": "Qgkx3alZgN8",
+            "title": "レシピはコメント欄へ✨️#チキン #鶏肉 #レモン #チキンソテー #料理",
+            "channelId": "UCEg1115fc7EQ8oAEInn91Mw",
+            "channelName": "Kono.",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Qgkx3alZgN8/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T12:09:11Z",
+            "viewCount": 228,
+            "viewIncrease": 228,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 7,
+            "durationSeconds": 81,
+            "rawScore": 62.1,
+            "normalizedScore": 59.3,
             "genres": [
                 {
                     "slug": "cooking",
                     "name": "料理",
-                    "confidence": 0.99
+                    "confidence": 0.8
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 51.2,
-                "engagement": 36.2,
-                "subscriberRatio": 95.7,
-                "freshness": 54.8
+                "velocity": 35.7,
+                "engagement": 0.0,
+                "subscriberRatio": 84.0,
+                "freshness": 51.9
             }
         },
         {
-            "rank": 3,
-            "videoId": "e0nejQl3zQI",
-            "title": "子連れに対する正直な気持ち｜簡単悪魔飯レシピ #shorts #料理 #簡単レシピ #レシピ",
-            "channelId": "UClUOc28-mqwedH-pIDweKPQ",
-            "channelName": "酒と旅ゆく櫻子ﾁｬﾝ🍺‼️",
-            "thumbnailUrl": "https://i.ytimg.com/vi/e0nejQl3zQI/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T08:00:39Z",
-            "viewCount": 2298,
-            "viewIncrease": 2298,
-            "likeCount": 204,
-            "likeIncrease": 204,
-            "commentCount": 9,
-            "commentIncrease": 9,
-            "subscriberCount": 373000,
-            "durationSeconds": 45,
+            "rank": 13,
+            "videoId": "dnyrg6yfeDM",
+            "title": "包まないでレンジで簡単ワンタン #料理 #簡単レシピ",
+            "channelId": "UC32izOHrDFv_ZldQ2sUd84A",
+            "channelName": "えどがわ おうちごはん",
+            "thumbnailUrl": "https://i.ytimg.com/vi/dnyrg6yfeDM/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T11:00:26Z",
+            "viewCount": 750,
+            "viewIncrease": 750,
+            "likeCount": 7,
+            "likeIncrease": 7,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 2780,
+            "durationSeconds": 55,
             "isShort": true,
-            "rawScore": 92.3,
-            "normalizedScore": 90.5,
+            "rawScore": 60.4,
+            "normalizedScore": 55.6,
             "genres": [
                 {
                     "slug": "cooking",
@@ -123,268 +512,110 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 69.5,
-                "engagement": 50.9,
-                "subscriberRatio": 44.9,
-                "freshness": 65.7,
+                "velocity": 52.8,
+                "engagement": 18.3,
+                "subscriberRatio": 85.8,
+                "freshness": 45.3,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 4,
-            "videoId": "PMyZiJ6_4BU",
-            "title": "コレは職人技w #shorts #面白い #すごい #料理 #鉄板焼き",
-            "channelId": "UCmDtZILAKhbL2NHTQKo4VRQ",
-            "channelName": "なんでバズるのか",
-            "thumbnailUrl": "https://i.ytimg.com/vi/PMyZiJ6_4BU/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T07:00:02Z",
-            "viewCount": 2904,
-            "viewIncrease": 2904,
-            "likeCount": 29,
-            "likeIncrease": 29,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 1830,
-            "durationSeconds": 16,
-            "isShort": true,
-            "rawScore": 91.6,
-            "normalizedScore": 85.7,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 73.0,
-                "engagement": 18.7,
-                "subscriberRatio": 105.0,
-                "freshness": 54.8,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 5,
-            "videoId": "6YHG41sWdX8",
-            "title": "塩は料理に欠かせない調味料です。🧂 #映画 #shorts #まんぷく",
-            "channelId": "UCoTN9zhptDLr6liNC2SiEFg",
-            "channelName": "北条 律",
-            "thumbnailUrl": "https://i.ytimg.com/vi/6YHG41sWdX8/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T08:00:22Z",
-            "viewCount": 405,
-            "viewIncrease": 405,
-            "likeCount": 3,
-            "likeIncrease": 3,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 719,
-            "durationSeconds": 60,
-            "isShort": true,
-            "rawScore": 83.8,
-            "normalizedScore": 81.0,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 43.8,
-                "engagement": 16.6,
-                "subscriberRatio": 90.2,
-                "freshness": 65.5,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 6,
-            "videoId": "9G7ZgmnEQxc",
-            "title": "夕飯#short#shorts#料理#献立#JAPAN",
-            "channelId": "UCfub8yjoOrK3xnIB46Qu7nA",
-            "channelName": "ちずちゃんのお散歩日記",
-            "thumbnailUrl": "https://i.ytimg.com/vi/9G7ZgmnEQxc/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T07:34:59Z",
-            "viewCount": 475,
-            "viewIncrease": 475,
-            "likeCount": 4,
-            "likeIncrease": 4,
-            "commentCount": 3,
-            "commentIncrease": 3,
-            "subscriberCount": 3160,
-            "durationSeconds": 25,
-            "isShort": true,
-            "rawScore": 82.7,
-            "normalizedScore": 76.2,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 46.1,
-                "engagement": 35.7,
-                "subscriberRatio": 79.4,
-                "freshness": 60.3,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 7,
-            "videoId": "4-c7vmNKVgE",
-            "title": "【カボチャサラダ】#カボチャサラダ#サラダ#カボチャ#salad#料理#料理動画#おうちごはん#時短レシピ#簡単レシピ#shorts#shortsfeed",
-            "channelId": "UCKmiFsh_UYDjpTn5CKQ74Yg",
-            "channelName": "最高の晩餐(ばんさん)レシピ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/4-c7vmNKVgE/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T05:30:35Z",
-            "viewCount": 831,
-            "viewIncrease": 831,
-            "likeCount": 9,
-            "likeIncrease": 9,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 1790,
-            "durationSeconds": 129,
-            "rawScore": 75.2,
-            "normalizedScore": 71.4,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.99
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 54.3,
-                "engagement": 19.3,
-                "subscriberRatio": 91.7,
-                "freshness": 45.5
-            }
-        },
-        {
-            "rank": 8,
-            "videoId": "aAKpuLWGG6A",
-            "title": "ノンフライヤーで秋の味覚スイートポテト作り #料理  #簡単レシピ",
-            "channelId": "UCYbR9QOWOtlBhwuBu7h8KjA",
-            "channelName": "sology公式",
-            "thumbnailUrl": "https://i.ytimg.com/vi/aAKpuLWGG6A/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T07:15:07Z",
-            "viewCount": 573,
-            "viewIncrease": 573,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 817,
-            "durationSeconds": 20,
-            "isShort": true,
-            "rawScore": 73.0,
-            "normalizedScore": 66.7,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.99
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 48.9,
-                "engagement": 7.9,
-                "subscriberRatio": 94.0,
-                "freshness": 56.9,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 9,
-            "videoId": "lmjKJtM56qs",
-            "title": "ささげのじか煮です〜！ # #簡単レシピ #献立 #料理",
-            "channelId": "UC_emu84OyZOp5wUw_noRqrA",
-            "channelName": "ちぇりの幸せごはん♡",
-            "thumbnailUrl": "https://i.ytimg.com/vi/lmjKJtM56qs/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T07:48:03Z",
-            "viewCount": 287,
-            "viewIncrease": 287,
+            "rank": 14,
+            "videoId": "MkzdUFfrjoY",
+            "title": "カフェで勉強しない人の準備TOP6 #shorts",
+            "channelId": "UCBjju_eRQzUvC9B07skvX8g",
+            "channelName": "無添加ナッツ専門店72【公式】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/MkzdUFfrjoY/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T13:18:31Z",
+            "viewCount": 110,
+            "viewIncrease": 110,
             "likeCount": 0,
             "likeIncrease": 0,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 76,
-            "durationSeconds": 40,
+            "subscriberCount": 28,
+            "durationSeconds": 48,
             "isShort": true,
-            "rawScore": 67.0,
-            "normalizedScore": 61.9,
+            "rawScore": 54.2,
+            "normalizedScore": 51.9,
             "genres": [
                 {
                     "slug": "cooking",
                     "name": "料理",
-                    "confidence": 0.99
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 38.9,
+                "velocity": 26.1,
                 "engagement": 0.0,
-                "subscriberRatio": 86.5,
-                "freshness": 62.8,
+                "subscriberRatio": 76.0,
+                "freshness": 62.4,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 10,
-            "videoId": "tCh-Ek2ZRU0",
-            "title": "好きなものを求めて☺️#vlog #のんびり #日常 #料理",
-            "channelId": "UCCUpF6MS0kb6gI5cCLb88eA",
-            "channelName": "のんびり暮らすしまうま。",
-            "thumbnailUrl": "https://i.ytimg.com/vi/tCh-Ek2ZRU0/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T06:00:27Z",
-            "viewCount": 1019,
-            "viewIncrease": 1019,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 254,
-            "durationSeconds": 33,
+            "rank": 15,
+            "videoId": "a6idAPANxRg",
+            "title": "リジュランやってみた‼️ #美容",
+            "channelId": "UCHNUfqdaKE7a2pXzQXWTCqg",
+            "channelName": "医師 井上佐智子",
+            "thumbnailUrl": "https://i.ytimg.com/vi/a6idAPANxRg/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T11:00:36Z",
+            "viewCount": 291,
+            "viewIncrease": 291,
+            "likeCount": 7,
+            "likeIncrease": 7,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 17400,
+            "durationSeconds": 36,
             "isShort": true,
-            "rawScore": 66.5,
-            "normalizedScore": 57.1,
+            "rawScore": 52.0,
+            "normalizedScore": 48.1,
             "genres": [
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.9
+                },
                 {
                     "slug": "cooking",
                     "name": "料理",
-                    "confidence": 0.6
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 57.3,
-                "engagement": 5.3,
-                "subscriberRatio": 100.2,
-                "freshness": 48.0,
+                "velocity": 39.1,
+                "engagement": 40.3,
+                "subscriberRatio": 55.6,
+                "freshness": 45.3,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 11,
-            "videoId": "EpBJJW0rJWQ",
-            "title": "セブンイレブンのガパオライス食べてみたぁ⁉️ #shortvideo  #shorts  #ガパオライス #料理",
-            "channelId": "UCYoZpx9zsmfJpj8h9ouiLLA",
-            "channelName": "kei TV",
-            "thumbnailUrl": "https://i.ytimg.com/vi/EpBJJW0rJWQ/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T03:53:04Z",
-            "viewCount": 1105,
-            "viewIncrease": 1105,
-            "likeCount": 2,
-            "likeIncrease": 2,
+            "rank": 16,
+            "videoId": "oedq0LAS_V8",
+            "title": "熱湯鍋にソルト‼️ #パスタ #料理 #家庭料理 #cooking",
+            "channelId": "UCU-NAYpjD7a1vXxPd_OArug",
+            "channelName": "USGちゃんねる INFP-T",
+            "thumbnailUrl": "https://i.ytimg.com/vi/oedq0LAS_V8/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T10:40:33Z",
+            "viewCount": 748,
+            "viewIncrease": 748,
+            "likeCount": 0,
+            "likeIncrease": 0,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 469,
-            "durationSeconds": 38,
+            "subscriberCount": 7020,
+            "durationSeconds": 16,
             "isShort": true,
-            "rawScore": 56.1,
-            "normalizedScore": 52.4,
+            "rawScore": 47.9,
+            "normalizedScore": 44.4,
             "genres": [
                 {
                     "slug": "cooking",
@@ -393,37 +624,71 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 58.5,
-                "engagement": 8.1,
-                "subscriberRatio": 101.1,
-                "freshness": 39.4,
+                "velocity": 52.8,
+                "engagement": 0.0,
+                "subscriberRatio": 75.7,
+                "freshness": 43.9,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 12,
-            "videoId": "GpMX5S5JmS8",
-            "title": "Jax x pomni basketball match 🏀!!#tadc #theamazingdigitalcircus #イラストメイキング #創作 #アニメ",
-            "channelId": "UC4sZoAqzA-7Mi02rw0AAPOQ",
-            "channelName": "SketchtownYT",
-            "thumbnailUrl": "https://i.ytimg.com/vi/GpMX5S5JmS8/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T07:01:00Z",
-            "viewCount": 359,
-            "viewIncrease": 359,
-            "likeCount": 7,
-            "likeIncrease": 7,
+            "rank": 17,
+            "videoId": "7qlIP8xx0bo",
+            "title": "今日も淡々とインドの謎料理を食べる",
+            "channelId": "UCTlyLd91sIBopY95WW0TOKA",
+            "channelName": "NELAとふらっと。",
+            "thumbnailUrl": "https://i.ytimg.com/vi/7qlIP8xx0bo/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T12:02:25Z",
+            "viewCount": 25,
+            "viewIncrease": 25,
+            "likeCount": 2,
+            "likeIncrease": 2,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 234000,
+            "subscriberCount": 4,
             "durationSeconds": 20,
             "isShort": true,
-            "rawScore": 44.8,
-            "normalizedScore": 47.6,
+            "rawScore": 45.7,
+            "normalizedScore": 40.7,
             "genres": [
                 {
-                    "slug": "anime",
-                    "name": "アニメ",
+                    "slug": "cooking",
+                    "name": "料理",
                     "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 10.8,
+                "engagement": 34.4,
+                "subscriberRatio": 60.0,
+                "freshness": 51.1,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 18,
+            "videoId": "YVLniNaPzos",
+            "title": "Devil's Secret Weapon: The Ultimate Gadget for Clear Lenses! 😱✨ | Must-Have Home Tool #shorts",
+            "channelId": "UCy9s9GVWn-glrF9GiBWJWAg",
+            "channelName": "TheSoul Music FUN",
+            "thumbnailUrl": "https://i.ytimg.com/vi/YVLniNaPzos/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T11:00:26Z",
+            "viewCount": 4054,
+            "viewIncrease": 4054,
+            "likeCount": 40,
+            "likeIncrease": 40,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 9980000,
+            "durationSeconds": 28,
+            "isShort": true,
+            "rawScore": 44.0,
+            "normalizedScore": 37.0,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.35
                 },
                 {
                     "slug": "cooking",
@@ -437,31 +702,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 42.1,
-                "engagement": 23.6,
-                "subscriberRatio": 30.3,
-                "freshness": 54.9,
+                "velocity": 78.1,
+                "engagement": 18.6,
+                "subscriberRatio": 17.6,
+                "freshness": 45.3,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 13,
+            "rank": 19,
             "videoId": "5AP06j9bZrs",
             "title": "【直前まとめ】Appleイベントで何が出る？何が出ない?!iPhone 18 Pro・折りたたみiPhoneなど最新予想！",
             "channelId": "UCV4KlwQA-H7XnT3or0m53Hg",
             "channelName": "みずおじさん / 誰でも分かるスマホ講座",
             "thumbnailUrl": "https://i.ytimg.com/vi/5AP06j9bZrs/maxresdefault.jpg",
             "publishedAt": "2026-09-07T09:00:31Z",
-            "viewCount": 151710,
-            "viewIncrease": 27361,
-            "likeCount": 675,
-            "likeIncrease": 87,
-            "commentCount": 144,
-            "commentIncrease": 14,
+            "viewCount": 170154,
+            "viewIncrease": 18444,
+            "likeCount": 730,
+            "likeIncrease": 55,
+            "commentCount": 161,
+            "commentIncrease": 17,
             "subscriberCount": 699000,
             "durationSeconds": 672,
-            "rawScore": 40.8,
-            "normalizedScore": 42.9,
+            "rawScore": 36.7,
+            "normalizedScore": 33.3,
             "genres": [
                 {
                     "slug": "learning",
@@ -485,31 +750,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 122.7,
-                "engagement": 17.8,
-                "subscriberRatio": 64.8,
-                "freshness": 19.9
+                "velocity": 123.3,
+                "engagement": 19.8,
+                "subscriberRatio": 60.6,
+                "freshness": 18.0
             }
         },
         {
-            "rank": 14,
+            "rank": 20,
             "videoId": "kMnkbDcvZsw",
             "title": "後は自分だと思った男w",
             "channelId": "UCJBhFjjc4iiGuH5qxjqv0QQ",
             "channelName": "海外ざんまい",
             "thumbnailUrl": "https://i.ytimg.com/vi/kMnkbDcvZsw/maxresdefault.jpg",
             "publishedAt": "2026-09-05T10:00:24Z",
-            "viewCount": 3436374,
-            "viewIncrease": 3436374,
-            "likeCount": 23714,
-            "likeIncrease": 23714,
-            "commentCount": 243,
-            "commentIncrease": 243,
-            "subscriberCount": 29500,
+            "viewCount": 3580795,
+            "viewIncrease": 144421,
+            "likeCount": 25510,
+            "likeIncrease": 1796,
+            "commentCount": 254,
+            "commentIncrease": 11,
+            "subscriberCount": 29600,
             "durationSeconds": 10,
             "isShort": true,
-            "rawScore": 35.0,
-            "normalizedScore": 38.1,
+            "rawScore": 28.3,
+            "normalizedScore": 29.6,
             "genres": [
                 {
                     "slug": "cooking",
@@ -523,31 +788,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 180.5,
-                "engagement": 17.7,
-                "subscriberRatio": 151.7,
-                "freshness": 11.8,
+                "velocity": 154.6,
+                "engagement": 22.0,
+                "subscriberRatio": 117.2,
+                "freshness": 11.3,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 15,
+            "rank": 21,
             "videoId": "xhVB6525AnU",
             "title": "きゅうりのアク抜きに物申す！",
             "channelId": "UC4b2j0oY5iop4cqREcBGs3A",
             "channelName": "ひみつ基地。",
             "thumbnailUrl": "https://i.ytimg.com/vi/xhVB6525AnU/maxresdefault.jpg",
             "publishedAt": "2026-09-05T09:00:16Z",
-            "viewCount": 2388899,
-            "viewIncrease": 94557,
-            "likeCount": 34312,
-            "likeIncrease": 2051,
-            "commentCount": 388,
-            "commentIncrease": 14,
+            "viewCount": 2522726,
+            "viewIncrease": 133827,
+            "likeCount": 36580,
+            "likeIncrease": 2268,
+            "commentCount": 406,
+            "commentIncrease": 18,
             "subscriberCount": 1840000,
             "durationSeconds": 62,
-            "rawScore": 27.6,
-            "normalizedScore": 33.3,
+            "rawScore": 28.2,
+            "normalizedScore": 25.9,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -566,32 +831,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 141.5,
-                "engagement": 27.3,
-                "subscriberRatio": 67.8,
-                "freshness": 11.7
+                "velocity": 153.4,
+                "engagement": 25.3,
+                "subscriberRatio": 71.6,
+                "freshness": 11.3
             }
         },
         {
-            "rank": 16,
+            "rank": 22,
             "videoId": "70CfkmS_wYc",
             "title": "旦那に大好物を作るとこうなる",
             "channelId": "UCquNTfgZ4jrS0ixQVIC-bXw",
             "channelName": "今日の動画",
             "thumbnailUrl": "https://i.ytimg.com/vi/70CfkmS_wYc/maxresdefault.jpg",
             "publishedAt": "2026-08-28T14:29:21Z",
-            "viewCount": 4961491,
-            "viewIncrease": 44251,
-            "sevenDayViewIncrease": 1788668,
-            "likeCount": 137576,
-            "likeIncrease": 1501,
-            "commentCount": 1241,
+            "viewCount": 5019941,
+            "viewIncrease": 58450,
+            "sevenDayViewIncrease": 1847118,
+            "likeCount": 139498,
+            "likeIncrease": 1922,
+            "commentCount": 1250,
             "commentIncrease": 9,
-            "subscriberCount": 47200,
+            "subscriberCount": 47300,
             "durationSeconds": 40,
             "isShort": true,
-            "rawScore": 22.2,
-            "normalizedScore": 28.6,
+            "rawScore": 22.8,
+            "normalizedScore": 22.2,
             "genres": [
                 {
                     "slug": "cooking",
@@ -600,76 +865,73 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 130.0,
-                "engagement": 31.4,
-                "subscriberRatio": 99.3,
-                "freshness": 6.2,
+                "velocity": 140.8,
+                "engagement": 30.5,
+                "subscriberRatio": 102.3,
+                "freshness": 6.1,
                 "sevenDayVelocity": 10.0,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 16,
-            "videoId": "WGLUKKSB1Xg",
-            "title": "一流シェフにスーパーの肉焼いてもらった！",
-            "channelId": "UCOc8gpWppe_YJyMY8GT0YxA",
-            "channelName": "まかない伝 Chef's Order",
-            "thumbnailUrl": "https://i.ytimg.com/vi/WGLUKKSB1Xg/maxresdefault.jpg",
-            "publishedAt": "2026-08-28T08:00:04Z",
-            "viewCount": 4897880,
-            "viewIncrease": 4897880,
-            "likeCount": 54821,
-            "likeIncrease": 54821,
-            "commentCount": 1700,
-            "commentIncrease": 1700,
-            "subscriberCount": 40100,
-            "durationSeconds": 125,
-            "rawScore": 22.2,
-            "normalizedScore": 28.6,
+            "rank": 23,
+            "videoId": "P71tAlUPmM0",
+            "title": "刑務所の料理人になった一流シェフ、初日から大騒動！？",
+            "channelId": "UCnQmBuJn-_ry2owvT3C_GNQ",
+            "channelName": "昼休みドラマ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/P71tAlUPmM0/maxresdefault.jpg",
+            "publishedAt": "2026-08-27T06:00:03Z",
+            "viewCount": 4305183,
+            "viewIncrease": 4305183,
+            "likeCount": 49797,
+            "likeIncrease": 49797,
+            "commentCount": 2763,
+            "commentIncrease": 2763,
+            "subscriberCount": 2140,
+            "durationSeconds": 60,
+            "isShort": true,
+            "rawScore": 19.4,
+            "normalizedScore": 18.5,
             "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                },
                 {
                     "slug": "cooking",
                     "name": "料理",
-                    "confidence": 0.2
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 185.8,
-                "engagement": 24.8,
-                "subscriberRatio": 152.2,
-                "freshness": 6.1
+                "velocity": 183.9,
+                "engagement": 27.3,
+                "subscriberRatio": 182.6,
+                "freshness": 5.8,
+                "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 18,
-            "videoId": "4oG6bQnJx4w",
-            "title": "AIに再現不可能とされた料理を再現",
-            "channelId": "UC2DO7wKf1BVwt47qRz_cACw",
-            "channelName": "ひとコマ世界",
-            "thumbnailUrl": "https://i.ytimg.com/vi/4oG6bQnJx4w/maxresdefault.jpg",
-            "publishedAt": "2026-08-26T07:13:08Z",
-            "viewCount": 4885173,
-            "viewIncrease": 7147,
-            "sevenDayViewIncrease": 436547,
-            "likeCount": 101502,
-            "likeIncrease": 181,
-            "commentCount": 590,
-            "commentIncrease": 2,
-            "subscriberCount": 21800,
-            "durationSeconds": 45,
+            "rank": 24,
+            "videoId": "xV_8mFAzzak",
+            "title": "ゴードン・ラムゼイが見たら絶句する3000円の料理",
+            "channelId": "UC_Y26fTy0VwVrTnWRwy4VBg",
+            "channelName": "かつおぶし",
+            "thumbnailUrl": "https://i.ytimg.com/vi/xV_8mFAzzak/maxresdefault.jpg",
+            "publishedAt": "2026-08-26T08:28:06Z",
+            "viewCount": 4678403,
+            "viewIncrease": 16763,
+            "sevenDayViewIncrease": 462631,
+            "likeCount": 46799,
+            "likeIncrease": 205,
+            "commentCount": 1288,
+            "commentIncrease": 3,
+            "subscriberCount": 221000,
+            "durationSeconds": 23,
             "isShort": true,
-            "rawScore": 19.0,
-            "normalizedScore": 19.0,
+            "rawScore": 18.8,
+            "normalizedScore": 14.8,
             "genres": [
                 {
                     "slug": "cooking",
@@ -678,33 +940,69 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 102.3,
-                "engagement": 30.1,
-                "subscriberRatio": 87.9,
+                "velocity": 121.9,
+                "engagement": 23.5,
+                "subscriberRatio": 72.0,
                 "freshness": 5.6,
                 "sevenDayVelocity": 10.0,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 19,
+            "rank": 25,
+            "videoId": "4oG6bQnJx4w",
+            "title": "AIに再現不可能とされた料理を再現",
+            "channelId": "UC2DO7wKf1BVwt47qRz_cACw",
+            "channelName": "ひとコマ世界",
+            "thumbnailUrl": "https://i.ytimg.com/vi/4oG6bQnJx4w/maxresdefault.jpg",
+            "publishedAt": "2026-08-26T07:13:08Z",
+            "viewCount": 4890016,
+            "viewIncrease": 4843,
+            "sevenDayViewIncrease": 411076,
+            "likeCount": 101623,
+            "likeIncrease": 121,
+            "commentCount": 590,
+            "commentIncrease": 0,
+            "subscriberCount": 21800,
+            "durationSeconds": 45,
+            "isShort": true,
+            "rawScore": 18.6,
+            "normalizedScore": 11.1,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 103.0,
+                "engagement": 25.5,
+                "subscriberRatio": 83.7,
+                "freshness": 5.6,
+                "sevenDayVelocity": 10.0,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 26,
             "videoId": "4peYDh6R1UA",
             "title": "昭和日本のビックリ園内光景🦤",
             "channelId": "UC4tVPl8hCZXK7D-L5YPsxnQ",
             "channelName": "世界ビックリ雑学",
             "thumbnailUrl": "https://i.ytimg.com/vi/4peYDh6R1UA/maxresdefault.jpg",
             "publishedAt": "2026-09-03T08:00:25Z",
-            "viewCount": 5288670,
-            "viewIncrease": 45168,
-            "likeCount": 102323,
-            "likeIncrease": 1082,
-            "commentCount": 1688,
-            "commentIncrease": 13,
+            "viewCount": 5302028,
+            "viewIncrease": 13358,
+            "likeCount": 102587,
+            "likeIncrease": 264,
+            "commentCount": 1690,
+            "commentIncrease": 2,
             "subscriberCount": 166000,
             "durationSeconds": 30,
             "isShort": true,
-            "rawScore": 18.9,
-            "normalizedScore": 14.3,
+            "rawScore": 16.4,
+            "normalizedScore": 7.4,
             "genres": [
                 {
                     "slug": "cooking",
@@ -718,69 +1016,42 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 130.3,
-                "engagement": 29.8,
-                "subscriberRatio": 85.9,
-                "freshness": 9.0,
+                "velocity": 118.4,
+                "engagement": 26.6,
+                "subscriberRatio": 72.7,
+                "freshness": 8.8,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 20,
-            "videoId": "xV_8mFAzzak",
-            "title": "ゴードン・ラムゼイが見たら絶句する3000円の料理",
-            "channelId": "UC_Y26fTy0VwVrTnWRwy4VBg",
-            "channelName": "かつおぶし",
-            "thumbnailUrl": "https://i.ytimg.com/vi/xV_8mFAzzak/maxresdefault.jpg",
-            "publishedAt": "2026-08-26T08:28:06Z",
-            "viewCount": 4661640,
-            "viewIncrease": 11368,
-            "sevenDayViewIncrease": 529879,
-            "likeCount": 46594,
-            "likeIncrease": 190,
-            "commentCount": 1285,
-            "commentIncrease": 5,
-            "subscriberCount": 221000,
-            "durationSeconds": 23,
-            "isShort": true,
-            "rawScore": 18.4,
-            "normalizedScore": 9.5,
+            "rank": 27,
+            "videoId": "WGLUKKSB1Xg",
+            "title": "一流シェフにスーパーの肉焼いてもらった！",
+            "channelId": "UCOc8gpWppe_YJyMY8GT0YxA",
+            "channelName": "まかない伝 Chef's Order",
+            "thumbnailUrl": "https://i.ytimg.com/vi/WGLUKKSB1Xg/maxresdefault.jpg",
+            "publishedAt": "2026-08-28T08:00:04Z",
+            "viewCount": 4923825,
+            "viewIncrease": 25945,
+            "likeCount": 55263,
+            "likeIncrease": 442,
+            "commentCount": 1710,
+            "commentIncrease": 10,
+            "subscriberCount": 40200,
+            "durationSeconds": 125,
+            "rawScore": 15.3,
+            "normalizedScore": 3.7,
             "genres": [
                 {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 109.3,
-                "engagement": 28.5,
-                "subscriberRatio": 67.8,
-                "freshness": 5.6,
-                "sevenDayVelocity": 10.0,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 21,
-            "videoId": "d7TjdKQcwXE",
-            "title": "【有吉ゼミ】水は一滴も使わない!? 相撲部屋秘伝の豪快ちゃんこ鍋が凄すぎる！",
-            "channelId": "UCEIPvDWn6zN2-t9wCx7RrKQ",
-            "channelName": "稲盛和夫のアドバイス",
-            "thumbnailUrl": "https://i.ytimg.com/vi/d7TjdKQcwXE/maxresdefault.jpg",
-            "publishedAt": "2026-08-26T23:00:01Z",
-            "viewCount": 4502229,
-            "viewIncrease": 21518,
-            "likeCount": 30283,
-            "likeIncrease": 226,
-            "commentCount": 250,
-            "commentIncrease": 1,
-            "subscriberCount": 1160,
-            "durationSeconds": 59,
-            "isShort": true,
-            "rawScore": 13.3,
-            "normalizedScore": 4.8,
-            "genres": [
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                },
                 {
                     "slug": "cooking",
                     "name": "料理",
@@ -788,30 +1059,29 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 119.0,
-                "engagement": 20.2,
-                "subscriberRatio": 131.7,
-                "freshness": 5.8,
-                "formatAdjustment": 85.0
+                "velocity": 128.5,
+                "engagement": 28.2,
+                "subscriberRatio": 95.2,
+                "freshness": 6.1
             }
         },
         {
-            "rank": 22,
+            "rank": 28,
             "videoId": "tMb86GE6mPQ",
             "title": "水まる餅(わらび餅)を世界風アレンジして食べ比べ💧🧊#asmr #mukbang #warabimochi #アレンジレシピ #japanesefood",
             "channelId": "UCl89CoevATIfNseecVFBlGQ",
             "channelName": "Oitsu kitchen",
             "thumbnailUrl": "https://i.ytimg.com/vi/tMb86GE6mPQ/maxresdefault.jpg",
             "publishedAt": "2026-08-27T12:09:59Z",
-            "viewCount": 3481045,
-            "viewIncrease": 27699,
-            "likeCount": 87281,
-            "likeIncrease": 681,
-            "commentCount": 1054,
-            "commentIncrease": 6,
-            "subscriberCount": 707000,
+            "viewCount": 3534644,
+            "viewIncrease": 53599,
+            "likeCount": 88590,
+            "likeIncrease": 1309,
+            "commentCount": 1077,
+            "commentIncrease": 23,
+            "subscriberCount": 709000,
             "durationSeconds": 76,
-            "rawScore": 12.8,
+            "rawScore": 14.2,
             "normalizedScore": 0.0,
             "genres": [
                 {
@@ -821,9 +1091,9 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 122.8,
-                "engagement": 29.2,
-                "subscriberRatio": 64.9,
+                "velocity": 139.5,
+                "engagement": 31.3,
+                "subscriberRatio": 72.0,
                 "freshness": 5.9
             }
         }
