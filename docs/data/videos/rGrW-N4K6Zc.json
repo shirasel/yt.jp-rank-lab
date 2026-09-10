@@ -1,28 +1,35 @@
 {
-    "generatedAt": "2026-09-10T18:41:39.656586804Z",
+    "generatedAt": "2026-09-10T23:24:40.959908624Z",
     "video": {
-        "rank": 40,
+        "rank": 80,
+        "previousRank": 40,
+        "rankChange": -40,
         "videoId": "rGrW-N4K6Zc",
-        "title": "大大大変化‼️新しいポケモンチャンピオンズが始まりすぎな件【レギュC】",
+        "title": "ポケモン史上初のバランス調整が！新シーズンが神環境っぽいので廃人2人が解説します",
         "channelId": "UCeQNXy1ReMSa1GuK7nhMvIA",
         "channelName": "ポケモンソルジャー【ポケソル】",
         "thumbnailUrl": "https://i.ytimg.com/vi/rGrW-N4K6Zc/maxresdefault.jpg",
         "publishedAt": "2026-09-10T08:00:02Z",
-        "viewCount": 199286,
-        "viewIncrease": 199286,
-        "likeCount": 1326,
-        "likeIncrease": 1326,
-        "commentCount": 310,
-        "commentIncrease": 310,
+        "viewCount": 225633,
+        "viewIncrease": 26347,
+        "likeCount": 1416,
+        "likeIncrease": 90,
+        "commentCount": 333,
+        "commentIncrease": 23,
         "subscriberCount": 277000,
         "durationSeconds": 1591,
-        "rawScore": 73.2,
-        "normalizedScore": 60.6,
+        "rawScore": 54.2,
+        "normalizedScore": 20.2,
         "genres": [
             {
                 "slug": "gaming",
                 "name": "ゲーム",
                 "confidence": 0.5
+            },
+            {
+                "slug": "learning",
+                "name": "学習・情報",
+                "confidence": 0.3
             },
             {
                 "slug": "vtuber",
@@ -36,23 +43,28 @@
             }
         ],
         "scoreBreakdown": {
-            "velocity": 137.2,
-            "engagement": 27.2,
-            "subscriberRatio": 96.4,
-            "freshness": 28.1
+            "velocity": 131.2,
+            "engagement": 20.4,
+            "subscriberRatio": 74.5,
+            "freshness": 24.0
         }
     },
     "scoreBreakdown": {
-        "velocity": 137.2,
-        "engagement": 27.2,
-        "subscriberRatio": 96.4,
-        "freshness": 28.1
+        "velocity": 131.2,
+        "engagement": 20.4,
+        "subscriberRatio": 74.5,
+        "freshness": 24.0
     },
     "genres": [
         {
             "slug": "gaming",
             "name": "ゲーム",
             "confidence": 0.5
+        },
+        {
+            "slug": "learning",
+            "name": "学習・情報",
+            "confidence": 0.3
         },
         {
             "slug": "vtuber",
