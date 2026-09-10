@@ -1,34 +1,164 @@
 {
-    "generatedAt": "2026-09-10T13:50:06.530720364Z",
+    "generatedAt": "2026-09-10T18:41:39.656586804Z",
     "period": "24h",
     "genre": {
         "slug": "sports",
         "name": "スポーツ",
-        "confidence": 0.7
+        "confidence": 0.6
     },
     "status": "official",
-    "totalVideos": 30,
-    "totalChannels": 27,
+    "totalVideos": 35,
+    "totalChannels": 29,
     "ranking": [
         {
             "rank": 1,
+            "videoId": "cdOeUdZBClc",
+            "title": "【速報】ラジャブアリ・シェイドゥラエフ vs. AJ・マッキー｜【超RIZIN.5】ABEMA PPVで全試合生中継！現金キャッシュバックキャンペーン中！",
+            "channelId": "UClPKS7S62cwYYaq6udr-G-Q",
+            "channelName": "ABEMA 格闘【公式】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/cdOeUdZBClc/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T13:12:48Z",
+            "viewCount": 186208,
+            "viewIncrease": 186208,
+            "likeCount": 679,
+            "likeIncrease": 679,
+            "commentCount": 341,
+            "commentIncrease": 341,
+            "subscriberCount": 491000,
+            "durationSeconds": 333,
+            "rawScore": 91.4,
+            "normalizedScore": 100.0,
+            "genres": [
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 136.1,
+                "engagement": 24.1,
+                "subscriberRatio": 89.5,
+                "freshness": 36.6
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "mcLsAsoGJb4",
+            "title": "【速報】第7試合／朝倉未来 vs. 青木真也|『超RIZIN.5 浪速の超復活祭り』ABEMA PPVで全試合完全生中継",
+            "channelId": "UClPKS7S62cwYYaq6udr-G-Q",
+            "channelName": "ABEMA 格闘【公式】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/mcLsAsoGJb4/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T12:21:52Z",
+            "viewCount": 681911,
+            "viewIncrease": 681911,
+            "likeCount": 2998,
+            "likeIncrease": 2998,
+            "commentCount": 214,
+            "commentIncrease": 214,
+            "subscriberCount": 491000,
+            "durationSeconds": 41,
+            "isShort": true,
+            "rawScore": 81.8,
+            "normalizedScore": 97.1,
+            "genres": [
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 155.9,
+                "engagement": 18.1,
+                "subscriberRatio": 103.6,
+                "freshness": 34.7,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 3,
+            "videoId": "TCEIp4s6e58",
+            "title": "アラウホがバレットヘッドとシャドウハント習得で点もボールも奪える史上最強のストライカーに進化しました【eFootball2027アプリ】",
+            "channelId": "UC070fhnqq38qNhqHm5rxTcQ",
+            "channelName": "令和ちゃんねる",
+            "thumbnailUrl": "https://i.ytimg.com/vi/TCEIp4s6e58/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T12:41:07Z",
+            "viewCount": 69285,
+            "viewIncrease": 69285,
+            "likeCount": 1108,
+            "likeIncrease": 1108,
+            "commentCount": 92,
+            "commentIncrease": 92,
+            "subscriberCount": 572000,
+            "durationSeconds": 690,
+            "rawScore": 81.7,
+            "normalizedScore": 94.1,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 121.1,
+                "engagement": 32.7,
+                "subscriberRatio": 77.1,
+                "freshness": 35.4
+            }
+        },
+        {
+            "rank": 4,
+            "previousRank": 3,
+            "rankChange": -1,
             "videoId": "9Am3Z18eZis",
             "title": "2026wbc日本vsオーストラリア  #shorts #野球 #MLB #スポーツ #メジャーリーグ #wbc #大谷翔平",
             "channelId": "UCW2ENoua5Q_X4JL3QrZ2yjg",
             "channelName": "野球観戦ホトトギス",
             "thumbnailUrl": "https://i.ytimg.com/vi/9Am3Z18eZis/maxresdefault.jpg",
             "publishedAt": "2026-09-10T11:57:29Z",
-            "viewCount": 5094,
-            "viewIncrease": 5094,
-            "likeCount": 120,
-            "likeIncrease": 120,
-            "commentCount": 5,
-            "commentIncrease": 5,
-            "subscriberCount": 642,
+            "viewCount": 16039,
+            "viewIncrease": 10945,
+            "likeCount": 256,
+            "likeIncrease": 136,
+            "commentCount": 13,
+            "commentIncrease": 8,
+            "subscriberCount": 645,
             "durationSeconds": 59,
             "isShort": true,
-            "rawScore": 100.9,
-            "normalizedScore": 100.0,
+            "rawScore": 78.1,
+            "normalizedScore": 91.2,
             "genres": [
                 {
                     "slug": "sports",
@@ -37,339 +167,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 81.5,
-                "engagement": 34.3,
-                "subscriberRatio": 117.7,
-                "freshness": 50.9,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 2,
-            "videoId": "MRBN-kToH-E",
-            "title": "レクサスLS50系VS40系乗るならどっち？＃エイムゲイン＃600HL＃F-スポーツ＃VIPカー＃セダン＃カスタムカー＃VIPstyle",
-            "channelId": "UCm601A7MKV7wOwHVBWU4ByA",
-            "channelName": "ちゃんけん",
-            "thumbnailUrl": "https://i.ytimg.com/vi/MRBN-kToH-E/maxresdefault.jpg",
-            "publishedAt": "2026-09-10T12:22:04Z",
-            "viewCount": 836,
-            "viewIncrease": 836,
-            "likeCount": 5,
-            "likeIncrease": 5,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 142,
-            "durationSeconds": 31,
-            "isShort": true,
-            "rawScore": 76.5,
-            "normalizedScore": 96.6,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 54.4,
-                "engagement": 15.2,
-                "subscriberRatio": 98.1,
-                "freshness": 53.7,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 3,
-            "videoId": "gN_nUfImIyk",
-            "title": "コーラをどけたロナウド家では息子にひと苦労 #スポーツ #サッカー #ワールドカップ #代表",
-            "channelId": "UCVB_dFFYOkexrHt-IN5PH2A",
-            "channelName": "神回だけ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/gN_nUfImIyk/maxresdefault.jpg",
-            "publishedAt": "2026-09-10T12:10:29Z",
-            "viewCount": 695,
-            "viewIncrease": 695,
-            "likeCount": 8,
-            "likeIncrease": 8,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 1040,
-            "durationSeconds": 25,
-            "isShort": true,
-            "rawScore": 74.3,
-            "normalizedScore": 93.1,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.8
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 51.7,
-                "engagement": 19.8,
-                "subscriberRatio": 95.6,
-                "freshness": 52.3,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 4,
-            "videoId": "8DF03SeQFmE",
-            "title": "少年をかばったロナウド９年後に届いた知らせ #スポーツ #サッカー #ワールドカップ #代表",
-            "channelId": "UCVB_dFFYOkexrHt-IN5PH2A",
-            "channelName": "神回だけ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/8DF03SeQFmE/maxresdefault.jpg",
-            "publishedAt": "2026-09-10T11:30:17Z",
-            "viewCount": 806,
-            "viewIncrease": 806,
-            "likeCount": 9,
-            "likeIncrease": 9,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 1040,
-            "durationSeconds": 31,
-            "isShort": true,
-            "rawScore": 69.8,
-            "normalizedScore": 89.7,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.8
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 53.9,
-                "engagement": 19.5,
-                "subscriberRatio": 97.2,
-                "freshness": 48.1,
+                "velocity": 117.4,
+                "engagement": 28.3,
+                "subscriberRatio": 126.0,
+                "freshness": 33.8,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 5,
-            "videoId": "duBwP1Vweh8",
-            "title": "外野手スローイング Baseball Professional Training College #日本プロスポーツ専門学校 #野球 #棒球 #야구 #beisbol #béisbol",
-            "channelId": "UCQ6AUZTMF7oQ1hg-F90Odgw",
-            "channelName": "学校法人 尚徳館  日本プロスポーツ専門学校硬式野球部",
-            "thumbnailUrl": "https://i.ytimg.com/vi/duBwP1Vweh8/maxresdefault.jpg",
-            "publishedAt": "2026-09-10T12:00:22Z",
-            "viewCount": 888,
-            "viewIncrease": 888,
-            "likeCount": 5,
-            "likeIncrease": 5,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 2430,
-            "durationSeconds": 51,
-            "isShort": true,
-            "rawScore": 69.2,
-            "normalizedScore": 86.2,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.99
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 55.3,
-                "engagement": 14.8,
-                "subscriberRatio": 89.1,
-                "freshness": 51.2,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 6,
-            "videoId": "jzYYo753Cb0",
-            "title": "えんどれす【100分間鬼ごっこにちかやが出る】 #スポーツあるある #あるある #鬼ごっこ #フィッシャーズ",
-            "channelId": "UCFSUl1pGKKqMddDuiGXvYXg",
-            "channelName": "えんどれす【Endless】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/jzYYo753Cb0/maxresdefault.jpg",
-            "publishedAt": "2026-09-10T09:30:26Z",
-            "viewCount": 5843,
-            "viewIncrease": 5843,
-            "likeCount": 504,
-            "likeIncrease": 504,
-            "commentCount": 9,
-            "commentIncrease": 9,
-            "subscriberCount": 1070000,
-            "durationSeconds": 68,
-            "rawScore": 69.0,
-            "normalizedScore": 82.8,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 83.6,
-                "engagement": 46.2,
-                "subscriberRatio": 43.6,
-                "freshness": 39.8
-            }
-        },
-        {
-            "rank": 7,
-            "videoId": "cCBxPJrlqpI",
-            "title": "ジダンが忘れられない中田の一撃。 #スポーツ #サッカー #ワールドカップ #代表",
-            "channelId": "UCVB_dFFYOkexrHt-IN5PH2A",
-            "channelName": "神回だけ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/cCBxPJrlqpI/maxresdefault.jpg",
-            "publishedAt": "2026-09-10T09:48:17Z",
-            "viewCount": 2381,
-            "viewIncrease": 2381,
-            "likeCount": 15,
-            "likeIncrease": 15,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 1040,
-            "durationSeconds": 26,
-            "isShort": true,
-            "rawScore": 67.4,
-            "normalizedScore": 79.3,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.8
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 70.0,
-                "engagement": 15.5,
-                "subscriberRatio": 109.0,
-                "freshness": 40.8,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 8,
-            "videoId": "YBxGkZ83WvE",
-            "title": "【スイッチスポーツ】終わりが見えない打ち合い、粘って取ったポイント #shorts #テニス",
-            "channelId": "UCEsxrHIKfa3bVudUlkJuPaw",
-            "channelName": "大人のスイッチスポーツ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/YBxGkZ83WvE/maxresdefault.jpg",
-            "publishedAt": "2026-09-10T11:00:25Z",
-            "viewCount": 872,
-            "viewIncrease": 872,
-            "likeCount": 4,
-            "likeIncrease": 4,
-            "subscriberCount": 624,
-            "durationSeconds": 25,
-            "isShort": true,
-            "rawScore": 64.7,
-            "normalizedScore": 75.9,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.8
-                },
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.5
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 55.0,
-                "engagement": 13.4,
-                "subscriberRatio": 98.5,
-                "freshness": 45.6,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 9,
-            "videoId": "KrtfjOoZFqc",
-            "title": "明日か… #陸上 #trackandfield #athletics #ライルズ #サッカー #バスケ #olympics #アサファ #スポーツ #トンプソン #shorts #short",
-            "channelId": "UC923RlI2JfqnIZRJ9votCuw",
-            "channelName": "サニブラウンが大好きな人 α 現在モチベMAX",
-            "thumbnailUrl": "https://i.ytimg.com/vi/KrtfjOoZFqc/maxresdefault.jpg",
-            "publishedAt": "2026-09-10T10:00:38Z",
-            "viewCount": 876,
-            "viewIncrease": 876,
-            "likeCount": 6,
-            "likeIncrease": 6,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 409,
-            "durationSeconds": 34,
-            "isShort": true,
-            "rawScore": 59.8,
-            "normalizedScore": 72.4,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.8
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 55.1,
-                "engagement": 16.1,
-                "subscriberRatio": 98.6,
-                "freshness": 41.5,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 10,
-            "videoId": "PaboHDVBFgM",
-            "title": "練習にならなくてイライラする【あるある】 #shorts #スポーツ",
-            "channelId": "UCQ4ZUhFDHbIJHIyq5Z7hHPw",
-            "channelName": "かなこ。KANAKO.",
-            "thumbnailUrl": "https://i.ytimg.com/vi/PaboHDVBFgM/maxresdefault.jpg",
-            "publishedAt": "2026-09-10T10:30:37Z",
-            "viewCount": 991,
-            "viewIncrease": 991,
-            "likeCount": 10,
-            "likeIncrease": 10,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 15800,
-            "durationSeconds": 10,
-            "isShort": true,
-            "rawScore": 53.7,
-            "normalizedScore": 69.0,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.7
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 56.9,
-                "engagement": 18.8,
-                "subscriberRatio": 70.0,
-                "freshness": 43.4,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 11,
-            "videoId": "4QdOOQGi9BE",
-            "title": "サッカーボールが限界を迎えた瞬間TOP5 #サッカー",
-            "channelId": "UCYdI8NJZzlTx6sj0Z6AEdgQ",
-            "channelName": "サッカーワールド",
-            "thumbnailUrl": "https://i.ytimg.com/vi/4QdOOQGi9BE/maxresdefault.jpg",
-            "publishedAt": "2026-09-09T11:00:22Z",
-            "viewCount": 2081788,
-            "viewIncrease": 671348,
-            "likeCount": 33436,
-            "likeIncrease": 14913,
-            "commentCount": 100,
-            "commentIncrease": 34,
-            "subscriberCount": 53700,
-            "durationSeconds": 43,
-            "isShort": true,
-            "rawScore": 52.5,
-            "normalizedScore": 65.5,
+            "videoId": "eF8r7iASCXY",
+            "title": "【vlog】神奈川チームが国民スポーツ大会で大暴れする準備してます！",
+            "channelId": "UC2yj61ovYYkfqpvdPNRpyvQ",
+            "channelName": "深沢大和の超特急チャンネル",
+            "thumbnailUrl": "https://i.ytimg.com/vi/eF8r7iASCXY/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T13:09:29Z",
+            "viewCount": 1711,
+            "viewIncrease": 1711,
+            "likeCount": 41,
+            "likeIncrease": 41,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 4060,
+            "durationSeconds": 485,
+            "rawScore": 68.5,
+            "normalizedScore": 88.2,
             "genres": [
                 {
                     "slug": "sports",
@@ -378,10 +200,229 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 178.3,
-                "engagement": 25.8,
-                "subscriberRatio": 127.4,
-                "freshness": 18.6,
+                "velocity": 65.1,
+                "engagement": 32.3,
+                "subscriberRatio": 90.6,
+                "freshness": 36.4
+            }
+        },
+        {
+            "rank": 6,
+            "previousRank": 60,
+            "rankChange": 54,
+            "videoId": "gN_nUfImIyk",
+            "title": "コーラをどけたロナウド家では息子にひと苦労 #スポーツ #サッカー #ワールドカップ #代表",
+            "channelId": "UCVB_dFFYOkexrHt-IN5PH2A",
+            "channelName": "神回だけ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/gN_nUfImIyk/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T12:10:29Z",
+            "viewCount": 1361,
+            "viewIncrease": 666,
+            "likeCount": 21,
+            "likeIncrease": 13,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 1040,
+            "durationSeconds": 25,
+            "isShort": true,
+            "rawScore": 56.4,
+            "normalizedScore": 85.3,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.8
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 74.9,
+                "engagement": 23.6,
+                "subscriberRatio": 95.2,
+                "freshness": 34.3,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 7,
+            "videoId": "R0LuyiT7JMA",
+            "title": "見てみて！ #ゲーム #ぷよぷよ通 #ぷよぷよeスポーツ",
+            "channelId": "UCx9zU4DWL3ZBmdL6QBwkQkA",
+            "channelName": "すしすし",
+            "thumbnailUrl": "https://i.ytimg.com/vi/R0LuyiT7JMA/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T13:25:22Z",
+            "viewCount": 822,
+            "viewIncrease": 822,
+            "likeCount": 2,
+            "likeIncrease": 2,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 36,
+            "durationSeconds": 30,
+            "isShort": true,
+            "rawScore": 51.0,
+            "normalizedScore": 82.4,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 54.2,
+                "engagement": 9.6,
+                "subscriberRatio": 97.9,
+                "freshness": 37.1,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 8,
+            "previousRank": 71,
+            "rankChange": 63,
+            "videoId": "8DF03SeQFmE",
+            "title": "少年をかばったロナウド９年後に届いた知らせ #スポーツ #サッカー #ワールドカップ #代表",
+            "channelId": "UCVB_dFFYOkexrHt-IN5PH2A",
+            "channelName": "神回だけ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/8DF03SeQFmE/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T11:30:17Z",
+            "viewCount": 1421,
+            "viewIncrease": 615,
+            "likeCount": 11,
+            "likeIncrease": 2,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 1040,
+            "durationSeconds": 31,
+            "isShort": true,
+            "rawScore": 50.3,
+            "normalizedScore": 79.4,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.8
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 73.7,
+                "engagement": 11.3,
+                "subscriberRatio": 94.3,
+                "freshness": 33.0,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 9,
+            "videoId": "4QdOOQGi9BE",
+            "title": "サッカーボールが限界を迎えた瞬間TOP5 #サッカー",
+            "channelId": "UCYdI8NJZzlTx6sj0Z6AEdgQ",
+            "channelName": "サッカーワールド",
+            "thumbnailUrl": "https://i.ytimg.com/vi/4QdOOQGi9BE/maxresdefault.jpg",
+            "publishedAt": "2026-09-09T11:00:22Z",
+            "viewCount": 2987596,
+            "viewIncrease": 905808,
+            "likeCount": 39668,
+            "likeIncrease": 6232,
+            "commentCount": 114,
+            "commentIncrease": 14,
+            "subscriberCount": 53800,
+            "durationSeconds": 43,
+            "isShort": true,
+            "rawScore": 48.6,
+            "normalizedScore": 76.5,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 184.5,
+                "engagement": 16.5,
+                "subscriberRatio": 130.7,
+                "freshness": 17.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 10,
+            "videoId": "Y32-E18Aylw",
+            "title": "階段13連鎖🐸│ぷよぷよeスポーツ #shorts #ぷよぷよ #puyopuyo #大連鎖#©️SEGA",
+            "channelId": "UCr5JDq9eMknnB1WMSOX8rKw",
+            "channelName": "reoru",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Y32-E18Aylw/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T13:00:39Z",
+            "viewCount": 852,
+            "viewIncrease": 852,
+            "likeCount": 3,
+            "likeIncrease": 3,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 3280,
+            "durationSeconds": 28,
+            "isShort": true,
+            "rawScore": 46.6,
+            "normalizedScore": 73.5,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 54.7,
+                "engagement": 11.8,
+                "subscriberRatio": 85.4,
+                "freshness": 36.1,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 11,
+            "previousRank": 50,
+            "rankChange": 39,
+            "videoId": "MRBN-kToH-E",
+            "title": "レクサスLS50系VS40系乗るならどっち？＃エイムゲイン＃600HL＃F-スポーツ＃VIPカー＃セダン＃カスタムカー＃VIPstyle",
+            "channelId": "UCm601A7MKV7wOwHVBWU4ByA",
+            "channelName": "ちゃんけん",
+            "thumbnailUrl": "https://i.ytimg.com/vi/MRBN-kToH-E/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T12:22:04Z",
+            "viewCount": 1181,
+            "viewIncrease": 345,
+            "likeCount": 5,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 142,
+            "durationSeconds": 31,
+            "isShort": true,
+            "rawScore": 45.2,
+            "normalizedScore": 70.6,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 65.0,
+                "engagement": 0.0,
+                "subscriberRatio": 88.4,
+                "freshness": 34.7,
                 "formatAdjustment": 85.0
             }
         },
@@ -393,17 +434,17 @@
             "channelName": "プロスピ問題児",
             "thumbnailUrl": "https://i.ytimg.com/vi/t4FltuaXRhU/maxresdefault.jpg",
             "publishedAt": "2026-09-09T12:00:20Z",
-            "viewCount": 760554,
-            "viewIncrease": 760554,
-            "likeCount": 7024,
-            "likeIncrease": 7024,
-            "commentCount": 119,
-            "commentIncrease": 119,
+            "viewCount": 924218,
+            "viewIncrease": 163664,
+            "likeCount": 7644,
+            "likeIncrease": 620,
+            "commentCount": 120,
+            "commentIncrease": 1,
             "subscriberCount": 33000,
             "durationSeconds": 12,
             "isShort": true,
-            "rawScore": 50.4,
-            "normalizedScore": 62.1,
+            "rawScore": 42.9,
+            "normalizedScore": 67.6,
             "genres": [
                 {
                     "slug": "gaming",
@@ -422,43 +463,43 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 157.5,
-                "engagement": 21.2,
-                "subscriberRatio": 134.1,
-                "freshness": 19.0,
+                "velocity": 158.5,
+                "engagement": 12.4,
+                "subscriberRatio": 117.4,
+                "freshness": 17.5,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 13,
-            "videoId": "J6MvP8jFOFY",
-            "title": "俺マディソン貰えない説【eFootball2027アプリ】",
-            "channelId": "UC070fhnqq38qNhqHm5rxTcQ",
-            "channelName": "令和ちゃんねる",
-            "thumbnailUrl": "https://i.ytimg.com/vi/J6MvP8jFOFY/maxresdefault.jpg",
-            "publishedAt": "2026-09-09T11:27:36Z",
-            "viewCount": 270171,
-            "viewIncrease": 35732,
-            "likeCount": 3666,
-            "likeIncrease": 306,
-            "commentCount": 554,
-            "commentIncrease": 28,
-            "subscriberCount": 572000,
-            "durationSeconds": 2167,
-            "rawScore": 43.1,
-            "normalizedScore": 58.6,
+            "videoId": "0MnrbVSzHCo",
+            "title": "特選中古ハーレー‼️名車スポーツスター‼️2009 XL883 SPORTSTER #harleydavidson",
+            "channelId": "UCs9KP1ufhNIKhNbE4iLm9BA",
+            "channelName": "ハーレーダビッドソン幕張・ギバーズ ギルド",
+            "thumbnailUrl": "https://i.ytimg.com/vi/0MnrbVSzHCo/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T10:30:12Z",
+            "viewCount": 1507,
+            "viewIncrease": 1507,
+            "likeCount": 8,
+            "likeIncrease": 8,
+            "subscriberCount": 21100,
+            "durationSeconds": 54,
+            "isShort": true,
+            "rawScore": 39.7,
+            "normalizedScore": 64.7,
             "genres": [
                 {
                     "slug": "sports",
                     "name": "スポーツ",
-                    "confidence": 0.2
+                    "confidence": 0.6
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 133.7,
-                "engagement": 26.0,
-                "subscriberRatio": 69.9,
-                "freshness": 18.8
+                "velocity": 63.2,
+                "engagement": 14.4,
+                "subscriberRatio": 71.4,
+                "freshness": 31.3,
+                "formatAdjustment": 85.0
             }
         },
         {
@@ -469,16 +510,16 @@
             "channelName": "ベン・ゼイン",
             "thumbnailUrl": "https://i.ytimg.com/vi/f2NMXNM_tZA/maxresdefault.jpg",
             "publishedAt": "2026-09-09T11:00:24Z",
-            "viewCount": 211873,
-            "viewIncrease": 30249,
-            "likeCount": 4062,
-            "likeIncrease": 353,
-            "commentCount": 227,
-            "commentIncrease": 17,
+            "viewCount": 238422,
+            "viewIncrease": 26549,
+            "likeCount": 4136,
+            "likeIncrease": 74,
+            "commentCount": 228,
+            "commentIncrease": 1,
             "subscriberCount": 384000,
             "durationSeconds": 62,
-            "rawScore": 42.9,
-            "normalizedScore": 55.2,
+            "rawScore": 36.7,
+            "normalizedScore": 61.8,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -492,183 +533,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 131.1,
-                "engagement": 26.8,
-                "subscriberRatio": 72.4,
-                "freshness": 18.6
+                "velocity": 130.8,
+                "engagement": 11.3,
+                "subscriberRatio": 71.0,
+                "freshness": 17.2
             }
         },
         {
             "rank": 15,
-            "videoId": "IlSUwewZLEY",
-            "title": "禁止されたスポーツ用品の性能",
-            "channelId": "UCBCF97JRGmkhsHQ0125mteg",
-            "channelName": "TheWorld",
-            "thumbnailUrl": "https://i.ytimg.com/vi/IlSUwewZLEY/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T09:00:33Z",
-            "viewCount": 2096763,
-            "viewIncrease": 272288,
-            "likeCount": 43088,
-            "likeIncrease": 8581,
-            "commentCount": 420,
-            "commentIncrease": 59,
-            "subscriberCount": 60300,
-            "durationSeconds": 34,
-            "isShort": true,
-            "rawScore": 35.8,
-            "normalizedScore": 51.7,
+            "videoId": "J6MvP8jFOFY",
+            "title": "俺マディソン貰えない説【eFootball2027アプリ】",
+            "channelId": "UC070fhnqq38qNhqHm5rxTcQ",
+            "channelName": "令和ちゃんねる",
+            "thumbnailUrl": "https://i.ytimg.com/vi/J6MvP8jFOFY/maxresdefault.jpg",
+            "publishedAt": "2026-09-09T11:27:36Z",
+            "viewCount": 298492,
+            "viewIncrease": 28321,
+            "likeCount": 3767,
+            "likeIncrease": 101,
+            "commentCount": 545,
+            "commentIncrease": 0,
+            "subscriberCount": 572000,
+            "durationSeconds": 2167,
+            "rawScore": 36.6,
+            "normalizedScore": 58.8,
             "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 164.5,
-                "engagement": 31.0,
-                "subscriberRatio": 116.4,
-                "freshness": 13.5,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 16,
-            "videoId": "q76ydzO7APU",
-            "title": "【武道・武術】ハエを箸で捕まえる！？宮本武蔵の伝説にYASUが挑戦！！#aikido  ＃karate #martial #武道 #空手＃筋トレ",
-            "channelId": "UCUu1RXivcsExBBDeD7vy3cg",
-            "channelName": "YASU道",
-            "thumbnailUrl": "https://i.ytimg.com/vi/q76ydzO7APU/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T09:00:19Z",
-            "viewCount": 3303616,
-            "viewIncrease": 311127,
-            "likeCount": 90671,
-            "likeIncrease": 9042,
-            "commentCount": 3269,
-            "commentIncrease": 213,
-            "subscriberCount": 369000,
-            "durationSeconds": 33,
-            "isShort": true,
-            "rawScore": 34.3,
-            "normalizedScore": 48.3,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.6
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 166.6,
-                "engagement": 34.4,
-                "subscriberRatio": 98.1,
-                "freshness": 13.5,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 17,
-            "videoId": "8UW4400fI9w",
-            "title": "【凄ワザ】アニメの技を現実にする難易度とは",
-            "channelId": "UCM3f7UIJ-iQbSOVG9QDEzug",
-            "channelName": "きよしろーという。",
-            "thumbnailUrl": "https://i.ytimg.com/vi/8UW4400fI9w/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T10:00:33Z",
-            "viewCount": 2058422,
-            "viewIncrease": 190582,
-            "likeCount": 21445,
-            "likeIncrease": 2467,
-            "commentCount": 296,
-            "commentIncrease": 32,
-            "subscriberCount": 70200,
-            "durationSeconds": 19,
-            "isShort": true,
-            "rawScore": 34.0,
-            "normalizedScore": 44.8,
-            "genres": [
-                {
-                    "slug": "anime",
-                    "name": "アニメ",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 159.1,
-                "engagement": 23.8,
-                "subscriberRatio": 110.8,
-                "freshness": 13.6,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 18,
-            "videoId": "ptPZ8lm20D0",
-            "title": "全盛期バルセロナのボール回しが絶対に取れない！ #サッカー #バルセロナ #ティキタカ #メッシ",
-            "channelId": "UCmmv1Rw1tEWXvsb7jJtDmPg",
-            "channelName": "ほぼタケフサ【Football】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/ptPZ8lm20D0/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T09:22:20Z",
-            "viewCount": 1098723,
-            "viewIncrease": 110808,
-            "likeCount": 8413,
-            "likeIncrease": 1650,
-            "commentCount": 168,
-            "commentIncrease": 16,
-            "subscriberCount": 59200,
-            "durationSeconds": 26,
-            "isShort": true,
-            "rawScore": 32.5,
-            "normalizedScore": 41.4,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 150.9,
-                "engagement": 24.5,
-                "subscriberRatio": 106.8,
-                "freshness": 13.6,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 19,
-            "videoId": "6J2hkGv35ME",
-            "title": "打者と投手が一緒に作り上げた合作品",
-            "channelId": "UCKHGeWdJjiRhrGLSREVfJqQ",
-            "channelName": "野球オタク",
-            "thumbnailUrl": "https://i.ytimg.com/vi/6J2hkGv35ME/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T11:40:00Z",
-            "viewCount": 801343,
-            "viewIncrease": 39495,
-            "likeCount": 1548,
-            "likeIncrease": 125,
-            "commentCount": 105,
-            "commentIncrease": 5,
-            "subscriberCount": 12200,
-            "durationSeconds": 11,
-            "isShort": true,
-            "rawScore": 30.8,
-            "normalizedScore": 37.9,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                },
                 {
                     "slug": "sports",
                     "name": "スポーツ",
@@ -676,66 +565,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 135.2,
-                "engagement": 13.7,
-                "subscriberRatio": 112.8,
-                "freshness": 13.8,
-                "formatAdjustment": 85.0
+                "velocity": 131.8,
+                "engagement": 11.9,
+                "subscriberRatio": 67.4,
+                "freshness": 17.3
             }
         },
         {
-            "rank": 20,
-            "videoId": "qlv1xV9EGJ4",
-            "title": "【超速…】あっという間に通り過ぎていく周東佑京 #shorts",
-            "channelId": "UC0v-pxTo1XamIDE-f__Ad0Q",
-            "channelName": "(パーソル パ・リーグTV公式)PacificLeagueTV",
-            "thumbnailUrl": "https://i.ytimg.com/vi/qlv1xV9EGJ4/maxresdefault.jpg",
-            "publishedAt": "2026-09-08T03:15:29Z",
-            "viewCount": 1348827,
-            "viewIncrease": 112644,
-            "likeCount": 11369,
-            "likeIncrease": 1374,
-            "commentCount": 283,
-            "commentIncrease": 15,
-            "subscriberCount": 1720000,
-            "durationSeconds": 38,
+            "rank": 16,
+            "videoId": "PaboHDVBFgM",
+            "title": "練習にならなくてイライラする【あるある】 #shorts #スポーツ",
+            "channelId": "UCQ4ZUhFDHbIJHIyq5Z7hHPw",
+            "channelName": "かなこ。KANAKO.",
+            "thumbnailUrl": "https://i.ytimg.com/vi/PaboHDVBFgM/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T10:30:37Z",
+            "viewCount": 1524,
+            "viewIncrease": 533,
+            "likeCount": 10,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 15800,
+            "durationSeconds": 10,
             "isShort": true,
-            "rawScore": 26.7,
-            "normalizedScore": 34.5,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 151.1,
-                "engagement": 22.8,
-                "subscriberRatio": 70.4,
-                "freshness": 12.8,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 21,
-            "videoId": "6PbpVNO2I9A",
-            "title": "サッカー日本代表面白い動画トップ5 #サッカー #サッカー日本代表",
-            "channelId": "UCXbTmus_vLc7vF4cphm92Fw",
-            "channelName": "感動ストーリーラボ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/6PbpVNO2I9A/maxresdefault.jpg",
-            "publishedAt": "2026-09-05T11:00:37Z",
-            "viewCount": 6031371,
-            "viewIncrease": 261644,
-            "likeCount": 87289,
-            "likeIncrease": 5021,
-            "commentCount": 317,
-            "commentIncrease": 11,
-            "subscriberCount": 80500,
-            "durationSeconds": 39,
-            "isShort": true,
-            "rawScore": 22.9,
-            "normalizedScore": 31.0,
+            "rawScore": 35.9,
+            "normalizedScore": 55.9,
             "genres": [
                 {
                     "slug": "sports",
@@ -744,185 +598,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 163.9,
-                "engagement": 24.5,
-                "subscriberRatio": 112.8,
-                "freshness": 9.0,
+                "velocity": 71.6,
+                "engagement": 0.0,
+                "subscriberRatio": 63.2,
+                "freshness": 31.3,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 22,
-            "videoId": "RSjKns1_QpM",
-            "title": "フルスタックでも退屈なフィジギフ #shorts",
-            "channelId": "UC6qEUMw2GJbuDYoK0Y33xHA",
-            "channelName": "マッスルクリップス",
-            "thumbnailUrl": "https://i.ytimg.com/vi/RSjKns1_QpM/maxresdefault.jpg",
-            "publishedAt": "2026-09-02T09:15:03Z",
-            "viewCount": 6612962,
-            "viewIncrease": 22657,
-            "sevenDayViewIncrease": 4862579,
-            "likeCount": 82244,
-            "likeIncrease": 383,
-            "commentCount": 834,
-            "commentIncrease": 3,
-            "subscriberCount": 260000,
-            "durationSeconds": 22,
+            "rank": 17,
+            "videoId": "GqMQWzo0gKc",
+            "title": "野球イベントで勝つ方法😮",
+            "channelId": "UCxnLsgE9iWGlsAO_X8PtjRw",
+            "channelName": "スポビト",
+            "thumbnailUrl": "https://i.ytimg.com/vi/GqMQWzo0gKc/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T08:00:25Z",
+            "viewCount": 2569118,
+            "viewIncrease": 2569118,
+            "likeCount": 22326,
+            "likeIncrease": 22326,
+            "commentCount": 134,
+            "commentIncrease": 134,
+            "subscriberCount": 122000,
+            "durationSeconds": 31,
             "isShort": true,
-            "rawScore": 22.1,
-            "normalizedScore": 27.6,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 126.8,
-                "engagement": 25.2,
-                "subscriberRatio": 73.5,
-                "freshness": 7.1,
-                "sevenDayVelocity": 10.0,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 23,
-            "videoId": "-CFjAAw59F8",
-            "title": "兄の元カノが突然登場容赦ない弟の返し",
-            "channelId": "UCsnO3pExp8L1OV2CCz41mOA",
-            "channelName": "カメライフ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/-CFjAAw59F8/maxresdefault.jpg",
-            "publishedAt": "2026-09-04T15:55:45Z",
-            "viewCount": 4945715,
-            "viewIncrease": 93357,
-            "likeCount": 84585,
-            "likeIncrease": 1885,
-            "commentCount": 306,
-            "commentIncrease": 6,
-            "subscriberCount": 10100,
-            "durationSeconds": 35,
-            "isShort": true,
-            "rawScore": 21.1,
-            "normalizedScore": 24.1,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 148.3,
-                "engagement": 25.3,
-                "subscriberRatio": 124.1,
-                "freshness": 8.3,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 24,
-            "videoId": "2aCWTVVGUFg",
-            "title": "【武道・アニメ】ロックリーの足の重りつけてみた！どれほど凄いか検証！！#aikido  ＃karate #martial #武道 #空手＃筋トレ＃スリップバック＃空中ウォーク",
-            "channelId": "UCUu1RXivcsExBBDeD7vy3cg",
-            "channelName": "YASU道",
-            "thumbnailUrl": "https://i.ytimg.com/vi/2aCWTVVGUFg/maxresdefault.jpg",
-            "publishedAt": "2026-09-05T09:00:13Z",
-            "viewCount": 3755278,
-            "viewIncrease": 121679,
-            "likeCount": 36580,
-            "likeIncrease": 864,
-            "commentCount": 613,
-            "commentIncrease": 6,
-            "subscriberCount": 369000,
-            "durationSeconds": 32,
-            "isShort": true,
-            "rawScore": 19.5,
-            "normalizedScore": 20.7,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "anime",
-                    "name": "アニメ",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 152.3,
-                "engagement": 17.5,
-                "subscriberRatio": 88.0,
-                "freshness": 8.9,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 25,
-            "videoId": "yuWKfL5CbFQ",
-            "title": "パ。ーパラグアイ品質の審判についてー",
-            "channelId": "UCydyKoD5xPDXv0CdcyH_2Gw",
-            "channelName": "ミームの虫",
-            "thumbnailUrl": "https://i.ytimg.com/vi/yuWKfL5CbFQ/maxresdefault.jpg",
-            "publishedAt": "2026-09-04T10:15:21Z",
-            "viewCount": 2980821,
-            "viewIncrease": 73151,
-            "likeCount": 44043,
-            "likeIncrease": 1182,
-            "commentCount": 202,
-            "commentIncrease": 7,
-            "subscriberCount": 33400,
-            "durationSeconds": 60,
-            "isShort": true,
-            "rawScore": 19.3,
-            "normalizedScore": 17.2,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 144.6,
-                "engagement": 24.3,
-                "subscriberRatio": 108.5,
-                "freshness": 8.2,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 26,
-            "videoId": "WdI-4sJ3SjY",
-            "title": "愛を込めた 母のフリー打撃 #野球",
-            "channelId": "UCVq6TGtY8staPSjbli7V92g",
-            "channelName": "1分野球",
-            "thumbnailUrl": "https://i.ytimg.com/vi/WdI-4sJ3SjY/maxresdefault.jpg",
-            "publishedAt": "2026-09-04T01:00:28Z",
-            "viewCount": 4678017,
-            "viewIncrease": 94564,
-            "likeCount": 13242,
-            "likeIncrease": 372,
-            "commentCount": 431,
-            "commentIncrease": 9,
-            "subscriberCount": 17300,
-            "durationSeconds": 11,
-            "isShort": true,
-            "rawScore": 19.0,
-            "normalizedScore": 13.8,
+            "rawScore": 35.8,
+            "normalizedScore": 52.9,
             "genres": [
                 {
                     "slug": "sports",
@@ -931,32 +632,321 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 148.5,
-                "engagement": 14.5,
-                "subscriberRatio": 118.4,
-                "freshness": 7.9,
+                "velocity": 176.0,
+                "engagement": 19.0,
+                "subscriberRatio": 133.1,
+                "freshness": 12.8,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 27,
-            "videoId": "8Y0L6Vc-w9o",
-            "title": "耳をテカテカに光らせて全米に疑われたマスグローブに関する雑学 #野球 #プロ野球 #野球雑学",
-            "channelId": "UCt7HCqlqdVFcOd3aNr0hcgQ",
-            "channelName": "大谷翔平速報【海外の反応】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/8Y0L6Vc-w9o/maxresdefault.jpg",
-            "publishedAt": "2026-09-03T10:00:10Z",
-            "viewCount": 3042371,
-            "viewIncrease": 67949,
-            "likeCount": 43322,
-            "likeIncrease": 2264,
-            "commentCount": 392,
-            "commentIncrease": 19,
-            "subscriberCount": 77000,
-            "durationSeconds": 42,
+            "rank": 18,
+            "videoId": "IlSUwewZLEY",
+            "title": "禁止されたスポーツ用品の性能",
+            "channelId": "UCBCF97JRGmkhsHQ0125mteg",
+            "channelName": "TheWorld",
+            "thumbnailUrl": "https://i.ytimg.com/vi/IlSUwewZLEY/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T09:00:33Z",
+            "viewCount": 2438910,
+            "viewIncrease": 342147,
+            "likeCount": 46239,
+            "likeIncrease": 3151,
+            "commentCount": 441,
+            "commentIncrease": 21,
+            "subscriberCount": 60300,
+            "durationSeconds": 34,
             "isShort": true,
-            "rawScore": 17.7,
-            "normalizedScore": 10.3,
+            "rawScore": 33.9,
+            "normalizedScore": 50.0,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 169.7,
+                "engagement": 19.6,
+                "subscriberRatio": 118.8,
+                "freshness": 12.9,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 19,
+            "videoId": "q76ydzO7APU",
+            "title": "【武道・武術】ハエを箸で捕まえる！？宮本武蔵の伝説にYASUが挑戦！！#aikido  ＃karate #martial #武道 #空手＃筋トレ",
+            "channelId": "UCUu1RXivcsExBBDeD7vy3cg",
+            "channelName": "YASU道",
+            "thumbnailUrl": "https://i.ytimg.com/vi/q76ydzO7APU/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T09:00:19Z",
+            "viewCount": 3703999,
+            "viewIncrease": 400383,
+            "likeCount": 95904,
+            "likeIncrease": 5233,
+            "commentCount": 3358,
+            "commentIncrease": 89,
+            "subscriberCount": 369000,
+            "durationSeconds": 33,
+            "isShort": true,
+            "rawScore": 32.7,
+            "normalizedScore": 47.1,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 172.1,
+                "engagement": 24.6,
+                "subscriberRatio": 100.9,
+                "freshness": 12.9,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 20,
+            "videoId": "ptPZ8lm20D0",
+            "title": "全盛期バルセロナのボール回しが絶対に取れない！ #サッカー #バルセロナ #ティキタカ #メッシ",
+            "channelId": "UCmmv1Rw1tEWXvsb7jJtDmPg",
+            "channelName": "ほぼタケフサ【Football】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/ptPZ8lm20D0/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T09:22:20Z",
+            "viewCount": 1345240,
+            "viewIncrease": 246517,
+            "likeCount": 9605,
+            "likeIncrease": 1192,
+            "commentCount": 177,
+            "commentIncrease": 9,
+            "subscriberCount": 59200,
+            "durationSeconds": 26,
+            "isShort": true,
+            "rawScore": 32.5,
+            "normalizedScore": 44.1,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 164.7,
+                "engagement": 14.7,
+                "subscriberRatio": 115.5,
+                "freshness": 13.0,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 21,
+            "videoId": "8UW4400fI9w",
+            "title": "【凄ワザ】アニメの技を現実にする難易度とは",
+            "channelId": "UCM3f7UIJ-iQbSOVG9QDEzug",
+            "channelName": "きよしろーという。",
+            "thumbnailUrl": "https://i.ytimg.com/vi/8UW4400fI9w/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T10:00:33Z",
+            "viewCount": 2318558,
+            "viewIncrease": 260136,
+            "likeCount": 22352,
+            "likeIncrease": 907,
+            "commentCount": 301,
+            "commentIncrease": 5,
+            "subscriberCount": 70200,
+            "durationSeconds": 19,
+            "isShort": true,
+            "rawScore": 32.4,
+            "normalizedScore": 41.2,
+            "genres": [
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 165.5,
+                "engagement": 12.2,
+                "subscriberRatio": 114.2,
+                "freshness": 13.1,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 22,
+            "previousRank": 75,
+            "rankChange": 53,
+            "videoId": "duBwP1Vweh8",
+            "title": "外野手スローイング Baseball Professional Training College #日本プロスポーツ専門学校 #野球 #棒球 #야구 #beisbol #béisbol",
+            "channelId": "UCQ6AUZTMF7oQ1hg-F90Odgw",
+            "channelName": "学校法人 尚徳館  日本プロスポーツ専門学校硬式野球部",
+            "thumbnailUrl": "https://i.ytimg.com/vi/duBwP1Vweh8/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T12:00:22Z",
+            "viewCount": 909,
+            "viewIncrease": 21,
+            "likeCount": 6,
+            "likeIncrease": 1,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 2430,
+            "durationSeconds": 51,
+            "isShort": true,
+            "rawScore": 30.1,
+            "normalizedScore": 38.2,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.99
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 25.4,
+                "engagement": 30.4,
+                "subscriberRatio": 48.5,
+                "freshness": 33.9,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 23,
+            "videoId": "6J2hkGv35ME",
+            "title": "打者と投手が一緒に作り上げた合作品",
+            "channelId": "UCKHGeWdJjiRhrGLSREVfJqQ",
+            "channelName": "野球オタク",
+            "thumbnailUrl": "https://i.ytimg.com/vi/6J2hkGv35ME/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T11:40:00Z",
+            "viewCount": 844882,
+            "viewIncrease": 43539,
+            "likeCount": 1598,
+            "likeIncrease": 50,
+            "commentCount": 104,
+            "commentIncrease": 0,
+            "subscriberCount": 12300,
+            "durationSeconds": 11,
+            "isShort": true,
+            "rawScore": 29.0,
+            "normalizedScore": 35.3,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 138.4,
+                "engagement": 6.0,
+                "subscriberRatio": 113.7,
+                "freshness": 13.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 24,
+            "videoId": "qlv1xV9EGJ4",
+            "title": "【超速…】あっという間に通り過ぎていく周東佑京 #shorts",
+            "channelId": "UC0v-pxTo1XamIDE-f__Ad0Q",
+            "channelName": "(パーソル パ・リーグTV公式)PacificLeagueTV",
+            "thumbnailUrl": "https://i.ytimg.com/vi/qlv1xV9EGJ4/maxresdefault.jpg",
+            "publishedAt": "2026-09-08T03:15:29Z",
+            "viewCount": 1487278,
+            "viewIncrease": 138451,
+            "likeCount": 11925,
+            "likeIncrease": 556,
+            "commentCount": 297,
+            "commentIncrease": 14,
+            "subscriberCount": 1720000,
+            "durationSeconds": 38,
+            "isShort": true,
+            "rawScore": 25.6,
+            "normalizedScore": 32.4,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 155.9,
+                "engagement": 14.7,
+                "subscriberRatio": 72.7,
+                "freshness": 12.4,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 25,
+            "videoId": "QT5tbaXIQMQ",
+            "title": "【驚愕】大谷もカウント勘違いしてそうな瞬間‼ #野球",
+            "channelId": "UChku4ht5HJlZ6oJgj0WtlIg",
+            "channelName": "朝から野球",
+            "thumbnailUrl": "https://i.ytimg.com/vi/QT5tbaXIQMQ/maxresdefault.jpg",
+            "publishedAt": "2026-09-05T03:00:23Z",
+            "viewCount": 2094547,
+            "viewIncrease": 2094547,
+            "likeCount": 8749,
+            "likeIncrease": 8749,
+            "commentCount": 66,
+            "commentIncrease": 66,
+            "subscriberCount": 157000,
+            "durationSeconds": 17,
+            "isShort": true,
+            "rawScore": 22.8,
+            "normalizedScore": 29.4,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 172.9,
+                "engagement": 13.6,
+                "subscriberRatio": 128.1,
+                "freshness": 8.5,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 26,
+            "videoId": "6PbpVNO2I9A",
+            "title": "サッカー日本代表面白い動画トップ5 #サッカー #サッカー日本代表",
+            "channelId": "UCXbTmus_vLc7vF4cphm92Fw",
+            "channelName": "感動ストーリーラボ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/6PbpVNO2I9A/maxresdefault.jpg",
+            "publishedAt": "2026-09-05T11:00:37Z",
+            "viewCount": 6408696,
+            "viewIncrease": 377325,
+            "likeCount": 89578,
+            "likeIncrease": 2289,
+            "commentCount": 321,
+            "commentIncrease": 4,
+            "subscriberCount": 80600,
+            "durationSeconds": 39,
+            "isShort": true,
+            "rawScore": 22.7,
+            "normalizedScore": 26.5,
             "genres": [
                 {
                     "slug": "sports",
@@ -965,66 +955,112 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 143.4,
-                "engagement": 32.2,
-                "subscriberRatio": 98.6,
-                "freshness": 7.6,
+                "velocity": 171.2,
+                "engagement": 15.6,
+                "subscriberRatio": 116.8,
+                "freshness": 8.8,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 27,
+            "videoId": "RSjKns1_QpM",
+            "title": "フルスタックでも退屈なフィジギフ #shorts",
+            "channelId": "UC6qEUMw2GJbuDYoK0Y33xHA",
+            "channelName": "マッスルクリップス",
+            "thumbnailUrl": "https://i.ytimg.com/vi/RSjKns1_QpM/maxresdefault.jpg",
+            "publishedAt": "2026-09-02T09:15:03Z",
+            "viewCount": 6653015,
+            "viewIncrease": 40053,
+            "sevenDayViewIncrease": 4374215,
+            "likeCount": 82452,
+            "likeIncrease": 208,
+            "commentCount": 835,
+            "commentIncrease": 1,
+            "subscriberCount": 260000,
+            "durationSeconds": 22,
+            "isShort": true,
+            "rawScore": 22.3,
+            "normalizedScore": 23.5,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 137.1,
+                "engagement": 14.9,
+                "subscriberRatio": 79.7,
+                "freshness": 7.0,
+                "sevenDayVelocity": 10.0,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 28,
-            "videoId": "wrvPyuBAKzE",
-            "title": "グラウンドで大の字になった選手🥵",
-            "channelId": "UCxnLsgE9iWGlsAO_X8PtjRw",
-            "channelName": "スポビト",
-            "thumbnailUrl": "https://i.ytimg.com/vi/wrvPyuBAKzE/maxresdefault.jpg",
-            "publishedAt": "2026-09-03T08:00:38Z",
-            "viewCount": 7055755,
-            "viewIncrease": 102974,
-            "likeCount": 50005,
-            "likeIncrease": 593,
-            "commentCount": 536,
-            "commentIncrease": 7,
-            "subscriberCount": 122000,
-            "durationSeconds": 31,
+            "videoId": "-CFjAAw59F8",
+            "title": "兄の元カノが突然登場容赦ない弟の返し",
+            "channelId": "UCsnO3pExp8L1OV2CCz41mOA",
+            "channelName": "カメライフ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/-CFjAAw59F8/maxresdefault.jpg",
+            "publishedAt": "2026-09-04T15:55:45Z",
+            "viewCount": 5066905,
+            "viewIncrease": 121190,
+            "likeCount": 85632,
+            "likeIncrease": 1047,
+            "commentCount": 305,
+            "commentIncrease": 0,
+            "subscriberCount": 10200,
+            "durationSeconds": 35,
             "isShort": true,
-            "rawScore": 16.9,
-            "normalizedScore": 6.9,
+            "rawScore": 20.8,
+            "normalizedScore": 20.6,
             "genres": [
                 {
                     "slug": "sports",
                     "name": "スポーツ",
-                    "confidence": 0.5
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 149.8,
-                "engagement": 16.5,
-                "subscriberRatio": 98.2,
-                "freshness": 7.5,
+                "velocity": 153.9,
+                "engagement": 17.7,
+                "subscriberRatio": 126.9,
+                "freshness": 8.2,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 29,
-            "videoId": "QB4haNEnxVo",
-            "title": "目が追えない速射弓術！師匠 vs 天才弟子",
-            "channelId": "UCOKU-Q80qWjF8ReG39NpZcQ",
-            "channelName": "一分抜刀",
-            "thumbnailUrl": "https://i.ytimg.com/vi/QB4haNEnxVo/maxresdefault.jpg",
-            "publishedAt": "2026-09-02T21:15:33Z",
-            "viewCount": 5778535,
-            "viewIncrease": 22010,
-            "likeCount": 30720,
-            "likeIncrease": 179,
-            "commentCount": 630,
-            "commentIncrease": 3,
-            "subscriberCount": 15300,
-            "durationSeconds": 15,
+            "videoId": "yuWKfL5CbFQ",
+            "title": "パ。ーパラグアイ品質の審判についてー",
+            "channelId": "UCydyKoD5xPDXv0CdcyH_2Gw",
+            "channelName": "ミームの虫",
+            "thumbnailUrl": "https://i.ytimg.com/vi/yuWKfL5CbFQ/maxresdefault.jpg",
+            "publishedAt": "2026-09-04T10:15:21Z",
+            "viewCount": 3064359,
+            "viewIncrease": 83538,
+            "likeCount": 44587,
+            "likeIncrease": 544,
+            "commentCount": 204,
+            "commentIncrease": 2,
+            "subscriberCount": 33500,
+            "durationSeconds": 60,
             "isShort": true,
-            "rawScore": 15.6,
-            "normalizedScore": 3.4,
+            "rawScore": 18.8,
+            "normalizedScore": 17.6,
             "genres": [
                 {
                     "slug": "sports",
@@ -1033,31 +1069,206 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 126.3,
-                "engagement": 20.0,
-                "subscriberRatio": 103.9,
-                "freshness": 7.3,
+                "velocity": 148.3,
+                "engagement": 16.4,
+                "subscriberRatio": 109.9,
+                "freshness": 8.0,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 30,
+            "videoId": "2aCWTVVGUFg",
+            "title": "【武道・アニメ】ロックリーの足の重りつけてみた！どれほど凄いか検証！！#aikido  ＃karate #martial #武道 #空手＃筋トレ＃スリップバック＃空中ウォーク",
+            "channelId": "UCUu1RXivcsExBBDeD7vy3cg",
+            "channelName": "YASU道",
+            "thumbnailUrl": "https://i.ytimg.com/vi/2aCWTVVGUFg/maxresdefault.jpg",
+            "publishedAt": "2026-09-05T09:00:13Z",
+            "viewCount": 3872546,
+            "viewIncrease": 117268,
+            "likeCount": 36927,
+            "likeIncrease": 347,
+            "commentCount": 618,
+            "commentIncrease": 5,
+            "subscriberCount": 369000,
+            "durationSeconds": 32,
+            "isShort": true,
+            "rawScore": 18.7,
+            "normalizedScore": 14.7,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 153.4,
+                "engagement": 11.8,
+                "subscriberRatio": 87.6,
+                "freshness": 8.7,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 31,
+            "videoId": "WdI-4sJ3SjY",
+            "title": "愛を込めた 母のフリー打撃 #野球",
+            "channelId": "UCVq6TGtY8staPSjbli7V92g",
+            "channelName": "1分野球",
+            "thumbnailUrl": "https://i.ytimg.com/vi/WdI-4sJ3SjY/maxresdefault.jpg",
+            "publishedAt": "2026-09-04T01:00:28Z",
+            "viewCount": 4778408,
+            "viewIncrease": 100391,
+            "likeCount": 13352,
+            "likeIncrease": 110,
+            "commentCount": 433,
+            "commentIncrease": 2,
+            "subscriberCount": 17300,
+            "durationSeconds": 11,
+            "isShort": true,
+            "rawScore": 18.4,
+            "normalizedScore": 11.8,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.9
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 151.1,
+                "engagement": 6.3,
+                "subscriberRatio": 119.1,
+                "freshness": 7.8,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 32,
+            "videoId": "8Y0L6Vc-w9o",
+            "title": "耳をテカテカに光らせて全米に疑われたマスグローブに関する雑学 #野球 #プロ野球 #野球雑学",
+            "channelId": "UCt7HCqlqdVFcOd3aNr0hcgQ",
+            "channelName": "大谷翔平速報【海外の反応】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/8Y0L6Vc-w9o/maxresdefault.jpg",
+            "publishedAt": "2026-09-03T10:00:10Z",
+            "viewCount": 3147548,
+            "viewIncrease": 105177,
+            "likeCount": 43423,
+            "likeIncrease": 101,
+            "commentCount": 394,
+            "commentIncrease": 2,
+            "subscriberCount": 77000,
+            "durationSeconds": 42,
+            "isShort": true,
+            "rawScore": 16.6,
+            "normalizedScore": 8.8,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.7
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 151.8,
+                "engagement": 5.7,
+                "subscriberRatio": 103.4,
+                "freshness": 7.5,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 33,
+            "videoId": "QB4haNEnxVo",
+            "title": "目が追えない速射弓術！師匠 vs 天才弟子",
+            "channelId": "UCOKU-Q80qWjF8ReG39NpZcQ",
+            "channelName": "一分抜刀",
+            "thumbnailUrl": "https://i.ytimg.com/vi/QB4haNEnxVo/maxresdefault.jpg",
+            "publishedAt": "2026-09-02T21:15:33Z",
+            "viewCount": 5825360,
+            "viewIncrease": 46825,
+            "likeCount": 30835,
+            "likeIncrease": 115,
+            "commentCount": 633,
+            "commentIncrease": 3,
+            "subscriberCount": 15300,
+            "durationSeconds": 15,
+            "isShort": true,
+            "rawScore": 16.1,
+            "normalizedScore": 5.9,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 139.5,
+                "engagement": 11.1,
+                "subscriberRatio": 112.1,
+                "freshness": 7.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 34,
+            "videoId": "wrvPyuBAKzE",
+            "title": "グラウンドで大の字になった選手🥵",
+            "channelId": "UCxnLsgE9iWGlsAO_X8PtjRw",
+            "channelName": "スポビト",
+            "thumbnailUrl": "https://i.ytimg.com/vi/wrvPyuBAKzE/maxresdefault.jpg",
+            "publishedAt": "2026-09-03T08:00:38Z",
+            "viewCount": 7129386,
+            "viewIncrease": 73631,
+            "likeCount": 50218,
+            "likeIncrease": 213,
+            "commentCount": 537,
+            "commentIncrease": 1,
+            "subscriberCount": 122000,
+            "durationSeconds": 31,
+            "isShort": true,
+            "rawScore": 15.9,
+            "normalizedScore": 2.9,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.5
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 146.3,
+                "engagement": 11.0,
+                "subscriberRatio": 94.5,
+                "freshness": 7.4,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 35,
             "videoId": "RyvXpBCPziY",
             "title": "世界でバズった甲子園の神プレー TOP5 #野球",
             "channelId": "UChku4ht5HJlZ6oJgj0WtlIg",
             "channelName": "朝から野球",
             "thumbnailUrl": "https://i.ytimg.com/vi/RyvXpBCPziY/maxresdefault.jpg",
             "publishedAt": "2026-09-02T09:00:07Z",
-            "viewCount": 5504582,
-            "viewIncrease": 33107,
-            "likeCount": 50514,
-            "likeIncrease": 337,
-            "commentCount": 556,
-            "commentIncrease": 4,
+            "viewCount": 5556377,
+            "viewIncrease": 51795,
+            "likeCount": 50689,
+            "likeIncrease": 175,
+            "commentCount": 557,
+            "commentIncrease": 1,
             "subscriberCount": 157000,
             "durationSeconds": 57,
             "isShort": true,
-            "rawScore": 14.3,
+            "rawScore": 14.4,
             "normalizedScore": 0.0,
             "genres": [
                 {
@@ -1067,10 +1278,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 132.5,
-                "engagement": 21.3,
-                "subscriberRatio": 83.1,
-                "freshness": 7.1,
+                "velocity": 141.0,
+                "engagement": 12.0,
+                "subscriberRatio": 88.0,
+                "freshness": 7.0,
                 "formatAdjustment": 85.0
             }
         }
