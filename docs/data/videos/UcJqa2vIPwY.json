@@ -1,25 +1,25 @@
 {
-    "generatedAt": "2026-09-13T23:31:33.927059908Z",
+    "generatedAt": "2026-09-14T09:16:24.299383284Z",
     "video": {
-        "rank": 50,
-        "previousRank": 21,
-        "rankChange": -29,
+        "rank": 97,
+        "previousRank": 50,
+        "rankChange": -47,
         "videoId": "UcJqa2vIPwY",
         "title": "セレナーデ Cover / Gero",
         "channelId": "UCFuugQScqDfJcsOEWbL1_tg",
         "channelName": "Gero Channel",
         "thumbnailUrl": "https://i.ytimg.com/vi/UcJqa2vIPwY/maxresdefault.jpg",
         "publishedAt": "2026-09-13T11:00:09Z",
-        "viewCount": 165817,
-        "viewIncrease": 64734,
-        "likeCount": 11769,
-        "likeIncrease": 1342,
-        "commentCount": 2643,
-        "commentIncrease": 84,
+        "viewCount": 237676,
+        "viewIncrease": 71859,
+        "likeCount": 14518,
+        "likeIncrease": 2749,
+        "commentCount": 2860,
+        "commentIncrease": 217,
         "subscriberCount": 574000,
         "durationSeconds": 217,
-        "rawScore": 66.7,
-        "normalizedScore": 50.5,
+        "rawScore": 52.0,
+        "normalizedScore": 3.0,
         "genres": [
             {
                 "slug": "vtuber",
@@ -30,20 +30,25 @@
                 "slug": "entertainment",
                 "name": "エンタメ",
                 "confidence": 0.3
+            },
+            {
+                "slug": "music",
+                "name": "音楽",
+                "confidence": 0.2
             }
         ],
         "scoreBreakdown": {
-            "velocity": 143.4,
-            "engagement": 34.6,
-            "subscriberRatio": 76.3,
-            "freshness": 26.2
+            "velocity": 135.4,
+            "engagement": 43.2,
+            "subscriberRatio": 77.4,
+            "freshness": 20.3
         }
     },
     "scoreBreakdown": {
-        "velocity": 143.4,
-        "engagement": 34.6,
-        "subscriberRatio": 76.3,
-        "freshness": 26.2
+        "velocity": 135.4,
+        "engagement": 43.2,
+        "subscriberRatio": 77.4,
+        "freshness": 20.3
     },
     "genres": [
         {
@@ -55,6 +60,11 @@
             "slug": "entertainment",
             "name": "エンタメ",
             "confidence": 0.3
+        },
+        {
+            "slug": "music",
+            "name": "音楽",
+            "confidence": 0.2
         }
     ]
 }
