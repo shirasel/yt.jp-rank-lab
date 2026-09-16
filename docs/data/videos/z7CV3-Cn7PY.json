@@ -1,58 +1,60 @@
 {
-    "generatedAt": "2026-09-16T19:05:50.542594756Z",
+    "generatedAt": "2026-09-16T23:50:53.385978831Z",
     "video": {
-        "rank": 6,
+        "rank": 56,
+        "previousRank": 6,
+        "rankChange": -50,
         "videoId": "z7CV3-Cn7PY",
         "title": "【重大告知】橘リルリ転生いたします！【ホロライブ/兎田ぺこら】",
         "channelId": "UC1DCedRgGHBdm81E1llLhOQ",
         "channelName": "Pekora Ch. 兎田ぺこら",
         "thumbnailUrl": "https://i.ytimg.com/vi/z7CV3-Cn7PY/maxresdefault.jpg",
         "publishedAt": "2026-09-16T14:26:19Z",
-        "viewCount": 738933,
-        "viewIncrease": 738933,
-        "likeCount": 14636,
-        "likeIncrease": 14636,
-        "commentCount": 164,
-        "commentIncrease": 164,
+        "viewCount": 789484,
+        "viewIncrease": 50551,
+        "likeCount": 14974,
+        "likeIncrease": 338,
+        "commentCount": 191,
+        "commentIncrease": 27,
         "subscriberCount": 2790000,
         "durationSeconds": 10991,
-        "rawScore": 104.8,
-        "normalizedScore": 94.9,
+        "rawScore": 65.2,
+        "normalizedScore": 44.4,
         "genres": [
+            {
+                "slug": "vtuber",
+                "name": "VTuber",
+                "confidence": 0.4
+            },
             {
                 "slug": "gaming",
                 "name": "ゲーム",
                 "confidence": 0.3
-            },
-            {
-                "slug": "vtuber",
-                "name": "VTuber",
-                "confidence": 0.1
             }
         ],
         "scoreBreakdown": {
-            "velocity": 157.1,
-            "engagement": 27.6,
-            "subscriberRatio": 85.6,
-            "freshness": 38.8
+            "velocity": 140.9,
+            "engagement": 22.7,
+            "subscriberRatio": 56.5,
+            "freshness": 29.6
         }
     },
     "scoreBreakdown": {
-        "velocity": 157.1,
-        "engagement": 27.6,
-        "subscriberRatio": 85.6,
-        "freshness": 38.8
+        "velocity": 140.9,
+        "engagement": 22.7,
+        "subscriberRatio": 56.5,
+        "freshness": 29.6
     },
     "genres": [
+        {
+            "slug": "vtuber",
+            "name": "VTuber",
+            "confidence": 0.4
+        },
         {
             "slug": "gaming",
             "name": "ゲーム",
             "confidence": 0.3
-        },
-        {
-            "slug": "vtuber",
-            "name": "VTuber",
-            "confidence": 0.1
         }
     ]
 }
