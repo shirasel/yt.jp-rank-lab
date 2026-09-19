@@ -1,25 +1,32 @@
 {
-    "generatedAt": "2026-09-19T13:24:42.748716400Z",
+    "generatedAt": "2026-09-19T18:13:13.460599606Z",
     "video": {
-        "rank": 1,
+        "rank": 22,
+        "previousRank": 1,
+        "rankChange": -21,
         "videoId": "P3p624kbW0Y",
         "title": "イタリア人が審査する日本で食べられるミラノピザ #イタリア料理",
         "channelId": "UCUnJm7Yl_aVEMKt6hCFnnPA",
         "channelName": "旅するイタリア食堂",
         "thumbnailUrl": "https://i.ytimg.com/vi/P3p624kbW0Y/maxresdefault.jpg",
         "publishedAt": "2026-09-19T12:23:17Z",
-        "viewCount": 4284,
-        "viewIncrease": 4284,
-        "likeCount": 199,
-        "likeIncrease": 199,
-        "commentCount": 7,
-        "commentIncrease": 7,
-        "subscriberCount": 6610,
+        "viewCount": 21269,
+        "viewIncrease": 16985,
+        "likeCount": 229,
+        "likeIncrease": 30,
+        "commentCount": 9,
+        "commentIncrease": 2,
+        "subscriberCount": 6640,
         "durationSeconds": 26,
         "isShort": true,
-        "rawScore": 105.7,
-        "normalizedScore": 100.0,
+        "rawScore": 74.4,
+        "normalizedScore": 78.8,
         "genres": [
+            {
+                "slug": "music",
+                "name": "音楽",
+                "confidence": 0.4
+            },
             {
                 "slug": "cooking",
                 "name": "料理",
@@ -32,21 +39,26 @@
             }
         ],
         "scoreBreakdown": {
-            "velocity": 78.9,
-            "engagement": 41.7,
-            "subscriberRatio": 95.3,
-            "freshness": 57.6,
+            "velocity": 124.2,
+            "engagement": 10.4,
+            "subscriberRatio": 110.2,
+            "freshness": 35.8,
             "formatAdjustment": 85.0
         }
     },
     "scoreBreakdown": {
-        "velocity": 78.9,
-        "engagement": 41.7,
-        "subscriberRatio": 95.3,
-        "freshness": 57.6,
+        "velocity": 124.2,
+        "engagement": 10.4,
+        "subscriberRatio": 110.2,
+        "freshness": 35.8,
         "formatAdjustment": 85.0
     },
     "genres": [
+        {
+            "slug": "music",
+            "name": "音楽",
+            "confidence": 0.4
+        },
         {
             "slug": "cooking",
             "name": "料理",
