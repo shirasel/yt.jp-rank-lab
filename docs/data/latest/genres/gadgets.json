@@ -1,33 +1,150 @@
 {
-    "generatedAt": "2026-09-22T19:11:03.142168457Z",
+    "generatedAt": "2026-09-22T23:49:51.891892403Z",
     "period": "24h",
     "genre": {
         "slug": "gadgets",
         "name": "ガジェット",
         "confidence": 0.2
     },
-    "status": "reference",
-    "totalVideos": 15,
-    "totalChannels": 15,
+    "status": "official",
+    "totalVideos": 20,
+    "totalChannels": 20,
     "ranking": [
         {
             "rank": 1,
+            "videoId": "HCEA9UwOeVw",
+            "title": "【FXライブ配信】2026.9/22.19:01~AIが最新ニュースをすべて読み上げます！リアルタイムでドル円レートをお知らせしニュースが入り次第、為替への影響をわかりやすく解説していきます。",
+            "channelId": "UCJVOMKeinmzPUN1BUDuk0FA",
+            "channelName": "ドル円情報局",
+            "thumbnailUrl": "https://i.ytimg.com/vi/HCEA9UwOeVw/maxresdefault.jpg",
+            "publishedAt": "2026-09-22T22:35:43Z",
+            "viewCount": 9817,
+            "viewIncrease": 9817,
+            "likeCount": 52,
+            "likeIncrease": 52,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 6820,
+            "durationSeconds": 42900,
+            "rawScore": 116.7,
+            "normalizedScore": 100.0,
+            "genres": [
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.99
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 91.4,
+                "engagement": 14.4,
+                "subscriberRatio": 104.0,
+                "freshness": 55.6
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "XPxAPiWdlfc",
+            "title": "Wi-Fiもアプリもいらない。📱➡️💻",
+            "channelId": "UCna6lZ0uPvs1DNNdtEAox1w",
+            "channelName": "llano Japan",
+            "thumbnailUrl": "https://i.ytimg.com/vi/XPxAPiWdlfc/maxresdefault.jpg",
+            "publishedAt": "2026-09-22T23:00:27Z",
+            "viewCount": 434,
+            "viewIncrease": 434,
+            "likeCount": 2,
+            "likeIncrease": 2,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 121,
+            "durationSeconds": 38,
+            "isShort": true,
+            "rawScore": 75.6,
+            "normalizedScore": 94.7,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.5
+                },
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 44.8,
+                "engagement": 13.5,
+                "subscriberRatio": 90.9,
+                "freshness": 59.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 3,
+            "videoId": "f3ZgWuXkIBc",
+            "title": "【一択】パソコンケース初めて買うなら、これで決まりです | おしゃれで圧倒的な保護力 | tomtoc パソコンケースをレビュー Part2",
+            "channelId": "UCmfy1r3winlz8JWqdlK6pJA",
+            "channelName": "トム / ガジェットノート",
+            "thumbnailUrl": "https://i.ytimg.com/vi/f3ZgWuXkIBc/maxresdefault.jpg",
+            "publishedAt": "2026-09-22T22:00:07Z",
+            "viewCount": 769,
+            "viewIncrease": 769,
+            "likeCount": 3,
+            "likeIncrease": 3,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 700,
+            "durationSeconds": 32,
+            "isShort": true,
+            "rawScore": 70.8,
+            "normalizedScore": 89.5,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.8
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 53.2,
+                "engagement": 12.4,
+                "subscriberRatio": 97.1,
+                "freshness": 51.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 4,
+            "previousRank": 4,
+            "rankChange": 0,
             "videoId": "zlzdNODf30o",
             "title": "#ホロドリ『公式配信』大型アップデート！夏だ！海だ！大漁だ！ ～新エリア発表～",
             "channelId": "UCawGfU44CZxd2ZVf_VGijbA",
             "channelName": "hololive Dreams ホロライブドリームス",
             "thumbnailUrl": "https://i.ytimg.com/vi/zlzdNODf30o/maxresdefault.jpg",
             "publishedAt": "2026-09-22T14:09:43Z",
-            "viewCount": 325432,
-            "viewIncrease": 325432,
-            "likeCount": 11632,
-            "likeIncrease": 11632,
-            "commentCount": 85,
-            "commentIncrease": 85,
+            "viewCount": 333880,
+            "viewIncrease": 8448,
+            "likeCount": 11831,
+            "likeIncrease": 199,
+            "commentCount": 92,
+            "commentIncrease": 7,
             "subscriberCount": 156000,
             "durationSeconds": 4070,
-            "rawScore": 107.6,
-            "normalizedScore": 100.0,
+            "rawScore": 63.3,
+            "normalizedScore": 84.2,
             "genres": [
                 {
                     "slug": "gaming",
@@ -46,33 +163,99 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 144.6,
-                "engagement": 32.5,
-                "subscriberRatio": 108.0,
-                "freshness": 37.8
+                "velocity": 114.1,
+                "engagement": 33.6,
+                "subscriberRatio": 68.4,
+                "freshness": 29.3
             }
         },
         {
-            "rank": 2,
-            "previousRank": 98,
-            "rankChange": 96,
+            "rank": 5,
+            "videoId": "ff-iEsPR41s",
+            "title": "壁付けでも置き型でも使えます……      #インテリア #雑貨 #ガジェット",
+            "channelId": "UCtDwKtgi8KX2TmU5_4IY4Fw",
+            "channelName": "積層紙工店ｰカニさんのナイフｰ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/ff-iEsPR41s/maxresdefault.jpg",
+            "publishedAt": "2026-09-22T13:22:19Z",
+            "viewCount": 1152,
+            "viewIncrease": 1152,
+            "likeCount": 3,
+            "likeIncrease": 3,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 15,
+            "durationSeconds": 19,
+            "isShort": true,
+            "rawScore": 43.2,
+            "normalizedScore": 78.9,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.7
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 59.2,
+                "engagement": 18.8,
+                "subscriberRatio": 101.5,
+                "freshness": 28.3,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 6,
+            "videoId": "dE5xL-eUG4g",
+            "title": "【ORICO】首が360度回転！スマホスタンド【ガジェット】",
+            "channelId": "UC6OWDoBe64zYZktqh2JoXhg",
+            "channelName": "DOGDOGLAB【モバイル比較・ガジェット紹介】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/dE5xL-eUG4g/maxresdefault.jpg",
+            "publishedAt": "2026-09-22T11:45:39Z",
+            "viewCount": 1894,
+            "viewIncrease": 1894,
+            "likeCount": 17,
+            "likeIncrease": 17,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 5730,
+            "durationSeconds": 30,
+            "isShort": true,
+            "rawScore": 40.6,
+            "normalizedScore": 73.7,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.9
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 66.6,
+                "engagement": 24.7,
+                "subscriberRatio": 88.0,
+                "freshness": 26.7,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 7,
             "videoId": "7XmP-Smeh20",
             "title": "これが330円⁉️ブルベ夏大優勝ダイソーリップ #美容 #コスメレビュー #コスメレポ #ダイソー #ダイソーコスメ #daiso #ダイソー購入品 #プチプラコスメ #新作コスメ #shorts",
             "channelId": "UCqKxCTSCBhOl8FvkAvua6Qw",
             "channelName": "めるも【ステマしません⚠️】",
             "thumbnailUrl": "https://i.ytimg.com/vi/7XmP-Smeh20/maxresdefault.jpg",
             "publishedAt": "2026-09-22T12:00:19Z",
-            "viewCount": 3022,
-            "viewIncrease": 1730,
-            "likeCount": 52,
-            "likeIncrease": 21,
+            "viewCount": 3645,
+            "viewIncrease": 623,
+            "likeCount": 82,
+            "likeIncrease": 30,
             "commentCount": 1,
             "commentIncrease": 0,
             "subscriberCount": 58100,
             "durationSeconds": 18,
             "isShort": true,
-            "rawScore": 48.0,
-            "normalizedScore": 92.9,
+            "rawScore": 35.7,
+            "normalizedScore": 68.4,
             "genres": [
                 {
                     "slug": "beauty",
@@ -86,70 +269,185 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 89.0,
-                "engagement": 20.1,
-                "subscriberRatio": 61.9,
-                "freshness": 33.0,
+                "velocity": 74.6,
+                "engagement": 30.4,
+                "subscriberRatio": 50.9,
+                "freshness": 26.9,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 3,
-            "videoId": "n-wCIqu0Txk",
-            "title": "#睡眠用bgm #リラックス #環境音 #睡眠 #癒し #癒しbgm #作業用bgm #寝落ち #自然音 #8時間 #capcut #ヒーリングbgm #asmr #水の音 #雨音 #睡眠bgm",
-            "channelId": "UCwt34VckukRJsIAPH4cn3SQ",
-            "channelName": "眠れる場所",
-            "thumbnailUrl": "https://i.ytimg.com/vi/n-wCIqu0Txk/maxresdefault.jpg",
-            "publishedAt": "2026-09-22T18:35:22Z",
-            "viewCount": 33,
-            "viewIncrease": 33,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 13,
-            "durationSeconds": 64,
-            "rawScore": 47.4,
-            "normalizedScore": 85.7,
+            "rank": 8,
+            "videoId": "89i-aP5FMfQ",
+            "title": "【速報】絶対にハックされないスイッチ有料化システムを開発したった⚡️ #電子工作 #diy #勝手に有料化シリーズ #nintendoswitch",
+            "channelId": "UCdWvSW7SVXabiaEmX5AwWgg",
+            "channelName": "Kazumasa Kusaba | 技術ものづくりラボ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/89i-aP5FMfQ/maxresdefault.jpg",
+            "publishedAt": "2026-09-21T09:27:44Z",
+            "viewCount": 128996,
+            "viewIncrease": 1459,
+            "likeCount": 2422,
+            "likeIncrease": 46,
+            "commentCount": 451,
+            "commentIncrease": 7,
+            "subscriberCount": 37100,
+            "durationSeconds": 45,
+            "isShort": true,
+            "rawScore": 26.3,
+            "normalizedScore": 63.2,
             "genres": [
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
-                    "confidence": 0.4
+                    "confidence": 0.3
                 },
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 87.5,
+                "engagement": 44.0,
+                "subscriberRatio": 64.9,
+                "freshness": 15.7,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 9,
+            "videoId": "BQ8px_yRmn0",
+            "title": "新たな手口は「冷蔵庫」…相次ぐ「トクリュウ」による犯行　「時間かけて信用を…」“巧妙化”する手口と対策【Nスタ解説】｜TBS NEWS DIG",
+            "channelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
+            "channelName": "TBS NEWS DIG Powered by JNN",
+            "thumbnailUrl": "https://i.ytimg.com/vi/BQ8px_yRmn0/maxresdefault.jpg",
+            "publishedAt": "2026-09-18T10:31:41Z",
+            "viewCount": 943089,
+            "viewIncrease": 943089,
+            "likeCount": 1971,
+            "likeIncrease": 1971,
+            "commentCount": 743,
+            "commentIncrease": 743,
+            "subscriberCount": 3390000,
+            "durationSeconds": 602,
+            "rawScore": 25.0,
+            "normalizedScore": 57.9,
+            "genres": [
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 160.8,
+                "engagement": 17.1,
+                "subscriberRatio": 86.1,
+                "freshness": 9.5
+            }
+        },
+        {
+            "rank": 10,
+            "videoId": "Oi7ChIKF9uU",
+            "title": "普通のDSliteだと思ったらまさかの海外版！？#shorts",
+            "channelId": "UCiBXkgUQ5rWeNehXsMimYRg",
+            "channelName": "和田【Retro Games】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Oi7ChIKF9uU/maxresdefault.jpg",
+            "publishedAt": "2026-09-14T09:00:22Z",
+            "viewCount": 681124,
+            "viewIncrease": 1461,
+            "sevenDayViewIncrease": 320799,
+            "likeCount": 9856,
+            "likeIncrease": 11,
+            "commentCount": 149,
+            "commentIncrease": 0,
+            "subscriberCount": 236000,
+            "durationSeconds": 127,
+            "rawScore": 20.3,
+            "normalizedScore": 52.6,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 87.5,
+                "engagement": 16.8,
+                "subscriberRatio": 45.0,
+                "freshness": 6.9,
+                "sevenDayVelocity": 10.0
+            }
+        },
+        {
+            "rank": 11,
+            "videoId": "kMUIs1zu43I",
+            "title": "マウスホイールにモーターつければとんでもない速さで回せる説",
+            "channelId": "UC99oQMKAPOHYVi4LHvGVZSA",
+            "channelName": "きすみ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/kMUIs1zu43I/maxresdefault.jpg",
+            "publishedAt": "2026-09-14T08:00:05Z",
+            "viewCount": 521969,
+            "viewIncrease": 1175,
+            "sevenDayViewIncrease": 348736,
+            "likeCount": 8731,
+            "likeIncrease": 10,
+            "commentCount": 277,
+            "commentIncrease": 1,
+            "subscriberCount": 798000,
+            "durationSeconds": 79,
+            "rawScore": 19.7,
+            "normalizedScore": 47.4,
+            "genres": [
                 {
                     "slug": "music",
                     "name": "音楽",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
                     "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 13.1,
-                "engagement": 0.0,
-                "subscriberRatio": 63.0,
-                "freshness": 62.2
+                "velocity": 84.2,
+                "engagement": 26.3,
+                "subscriberRatio": 29.9,
+                "freshness": 6.9,
+                "sevenDayVelocity": 10.0
             }
         },
         {
-            "rank": 4,
-            "previousRank": 48,
-            "rankChange": 44,
+            "rank": 12,
             "videoId": "Nc2nhzcDTXA",
             "title": "ちるるのAI β | AIニュース解説 | 2026.09.22",
             "channelId": "UCCrIRPEPbTti4qe2OsGg07g",
             "channelName": "chiruruAI",
             "thumbnailUrl": "https://i.ytimg.com/vi/Nc2nhzcDTXA/maxresdefault.jpg",
             "publishedAt": "2026-09-22T13:43:15Z",
-            "viewCount": 96,
-            "viewIncrease": 55,
+            "viewCount": 106,
+            "viewIncrease": 10,
             "likeCount": 1,
             "likeIncrease": 0,
             "commentCount": 0,
             "commentIncrease": 0,
             "subscriberCount": 117,
             "durationSeconds": 11590,
-            "rawScore": 39.0,
-            "normalizedScore": 78.6,
+            "rawScore": 19.4,
+            "normalizedScore": 42.1,
             "genres": [
                 {
                     "slug": "learning",
@@ -183,379 +481,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 37.9,
+                "velocity": 17.5,
                 "engagement": 0.0,
-                "subscriberRatio": 68.5,
-                "freshness": 36.6
-            }
-        },
-        {
-            "rank": 5,
-            "videoId": "89i-aP5FMfQ",
-            "title": "【速報】絶対にハックされないスイッチ有料化システムを開発したった⚡️ #電子工作 #diy #勝手に有料化シリーズ #nintendoswitch",
-            "channelId": "UCdWvSW7SVXabiaEmX5AwWgg",
-            "channelName": "Kazumasa Kusaba | 技術ものづくりラボ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/89i-aP5FMfQ/maxresdefault.jpg",
-            "publishedAt": "2026-09-21T09:27:44Z",
-            "viewCount": 127537,
-            "viewIncrease": 5939,
-            "likeCount": 2376,
-            "likeIncrease": 71,
-            "commentCount": 444,
-            "commentIncrease": 12,
-            "subscriberCount": 37100,
-            "durationSeconds": 45,
-            "isShort": true,
-            "rawScore": 31.3,
-            "normalizedScore": 71.4,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 107.7,
-                "engagement": 32.6,
-                "subscriberRatio": 80.1,
-                "freshness": 16.7,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 6,
-            "videoId": "Oi7ChIKF9uU",
-            "title": "普通のDSliteだと思ったらまさかの海外版！？#shorts",
-            "channelId": "UCiBXkgUQ5rWeNehXsMimYRg",
-            "channelName": "和田【Retro Games】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Oi7ChIKF9uU/maxresdefault.jpg",
-            "publishedAt": "2026-09-14T09:00:22Z",
-            "viewCount": 679663,
-            "viewIncrease": 6152,
-            "sevenDayViewIncrease": 356912,
-            "likeCount": 9845,
-            "likeIncrease": 29,
-            "commentCount": 149,
-            "commentIncrease": 0,
-            "subscriberCount": 236000,
-            "durationSeconds": 127,
-            "rawScore": 22.8,
-            "normalizedScore": 64.3,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 108.3,
-                "engagement": 13.6,
-                "subscriberRatio": 60.4,
-                "freshness": 7.0,
-                "sevenDayVelocity": 10.0
-            }
-        },
-        {
-            "rank": 7,
-            "videoId": "kMUIs1zu43I",
-            "title": "マウスホイールにモーターつければとんでもない速さで回せる説",
-            "channelId": "UC99oQMKAPOHYVi4LHvGVZSA",
-            "channelName": "きすみ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/kMUIs1zu43I/maxresdefault.jpg",
-            "publishedAt": "2026-09-14T08:00:05Z",
-            "viewCount": 520794,
-            "viewIncrease": 3169,
-            "sevenDayViewIncrease": 381874,
-            "likeCount": 8721,
-            "likeIncrease": 23,
-            "commentCount": 276,
-            "commentIncrease": 0,
-            "subscriberCount": 798000,
-            "durationSeconds": 79,
-            "rawScore": 20.8,
-            "normalizedScore": 57.1,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 98.2,
-                "engagement": 16.5,
-                "subscriberRatio": 40.2,
-                "freshness": 7.0,
-                "sevenDayVelocity": 10.0
-            }
-        },
-        {
-            "rank": 7,
-            "videoId": "3d5_TbRkWh4",
-            "title": "ついにきた！iOS27の新機能5選 #Apple #iPhone #ガジェット",
-            "channelId": "UCYjykEbcPv_zUlIYK2FeJog",
-            "channelName": "すぐる@iPhone・ガジェット",
-            "thumbnailUrl": "https://i.ytimg.com/vi/3d5_TbRkWh4/maxresdefault.jpg",
-            "publishedAt": "2026-09-15T03:06:18Z",
-            "viewCount": 952798,
-            "viewIncrease": 1276,
-            "sevenDayViewIncrease": 931772,
-            "likeCount": 22694,
-            "likeIncrease": 10,
-            "commentCount": 302,
-            "commentIncrease": 0,
-            "subscriberCount": 198000,
-            "durationSeconds": 148,
-            "rawScore": 20.8,
-            "normalizedScore": 57.1,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.6
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 84.4,
-                "engagement": 17.0,
-                "subscriberRatio": 45.4,
-                "freshness": 7.3,
-                "sevenDayVelocity": 10.0
-            }
-        },
-        {
-            "rank": 9,
-            "videoId": "NSIFTYtu7h4",
-            "title": "iPhone Duoの疑問に答える！",
-            "channelId": "UCGZN5iM08by_vcJMhnM_6-Q",
-            "channelName": "ガジェットモ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/NSIFTYtu7h4/maxresdefault.jpg",
-            "publishedAt": "2026-09-11T11:00:18Z",
-            "viewCount": 1194180,
-            "viewIncrease": 3688,
-            "sevenDayViewIncrease": 180413,
-            "likeCount": 11872,
-            "likeIncrease": 11,
-            "commentCount": 536,
-            "commentIncrease": 0,
-            "subscriberCount": 152000,
-            "durationSeconds": 61,
-            "rawScore": 20.3,
-            "normalizedScore": 42.9,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.5
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 100.5,
-                "engagement": 10.8,
-                "subscriberRatio": 59.7,
-                "freshness": 6.0,
-                "sevenDayVelocity": 10.0
-            }
-        },
-        {
-            "rank": 10,
-            "videoId": "UptEid7BgVU",
-            "title": "Duo 左利きの人はどうなる？#iphoneduo #iphone #apple #左利き",
-            "channelId": "UC8yA5ym-0X4GJsAFDytuPfw",
-            "channelName": "ベン・ゼイン",
-            "thumbnailUrl": "https://i.ytimg.com/vi/UptEid7BgVU/maxresdefault.jpg",
-            "publishedAt": "2026-09-10T09:15:43Z",
-            "viewCount": 788182,
-            "viewIncrease": 654,
-            "sevenDayViewIncrease": 101583,
-            "likeCount": 12316,
-            "likeIncrease": 0,
-            "commentCount": 966,
-            "commentIncrease": 0,
-            "subscriberCount": 388000,
-            "durationSeconds": 61,
-            "rawScore": 16.1,
-            "normalizedScore": 35.7,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 74.3,
-                "engagement": 0.0,
-                "subscriberRatio": 31.3,
-                "freshness": 5.8,
-                "sevenDayVelocity": 10.0
-            }
-        },
-        {
-            "rank": 11,
-            "videoId": "w0vL8GOlR7w",
-            "title": "グラボだと思って買った謎の基板が「PC本体」だった結果…ヤバすぎる結末に",
-            "channelId": "UC5iURiCuN4bNFTLlR9LWGpg",
-            "channelName": "お気に入りショート",
-            "thumbnailUrl": "https://i.ytimg.com/vi/w0vL8GOlR7w/maxresdefault.jpg",
-            "publishedAt": "2026-09-18T09:30:23Z",
-            "viewCount": 220619,
-            "viewIncrease": 3768,
-            "likeCount": 3100,
-            "likeIncrease": 28,
-            "commentCount": 82,
-            "commentIncrease": 0,
-            "subscriberCount": 51300,
-            "durationSeconds": 57,
-            "isShort": true,
-            "rawScore": 15.5,
-            "normalizedScore": 28.6,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 100.8,
-                "engagement": 16.7,
-                "subscriberRatio": 71.7,
-                "freshness": 9.6,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 12,
-            "videoId": "YsASf0hoRGg",
-            "title": "iOS27 スゴすぎて驚いた新機能＆便利機能10選",
-            "channelId": "UCmWVwb1NqEe1PuVf199ii-w",
-            "channelName": "かじがや電器店",
-            "thumbnailUrl": "https://i.ytimg.com/vi/YsASf0hoRGg/maxresdefault.jpg",
-            "publishedAt": "2026-09-15T12:00:17Z",
-            "viewCount": 863601,
-            "viewIncrease": 5672,
-            "likeCount": 3996,
-            "likeIncrease": 6,
-            "commentCount": 148,
-            "commentIncrease": 0,
-            "subscriberCount": 728000,
-            "durationSeconds": 1227,
-            "rawScore": 12.0,
-            "normalizedScore": 21.4,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 107.0,
-                "engagement": 5.6,
-                "subscriberRatio": 47.4,
-                "freshness": 7.5
+                "subscriberRatio": 50.1,
+                "freshness": 28.7
             }
         },
         {
             "rank": 13,
-            "videoId": "NszXudcd22M",
-            "title": "メモリ1枚で512GBの時代へ #ゲーミングpc #karasugaming #解説 #fyp #fypツ",
-            "channelId": "UCSxQnMNw1brsCslNlqpJJtw",
-            "channelName": "Karasu Gaming【公式】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/NszXudcd22M/maxresdefault.jpg",
-            "publishedAt": "2026-09-16T08:50:33Z",
-            "viewCount": 246843,
-            "viewIncrease": 1543,
-            "likeCount": 3653,
-            "likeIncrease": 22,
-            "commentCount": 225,
-            "commentIncrease": 0,
-            "subscriberCount": 35900,
-            "durationSeconds": 22,
-            "isShort": true,
-            "rawScore": 11.9,
-            "normalizedScore": 14.3,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "learning",
-                    "name": "学習・情報",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 87.3,
-                "engagement": 21.3,
-                "subscriberRatio": 65.9,
-                "freshness": 8.0,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 14,
             "videoId": "pNr26uvxRIM",
             "title": "【18対応】iOS27の新機能の使い方解説！旧iPhoneも高速化、シャッター音が鳴らない新仕様など【iPhone18】",
             "channelId": "UCV4KlwQA-H7XnT3or0m53Hg",
             "channelName": "みずおじさん / 誰でも分かるスマホ講座",
             "thumbnailUrl": "https://i.ytimg.com/vi/pNr26uvxRIM/maxresdefault.jpg",
             "publishedAt": "2026-09-15T03:44:33Z",
-            "viewCount": 473722,
-            "viewIncrease": 1953,
-            "likeCount": 3832,
+            "viewCount": 474452,
+            "viewIncrease": 730,
+            "sevenDayViewIncrease": 218530,
+            "likeCount": 3834,
             "likeIncrease": 2,
-            "commentCount": 267,
-            "commentIncrease": 0,
+            "commentCount": 268,
+            "commentIncrease": 1,
             "subscriberCount": 703000,
             "durationSeconds": 2223,
-            "rawScore": 9.8,
-            "normalizedScore": 7.1,
+            "rawScore": 19.0,
+            "normalizedScore": 36.8,
             "genres": [
                 {
                     "slug": "learning",
@@ -584,29 +534,262 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 90.9,
-                "engagement": 5.5,
-                "subscriberRatio": 36.5,
-                "freshness": 7.3
+                "velocity": 77.0,
+                "engagement": 21.0,
+                "subscriberRatio": 26.4,
+                "freshness": 7.3,
+                "sevenDayVelocity": 10.0
             }
         },
         {
-            "rank": 15,
+            "rank": 14,
+            "videoId": "NSIFTYtu7h4",
+            "title": "iPhone Duoの疑問に答える！",
+            "channelId": "UCGZN5iM08by_vcJMhnM_6-Q",
+            "channelName": "ガジェットモ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/NSIFTYtu7h4/maxresdefault.jpg",
+            "publishedAt": "2026-09-11T11:00:18Z",
+            "viewCount": 1195511,
+            "viewIncrease": 1331,
+            "sevenDayViewIncrease": 159488,
+            "likeCount": 11876,
+            "likeIncrease": 4,
+            "commentCount": 536,
+            "commentIncrease": 0,
+            "subscriberCount": 152000,
+            "durationSeconds": 61,
+            "rawScore": 18.7,
+            "normalizedScore": 31.6,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.5
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 86.1,
+                "engagement": 10.8,
+                "subscriberRatio": 48.7,
+                "freshness": 6.0,
+                "sevenDayVelocity": 10.0
+            }
+        },
+        {
+            "rank": 14,
+            "videoId": "3d5_TbRkWh4",
+            "title": "ついにきた！iOS27の新機能5選 #Apple #iPhone #ガジェット",
+            "channelId": "UCYjykEbcPv_zUlIYK2FeJog",
+            "channelName": "すぐる@iPhone・ガジェット",
+            "thumbnailUrl": "https://i.ytimg.com/vi/3d5_TbRkWh4/maxresdefault.jpg",
+            "publishedAt": "2026-09-15T03:06:18Z",
+            "viewCount": 953266,
+            "viewIncrease": 468,
+            "sevenDayViewIncrease": 476293,
+            "likeCount": 22697,
+            "likeIncrease": 3,
+            "commentCount": 302,
+            "commentIncrease": 0,
+            "subscriberCount": 198000,
+            "durationSeconds": 148,
+            "rawScore": 18.7,
+            "normalizedScore": 31.6,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 70.3,
+                "engagement": 15.7,
+                "subscriberRatio": 34.8,
+                "freshness": 7.2,
+                "sevenDayVelocity": 10.0
+            }
+        },
+        {
+            "rank": 16,
+            "videoId": "w0vL8GOlR7w",
+            "title": "グラボだと思って買った謎の基板が「PC本体」だった結果…ヤバすぎる結末に",
+            "channelId": "UC5iURiCuN4bNFTLlR9LWGpg",
+            "channelName": "お気に入りショート",
+            "thumbnailUrl": "https://i.ytimg.com/vi/w0vL8GOlR7w/maxresdefault.jpg",
+            "publishedAt": "2026-09-18T09:30:23Z",
+            "viewCount": 223127,
+            "viewIncrease": 2508,
+            "likeCount": 3144,
+            "likeIncrease": 44,
+            "commentCount": 82,
+            "commentIncrease": 0,
+            "subscriberCount": 51300,
+            "durationSeconds": 57,
+            "isShort": true,
+            "rawScore": 14.9,
+            "normalizedScore": 21.1,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 95.7,
+                "engagement": 22.8,
+                "subscriberRatio": 67.3,
+                "freshness": 9.4,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 17,
+            "videoId": "UptEid7BgVU",
+            "title": "Duo 左利きの人はどうなる？#iphoneduo #iphone #apple #左利き",
+            "channelId": "UC8yA5ym-0X4GJsAFDytuPfw",
+            "channelName": "ベン・ゼイン",
+            "thumbnailUrl": "https://i.ytimg.com/vi/UptEid7BgVU/maxresdefault.jpg",
+            "publishedAt": "2026-09-10T09:15:43Z",
+            "viewCount": 788281,
+            "viewIncrease": 99,
+            "sevenDayViewIncrease": 80292,
+            "likeCount": 12316,
+            "likeIncrease": 0,
+            "commentCount": 966,
+            "commentIncrease": 0,
+            "subscriberCount": 388000,
+            "durationSeconds": 61,
+            "rawScore": 13.5,
+            "normalizedScore": 15.8,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 47.2,
+                "engagement": 0.0,
+                "subscriberRatio": 13.8,
+                "freshness": 5.7,
+                "sevenDayVelocity": 10.0
+            }
+        },
+        {
+            "rank": 18,
+            "videoId": "YsASf0hoRGg",
+            "title": "iOS27 スゴすぎて驚いた新機能＆便利機能10選",
+            "channelId": "UCmWVwb1NqEe1PuVf199ii-w",
+            "channelName": "かじがや電器店",
+            "thumbnailUrl": "https://i.ytimg.com/vi/YsASf0hoRGg/maxresdefault.jpg",
+            "publishedAt": "2026-09-15T12:00:17Z",
+            "viewCount": 865536,
+            "viewIncrease": 1935,
+            "likeCount": 4004,
+            "likeIncrease": 8,
+            "commentCount": 149,
+            "commentIncrease": 1,
+            "subscriberCount": 728000,
+            "durationSeconds": 1227,
+            "rawScore": 10.9,
+            "normalizedScore": 10.5,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 91.8,
+                "engagement": 19.4,
+                "subscriberRatio": 36.0,
+                "freshness": 7.4
+            }
+        },
+        {
+            "rank": 19,
+            "videoId": "NszXudcd22M",
+            "title": "メモリ1枚で512GBの時代へ #ゲーミングpc #karasugaming #解説 #fyp #fypツ",
+            "channelId": "UCSxQnMNw1brsCslNlqpJJtw",
+            "channelName": "Karasu Gaming【公式】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/NszXudcd22M/maxresdefault.jpg",
+            "publishedAt": "2026-09-16T08:50:33Z",
+            "viewCount": 247236,
+            "viewIncrease": 393,
+            "likeCount": 3658,
+            "likeIncrease": 5,
+            "commentCount": 225,
+            "commentIncrease": 0,
+            "subscriberCount": 35900,
+            "durationSeconds": 22,
+            "isShort": true,
+            "rawScore": 9.3,
+            "normalizedScore": 5.3,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 67.7,
+                "engagement": 20.5,
+                "subscriberRatio": 51.1,
+                "freshness": 7.9,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 20,
             "videoId": "6AkGhTBtR4o",
             "title": "iPhone Duo Hands On!",
             "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
             "channelName": "Mrwhosetheboss",
             "thumbnailUrl": "https://i.ytimg.com/vi/6AkGhTBtR4o/maxresdefault.jpg",
             "publishedAt": "2026-09-09T20:20:43Z",
-            "viewCount": 15241543,
-            "viewIncrease": 10456,
-            "likeCount": 467112,
-            "likeIncrease": 210,
-            "commentCount": 11942,
-            "commentIncrease": 1,
+            "viewCount": 15251277,
+            "viewIncrease": 9734,
+            "likeCount": 467296,
+            "likeIncrease": 184,
+            "commentCount": 11946,
+            "commentIncrease": 4,
             "subscriberCount": 22900000,
             "durationSeconds": 97,
-            "rawScore": 9.1,
+            "rawScore": 9.2,
             "normalizedScore": 0.0,
             "genres": [
                 {
@@ -622,9 +805,9 @@
             ],
             "scoreBreakdown": {
                 "velocity": 116.3,
-                "engagement": 25.9,
-                "subscriberRatio": 18.6,
-                "freshness": 5.7
+                "engagement": 29.2,
+                "subscriberRatio": 18.0,
+                "freshness": 5.6
             }
         }
     ]
