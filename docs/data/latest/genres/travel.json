@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-05T10:51:41.857830260Z",
+    "generatedAt": "2026-10-05T22:12:22.889460362Z",
     "period": "24h",
     "genre": {
         "slug": "travel",
@@ -7,107 +7,271 @@
         "confidence": 0.6
     },
     "status": "reference",
-    "totalVideos": 11,
-    "totalChannels": 11,
+    "totalVideos": 12,
+    "totalChannels": 10,
     "ranking": [
         {
             "rank": 1,
-            "videoId": "LoKr2anUYi0",
-            "title": "地元下関を再度ちゃんと旅行したら、魅力あり過ぎてやっぱ永住すると決めた1日vlog😫❤️",
-            "channelId": "UCRtmPX4pfSvYX-P5IJHmQUQ",
-            "channelName": "田中みかんちゃんねる",
-            "thumbnailUrl": "https://i.ytimg.com/vi/LoKr2anUYi0/maxresdefault.jpg",
-            "publishedAt": "2026-10-05T10:00:12Z",
-            "viewCount": 2343,
-            "viewIncrease": 2343,
-            "likeCount": 114,
-            "likeIncrease": 114,
-            "commentCount": 31,
-            "commentIncrease": 31,
-            "subscriberCount": 282000,
-            "durationSeconds": 1999,
-            "rawScore": 100.9,
+            "videoId": "nSaN14dBnDM",
+            "title": "#塩麻婆豆腐 #料理 #まいにちごはん #おうちごはん #cooking #グルメ #うっちーキッチンスタイル #男子ごはん #飯テロ #遊びごはん #おうち居酒屋 #麻婆豆腐",
+            "channelId": "UC_3lUrlKTAH-p-6Ij99Dmcg",
+            "channelName": "うっちーチャンネル",
+            "thumbnailUrl": "https://i.ytimg.com/vi/nSaN14dBnDM/maxresdefault.jpg",
+            "publishedAt": "2026-10-05T21:00:32Z",
+            "viewCount": 267,
+            "viewIncrease": 267,
+            "likeCount": 4,
+            "likeIncrease": 4,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 3140,
+            "durationSeconds": 150,
+            "rawScore": 74.5,
             "normalizedScore": 100.0,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 37.9,
+                "engagement": 21.7,
+                "subscriberRatio": 73.3,
+                "freshness": 56.0
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "fxZ86knTQ5E",
+            "title": "【ここみいの海外旅行】台北101に登る #海外旅行 #台湾",
+            "channelId": "UCM5mjf5EQ9QTMGWMpw22lWA",
+            "channelName": "九重みい🐟 / Mii Kokonoe",
+            "thumbnailUrl": "https://i.ytimg.com/vi/fxZ86knTQ5E/maxresdefault.jpg",
+            "publishedAt": "2026-10-05T18:20:34Z",
+            "viewCount": 769,
+            "viewIncrease": 769,
+            "likeCount": 8,
+            "likeIncrease": 8,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 348,
+            "durationSeconds": 63,
+            "rawScore": 70.0,
+            "normalizedScore": 90.9,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.8
+                    "confidence": 0.7
                 },
                 {
                     "slug": "vtuber",
                     "name": "VTuber",
-                    "confidence": 0.3
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 53.2,
+                "engagement": 19.0,
+                "subscriberRatio": 97.1,
+                "freshness": 41.3
+            }
+        },
+        {
+            "rank": 3,
+            "videoId": "60P7VLj3AMs",
+            "title": "【ここみいの海外旅行】千と千尋の神隠しの例のアレ #海外旅行 #台湾",
+            "channelId": "UCM5mjf5EQ9QTMGWMpw22lWA",
+            "channelName": "九重みい🐟 / Mii Kokonoe",
+            "thumbnailUrl": "https://i.ytimg.com/vi/60P7VLj3AMs/maxresdefault.jpg",
+            "publishedAt": "2026-10-05T18:19:28Z",
+            "viewCount": 914,
+            "viewIncrease": 914,
+            "likeCount": 4,
+            "likeIncrease": 4,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 348,
+            "durationSeconds": 23,
+            "isShort": true,
+            "rawScore": 62.3,
+            "normalizedScore": 81.8,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.7
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 55.7,
+                "engagement": 22.9,
+                "subscriberRatio": 99.0,
+                "freshness": 41.3,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 4,
+            "videoId": "NrtjvT4o4YI",
+            "title": "激変❗️深圳でワンホン体験写真館🇨🇳 #中国旅行 #中国",
+            "channelId": "UCYPf1CIuReh1IOhj0JRF5mw",
+            "channelName": "ami🖤ワンホンになる【中国旅行】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/NrtjvT4o4YI/maxresdefault.jpg",
+            "publishedAt": "2026-10-05T13:47:17Z",
+            "viewCount": 1503,
+            "viewIncrease": 1503,
+            "likeCount": 53,
+            "likeIncrease": 53,
+            "commentCount": 4,
+            "commentIncrease": 4,
+            "subscriberCount": 8360,
+            "durationSeconds": 94,
+            "rawScore": 57.8,
+            "normalizedScore": 72.7,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.9
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 63.1,
+                "engagement": 41.9,
+                "subscriberRatio": 81.4,
+                "freshness": 31.0
+            }
+        },
+        {
+            "rank": 5,
+            "videoId": "LBaSLRUgQiU",
+            "title": "【ここみいの海外旅行】激辛麵と台湾版マクドナルド #海外旅行 #台湾",
+            "channelId": "UCM5mjf5EQ9QTMGWMpw22lWA",
+            "channelName": "九重みい🐟 / Mii Kokonoe",
+            "thumbnailUrl": "https://i.ytimg.com/vi/LBaSLRUgQiU/maxresdefault.jpg",
+            "publishedAt": "2026-10-05T18:19:47Z",
+            "viewCount": 781,
+            "viewIncrease": 781,
+            "likeCount": 2,
+            "likeIncrease": 2,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 348,
+            "durationSeconds": 45,
+            "isShort": true,
+            "rawScore": 56.4,
+            "normalizedScore": 63.6,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.7
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 53.4,
+                "engagement": 9.9,
+                "subscriberRatio": 97.3,
+                "freshness": 41.3,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 6,
+            "videoId": "yLLrO4W24uU",
+            "title": "エジプトでアマゾン頼もうとした話 #shorts   #vtuber   #エジプト旅行",
+            "channelId": "UCxfuJp6AKsCrWpzp-i_JxyQ",
+            "channelName": "あーみんちゃんねる",
+            "thumbnailUrl": "https://i.ytimg.com/vi/yLLrO4W24uU/maxresdefault.jpg",
+            "publishedAt": "2026-10-05T13:26:39Z",
+            "viewCount": 1294,
+            "viewIncrease": 1294,
+            "likeCount": 12,
+            "likeIncrease": 12,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 578,
+            "durationSeconds": 53,
+            "isShort": true,
+            "rawScore": 47.2,
+            "normalizedScore": 54.5,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.99
+                },
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
                 },
                 {
                     "slug": "entertainment",
                     "name": "エンタメ",
                     "confidence": 0.3
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 69.8,
-                "engagement": 52.5,
-                "subscriberRatio": 48.1,
-                "freshness": 59.2
-            }
-        },
-        {
-            "rank": 2,
-            "videoId": "0eRigRvUIkY",
-            "title": "【2026年9月最新版！ディズニーワールド旅行Vol.7】アニマルキングダムにアーリーインパ！向かうはアバターフライトオブパッセージ🌏🗺️さらに、アバターグッズも大調査🧐インパの様子もお届け✨",
-            "channelId": "UC4ImmKNSMKbHFhmSJ38rszw",
-            "channelName": "ピクサー夫婦のわくわく旅日記",
-            "thumbnailUrl": "https://i.ytimg.com/vi/0eRigRvUIkY/maxresdefault.jpg",
-            "publishedAt": "2026-10-05T09:56:20Z",
-            "viewCount": 402,
-            "viewIncrease": 402,
-            "likeCount": 8,
-            "likeIncrease": 8,
-            "subscriberCount": 466,
-            "durationSeconds": 60,
-            "isShort": true,
-            "rawScore": 78.4,
-            "normalizedScore": 90.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 43.7,
-                "engagement": 23.8,
-                "subscriberRatio": 90.1,
-                "freshness": 58.6,
+                "velocity": 60.9,
+                "engagement": 18.2,
+                "subscriberRatio": 102.8,
+                "freshness": 30.5,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 3,
-            "videoId": "Q13nggGUxZ0",
-            "title": "【佐渡島】大物を求めて離島遠征！ #Shorts #釣り  #旅行  #アウトドア",
-            "channelId": "UCu5wE-CJiPI3GdJEu-I530g",
-            "channelName": "いまさら旅行記",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Q13nggGUxZ0/maxresdefault.jpg",
-            "publishedAt": "2026-10-05T10:30:17Z",
-            "viewCount": 209,
-            "viewIncrease": 209,
-            "likeCount": 2,
-            "likeIncrease": 2,
+            "rank": 7,
+            "videoId": "_la1vz5Ztj4",
+            "title": "【韓国旅行】日本の薬、韓国に持って行っていい？風邪薬は成分に注意【6個まで】",
+            "channelId": "UC5IvOdE6W5WLaR_KVy9f6mA",
+            "channelName": "韓国手帖",
+            "thumbnailUrl": "https://i.ytimg.com/vi/_la1vz5Ztj4/maxresdefault.jpg",
+            "publishedAt": "2026-10-05T14:00:09Z",
+            "viewCount": 1092,
+            "viewIncrease": 1092,
+            "likeCount": 3,
+            "likeIncrease": 3,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 15,
-            "durationSeconds": 30,
+            "subscriberCount": 14,
+            "durationSeconds": 32,
             "isShort": true,
-            "rawScore": 75.4,
-            "normalizedScore": 80.0,
+            "rawScore": 45.2,
+            "normalizedScore": 45.5,
             "genres": [
                 {
                     "slug": "travel",
@@ -116,98 +280,66 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 34.6,
-                "engagement": 18.4,
-                "subscriberRatio": 83.0,
-                "freshness": 65.2,
+                "velocity": 58.4,
+                "engagement": 10.3,
+                "subscriberRatio": 101.0,
+                "freshness": 31.3,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 4,
-            "videoId": "puOgbU-m-Ug",
-            "title": "最近、雨多すぎるって🥹 #かわすし #切り抜き #旅行 #パッキング",
-            "channelId": "UCMcmBR_Kx_-zbs49k_U6ClQ",
-            "channelName": "すめしちゃん | かわすし切り抜き🍣",
-            "thumbnailUrl": "https://i.ytimg.com/vi/puOgbU-m-Ug/maxresdefault.jpg",
-            "publishedAt": "2026-10-05T10:00:04Z",
-            "viewCount": 223,
-            "viewIncrease": 223,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 9,
-            "durationSeconds": 87,
-            "rawScore": 70.6,
-            "normalizedScore": 70.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 35.4,
-                "engagement": 0.0,
-                "subscriberRatio": 83.7,
-                "freshness": 59.2
-            }
-        },
-        {
-            "rank": 5,
-            "videoId": "ugU3hRoo-0I",
-            "title": "海外旅行の優秀アイテム3選！",
-            "channelId": "UCHmgT3-HIaEnY2yKPG7Zdog",
-            "channelName": "もあ | 失敗しない海外旅行",
-            "thumbnailUrl": "https://i.ytimg.com/vi/ugU3hRoo-0I/maxresdefault.jpg",
-            "publishedAt": "2026-10-05T08:16:34Z",
-            "viewCount": 828,
-            "viewIncrease": 828,
+            "rank": 8,
+            "videoId": "1kjhGk9nEYw",
+            "title": "古色古香上海豫園老街 #旅行 #travel",
+            "channelId": "UC2TZKg9-MuaqgtJqRn4xRJQ",
+            "channelName": "柯騰",
+            "thumbnailUrl": "https://i.ytimg.com/vi/1kjhGk9nEYw/maxresdefault.jpg",
+            "publishedAt": "2026-10-05T12:15:36Z",
+            "viewCount": 1045,
+            "viewIncrease": 1045,
             "likeCount": 12,
             "likeIncrease": 12,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 7,
-            "durationSeconds": 39,
+            "subscriberCount": 4,
+            "durationSeconds": 28,
             "isShort": true,
-            "rawScore": 68.9,
-            "normalizedScore": 60.0,
+            "rawScore": 43.8,
+            "normalizedScore": 36.4,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.8
+                    "confidence": 0.7
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 54.3,
-                "engagement": 21.4,
-                "subscriberRatio": 98.0,
-                "freshness": 46.7,
+                "velocity": 57.7,
+                "engagement": 19.7,
+                "subscriberRatio": 100.5,
+                "freshness": 28.9,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 6,
-            "videoId": "u9MRz30amO0",
-            "title": "【タラマンカ山脈雑学】タラマンカ山脈の雑学大集合！！#旅行   　#雑学 　#shorts　#ai　#世界遺産　#タラマンカ山脈",
-            "channelId": "UCHC7ECWjS1ILIq7v_-brJyA",
-            "channelName": "ざつがくオタク",
-            "thumbnailUrl": "https://i.ytimg.com/vi/u9MRz30amO0/maxresdefault.jpg",
-            "publishedAt": "2026-10-05T09:00:13Z",
-            "viewCount": 398,
-            "viewIncrease": 398,
-            "likeCount": 5,
-            "likeIncrease": 5,
+            "rank": 9,
+            "videoId": "MDHezwFYW4o",
+            "title": "ASDアラサー女友達との1泊2日長崎旅行vlog #アラサー #asd #旅行 #vlog",
+            "channelId": "UCA1lJ7Y6SheZxgkABTmRTOQ",
+            "channelName": "こっぺぱん",
+            "thumbnailUrl": "https://i.ytimg.com/vi/MDHezwFYW4o/maxresdefault.jpg",
+            "publishedAt": "2026-10-05T13:00:09Z",
+            "viewCount": 1082,
+            "viewIncrease": 1082,
+            "likeCount": 4,
+            "likeIncrease": 4,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 606,
-            "durationSeconds": 51,
+            "subscriberCount": 63,
+            "durationSeconds": 60,
             "isShort": true,
-            "rawScore": 66.7,
-            "normalizedScore": 50.0,
+            "rawScore": 43.5,
+            "normalizedScore": 27.3,
             "genres": [
                 {
                     "slug": "travel",
@@ -216,32 +348,66 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 43.6,
-                "engagement": 20.4,
-                "subscriberRatio": 90.0,
-                "freshness": 51.0,
+                "velocity": 58.2,
+                "engagement": 12.1,
+                "subscriberRatio": 100.9,
+                "freshness": 29.9,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 7,
-            "videoId": "5YF0IdMlJPs",
-            "title": "【宿泊レポ】家族旅行におすすめ！超美食のオーシャンビューお宿が最高すぎた...🥹",
-            "channelId": "UCDUQjwP9SIyWdr1KfXdTayw",
-            "channelName": "Sayaka 大人コスパ旅",
-            "thumbnailUrl": "https://i.ytimg.com/vi/5YF0IdMlJPs/maxresdefault.jpg",
-            "publishedAt": "2026-10-05T08:54:18Z",
-            "viewCount": 802,
-            "viewIncrease": 802,
+            "rank": 10,
+            "videoId": "i8Rqi2awC7A",
+            "title": "家族で伊豆旅行2日目‼︎ #大学生 #伊豆 #vlog #旅行 #ぐらんぱる公園 #城ヶ崎海岸",
+            "channelId": "UCD9F1JyV7Beej_g1Cg17L7w",
+            "channelName": "せいあ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/i8Rqi2awC7A/maxresdefault.jpg",
+            "publishedAt": "2026-10-05T12:31:01Z",
+            "viewCount": 1041,
+            "viewIncrease": 1041,
+            "likeCount": 3,
+            "likeIncrease": 3,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 3,
+            "durationSeconds": 27,
+            "isShort": true,
+            "rawScore": 41.9,
+            "normalizedScore": 18.2,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 57.6,
+                "engagement": 10.6,
+                "subscriberRatio": 100.4,
+                "freshness": 29.3,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 11,
+            "videoId": "i9itcxBaiZo",
+            "title": "59歳 韓国旅行 リアルな購入品紹介",
+            "channelId": "UCU-oyxmgxyZxgi3aDa7OQ4w",
+            "channelName": "yuchi_dayslog",
+            "thumbnailUrl": "https://i.ytimg.com/vi/i9itcxBaiZo/maxresdefault.jpg",
+            "publishedAt": "2026-10-05T11:57:04Z",
+            "viewCount": 1139,
+            "viewIncrease": 1139,
             "likeCount": 4,
             "likeIncrease": 4,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 7510,
-            "durationSeconds": 29,
+            "subscriberCount": 16,
+            "durationSeconds": 36,
             "isShort": true,
-            "rawScore": 61.4,
-            "normalizedScore": 40.0,
+            "rawScore": 41.8,
+            "normalizedScore": 9.1,
             "genres": [
                 {
                     "slug": "travel",
@@ -250,133 +416,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 53.8,
-                "engagement": 14.0,
-                "subscriberRatio": 75.7,
-                "freshness": 50.3,
+                "velocity": 59.0,
+                "engagement": 11.8,
+                "subscriberRatio": 101.4,
+                "freshness": 28.6,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 8,
-            "videoId": "JCrOWXch7bM",
-            "title": "韓国旅行のホテル🏨✨2026/08にリノベされたホテルでめっちゃ綺麗やった✨ 駅から少し離れてるけど真ん前がコンビニで楽やった🫶  #韓国 #hotel #ホテル #korea #旅行",
-            "channelId": "UCaBmd7TX34vUEcDlljCUWjw",
-            "channelName": "rare",
-            "thumbnailUrl": "https://i.ytimg.com/vi/JCrOWXch7bM/maxresdefault.jpg",
-            "publishedAt": "2026-10-05T09:43:41Z",
-            "viewCount": 160,
-            "viewIncrease": 160,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 7,
-            "durationSeconds": 32,
-            "isShort": true,
-            "rawScore": 60.8,
-            "normalizedScore": 30.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 31.0,
-                "engagement": 15.5,
-                "subscriberRatio": 80.1,
-                "freshness": 56.5,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 9,
-            "videoId": "cbMOaUXjF0k",
-            "title": "10月渡韓は服装や気温に注意！#韓国旅行 #韓国旅行情報",
-            "channelId": "UC3m7xuHdLfi8A88M-qUAebQ",
-            "channelName": "FOCUS公式 | 韓国映像メディア",
-            "thumbnailUrl": "https://i.ytimg.com/vi/cbMOaUXjF0k/maxresdefault.jpg",
-            "publishedAt": "2026-10-05T09:00:12Z",
-            "viewCount": 724,
-            "viewIncrease": 724,
-            "likeCount": 6,
-            "likeIncrease": 6,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 15700,
-            "durationSeconds": 29,
-            "isShort": true,
-            "rawScore": 59.1,
-            "normalizedScore": 20.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 52.3,
-                "engagement": 17.4,
-                "subscriberRatio": 66.6,
-                "freshness": 51.0,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 10,
-            "videoId": "6QsA01tzNFM",
-            "title": "スリ対策でここまでやる？「旅行中の徹底した防犯対策」",
-            "channelId": "UCahHKoGt3dal2Vqb6t20YmA",
-            "channelName": "秒速で世界",
-            "thumbnailUrl": "https://i.ytimg.com/vi/6QsA01tzNFM/maxresdefault.jpg",
-            "publishedAt": "2026-10-05T09:00:18Z",
-            "viewCount": 224,
-            "viewIncrease": 224,
-            "likeCount": 6,
-            "likeIncrease": 6,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 25400,
-            "durationSeconds": 20,
-            "isShort": true,
-            "rawScore": 47.8,
-            "normalizedScore": 10.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 35.5,
-                "engagement": 26.0,
-                "subscriberRatio": 48.8,
-                "freshness": 51.0,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 11,
+            "rank": 12,
             "videoId": "Ktk_ijeH8n4",
             "title": "高校生の修学旅行で最高の瞬間TOP5 #高校生 #青春",
             "channelId": "UCSQ-nMQMG3PwPYdDXy4RDpA",
             "channelName": "ペンギンランカー",
             "thumbnailUrl": "https://i.ytimg.com/vi/Ktk_ijeH8n4/maxresdefault.jpg",
             "publishedAt": "2026-10-02T07:15:03Z",
-            "viewCount": 6460320,
-            "viewIncrease": 783449,
-            "likeCount": 103246,
-            "likeIncrease": 14891,
-            "commentCount": 249,
-            "commentIncrease": 25,
-            "subscriberCount": 29000,
+            "viewCount": 7572562,
+            "viewIncrease": 1112242,
+            "likeCount": 112530,
+            "likeIncrease": 9284,
+            "commentCount": 263,
+            "commentIncrease": 14,
+            "subscriberCount": 29500,
             "durationSeconds": 42,
             "isShort": true,
-            "rawScore": 31.9,
+            "rawScore": 29.9,
             "normalizedScore": 0.0,
             "genres": [
                 {
@@ -396,10 +460,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 170.3,
-                "engagement": 24.2,
-                "subscriberRatio": 135.8,
-                "freshness": 11.4,
+                "velocity": 174.7,
+                "engagement": 17.8,
+                "subscriberRatio": 139.4,
+                "freshness": 10.6,
                 "formatAdjustment": 85.0
             }
         }
