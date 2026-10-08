@@ -1,33 +1,80 @@
 {
-    "generatedAt": "2026-10-08T01:20:05.856460794Z",
+    "generatedAt": "2026-10-08T10:56:28.983763499Z",
     "period": "24h",
     "genre": {
         "slug": "travel",
         "name": "旅行",
-        "confidence": 0.6
+        "confidence": 0.2
     },
     "status": "reference",
-    "totalVideos": 13,
-    "totalChannels": 13,
+    "totalVideos": 17,
+    "totalChannels": 17,
     "ranking": [
         {
             "rank": 1,
-            "videoId": "BsM5cNK36Ik",
-            "title": "【時間別】修学旅行の夜の過ごし方#shorts",
-            "channelId": "UCmpz46hLcvrjru7lWc5YPBw",
-            "channelName": "元吹部の犬ささけん",
-            "thumbnailUrl": "https://i.ytimg.com/vi/BsM5cNK36Ik/maxresdefault.jpg",
-            "publishedAt": "2026-10-07T22:00:31Z",
-            "viewCount": 68768,
-            "viewIncrease": 68768,
-            "likeCount": 2484,
-            "likeIncrease": 2484,
-            "commentCount": 30,
-            "commentIncrease": 30,
-            "subscriberCount": 113000,
-            "durationSeconds": 62,
-            "rawScore": 108.4,
+            "videoId": "8Za_MMRAn5Q",
+            "title": "【公式】アニメ『BLACK LAGOON』第14話【期間限定配信】",
+            "channelId": "UCuRBQ04irv4Hir_UMSbo-8w",
+            "channelName": "SundayGXch",
+            "thumbnailUrl": "https://i.ytimg.com/vi/8Za_MMRAn5Q/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T10:00:39Z",
+            "viewCount": 24742,
+            "viewIncrease": 24742,
+            "likeCount": 899,
+            "likeIncrease": 899,
+            "commentCount": 102,
+            "commentIncrease": 102,
+            "subscriberCount": 93300,
+            "durationSeconds": 1441,
+            "rawScore": 137.8,
             "normalizedScore": 100.0,
+            "genres": [
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.5
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 105.5,
+                "engagement": 44.3,
+                "subscriberRatio": 85.6,
+                "freshness": 58.6
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "SvhqkL0jbYQ",
+            "title": "日本旅行中に韓国人彼女と大喧嘩。初めて聞いた本音...",
+            "channelId": "UCFKD8-jM_pTuF0wIzgZJ4lw",
+            "channelName": "しんや / shinya",
+            "thumbnailUrl": "https://i.ytimg.com/vi/SvhqkL0jbYQ/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T10:00:17Z",
+            "viewCount": 1536,
+            "viewIncrease": 1536,
+            "likeCount": 85,
+            "likeIncrease": 85,
+            "commentCount": 14,
+            "commentIncrease": 14,
+            "subscriberCount": 76800,
+            "durationSeconds": 1230,
+            "rawScore": 100.8,
+            "normalizedScore": 93.8,
             "genres": [
                 {
                     "slug": "travel",
@@ -46,65 +93,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 121.0,
-                "engagement": 34.3,
-                "subscriberRatio": 94.6,
-                "freshness": 43.4
-            }
-        },
-        {
-            "rank": 2,
-            "videoId": "emLnMptFnw0",
-            "title": "日本初日にパスポートが消えた!? 外国人旅行者を待っていた結末 #shorts",
-            "channelId": "UCBl5IaVAYuEUDoRjybebhGQ",
-            "channelName": "日本のふつう。",
-            "thumbnailUrl": "https://i.ytimg.com/vi/emLnMptFnw0/maxresdefault.jpg",
-            "publishedAt": "2026-10-08T00:50:56Z",
-            "viewCount": 288,
-            "viewIncrease": 288,
-            "likeCount": 11,
-            "likeIncrease": 11,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 35,
-            "durationSeconds": 52,
-            "isShort": true,
-            "rawScore": 91.3,
-            "normalizedScore": 91.7,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.9
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 39.0,
-                "engagement": 43.8,
-                "subscriberRatio": 86.5,
-                "freshness": 63.5,
-                "formatAdjustment": 85.0
+                "velocity": 63.5,
+                "engagement": 51.5,
+                "subscriberRatio": 57.6,
+                "freshness": 58.4
             }
         },
         {
             "rank": 3,
-            "videoId": "LY_e6GbKRAM",
-            "title": "フィリピン料理で何を頼む？最初に覚えたい3選",
-            "channelId": "UCuW7k_VFUG0ZYV84jTXp93w",
-            "channelName": "フィリピン情報局",
-            "thumbnailUrl": "https://i.ytimg.com/vi/LY_e6GbKRAM/maxresdefault.jpg",
-            "publishedAt": "2026-10-08T01:00:13Z",
-            "viewCount": 122,
-            "viewIncrease": 122,
-            "likeCount": 1,
-            "likeIncrease": 1,
+            "videoId": "Tcz64a796s0",
+            "title": "イタリアのコトレッタを作るおばあちゃん #イタリア料理",
+            "channelId": "UCUnJm7Yl_aVEMKt6hCFnnPA",
+            "channelName": "旅するイタリア食堂",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Tcz64a796s0/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T10:00:11Z",
+            "viewCount": 997,
+            "viewIncrease": 997,
+            "likeCount": 43,
+            "likeIncrease": 43,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 5,
-            "durationSeconds": 60,
+            "subscriberCount": 8000,
+            "durationSeconds": 45,
             "isShort": true,
-            "rawScore": 68.1,
-            "normalizedScore": 83.3,
+            "rawScore": 81.4,
+            "normalizedScore": 87.5,
             "genres": [
                 {
                     "slug": "cooking",
@@ -118,105 +131,340 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 27.4,
-                "engagement": 17.3,
-                "subscriberRatio": 77.2,
-                "freshness": 65.7,
+                "velocity": 57.0,
+                "engagement": 29.6,
+                "subscriberRatio": 77.4,
+                "freshness": 58.4,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 4,
-            "videoId": "TtCo5P1vtzI",
-            "title": "大陸身份在台灣旅行有影響嗎？ #台灣旅遊 #Shorts",
-            "channelId": "UCt8u7fTl6IQqRzB9B_ZfX3A",
-            "channelName": "Jenny TV",
-            "thumbnailUrl": "https://i.ytimg.com/vi/TtCo5P1vtzI/maxresdefault.jpg",
-            "publishedAt": "2026-10-08T00:00:06Z",
-            "viewCount": 347,
-            "viewIncrease": 347,
-            "likeCount": 20,
-            "likeIncrease": 20,
-            "commentCount": 2,
-            "commentIncrease": 2,
-            "subscriberCount": 36800,
-            "durationSeconds": 57,
-            "isShort": true,
-            "rawScore": 65.6,
-            "normalizedScore": 75.0,
+            "videoId": "C9HmvFjdt0U",
+            "title": "🚀 | 宇宙探検隊 | No Man's Sky【静凛/にじさんじ】",
+            "channelId": "UC6oDys1BGgBsIC3WhG1BovQ",
+            "channelName": "Shizuka Rin Official",
+            "thumbnailUrl": "https://i.ytimg.com/vi/C9HmvFjdt0U/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T04:15:37Z",
+            "viewCount": 108861,
+            "viewIncrease": 108861,
+            "likeCount": 1593,
+            "likeIncrease": 1593,
+            "commentCount": 13,
+            "commentIncrease": 13,
+            "subscriberCount": 397000,
+            "durationSeconds": 41964,
+            "rawScore": 80.8,
+            "normalizedScore": 81.2,
             "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.5
+                },
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.9
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 41.6,
-                "engagement": 49.5,
-                "subscriberRatio": 49.5,
-                "freshness": 54.9,
-                "formatAdjustment": 85.0
+                "velocity": 128.0,
+                "engagement": 23.9,
+                "subscriberRatio": 86.0,
+                "freshness": 34.0
             }
         },
         {
             "rank": 5,
-            "videoId": "BD0lF0FHO8E",
-            "title": "パタヤ・ラン島前編１ #旅行 #pattaya #journey",
-            "channelId": "UCzzsVl7tY7uC-QCI6oUE7pw",
-            "channelName": "ojisan journey　天風旅のブログ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/BD0lF0FHO8E/maxresdefault.jpg",
-            "publishedAt": "2026-10-08T00:00:05Z",
-            "viewCount": 393,
-            "viewIncrease": 393,
-            "likeCount": 0,
-            "likeIncrease": 0,
+            "videoId": "EX_tXDGBonA",
+            "title": "【狂気】スポーツカーに住む！家を捨てた57歳がスイスポでノマド車中生活！ #バンライフ #車中泊 #スイフトスポーツ#道の駅巡り",
+            "channelId": "UChnIckapedAvLHeP-ta8emg",
+            "channelName": "ノマドコンテンツクリエイターPiyo-Gのバンライフ道の駅巡り旅",
+            "thumbnailUrl": "https://i.ytimg.com/vi/EX_tXDGBonA/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T09:00:23Z",
+            "viewCount": 745,
+            "viewIncrease": 745,
+            "likeCount": 2,
+            "likeIncrease": 2,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 153,
-            "durationSeconds": 45,
-            "isShort": true,
-            "rawScore": 62.0,
-            "normalizedScore": 66.7,
+            "subscriberCount": 510,
+            "durationSeconds": 69,
+            "rawScore": 80.5,
+            "normalizedScore": 75.0,
             "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.6
+                },
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.7
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.2
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 43.4,
-                "engagement": 0.0,
-                "subscriberRatio": 89.9,
-                "freshness": 54.8,
-                "formatAdjustment": 85.0
+                "velocity": 52.7,
+                "engagement": 10.2,
+                "subscriberRatio": 96.8,
+                "freshness": 50.4
             }
         },
         {
             "rank": 6,
-            "videoId": "_o_45xddGsc",
-            "title": "ウズベキスタン旅行✈️🇺🇿✨☺",
-            "channelId": "UCK4qmr9PKeJR1fWcVFG6oNw",
-            "channelName": "ドリームファンタジー新潟",
-            "thumbnailUrl": "https://i.ytimg.com/vi/_o_45xddGsc/maxresdefault.jpg",
-            "publishedAt": "2026-10-07T23:58:47Z",
-            "viewCount": 485,
-            "viewIncrease": 485,
-            "likeCount": 8,
-            "likeIncrease": 8,
+            "videoId": "VHPeGjZzq3w",
+            "title": "昔の旅行の懐かしい持ち物8選 #昭和レトロ #懐かしい",
+            "channelId": "UCzQgEKZu8G-51YEb0LH1VKQ",
+            "channelName": "あの頃の放課後",
+            "thumbnailUrl": "https://i.ytimg.com/vi/VHPeGjZzq3w/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T10:00:07Z",
+            "viewCount": 520,
+            "viewIncrease": 520,
+            "likeCount": 7,
+            "likeIncrease": 7,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 13700,
-            "durationSeconds": 41,
+            "subscriberCount": 29,
+            "durationSeconds": 35,
             "isShort": true,
-            "rawScore": 61.6,
-            "normalizedScore": 58.3,
+            "rawScore": 80.0,
+            "normalizedScore": 68.8,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
                     "confidence": 0.6
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 47.4,
+                "engagement": 20.9,
+                "subscriberRatio": 92.9,
+                "freshness": 58.4,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 7,
+            "videoId": "5oANnTbX-8c",
+            "title": "【歌ってみた】玉置浩二「メロディー」｜50歳、今だから沁みる名曲",
+            "channelId": "UCCY2_-ygVnOC9P3IYJ_ZNWw",
+            "channelName": "THE MACOTO STAGE ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/5oANnTbX-8c/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T10:00:32Z",
+            "viewCount": 439,
+            "viewIncrease": 439,
+            "likeCount": 1,
+            "likeIncrease": 1,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 313,
+            "durationSeconds": 52,
+            "isShort": true,
+            "rawScore": 72.3,
+            "normalizedScore": 62.5,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 45.0,
+                "engagement": 9.3,
+                "subscriberRatio": 91.1,
+                "freshness": 58.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 8,
+            "videoId": "E1r6v1yDRdw",
+            "title": "成田➡グアム　小学生がJALビジネスクラスでグアム旅行✈　 #旅行 #JAL  #飛行機",
+            "channelId": "UCC2TxDhkfcMvwM64v_MXeCg",
+            "channelName": "LUX BOY TRAVEL",
+            "thumbnailUrl": "https://i.ytimg.com/vi/E1r6v1yDRdw/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T09:26:01Z",
+            "viewCount": 593,
+            "viewIncrease": 593,
+            "likeCount": 3,
+            "likeIncrease": 3,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 11,
+            "durationSeconds": 60,
+            "isShort": true,
+            "rawScore": 71.7,
+            "normalizedScore": 56.2,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 49.4,
+                "engagement": 14.1,
+                "subscriberRatio": 94.3,
+                "freshness": 53.5,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 9,
+            "videoId": "sy0kW18jb-Y",
+            "title": "ヨーロッパ旅行、90日ルールの落とし穴とは？",
+            "channelId": "UC8kLoQF_qEuvajgoodAyd8g",
+            "channelName": "SEIWA AI Studio",
+            "thumbnailUrl": "https://i.ytimg.com/vi/sy0kW18jb-Y/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T09:30:03Z",
+            "viewCount": 539,
+            "viewIncrease": 539,
+            "likeCount": 1,
+            "likeIncrease": 1,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 33,
+            "durationSeconds": 60,
+            "isShort": true,
+            "rawScore": 68.6,
+            "normalizedScore": 50.0,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 48.0,
+                "engagement": 8.2,
+                "subscriberRatio": 93.3,
+                "freshness": 54.0,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 9,
+            "videoId": "t2aT8G7PmEw",
+            "title": "再遇皮卡丘😍 #寶可夢列車 #鐵道旅行 #emu800",
+            "channelId": "UCU3ETTdTYcw1fTrN6tp2bJQ",
+            "channelName": "呼嚕嚕過日子",
+            "thumbnailUrl": "https://i.ytimg.com/vi/t2aT8G7PmEw/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T09:24:51Z",
+            "viewCount": 488,
+            "viewIncrease": 488,
+            "likeCount": 12,
+            "likeIncrease": 12,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 10300,
+            "durationSeconds": 35,
+            "isShort": true,
+            "rawScore": 68.6,
+            "normalizedScore": 50.0,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 46.5,
+                "engagement": 38.0,
+                "subscriberRatio": 66.9,
+                "freshness": 53.3,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 11,
+            "videoId": "TOs945tvymY",
+            "title": "#busan #釜山旅行 #釜山グルメ #釜山美食 #デジクッパ#松亭三代クッパ#西面 #釜山名物",
+            "channelId": "UCyVUo1xa6sbCd7Hkka-E2Lg",
+            "channelName": "ブーミヨちゃんねる",
+            "thumbnailUrl": "https://i.ytimg.com/vi/TOs945tvymY/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T09:00:32Z",
+            "viewCount": 285,
+            "viewIncrease": 285,
+            "likeCount": 3,
+            "likeIncrease": 3,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 42,
+            "durationSeconds": 56,
+            "isShort": true,
+            "rawScore": 62.0,
+            "normalizedScore": 37.5,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 38.8,
+                "engagement": 19.1,
+                "subscriberRatio": 86.4,
+                "freshness": 50.5,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 12,
+            "videoId": "yJTqTgZ4S50",
+            "title": "【アッコ 大昔の国内旅行の思い出】#旅行",
+            "channelId": "UCh5BekRBMPJCoaAOGVzK4yA",
+            "channelName": "和田アキ子、AIスマホと親友になる。",
+            "thumbnailUrl": "https://i.ytimg.com/vi/yJTqTgZ4S50/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T09:07:25Z",
+            "viewCount": 799,
+            "viewIncrease": 799,
+            "likeCount": 4,
+            "likeIncrease": 4,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 16000,
+            "durationSeconds": 28,
+            "isShort": true,
+            "rawScore": 58.8,
+            "normalizedScore": 31.2,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
                 },
                 {
                     "slug": "vtuber",
@@ -227,35 +475,76 @@
                     "slug": "entertainment",
                     "name": "エンタメ",
                     "confidence": 0.3
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.15
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 46.4,
-                "engagement": 22.4,
-                "subscriberRatio": 63.8,
-                "freshness": 54.6,
+                "velocity": 53.7,
+                "engagement": 14.0,
+                "subscriberRatio": 67.5,
+                "freshness": 51.2,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 7,
-            "videoId": "mGW7r17ksy0",
-            "title": "【暮らしに彩りを添えるプチ旅行】新大阪で並ばずに551を買う方法",
-            "channelId": "UCsi_mLlX9ICf23WrHa4pV4Q",
-            "channelName": "暮らしの最適化",
-            "thumbnailUrl": "https://i.ytimg.com/vi/mGW7r17ksy0/maxresdefault.jpg",
-            "publishedAt": "2026-10-07T21:30:36Z",
-            "viewCount": 902,
-            "viewIncrease": 902,
-            "likeCount": 4,
-            "likeIncrease": 4,
+            "rank": 13,
+            "videoId": "Nl9EqFKl0do",
+            "title": "【旅行前に確認】新幹線とホテル、別々に予約していませんか？",
+            "channelId": "UCEsVz00dEXBojoElCH2f07A",
+            "channelName": "みんなの補助金・給付金ナビ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Nl9EqFKl0do/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T10:45:19Z",
+            "viewCount": 28,
+            "viewIncrease": 28,
+            "likeCount": 0,
+            "likeIncrease": 0,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 71,
-            "durationSeconds": 18,
-            "isShort": true,
-            "rawScore": 59.1,
-            "normalizedScore": 50.0,
+            "subscriberCount": 8,
+            "durationSeconds": 77,
+            "rawScore": 49.4,
+            "normalizedScore": 25.0,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 11.8,
+                "engagement": 0.0,
+                "subscriberRatio": 61.2,
+                "freshness": 67.7
+            }
+        },
+        {
+            "rank": 14,
+            "videoId": "TEOsTBTWNwk",
+            "title": "モロッコのタジン鍋　#旅行 ＃モロッコ　＃テーブルコーディネート",
+            "channelId": "UCYo4FgRF7YbYHWTv5dv2DRg",
+            "channelName": "KOMAKIテーブル",
+            "thumbnailUrl": "https://i.ytimg.com/vi/TEOsTBTWNwk/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T10:00:20Z",
+            "viewCount": 36,
+            "viewIncrease": 36,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 56,
+            "durationSeconds": 81,
+            "rawScore": 45.5,
+            "normalizedScore": 18.8,
             "genres": [
                 {
                     "slug": "travel",
@@ -264,138 +553,30 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 55.5,
-                "engagement": 13.2,
-                "subscriberRatio": 98.9,
-                "freshness": 41.5,
-                "formatAdjustment": 85.0
+                "velocity": 13.9,
+                "engagement": 0.0,
+                "subscriberRatio": 63.9,
+                "freshness": 58.4
             }
         },
         {
-            "rank": 8,
-            "videoId": "tl2z6rr0Au0",
-            "title": "【海外旅行】20代会社員、エミレーツ ファーストクラスに乗る",
-            "channelId": "UCU4K-FzkLQzcGMGvxMOmpmA",
-            "channelName": " KとRの2人旅 - 海外と日本のおすすめスポットを -",
-            "thumbnailUrl": "https://i.ytimg.com/vi/tl2z6rr0Au0/maxresdefault.jpg",
-            "publishedAt": "2026-10-07T22:00:22Z",
-            "viewCount": 890,
-            "viewIncrease": 890,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 263,
-            "durationSeconds": 25,
-            "isShort": true,
-            "rawScore": 59.0,
-            "normalizedScore": 41.7,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.9
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 55.3,
-                "engagement": 5.9,
-                "subscriberRatio": 98.7,
-                "freshness": 43.4,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 9,
-            "videoId": "DBGj_nrRE-c",
-            "title": "【作業用BGM 4K】Vintage Train Café Jazz 🚂☕｜レトロ列車で楽しむ癒しのカフェジャズ｜仕事・勉強・読書に",
-            "channelId": "UCPbjNwIPYVtDMH74SAUOEcQ",
-            "channelName": "Chill Cafe Jazz BGM",
-            "thumbnailUrl": "https://i.ytimg.com/vi/DBGj_nrRE-c/maxresdefault.jpg",
-            "publishedAt": "2026-10-07T23:00:08Z",
-            "viewCount": 48,
-            "viewIncrease": 48,
-            "likeCount": 4,
-            "likeIncrease": 4,
-            "commentCount": 3,
-            "commentIncrease": 3,
-            "subscriberCount": 7780,
-            "durationSeconds": 15947,
-            "rawScore": 58.9,
-            "normalizedScore": 33.3,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.7
-                },
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 16.7,
-                "engagement": 60.8,
-                "subscriberRatio": 44.9,
-                "freshness": 48.1
-            }
-        },
-        {
-            "rank": 10,
-            "videoId": "C8PpFGpqGrY",
-            "title": "4年ぶりのママちゃんとの北海道旅行楽しすぎたー💗同じ腕出してるのにお互いずっと変えないの親子すぎる🤣笑笑おすすめ不動産女子",
-            "channelId": "UCLzVS4vEY8g16F2crm63ONw",
-            "channelName": "sayaka",
-            "thumbnailUrl": "https://i.ytimg.com/vi/C8PpFGpqGrY/maxresdefault.jpg",
-            "publishedAt": "2026-10-07T18:28:31Z",
-            "viewCount": 1006,
-            "viewIncrease": 752,
-            "likeCount": 6,
-            "likeIncrease": 5,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 5,
-            "durationSeconds": 16,
-            "isShort": true,
-            "rawScore": 54.5,
-            "normalizedScore": 25.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.6
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 77.8,
-                "engagement": 15.9,
-                "subscriberRatio": 96.9,
-                "freshness": 33.6,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 11,
-            "previousRank": 59,
-            "rankChange": 48,
+            "rank": 15,
             "videoId": "OzE5qO_-PNk",
             "title": "有村治子、緊急声明で週刊誌議員、完全終了。",
             "channelId": "UCAPpxMVxcbix9NEckFS5hLg",
             "channelName": "コースケTV【時事ニュース】",
             "thumbnailUrl": "https://i.ytimg.com/vi/OzE5qO_-PNk/maxresdefault.jpg",
             "publishedAt": "2026-10-07T05:43:23Z",
-            "viewCount": 353733,
-            "viewIncrease": 16509,
-            "likeCount": 6400,
-            "likeIncrease": 257,
-            "commentCount": 425,
-            "commentIncrease": 15,
+            "viewCount": 387150,
+            "viewIncrease": 33417,
+            "likeCount": 6741,
+            "likeIncrease": 341,
+            "commentCount": 443,
+            "commentIncrease": 18,
             "subscriberCount": 224000,
             "durationSeconds": 725,
-            "rawScore": 48.9,
-            "normalizedScore": 16.7,
+            "rawScore": 41.0,
+            "normalizedScore": 12.5,
             "genres": [
                 {
                     "slug": "learning",
@@ -424,31 +605,65 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 124.6,
-                "engagement": 30.9,
-                "subscriberRatio": 71.7,
-                "freshness": 21.5
+                "velocity": 124.0,
+                "engagement": 25.7,
+                "subscriberRatio": 79.4,
+                "freshness": 17.9
             }
         },
         {
-            "rank": 12,
+            "rank": 16,
+            "videoId": "rPxAXMxNBtU",
+            "title": "北前船の寄港地「諸寄」を巡る！ #ポタリング #旅行 #絶景 #旅の道草 #景色綺麗",
+            "channelId": "UC-fhtYuXvRLd-uixf98oy_A",
+            "channelName": "Mr.サイクルマンが行く!",
+            "thumbnailUrl": "https://i.ytimg.com/vi/rPxAXMxNBtU/maxresdefault.jpg",
+            "publishedAt": "2026-10-08T10:00:04Z",
+            "viewCount": 24,
+            "viewIncrease": 24,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 237,
+            "durationSeconds": 46,
+            "isShort": true,
+            "rawScore": 34.8,
+            "normalizedScore": 6.2,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 10.5,
+                "engagement": 0.0,
+                "subscriberRatio": 59.6,
+                "freshness": 58.4,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 17,
             "videoId": "Ktk_ijeH8n4",
             "title": "高校生の修学旅行で最高の瞬間TOP5 #高校生 #青春",
             "channelId": "UCSQ-nMQMG3PwPYdDXy4RDpA",
             "channelName": "ペンギンランカー",
             "thumbnailUrl": "https://i.ytimg.com/vi/Ktk_ijeH8n4/maxresdefault.jpg",
             "publishedAt": "2026-10-02T07:15:03Z",
-            "viewCount": 9682841,
-            "viewIncrease": 33938,
-            "likeCount": 139101,
-            "likeIncrease": 799,
-            "commentCount": 305,
-            "commentIncrease": 0,
-            "subscriberCount": 30900,
+            "viewCount": 9984757,
+            "viewIncrease": 301916,
+            "likeCount": 143901,
+            "likeIncrease": 4800,
+            "commentCount": 314,
+            "commentIncrease": 9,
+            "subscriberCount": 31100,
             "durationSeconds": 42,
             "isShort": true,
-            "rawScore": 18.8,
-            "normalizedScore": 8.3,
+            "rawScore": 21.2,
+            "normalizedScore": 0.0,
             "genres": [
                 {
                     "slug": "travel",
@@ -467,49 +682,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 135.6,
-                "engagement": 25.0,
-                "subscriberRatio": 101.0,
-                "freshness": 8.4,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 13,
-            "videoId": "YfOU83M0itE",
-            "title": "氷の世界でいただくラーメン　Hokkaido Tomamu￼ #tiktok #trending #funny #旅行",
-            "channelId": "UCcUCr0IZfOXyd9yRT1Mxetg",
-            "channelName": "Shin-Channel  まじしゃん",
-            "thumbnailUrl": "https://i.ytimg.com/vi/YfOU83M0itE/maxresdefault.jpg",
-            "publishedAt": "2026-10-07T15:32:34Z",
-            "viewCount": 10,
-            "viewIncrease": 2,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 53200,
-            "durationSeconds": 15,
-            "isShort": true,
-            "rawScore": 2.2,
-            "normalizedScore": 0.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 5.6,
-                "engagement": 0.0,
-                "subscriberRatio": 3.5,
-                "freshness": 29.1,
+                "velocity": 157.4,
+                "engagement": 22.8,
+                "subscriberRatio": 124.7,
+                "freshness": 8.2,
                 "formatAdjustment": 85.0
             }
         }
