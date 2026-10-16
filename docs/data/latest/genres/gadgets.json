@@ -1,34 +1,239 @@
 {
-    "generatedAt": "2026-10-15T23:53:01.488153851Z",
+    "generatedAt": "2026-10-16T08:30:45.392579734Z",
     "period": "24h",
     "genre": {
         "slug": "gadgets",
         "name": "ガジェット",
-        "confidence": 0.1
+        "confidence": 0.2
     },
     "status": "reference",
-    "totalVideos": 18,
-    "totalChannels": 18,
+    "totalVideos": 10,
+    "totalChannels": 10,
     "ranking": [
         {
             "rank": 1,
-            "videoId": "lG6lhmo5fU4",
-            "title": "1年使ったトラックボールの中身…それでもマウスに戻れない理由【ProtoArc EM04】",
-            "channelId": "UC3i6PqmqXez4z3YJk5GExJw",
-            "channelName": "びえんガジェットPC",
-            "thumbnailUrl": "https://i.ytimg.com/vi/lG6lhmo5fU4/maxresdefault.jpg",
-            "publishedAt": "2026-10-15T22:51:30Z",
-            "viewCount": 594,
-            "viewIncrease": 594,
-            "likeCount": 5,
-            "likeIncrease": 5,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 6310,
-            "durationSeconds": 46,
-            "isShort": true,
-            "rawScore": 74.9,
+            "previousRank": 80,
+            "rankChange": 79,
+            "videoId": "zVLaoC9vaCI",
+            "title": "【遂に開幕】年に一度の「Amazonプライム感謝祭」で本当に買うべき商品だけをプロが厳選しました。",
+            "channelId": "UC5jLzUQiTIk8CWiShdqQfDQ",
+            "channelName": "たこまる/TAKOMARU",
+            "thumbnailUrl": "https://i.ytimg.com/vi/zVLaoC9vaCI/maxresdefault.jpg",
+            "publishedAt": "2026-10-15T10:00:24Z",
+            "viewCount": 475644,
+            "viewIncrease": 109193,
+            "likeCount": 3029,
+            "likeIncrease": 469,
+            "commentCount": 144,
+            "commentIncrease": 22,
+            "subscriberCount": 683000,
+            "durationSeconds": 2593,
+            "rawScore": 48.6,
             "normalizedScore": 100.0,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 143.6,
+                "engagement": 16.7,
+                "subscriberRatio": 80.1,
+                "freshness": 20.2
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "-gBoBcjQB6E",
+            "title": "スマホで使えるコントローラー!? #フォートナイト #fortnite",
+            "channelId": "UChQ-wBG5fIn0-c-VC_4SL0Q",
+            "channelName": "たかしょう",
+            "thumbnailUrl": "https://i.ytimg.com/vi/-gBoBcjQB6E/maxresdefault.jpg",
+            "publishedAt": "2026-10-15T07:15:09Z",
+            "viewCount": 115338,
+            "viewIncrease": 19733,
+            "likeCount": 806,
+            "likeIncrease": 93,
+            "commentCount": 56,
+            "commentIncrease": 18,
+            "subscriberCount": 14000,
+            "durationSeconds": 24,
+            "isShort": true,
+            "rawScore": 39.7,
+            "normalizedScore": 88.9,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 117.6,
+                "engagement": 22.6,
+                "subscriberRatio": 103.7,
+                "freshness": 19.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 3,
+            "videoId": "2kzz0QRSNxI",
+            "title": "iPhoneが水没した時の対処法を知る人VS何にも知らない人 #iPhone #スマホ #水没",
+            "channelId": "UCFNH-kBMYFIo3GNpwFAowxw",
+            "channelName": "2浪4留で大学中退した社畜は今セミリタイアしたい",
+            "thumbnailUrl": "https://i.ytimg.com/vi/2kzz0QRSNxI/maxresdefault.jpg",
+            "publishedAt": "2026-10-15T09:00:14Z",
+            "viewCount": 156282,
+            "viewIncrease": 23314,
+            "likeCount": 3732,
+            "likeIncrease": 831,
+            "commentCount": 73,
+            "commentIncrease": 12,
+            "subscriberCount": 203000,
+            "durationSeconds": 60,
+            "isShort": true,
+            "rawScore": 39.0,
+            "normalizedScore": 77.8,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.5
+                },
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 120.1,
+                "engagement": 34.8,
+                "subscriberRatio": 76.5,
+                "freshness": 19.8,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 4,
+            "videoId": "blh7GJ8etyU",
+            "title": "【今年１位確定】クソゲーの「究極体」シリーズ随一の特級呪物【デジモン バトルジャンクション】",
+            "channelId": "UCHyYUv384bv9eMOC1UoG9PQ",
+            "channelName": "からすまAチャンネル",
+            "thumbnailUrl": "https://i.ytimg.com/vi/blh7GJ8etyU/maxresdefault.jpg",
+            "publishedAt": "2026-10-14T11:09:54Z",
+            "viewCount": 736446,
+            "viewIncrease": 35665,
+            "likeCount": 7496,
+            "likeIncrease": 273,
+            "commentCount": 1045,
+            "commentIncrease": 15,
+            "subscriberCount": 1210000,
+            "durationSeconds": 1147,
+            "rawScore": 30.7,
+            "normalizedScore": 66.7,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 126.6,
+                "engagement": 22.8,
+                "subscriberRatio": 61.8,
+                "freshness": 14.5
+            }
+        },
+        {
+            "rank": 5,
+            "videoId": "PkqsqAHkE44",
+            "title": "真っ二つに割れた3DS直してみたら…",
+            "channelId": "UCiBXkgUQ5rWeNehXsMimYRg",
+            "channelName": "和田【Retro Games】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/PkqsqAHkE44/maxresdefault.jpg",
+            "publishedAt": "2026-10-12T13:00:35Z",
+            "viewCount": 754625,
+            "viewIncrease": 30155,
+            "likeCount": 12995,
+            "likeIncrease": 325,
+            "commentCount": 433,
+            "commentIncrease": 4,
+            "subscriberCount": 262000,
+            "durationSeconds": 162,
+            "rawScore": 23.0,
+            "normalizedScore": 55.6,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 124.0,
+                "engagement": 21.9,
+                "subscriberRatio": 76.5,
+                "freshness": 10.3
+            }
+        },
+        {
+            "rank": 6,
+            "videoId": "DnZGaWQ7ah4",
+            "title": "旅行用ガジェットポーチの中身",
+            "channelId": "UCpg84H_s_n3ig485ei9IXeg",
+            "channelName": "CHIHIRO LOG",
+            "thumbnailUrl": "https://i.ytimg.com/vi/DnZGaWQ7ah4/maxresdefault.jpg",
+            "publishedAt": "2026-10-16T04:08:17Z",
+            "viewCount": 12,
+            "viewIncrease": 12,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 1070,
+            "durationSeconds": 1661,
+            "rawScore": 22.8,
+            "normalizedScore": 44.4,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -36,593 +241,37 @@
                     "confidence": 0.7
                 },
                 {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.3
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 49.4,
-                "engagement": 29.2,
-                "subscriberRatio": 74.4,
-                "freshness": 57.6,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 2,
-            "videoId": "nD64XgfrNmM",
-            "title": "【1分で全部見せ】エンジニアが買うべきガジェット30連発⚡️ #プライム感謝祭 #shorts",
-            "channelId": "UCInOnD5JQX9wno4Z7-wig-w",
-            "channelName": "adachin dev",
-            "thumbnailUrl": "https://i.ytimg.com/vi/nD64XgfrNmM/maxresdefault.jpg",
-            "publishedAt": "2026-10-15T22:00:03Z",
-            "viewCount": 552,
-            "viewIncrease": 552,
-            "likeCount": 5,
-            "likeIncrease": 5,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 1310,
-            "durationSeconds": 60,
-            "isShort": true,
-            "rawScore": 73.1,
-            "normalizedScore": 94.1,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.8
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 48.3,
-                "engagement": 30.1,
-                "subscriberRatio": 90.6,
-                "freshness": 50.9,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 3,
-            "previousRank": 31,
-            "rankChange": 28,
-            "videoId": "zVLaoC9vaCI",
-            "title": "【遂に開幕】年に一度の「Amazonプライム感謝祭」で本当に買うべき商品だけをプロが厳選しました。",
-            "channelId": "UC5jLzUQiTIk8CWiShdqQfDQ",
-            "channelName": "たこまる/TAKOMARU",
-            "thumbnailUrl": "https://i.ytimg.com/vi/zVLaoC9vaCI/maxresdefault.jpg",
-            "publishedAt": "2026-10-15T10:00:24Z",
-            "viewCount": 366451,
-            "viewIncrease": 36279,
-            "likeCount": 2560,
-            "likeIncrease": 268,
-            "commentCount": 122,
-            "commentIncrease": 6,
-            "subscriberCount": 683000,
-            "durationSeconds": 2593,
-            "rawScore": 56.4,
-            "normalizedScore": 88.2,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 136.8,
-                "engagement": 19.8,
-                "subscriberRatio": 68.2,
-                "freshness": 25.1
-            }
-        },
-        {
-            "rank": 4,
-            "videoId": "GPYe5uF6WHk",
-            "title": "【Amazonプライム感謝祭】iPhoneおすすめアクセサリー20選｜最新iPhone 18 Proとも相性が良い機能性を上げるガジェットまとめ#PR #ガジェット",
-            "channelId": "UCfVfikCAycJw2Eh7LA1T6jg",
-            "channelName": "クラフトデイズ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/GPYe5uF6WHk/maxresdefault.jpg",
-            "publishedAt": "2026-10-15T22:03:37Z",
-            "viewCount": 580,
-            "viewIncrease": 580,
-            "likeCount": 2,
-            "likeIncrease": 2,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 12800,
-            "durationSeconds": 36,
-            "isShort": true,
-            "rawScore": 55.3,
-            "normalizedScore": 82.4,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.99
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 49.0,
-                "engagement": 11.7,
-                "subscriberRatio": 66.4,
-                "freshness": 51.2,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 5,
-            "videoId": "1BIPnySKdMc",
-            "title": "勉強中にスマホに負けるのはなぜ？中学生に足りない「やれそう感」",
-            "channelId": "UCHtZCPwDKfEjkhGVBiqLsug",
-            "channelName": "オンライン学習塾のLaf先生",
-            "thumbnailUrl": "https://i.ytimg.com/vi/1BIPnySKdMc/maxresdefault.jpg",
-            "publishedAt": "2026-10-15T21:00:19Z",
-            "viewCount": 54,
-            "viewIncrease": 54,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 15900,
-            "durationSeconds": 84,
-            "rawScore": 46.9,
-            "normalizedScore": 76.5,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.5
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 17.9,
-                "engagement": 46.9,
-                "subscriberRatio": 38.6,
-                "freshness": 45.3
-            }
-        },
-        {
-            "rank": 6,
-            "previousRank": 92,
-            "rankChange": 86,
-            "videoId": "-gBoBcjQB6E",
-            "title": "スマホで使えるコントローラー!? #フォートナイト #fortnite",
-            "channelId": "UChQ-wBG5fIn0-c-VC_4SL0Q",
-            "channelName": "たかしょう",
-            "thumbnailUrl": "https://i.ytimg.com/vi/-gBoBcjQB6E/maxresdefault.jpg",
-            "publishedAt": "2026-10-15T07:15:09Z",
-            "viewCount": 95605,
-            "viewIncrease": 7578,
-            "likeCount": 713,
-            "likeIncrease": 65,
-            "commentCount": 38,
-            "commentIncrease": 7,
-            "subscriberCount": 14000,
-            "durationSeconds": 24,
-            "isShort": true,
-            "rawScore": 45.9,
-            "normalizedScore": 70.6,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 113.0,
-                "engagement": 26.7,
-                "subscriberRatio": 93.3,
-                "freshness": 23.2,
-                "formatAdjustment": 85.0
+                "velocity": 6.2,
+                "engagement": 0.0,
+                "subscriberRatio": 51.3,
+                "freshness": 39.6
             }
         },
         {
             "rank": 7,
-            "previousRank": 68,
-            "rankChange": 61,
-            "videoId": "2kzz0QRSNxI",
-            "title": "iPhoneが水没した時の対処法を知る人VS何にも知らない人 #iPhone #スマホ #水没",
-            "channelId": "UCFNH-kBMYFIo3GNpwFAowxw",
-            "channelName": "2浪4留で大学中退した社畜は今セミリタイアしたい",
-            "thumbnailUrl": "https://i.ytimg.com/vi/2kzz0QRSNxI/maxresdefault.jpg",
-            "publishedAt": "2026-10-15T09:00:14Z",
-            "viewCount": 132968,
-            "viewIncrease": 7360,
-            "likeCount": 2901,
-            "likeIncrease": 230,
-            "commentCount": 61,
-            "commentIncrease": 6,
-            "subscriberCount": 203000,
-            "durationSeconds": 60,
-            "isShort": true,
-            "rawScore": 43.9,
-            "normalizedScore": 64.7,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.5
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 112.5,
-                "engagement": 35.6,
-                "subscriberRatio": 64.0,
-                "freshness": 24.3,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 8,
-            "videoId": "B5vkU2kLo5Q",
-            "title": "前髪パリパリ白くなる人これ買いな‼️‼️‼️ #美容 #コスメレビュー #コスメレポ #前髪 #ヘアアレンジ #ヘアセット #前髪アレンジ #hairstyle #shorts",
-            "channelId": "UCqKxCTSCBhOl8FvkAvua6Qw",
-            "channelName": "めるも【ステマしません⚠️】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/B5vkU2kLo5Q/maxresdefault.jpg",
-            "publishedAt": "2026-10-15T12:00:15Z",
-            "viewCount": 7641,
-            "viewIncrease": 1816,
-            "likeCount": 160,
-            "likeIncrease": 29,
-            "commentCount": 2,
-            "commentIncrease": 1,
-            "subscriberCount": 58200,
-            "durationSeconds": 23,
-            "isShort": true,
-            "rawScore": 41.7,
-            "normalizedScore": 58.8,
-            "genres": [
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.8
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 91.3,
-                "engagement": 29.0,
-                "subscriberRatio": 62.4,
-                "freshness": 26.9,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 9,
-            "previousRank": 72,
-            "rankChange": 63,
-            "videoId": "mPXcYLjXljw",
-            "title": "【高音厨の本気】IMAWANOKIWA 無加工スマホで #歌ってみた #新人歌い手 #cover #vtuber準備中 #新人vtuber #アカペラ",
-            "channelId": "UCAa4zZ9dez9kK74BthwgIxQ",
-            "channelName": "悦楽的ぞんび🧪💛 - Ego Ch. -  ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/mPXcYLjXljw/maxresdefault.jpg",
-            "publishedAt": "2026-10-15T13:11:37Z",
-            "viewCount": 1185,
-            "viewIncrease": 55,
-            "likeCount": 81,
-            "likeIncrease": 15,
-            "commentCount": 18,
-            "commentIncrease": 3,
-            "subscriberCount": 3580,
-            "durationSeconds": 29,
-            "isShort": true,
-            "rawScore": 37.6,
-            "normalizedScore": 52.9,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.5
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 39.3,
-                "engagement": 63.6,
-                "subscriberRatio": 54.7,
-                "freshness": 28.1,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 10,
-            "videoId": "blh7GJ8etyU",
-            "title": "【今年１位確定】クソゲーの「究極体」シリーズ随一の特級呪物【デジモン バトルジャンクション】",
-            "channelId": "UCHyYUv384bv9eMOC1UoG9PQ",
-            "channelName": "からすまAチャンネル",
-            "thumbnailUrl": "https://i.ytimg.com/vi/blh7GJ8etyU/maxresdefault.jpg",
-            "publishedAt": "2026-10-14T11:09:54Z",
-            "viewCount": 700781,
-            "viewIncrease": 13447,
-            "likeCount": 7223,
-            "likeIncrease": 149,
-            "commentCount": 1030,
-            "commentIncrease": 13,
-            "subscriberCount": 1210000,
-            "durationSeconds": 1147,
-            "rawScore": 32.4,
-            "normalizedScore": 47.1,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.1
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 121.7,
-                "engagement": 28.7,
-                "subscriberRatio": 51.2,
-                "freshness": 16.1
-            }
-        },
-        {
-            "rank": 11,
-            "previousRank": 96,
-            "rankChange": 85,
-            "videoId": "bjCOVQU0W5Q",
-            "title": "英語よりスペイン語…「英語を勉強してきた方が得です」【ひろゆき 切り抜き】",
-            "channelId": "UCOxp8TdW7GVAvy5f8BphlzQ",
-            "channelName": "ひろゆきの社会科【切り抜き】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/bjCOVQU0W5Q/maxresdefault.jpg",
-            "publishedAt": "2026-10-15T13:30:12Z",
-            "viewCount": 1653,
-            "viewIncrease": 54,
-            "likeCount": 7,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 269,
-            "durationSeconds": 45,
-            "isShort": true,
-            "rawScore": 26.0,
-            "normalizedScore": 41.2,
-            "genres": [
-                {
-                    "slug": "learning",
-                    "name": "学習・情報",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 39.0,
-                "engagement": 0.0,
-                "subscriberRatio": 68.3,
-                "freshness": 28.4,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 12,
-            "videoId": "Py69Y-oWFhI",
-            "title": "ちるるのAI β | AIニュース解説 | 2026.10.15",
-            "channelId": "UCCrIRPEPbTti4qe2OsGg07g",
-            "channelName": "chiruruAI",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Py69Y-oWFhI/maxresdefault.jpg",
-            "publishedAt": "2026-10-15T13:45:03Z",
-            "viewCount": 91,
-            "viewIncrease": 22,
-            "likeCount": 1,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 128,
-            "durationSeconds": 11771,
-            "rawScore": 24.6,
-            "normalizedScore": 35.3,
-            "genres": [
-                {
-                    "slug": "learning",
-                    "name": "学習・情報",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 27.0,
-                "engagement": 0.0,
-                "subscriberRatio": 58.6,
-                "freshness": 28.7
-            }
-        },
-        {
-            "rank": 13,
-            "videoId": "PkqsqAHkE44",
-            "title": "真っ二つに割れた3DS直してみたら…",
-            "channelId": "UCiBXkgUQ5rWeNehXsMimYRg",
-            "channelName": "和田【Retro Games】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/PkqsqAHkE44/maxresdefault.jpg",
-            "publishedAt": "2026-10-12T13:00:35Z",
-            "viewCount": 724470,
-            "viewIncrease": 11490,
-            "likeCount": 12670,
-            "likeIncrease": 215,
-            "commentCount": 429,
-            "commentIncrease": 10,
-            "subscriberCount": 262000,
-            "durationSeconds": 162,
-            "rawScore": 23.6,
-            "normalizedScore": 29.4,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 119.3,
-                "engagement": 32.0,
-                "subscriberRatio": 66.1,
-                "freshness": 10.9
-            }
-        },
-        {
-            "rank": 14,
-            "videoId": "nQdXp6HKKik",
-            "title": "I tested the most Futuristic Tech - it scared me.",
-            "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
-            "channelName": "Mrwhosetheboss",
-            "thumbnailUrl": "https://i.ytimg.com/vi/nQdXp6HKKik/maxresdefault.jpg",
-            "publishedAt": "2026-10-10T10:16:27Z",
-            "viewCount": 13864588,
-            "viewIncrease": 155491,
-            "likeCount": 134965,
-            "likeIncrease": 750,
-            "commentCount": 4537,
-            "commentIncrease": 27,
-            "subscriberCount": 23000000,
-            "durationSeconds": 1472,
-            "rawScore": 19.1,
-            "normalizedScore": 23.5,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 158.9,
-                "engagement": 17.0,
-                "subscriberRatio": 45.9,
-                "freshness": 8.6
-            }
-        },
-        {
-            "rank": 15,
             "videoId": "tAAR8UvLqj4",
             "title": "世界中で爆売れ!?四角い物体の正体　#便利グッズ #アイデア商品 #カメラ #カメラアクセサリー #ガジェット",
             "channelId": "UCCjxLB4X55GhKDiFVKDlCTg",
             "channelName": "それいいね",
             "thumbnailUrl": "https://i.ytimg.com/vi/tAAR8UvLqj4/maxresdefault.jpg",
             "publishedAt": "2026-10-12T09:00:33Z",
-            "viewCount": 184471,
-            "viewIncrease": 2686,
-            "likeCount": 1015,
-            "likeIncrease": 8,
-            "commentCount": 35,
-            "commentIncrease": 0,
+            "viewCount": 189464,
+            "viewIncrease": 4993,
+            "likeCount": 1035,
+            "likeIncrease": 20,
+            "commentCount": 38,
+            "commentIncrease": 3,
             "subscriberCount": 29800,
             "durationSeconds": 27,
             "isShort": true,
-            "rawScore": 16.4,
-            "normalizedScore": 17.6,
+            "rawScore": 17.0,
+            "normalizedScore": 33.3,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -636,32 +285,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 97.2,
-                "engagement": 10.8,
-                "subscriberRatio": 73.9,
-                "freshness": 10.6,
+                "velocity": 96.7,
+                "engagement": 19.8,
+                "subscriberRatio": 80.6,
+                "freshness": 10.1,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 16,
+            "rank": 8,
             "videoId": "GNbWhAuDgqQ",
             "title": "これ怖すぎ､､ @ヤスタカiPhoneパパ #検証 #スマホ #iphone",
             "channelId": "UCY-G9awXIlEt3NpfGWmMwug",
             "channelName": "けべ",
             "thumbnailUrl": "https://i.ytimg.com/vi/GNbWhAuDgqQ/maxresdefault.jpg",
             "publishedAt": "2026-10-13T12:10:15Z",
-            "viewCount": 326837,
-            "viewIncrease": 246,
-            "likeCount": 4928,
-            "likeIncrease": 22,
-            "commentCount": 7357,
-            "commentIncrease": 17,
+            "viewCount": 328521,
+            "viewIncrease": 1684,
+            "likeCount": 4990,
+            "likeIncrease": 62,
+            "commentCount": 7416,
+            "commentIncrease": 59,
             "subscriberCount": 1040000,
             "durationSeconds": 54,
             "isShort": true,
-            "rawScore": 14.7,
-            "normalizedScore": 11.8,
+            "rawScore": 16.8,
+            "normalizedScore": 22.2,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -680,32 +329,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 61.2,
-                "engagement": 61.4,
-                "subscriberRatio": 13.2,
-                "freshness": 12.7,
+                "velocity": 80.3,
+                "engagement": 54.5,
+                "subscriberRatio": 30.9,
+                "freshness": 11.9,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 17,
+            "rank": 9,
             "videoId": "dRuF-9RleQI",
             "title": "iPhone DuoをDuo台買う予定なんだが！？",
             "channelId": "UCGZN5iM08by_vcJMhnM_6-Q",
             "channelName": "ガジェットモ",
             "thumbnailUrl": "https://i.ytimg.com/vi/dRuF-9RleQI/maxresdefault.jpg",
             "publishedAt": "2026-10-11T11:00:28Z",
-            "viewCount": 320570,
-            "viewIncrease": 1061,
-            "likeCount": 6116,
-            "likeIncrease": 23,
+            "viewCount": 324140,
+            "viewIncrease": 3570,
+            "likeCount": 6153,
+            "likeIncrease": 37,
             "commentCount": 140,
             "commentIncrease": 0,
             "subscriberCount": 155000,
             "durationSeconds": 57,
             "isShort": true,
-            "rawScore": 12.4,
-            "normalizedScore": 5.9,
+            "rawScore": 13.2,
+            "normalizedScore": 11.1,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -714,31 +363,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 83.2,
-                "engagement": 24.4,
-                "subscriberRatio": 46.0,
-                "freshness": 9.5,
+                "velocity": 91.6,
+                "engagement": 19.0,
+                "subscriberRatio": 59.1,
+                "freshness": 9.1,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 18,
+            "rank": 10,
             "videoId": "QR-oBjLyejY",
             "title": "Android Smartwatch V/S Smartphone Part 21👀 #shorts",
             "channelId": "UCo25Gkzm13wC_-2GuWN7hXg",
             "channelName": "Tech Ronax",
             "thumbnailUrl": "https://i.ytimg.com/vi/QR-oBjLyejY/maxresdefault.jpg",
             "publishedAt": "2026-10-06T14:24:32Z",
-            "viewCount": 8128262,
-            "viewIncrease": 2930,
-            "likeCount": 154449,
-            "likeIncrease": 27,
+            "viewCount": 8146617,
+            "viewIncrease": 18355,
+            "likeCount": 155011,
+            "likeIncrease": 562,
             "commentCount": 264,
             "commentIncrease": 0,
             "subscriberCount": 5620000,
             "durationSeconds": 47,
             "isShort": true,
-            "rawScore": 7.7,
+            "rawScore": 10.1,
             "normalizedScore": 0.0,
             "genres": [
                 {
@@ -748,10 +397,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 98.6,
-                "engagement": 18.2,
-                "subscriberRatio": 19.8,
-                "freshness": 6.6,
+                "velocity": 116.5,
+                "engagement": 27.0,
+                "subscriberRatio": 38.2,
+                "freshness": 6.5,
                 "formatAdjustment": 85.0
             }
         }
