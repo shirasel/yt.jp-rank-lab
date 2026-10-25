@@ -1,32 +1,34 @@
 {
-    "generatedAt": "2026-10-25T18:33:28.527662916Z",
+    "generatedAt": "2026-10-25T23:33:30.315816454Z",
     "period": "24h",
     "genre": {
         "slug": "gadgets",
         "name": "ガジェット",
-        "confidence": 0.2
+        "confidence": 0.1
     },
     "status": "reference",
-    "totalVideos": 18,
-    "totalChannels": 18,
+    "totalVideos": 16,
+    "totalChannels": 16,
     "ranking": [
         {
             "rank": 1,
+            "previousRank": 15,
+            "rankChange": 14,
             "videoId": "0DqqjDma1wY",
             "title": "【hololive Dreams】#ホロドリ 初プレイわくわくっ！！【宙科そぴあ/ホロライブ/アソビ★まわり隊！】",
             "channelId": "UCROQtXcp2loQEmvpe5rhJzQ",
             "channelName": "Sopia Ch. 宙科そぴあ ‐ アソビ★まわり隊!",
             "thumbnailUrl": "https://i.ytimg.com/vi/0DqqjDma1wY/maxresdefault.jpg",
             "publishedAt": "2026-10-25T13:06:50Z",
-            "viewCount": 242877,
-            "viewIncrease": 242877,
-            "likeCount": 9266,
-            "likeIncrease": 9266,
-            "commentCount": 91,
-            "commentIncrease": 91,
+            "viewCount": 249229,
+            "viewIncrease": 6352,
+            "likeCount": 9433,
+            "likeIncrease": 167,
+            "commentCount": 98,
+            "commentIncrease": 7,
             "subscriberCount": 314000,
             "durationSeconds": 7157,
-            "rawScore": 99.6,
+            "rawScore": 57.3,
             "normalizedScore": 100.0,
             "genres": [
                 {
@@ -46,33 +48,33 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 140.2,
-                "engagement": 34.2,
-                "subscriberRatio": 97.2,
-                "freshness": 36.7
+                "velocity": 108.6,
+                "engagement": 35.6,
+                "subscriberRatio": 57.7,
+                "freshness": 28.4
             }
         },
         {
             "rank": 2,
-            "previousRank": 46,
-            "rankChange": 44,
+            "previousRank": 66,
+            "rankChange": 64,
             "videoId": "9DRj7yP-nwU",
             "title": "iPhoneDuo vs スマホの破壊神",
             "channelId": "UCBCF97JRGmkhsHQ0125mteg",
             "channelName": "TheWorld",
             "thumbnailUrl": "https://i.ytimg.com/vi/9DRj7yP-nwU/maxresdefault.jpg",
             "publishedAt": "2026-10-25T08:15:16Z",
-            "viewCount": 331960,
-            "viewIncrease": 127781,
-            "likeCount": 3549,
-            "likeIncrease": 744,
-            "commentCount": 155,
-            "commentIncrease": 37,
+            "viewCount": 363495,
+            "viewIncrease": 31535,
+            "likeCount": 4034,
+            "likeIncrease": 485,
+            "commentCount": 177,
+            "commentIncrease": 22,
             "subscriberCount": 68200,
             "durationSeconds": 30,
             "isShort": true,
-            "rawScore": 68.3,
-            "normalizedScore": 94.1,
+            "rawScore": 52.0,
+            "normalizedScore": 93.3,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -81,71 +83,34 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 155.5,
-                "engagement": 19.7,
-                "subscriberRatio": 106.8,
-                "freshness": 28.5,
+                "velocity": 133.0,
+                "engagement": 29.7,
+                "subscriberRatio": 91.6,
+                "freshness": 24.0,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 3,
-            "videoId": "6ml3-kuJU7o",
-            "title": "お絵かき伝言ゲームの結果がヤバすぎるw #ゲーム実況 #shorts",
-            "channelId": "UC4hC1-ypPA8xkII_MEJRMzg",
-            "channelName": "ふぐぽわ🐡🫧",
-            "thumbnailUrl": "https://i.ytimg.com/vi/6ml3-kuJU7o/maxresdefault.jpg",
-            "publishedAt": "2026-10-25T17:08:29Z",
-            "viewCount": 664,
-            "viewIncrease": 664,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 12800,
-            "durationSeconds": 42,
-            "isShort": true,
-            "rawScore": 58.1,
-            "normalizedScore": 88.2,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.99
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 51.0,
-                "engagement": 7.2,
-                "subscriberRatio": 67.9,
-                "freshness": 54.2,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 4,
+            "previousRank": 97,
+            "rankChange": 94,
             "videoId": "aLGpqo6zv0g",
             "title": "大阪一爆イケの本場超えの沼るヴェネツィア料理",
             "channelId": "UC0SQLb4BSzq2Wxkq_072XUw",
             "channelName": "まろくんグルメ【大阪グルメ】",
             "thumbnailUrl": "https://i.ytimg.com/vi/aLGpqo6zv0g/maxresdefault.jpg",
             "publishedAt": "2026-10-25T13:03:51Z",
-            "viewCount": 7622,
-            "viewIncrease": 7622,
-            "likeCount": 144,
-            "likeIncrease": 144,
-            "commentCount": 0,
-            "commentIncrease": 0,
+            "viewCount": 12577,
+            "viewIncrease": 4955,
+            "likeCount": 188,
+            "likeIncrease": 44,
+            "commentCount": 2,
+            "commentIncrease": 2,
             "subscriberCount": 82500,
             "durationSeconds": 23,
             "isShort": true,
-            "rawScore": 57.5,
-            "normalizedScore": 82.4,
+            "rawScore": 47.6,
+            "normalizedScore": 86.7,
             "genres": [
                 {
                     "slug": "cooking",
@@ -159,86 +124,94 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 87.6,
-                "engagement": 23.4,
-                "subscriberRatio": 74.2,
-                "freshness": 36.6,
+                "velocity": 104.9,
+                "engagement": 23.7,
+                "subscriberRatio": 69.5,
+                "freshness": 28.3,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 5,
-            "videoId": "k4LJJhENp8w",
-            "title": "ちるるのAI β | AIニュース解説 | 2026.10.25",
-            "channelId": "UCCrIRPEPbTti4qe2OsGg07g",
-            "channelName": "chiruruAI",
-            "thumbnailUrl": "https://i.ytimg.com/vi/k4LJJhENp8w/maxresdefault.jpg",
-            "publishedAt": "2026-10-25T14:47:14Z",
-            "viewCount": 368,
-            "viewIncrease": 368,
-            "likeCount": 0,
-            "likeIncrease": 0,
+            "rank": 3,
+            "videoId": "_2N1wKk_Mh0",
+            "title": "The Most Viral Gadget of 2026 - Must See You Need This Gadget in 2026 Cool Gadgets! Smart Appliances",
+            "channelId": "UCL_A0Dn2v-42cpKr0495N5Q",
+            "channelName": "Unsaid Chronicles",
+            "thumbnailUrl": "https://i.ytimg.com/vi/_2N1wKk_Mh0/maxresdefault.jpg",
+            "publishedAt": "2026-10-25T20:22:40Z",
+            "viewCount": 421,
+            "viewIncrease": 421,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 131,
-            "durationSeconds": 11844,
-            "rawScore": 54.8,
-            "normalizedScore": 76.5,
+            "subscriberCount": 11900,
+            "durationSeconds": 66,
+            "rawScore": 47.6,
+            "normalizedScore": 86.7,
             "genres": [
-                {
-                    "slug": "learning",
-                    "name": "学習・情報",
-                    "confidence": 0.8
-                },
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
                     "confidence": 0.3
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.1
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 42.5,
+                "velocity": 44.4,
                 "engagement": 0.0,
-                "subscriberRatio": 89.1,
-                "freshness": 41.6
+                "subscriberRatio": 63.7,
+                "freshness": 44.0
+            }
+        },
+        {
+            "rank": 5,
+            "videoId": "BxuoSQcuwCc",
+            "title": "iPhone Duo丸1日使ってみて実際どう？#ガジェット #ガジェット紹介 #Apple",
+            "channelId": "UCYjykEbcPv_zUlIYK2FeJog",
+            "channelName": "すぐる@iPhone・ガジェット",
+            "thumbnailUrl": "https://i.ytimg.com/vi/BxuoSQcuwCc/maxresdefault.jpg",
+            "publishedAt": "2026-10-24T15:33:18Z",
+            "viewCount": 232001,
+            "viewIncrease": 12505,
+            "likeCount": 3135,
+            "likeIncrease": 135,
+            "commentCount": 171,
+            "commentIncrease": 5,
+            "subscriberCount": 199000,
+            "durationSeconds": 180,
+            "rawScore": 36.7,
+            "normalizedScore": 73.3,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 118.9,
+                "engagement": 25.0,
+                "subscriberRatio": 70.0,
+                "freshness": 17.1
             }
         },
         {
             "rank": 6,
-            "previousRank": 82,
-            "rankChange": 76,
             "videoId": "REUUdIP1Bbc",
             "title": "パケと中身で847円⁉️バグすぎminumリップ #美容 #コスメレビュー #コスメ #コスメレポ #垢抜け #プチプラコスメ #新作コスメ #リップ #makeup #shorts",
             "channelId": "UCqKxCTSCBhOl8FvkAvua6Qw",
             "channelName": "めるも【ステマしません⚠️】",
             "thumbnailUrl": "https://i.ytimg.com/vi/REUUdIP1Bbc/maxresdefault.jpg",
             "publishedAt": "2026-10-25T12:00:31Z",
-            "viewCount": 4739,
-            "viewIncrease": 2857,
-            "likeCount": 95,
-            "likeIncrease": 37,
+            "viewCount": 5569,
+            "viewIncrease": 830,
+            "likeCount": 110,
+            "likeIncrease": 15,
             "commentCount": 1,
             "commentIncrease": 0,
             "subscriberCount": 58200,
             "durationSeconds": 25,
             "isShort": true,
-            "rawScore": 54.0,
-            "normalizedScore": 70.6,
+            "rawScore": 35.8,
+            "normalizedScore": 66.7,
             "genres": [
                 {
                     "slug": "beauty",
@@ -252,110 +225,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 97.7,
-                "engagement": 20.6,
-                "subscriberRatio": 67.3,
-                "freshness": 34.2,
+                "velocity": 77.8,
+                "engagement": 23.0,
+                "subscriberRatio": 53.9,
+                "freshness": 27.2,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 7,
-            "videoId": "Q5jOCukhsOU",
-            "title": "iPhone Duoやばい！！#PR #iPhoneDuo #esr #esriphoneduoケース #esrMagSafe充電器",
-            "channelId": "UCZiAYPMksey3yE10xf5pEow",
-            "channelName": "そると iPhone便利機能 ガジェット",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Q5jOCukhsOU/maxresdefault.jpg",
-            "publishedAt": "2026-10-24T13:58:10Z",
-            "viewCount": 200060,
-            "viewIncrease": 200060,
-            "likeCount": 1419,
-            "likeIncrease": 1419,
-            "commentCount": 78,
-            "commentIncrease": 78,
-            "subscriberCount": 72700,
-            "durationSeconds": 65,
-            "rawScore": 48.9,
-            "normalizedScore": 64.7,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 137.2,
-                "engagement": 22.0,
-                "subscriberRatio": 111.0,
-                "freshness": 18.1
-            }
-        },
-        {
-            "rank": 8,
-            "videoId": "p1LmjI6eahA",
-            "title": "【睡眠用・作業用BGM】三日月と天の川を望む海辺のテラスで、ゆっくり心をほどいて眠る｜528Hzヒーリング・3時間（途中広告なし）/ starry terrace sleep music",
-            "channelId": "UCsn1dl7poU-UFeGK9a6T5iQ",
-            "channelName": "Calm & Cozy Nights",
-            "thumbnailUrl": "https://i.ytimg.com/vi/p1LmjI6eahA/maxresdefault.jpg",
-            "publishedAt": "2026-10-25T14:00:23Z",
-            "viewCount": 138,
-            "viewIncrease": 138,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 99,
-            "durationSeconds": 10936,
-            "rawScore": 48.5,
-            "normalizedScore": 58.8,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.8
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 29.0,
-                "engagement": 16.5,
-                "subscriberRatio": 78.5,
-                "freshness": 39.1
-            }
-        },
-        {
-            "rank": 9,
             "videoId": "hmdZuVgiJFI",
             "title": "LIVE ALBUM『九段下フォーク・フェスティバル’25』アルバム試聴トレーラー / 桑田佳祐, あいみょん, 桜井和寿, 竹内まりや, 原 由子, 吉井和哉",
             "channelId": "UCaZ17KNeiVkQkeG7i2WDOnQ",
             "channelName": "桑田佳祐",
             "thumbnailUrl": "https://i.ytimg.com/vi/hmdZuVgiJFI/maxresdefault.jpg",
             "publishedAt": "2026-10-25T03:00:16Z",
-            "viewCount": 68759,
-            "viewIncrease": 15008,
-            "likeCount": 1285,
-            "likeIncrease": 88,
-            "commentCount": 24,
-            "commentIncrease": 0,
+            "viewCount": 71638,
+            "viewIncrease": 2879,
+            "likeCount": 1329,
+            "likeIncrease": 44,
+            "commentCount": 26,
+            "commentIncrease": 2,
             "subscriberCount": 795000,
             "durationSeconds": 185,
-            "rawScore": 46.5,
-            "normalizedScore": 52.9,
+            "rawScore": 34.9,
+            "normalizedScore": 60.0,
             "genres": [
                 {
                     "slug": "music",
@@ -374,62 +268,72 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 122.9,
-                "engagement": 15.1,
-                "subscriberRatio": 57.0,
-                "freshness": 23.9
+                "velocity": 96.6,
+                "engagement": 29.6,
+                "subscriberRatio": 39.3,
+                "freshness": 21.1
             }
         },
         {
-            "rank": 10,
-            "videoId": "BxuoSQcuwCc",
-            "title": "iPhone Duo丸1日使ってみて実際どう？#ガジェット #ガジェット紹介 #Apple",
-            "channelId": "UCYjykEbcPv_zUlIYK2FeJog",
-            "channelName": "すぐる@iPhone・ガジェット",
-            "thumbnailUrl": "https://i.ytimg.com/vi/BxuoSQcuwCc/maxresdefault.jpg",
-            "publishedAt": "2026-10-24T15:33:18Z",
-            "viewCount": 219496,
-            "viewIncrease": 40109,
-            "likeCount": 3000,
-            "likeIncrease": 322,
-            "commentCount": 166,
-            "commentIncrease": 18,
-            "subscriberCount": 199000,
-            "durationSeconds": 180,
-            "rawScore": 45.3,
-            "normalizedScore": 47.1,
+            "rank": 8,
+            "videoId": "Q5jOCukhsOU",
+            "title": "iPhone Duoやばい！！#PR #iPhoneDuo #esr #esriphoneduoケース #esrMagSafe充電器",
+            "channelId": "UCZiAYPMksey3yE10xf5pEow",
+            "channelName": "そると iPhone便利機能 ガジェット",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Q5jOCukhsOU/maxresdefault.jpg",
+            "publishedAt": "2026-10-24T13:58:10Z",
+            "viewCount": 204216,
+            "viewIncrease": 4156,
+            "likeCount": 1456,
+            "likeIncrease": 37,
+            "commentCount": 81,
+            "commentIncrease": 3,
+            "subscriberCount": 72700,
+            "durationSeconds": 65,
+            "rawScore": 33.0,
+            "normalizedScore": 53.3,
             "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.3
+                },
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
-                    "confidence": 0.6
+                    "confidence": 0.2
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 137.9,
-                "engagement": 23.3,
-                "subscriberRatio": 82.6,
-                "freshness": 18.6
+                "velocity": 102.2,
+                "engagement": 25.9,
+                "subscriberRatio": 68.9,
+                "freshness": 16.8
             }
         },
         {
-            "rank": 11,
+            "rank": 9,
             "videoId": "L0LiL2W0mgk",
             "title": "一歩も動けなかった少年が刑事の手を取った理由 #おすすめドラマ",
             "channelId": "UCXjQZnKRnj56WTzsm8eTgrQ",
             "channelName": "ベベムービー映画レビュー",
             "thumbnailUrl": "https://i.ytimg.com/vi/L0LiL2W0mgk/maxresdefault.jpg",
             "publishedAt": "2026-10-21T00:00:23Z",
-            "viewCount": 6102511,
-            "viewIncrease": 322856,
-            "likeCount": 104138,
-            "likeIncrease": 3571,
-            "commentCount": 660,
-            "commentIncrease": 17,
-            "subscriberCount": 51900,
+            "viewCount": 6199922,
+            "viewIncrease": 97411,
+            "likeCount": 105699,
+            "likeIncrease": 1561,
+            "commentCount": 667,
+            "commentIncrease": 7,
+            "subscriberCount": 52100,
             "durationSeconds": 70,
-            "rawScore": 28.7,
-            "normalizedScore": 41.2,
+            "rawScore": 25.5,
+            "normalizedScore": 46.7,
             "genres": [
                 {
                     "slug": "anime",
@@ -448,31 +352,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 169.6,
-                "engagement": 20.7,
-                "subscriberRatio": 119.8,
-                "freshness": 9.3
+                "velocity": 150.1,
+                "engagement": 23.8,
+                "subscriberRatio": 106.8,
+                "freshness": 9.1
             }
         },
         {
-            "rank": 12,
+            "rank": 10,
             "videoId": "XDVxurSMNA4",
             "title": "最後のセリフのように別れを告げたロビン",
             "channelId": "UCR1Dht4pokNSjbx6_w9I-CQ",
             "channelName": "意外とおもしろい",
             "thumbnailUrl": "https://i.ytimg.com/vi/XDVxurSMNA4/maxresdefault.jpg",
             "publishedAt": "2026-10-22T02:00:18Z",
-            "viewCount": 6405417,
-            "viewIncrease": 148538,
-            "likeCount": 128520,
-            "likeIncrease": 1497,
-            "commentCount": 815,
-            "commentIncrease": 7,
-            "subscriberCount": 51400,
+            "viewCount": 6457100,
+            "viewIncrease": 51683,
+            "likeCount": 129314,
+            "likeIncrease": 794,
+            "commentCount": 821,
+            "commentIncrease": 6,
+            "subscriberCount": 51500,
             "durationSeconds": 31,
             "isShort": true,
-            "rawScore": 25.8,
-            "normalizedScore": 35.3,
+            "rawScore": 23.0,
+            "normalizedScore": 40.0,
             "genres": [
                 {
                     "slug": "music",
@@ -486,65 +390,73 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 157.8,
-                "engagement": 19.9,
-                "subscriberRatio": 111.5,
-                "freshness": 10.5,
+                "velocity": 140.5,
+                "engagement": 24.2,
+                "subscriberRatio": 100.0,
+                "freshness": 10.2,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 13,
-            "videoId": "li_6WtH_s0I",
-            "title": "iPhone Duoの開き方",
-            "channelId": "UCGZN5iM08by_vcJMhnM_6-Q",
-            "channelName": "ガジェットモ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/li_6WtH_s0I/maxresdefault.jpg",
-            "publishedAt": "2026-10-23T11:00:03Z",
-            "viewCount": 358478,
-            "viewIncrease": 9357,
-            "likeCount": 6550,
-            "likeIncrease": 84,
-            "commentCount": 173,
-            "commentIncrease": 2,
-            "subscriberCount": 156000,
-            "durationSeconds": 36,
-            "isShort": true,
-            "rawScore": 23.2,
-            "normalizedScore": 29.4,
+            "rank": 11,
+            "videoId": "kKEN-b8_G3w",
+            "title": "【AIニュース解説】50のAIが、自分たちで役割分担を始めた",
+            "channelId": "UCQIYM-84x2mYmQoaIf2iFhg",
+            "channelName": "岡田崇のAI経営 | 寝ろ。",
+            "thumbnailUrl": "https://i.ytimg.com/vi/kKEN-b8_G3w/maxresdefault.jpg",
+            "publishedAt": "2026-10-25T15:05:06Z",
+            "viewCount": 1,
+            "viewIncrease": 1,
+            "likeCount": 1,
+            "likeIncrease": 1,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 124,
+            "durationSeconds": 1918,
+            "rawScore": 20.5,
+            "normalizedScore": 33.3,
             "genres": [
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.6
+                },
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
-                    "confidence": 0.5
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 115.7,
-                "engagement": 21.8,
-                "subscriberRatio": 69.5,
-                "freshness": 13.2,
-                "formatAdjustment": 85.0
+                "velocity": 2.8,
+                "engagement": 37.5,
+                "subscriberRatio": 26.0,
+                "freshness": 30.9
             }
         },
         {
-            "rank": 14,
+            "rank": 12,
             "videoId": "ZCOdNRl3LUc",
             "title": "iPhone Duo 2TB開封正直レビューしてみた #iphoneduo #iphone #apple",
             "channelId": "UCupOQ6YCLqiGYRaojRIIw7g",
             "channelName": "カノックのガジェット",
             "thumbnailUrl": "https://i.ytimg.com/vi/ZCOdNRl3LUc/maxresdefault.jpg",
             "publishedAt": "2026-10-23T08:05:03Z",
-            "viewCount": 256993,
-            "viewIncrease": 2705,
-            "likeCount": 4114,
-            "likeIncrease": 21,
-            "commentCount": 75,
-            "commentIncrease": 0,
+            "viewCount": 257748,
+            "viewIncrease": 755,
+            "likeCount": 4122,
+            "likeIncrease": 8,
+            "commentCount": 76,
+            "commentIncrease": 1,
             "subscriberCount": 124000,
             "durationSeconds": 85,
-            "rawScore": 22.2,
-            "normalizedScore": 23.5,
+            "rawScore": 18.6,
+            "normalizedScore": 26.7,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -563,32 +475,66 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 96.9,
-                "engagement": 17.0,
-                "subscriberRatio": 58.5,
-                "freshness": 12.9
+                "velocity": 76.4,
+                "engagement": 29.7,
+                "subscriberRatio": 44.8,
+                "freshness": 12.4
             }
         },
         {
-            "rank": 15,
+            "rank": 13,
+            "videoId": "li_6WtH_s0I",
+            "title": "iPhone Duoの開き方",
+            "channelId": "UCGZN5iM08by_vcJMhnM_6-Q",
+            "channelName": "ガジェットモ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/li_6WtH_s0I/maxresdefault.jpg",
+            "publishedAt": "2026-10-23T11:00:03Z",
+            "viewCount": 360928,
+            "viewIncrease": 2450,
+            "likeCount": 6583,
+            "likeIncrease": 33,
+            "commentCount": 173,
+            "commentIncrease": 0,
+            "subscriberCount": 156000,
+            "durationSeconds": 36,
+            "isShort": true,
+            "rawScore": 18.3,
+            "normalizedScore": 20.0,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.5
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 94.2,
+                "engagement": 20.9,
+                "subscriberRatio": 55.0,
+                "freshness": 12.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 14,
             "videoId": "YUoMvQpSYSc",
             "title": "Multi Tool Gadget For Students 😱",
             "channelId": "UCPpkUccLVFfDlk-jXjjwTaQ",
             "channelName": "Shivansh Sharma",
             "thumbnailUrl": "https://i.ytimg.com/vi/YUoMvQpSYSc/maxresdefault.jpg",
             "publishedAt": "2026-10-14T08:30:07Z",
-            "viewCount": 2733660,
-            "viewIncrease": 14208,
-            "sevenDayViewIncrease": 2711535,
-            "likeCount": 81029,
-            "likeIncrease": 396,
+            "viewCount": 2739720,
+            "viewIncrease": 6060,
+            "sevenDayViewIncrease": 2717595,
+            "likeCount": 81056,
+            "likeIncrease": 27,
             "commentCount": 450,
-            "commentIncrease": 2,
+            "commentIncrease": 0,
             "subscriberCount": 1220000,
             "durationSeconds": 58,
             "isShort": true,
-            "rawScore": 18.9,
-            "normalizedScore": 17.6,
+            "rawScore": 16.8,
+            "normalizedScore": 13.3,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -597,32 +543,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 122.1,
-                "engagement": 29.1,
-                "subscriberRatio": 51.7,
+                "velocity": 107.9,
+                "engagement": 13.3,
+                "subscriberRatio": 42.6,
                 "freshness": 6.0,
                 "sevenDayVelocity": 10.0,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 16,
+            "rank": 15,
             "videoId": "IYXOqRHISWo",
             "title": "【先行レビュー】iPhone Duoキタ！Apple初の折りたたみスマホ！",
             "channelId": "UCVPz_nauEJpqPxxvYiOpCHQ",
             "channelName": "カズチャンネル/Kazu Channel",
             "thumbnailUrl": "https://i.ytimg.com/vi/IYXOqRHISWo/maxresdefault.jpg",
             "publishedAt": "2026-10-21T12:00:35Z",
-            "viewCount": 685670,
-            "viewIncrease": 8485,
-            "likeCount": 3528,
-            "likeIncrease": 8,
-            "commentCount": 470,
-            "commentIncrease": 1,
+            "viewCount": 686944,
+            "viewIncrease": 1274,
+            "likeCount": 3530,
+            "likeIncrease": 2,
+            "commentCount": 467,
+            "commentIncrease": 0,
             "subscriberCount": 1850000,
             "durationSeconds": 1977,
-            "rawScore": 16.0,
-            "normalizedScore": 11.8,
+            "rawScore": 10.9,
+            "normalizedScore": 6.7,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -646,76 +592,62 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 114.3,
-                "engagement": 7.6,
-                "subscriberRatio": 41.8,
-                "freshness": 9.8
+                "velocity": 84.3,
+                "engagement": 7.4,
+                "subscriberRatio": 22.4,
+                "freshness": 9.6
             }
         },
         {
-            "rank": 17,
-            "videoId": "MOeoL0z8ghc",
-            "title": "COOL GADGETS UNDER ₹300",
-            "channelId": "UCs6EmLAT4lTWwCSJRgbbchQ",
-            "channelName": "TechShot",
-            "thumbnailUrl": "https://i.ytimg.com/vi/MOeoL0z8ghc/sddefault.jpg",
-            "publishedAt": "2026-10-18T06:30:33Z",
-            "viewCount": 2428728,
-            "viewIncrease": 21084,
-            "likeCount": 32783,
-            "likeIncrease": 124,
-            "commentCount": 1564,
-            "commentIncrease": 2,
-            "subscriberCount": 2540000,
-            "durationSeconds": 1277,
-            "rawScore": 14.3,
-            "normalizedScore": 5.9,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 128.1,
-                "engagement": 17.1,
-                "subscriberRatio": 48.1,
-                "freshness": 7.4
-            }
-        },
-        {
-            "rank": 18,
-            "videoId": "lUPxaSeApE8",
-            "title": "Are They Worth The Thick Of It...? FairBuds 2",
-            "channelId": "UCCOrp7GPgZA8EGrbOcIAsyQ",
-            "channelName": "Phone Repair Guru",
-            "thumbnailUrl": "https://i.ytimg.com/vi/lUPxaSeApE8/maxresdefault.jpg",
-            "publishedAt": "2026-10-16T18:39:02Z",
-            "viewCount": 2450020,
-            "viewIncrease": 6731,
-            "likeCount": 51102,
-            "likeIncrease": 74,
-            "commentCount": 377,
+            "rank": 16,
+            "videoId": "k4LJJhENp8w",
+            "title": "ちるるのAI β | AIニュース解説 | 2026.10.25",
+            "channelId": "UCCrIRPEPbTti4qe2OsGg07g",
+            "channelName": "chiruruAI",
+            "thumbnailUrl": "https://i.ytimg.com/vi/k4LJJhENp8w/maxresdefault.jpg",
+            "publishedAt": "2026-10-25T14:47:14Z",
+            "viewCount": 369,
+            "viewIncrease": 1,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 6230000,
-            "durationSeconds": 26,
-            "isShort": true,
-            "rawScore": 9.0,
+            "subscriberCount": 131,
+            "durationSeconds": 11844,
+            "rawScore": 8.8,
             "normalizedScore": 0.0,
             "genres": [
                 {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.8
+                },
+                {
                     "slug": "gadgets",
                     "name": "ガジェット",
                     "confidence": 0.3
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 110.7,
-                "engagement": 19.4,
-                "subscriberRatio": 26.8,
-                "freshness": 6.8,
-                "formatAdjustment": 85.0
+                "velocity": 2.8,
+                "engagement": 0.0,
+                "subscriberRatio": 26.0,
+                "freshness": 30.5
             }
         }
     ]
