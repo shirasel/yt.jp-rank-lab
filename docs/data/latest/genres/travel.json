@@ -1,10 +1,10 @@
 {
-    "generatedAt": "2026-10-28T20:34:04.024589124Z",
+    "generatedAt": "2026-10-29T01:15:00.880103246Z",
     "period": "24h",
     "genre": {
         "slug": "travel",
         "name": "旅行",
-        "confidence": 0.4
+        "confidence": 0.6
     },
     "status": "reference",
     "totalVideos": 10,
@@ -12,22 +12,176 @@
     "ranking": [
         {
             "rank": 1,
+            "videoId": "wxetfuneBLA",
+            "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその６【ホロライブ/白上フブキ】",
+            "channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
+            "channelName": "フブキCh。白上フブキ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/wxetfuneBLA/maxresdefault.jpg",
+            "publishedAt": "2026-10-28T19:59:09Z",
+            "viewCount": 400493,
+            "viewIncrease": 400493,
+            "likeCount": 8753,
+            "likeIncrease": 8753,
+            "commentCount": 48,
+            "commentIncrease": 48,
+            "subscriberCount": 2690000,
+            "durationSeconds": 14076,
+            "rawScore": 94.3,
+            "normalizedScore": 100.0,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.5
+                },
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 147.8,
+                "engagement": 26.9,
+                "subscriberRatio": 79.3,
+                "freshness": 37.1
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "uL_EQ_zkBsI",
+            "title": "甘肃骑行西藏 #户外 #旅行",
+            "channelId": "UC_wdH8fL_EmRrkuq2s52Dcg",
+            "channelName": "刘哥来了",
+            "thumbnailUrl": "https://i.ytimg.com/vi/uL_EQ_zkBsI/sddefault.jpg",
+            "publishedAt": "2026-10-28T21:19:12Z",
+            "viewCount": 717,
+            "viewIncrease": 717,
+            "likeCount": 7,
+            "likeIncrease": 7,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 67,
+            "durationSeconds": 167,
+            "rawScore": 68.7,
+            "normalizedScore": 88.9,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 52.1,
+                "engagement": 18.6,
+                "subscriberRatio": 96.4,
+                "freshness": 41.1
+            }
+        },
+        {
+            "rank": 3,
+            "videoId": "OUmd3H2f5Ms",
+            "title": "#レアレアデイズ #車中泊 #キャンピングカー #旅行 #チキチキバンバン #キャンプ #アウトドア #バンライフ #チキバン号 #夫婦旅#絶景キャンプ場#vanlife#diycamper",
+            "channelId": "UCU_mYqr7-raNAosO2ZHVk7g",
+            "channelName": "レアレアデイズ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/OUmd3H2f5Ms/maxresdefault.jpg",
+            "publishedAt": "2026-10-28T23:00:30Z",
+            "viewCount": 735,
+            "viewIncrease": 735,
+            "likeCount": 1,
+            "likeIncrease": 1,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 1400,
+            "durationSeconds": 35,
+            "isShort": true,
+            "rawScore": 62.9,
+            "normalizedScore": 77.8,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 52.5,
+                "engagement": 6.7,
+                "subscriberRatio": 93.0,
+                "freshness": 48.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 4,
+            "videoId": "qiwnzOPcuTA",
+            "title": "【タイ】タイ料理ミニクレープ😋#shortsfeed #shorts #旅行#バンコク",
+            "channelId": "UC4Ty0-F7Dmg12vwWoBoqkTg",
+            "channelName": "企業戦士独身貴族サラリーマンVrog",
+            "thumbnailUrl": "https://i.ytimg.com/vi/qiwnzOPcuTA/maxresdefault.jpg",
+            "publishedAt": "2026-10-28T21:00:12Z",
+            "viewCount": 991,
+            "viewIncrease": 991,
+            "likeCount": 2,
+            "likeIncrease": 2,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 40,
+            "durationSeconds": 19,
+            "isShort": true,
+            "rawScore": 56.3,
+            "normalizedScore": 66.7,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.9
+                },
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 56.9,
+                "engagement": 8.6,
+                "subscriberRatio": 99.9,
+                "freshness": 40.1,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 5,
+            "previousRank": 37,
+            "rankChange": 32,
             "videoId": "ERtjPAx3F4Q",
             "title": "《我阿爹想旅行》票房千二萬台前幕後慶功 ︱張家輝唱《古惑仔》名曲引鄭伊健上釣 蒙嘉慧指老公是「I」人（#張家輝 #蒙嘉慧 #我阿爹想旅行 #娛壹）",
             "channelId": "UCgaIJfwFLXQsasrffZt4cEw",
             "channelName": "娛壹 As One",
             "thumbnailUrl": "https://i.ytimg.com/vi/ERtjPAx3F4Q/maxresdefault.jpg",
             "publishedAt": "2026-10-28T15:11:40Z",
-            "viewCount": 4290,
-            "viewIncrease": 4290,
-            "likeCount": 104,
-            "likeIncrease": 104,
-            "commentCount": 0,
-            "commentIncrease": 0,
+            "viewCount": 6794,
+            "viewIncrease": 2504,
+            "likeCount": 165,
+            "likeIncrease": 61,
+            "commentCount": 2,
+            "commentIncrease": 2,
             "subscriberCount": 282000,
             "durationSeconds": 1060,
-            "rawScore": 58.5,
-            "normalizedScore": 100.0,
+            "rawScore": 51.3,
+            "normalizedScore": 55.6,
             "genres": [
                 {
                     "slug": "travel",
@@ -46,239 +200,58 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 78.9,
-                "engagement": 25.2,
-                "subscriberRatio": 54.6,
-                "freshness": 36.8
+                "velocity": 95.6,
+                "engagement": 33.7,
+                "subscriberRatio": 48.8,
+                "freshness": 28.8
             }
         },
         {
-            "rank": 2,
-            "videoId": "E4wvhKc8bEs",
-            "title": "赤ちゃん連れの旅行者が日本の電車で泣いた理由｜世間話ショート #shorts",
-            "channelId": "UCT-QnfjhmD4kbaE85oDmPWQ",
-            "channelName": "世間話",
-            "thumbnailUrl": "https://i.ytimg.com/vi/E4wvhKc8bEs/maxresdefault.jpg",
-            "publishedAt": "2026-10-28T15:32:27Z",
-            "viewCount": 1187,
-            "viewIncrease": 1187,
-            "likeCount": 6,
-            "likeIncrease": 6,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 9,
-            "durationSeconds": 32,
-            "isShort": true,
-            "rawScore": 56.3,
-            "normalizedScore": 88.9,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "learning",
-                    "name": "学習・情報",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 59.6,
-                "engagement": 14.1,
-                "subscriberRatio": 101.9,
-                "freshness": 37.8,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 3,
-            "videoId": "Wc9koPom7s8",
-            "title": "一緒に旅行行く人をタグ付けして、これ持ってこさせて😂 #旅行 #友達 #トラベル",
-            "channelId": "UCkO4sLwif0PnP78_IqR6v3Q",
-            "channelName": "packsjapan",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Wc9koPom7s8/maxresdefault.jpg",
-            "publishedAt": "2026-10-28T15:44:14Z",
-            "viewCount": 1009,
-            "viewIncrease": 1009,
-            "likeCount": 5,
-            "likeIncrease": 5,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 712,
-            "durationSeconds": 18,
-            "isShort": true,
-            "rawScore": 55.7,
-            "normalizedScore": 77.8,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 57.2,
-                "engagement": 13.9,
-                "subscriberRatio": 100.1,
-                "freshness": 38.3,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 4,
+            "rank": 6,
+            "previousRank": 58,
+            "rankChange": 52,
             "videoId": "oPnBAigMbIM",
             "title": "HKD200 量身訂製Patagonia Fleece 玻利維亞致敬版！  #travel #旅行",
             "channelId": "UC0RxFsvY6v65zV3bI2bvEgg",
             "channelName": "怡富Iwalkutake",
             "thumbnailUrl": "https://i.ytimg.com/vi/oPnBAigMbIM/maxresdefault.jpg",
             "publishedAt": "2026-10-28T15:07:22Z",
-            "viewCount": 2258,
-            "viewIncrease": 2258,
-            "likeCount": 66,
-            "likeIncrease": 66,
-            "commentCount": 0,
-            "commentIncrease": 0,
+            "viewCount": 4004,
+            "viewIncrease": 1746,
+            "likeCount": 110,
+            "likeIncrease": 44,
+            "commentCount": 2,
+            "commentIncrease": 2,
             "subscriberCount": 247000,
             "durationSeconds": 93,
-            "rawScore": 53.2,
-            "normalizedScore": 66.7,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.9
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 69.2,
-                "engagement": 26.6,
-                "subscriberRatio": 49.1,
-                "freshness": 36.7
-            }
-        },
-        {
-            "rank": 5,
-            "videoId": "fI6vdPwDAd8",
-            "title": "宮崎の地鶏といったらここ　#宮崎グルメ #宮崎旅行 #宮崎観光",
-            "channelId": "UCNDuQewnOEOod-doVYhTDyA",
-            "channelName": "アラフォーゲイつゆとなないろに笑っとこ!",
-            "thumbnailUrl": "https://i.ytimg.com/vi/fI6vdPwDAd8/maxresdefault.jpg",
-            "publishedAt": "2026-10-28T13:47:08Z",
-            "viewCount": 1176,
-            "viewIncrease": 1176,
-            "likeCount": 5,
-            "likeIncrease": 5,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 63,
-            "durationSeconds": 21,
-            "isShort": true,
-            "rawScore": 50.0,
-            "normalizedScore": 55.6,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.9
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 59.5,
-                "engagement": 13.0,
-                "subscriberRatio": 101.8,
-                "freshness": 33.8,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 6,
-            "videoId": "uxeMV_eYg-M",
-            "title": "大阪町中華 北京料理龍🍜🍜おすすめです#国内旅行#旅行#大阪#osaka#町中華#桜川#龍",
-            "channelId": "UCtHjcMYwb6neIX5v9-LApMQ",
-            "channelName": "かかとちゃんねる",
-            "thumbnailUrl": "https://i.ytimg.com/vi/uxeMV_eYg-M/maxresdefault.jpg",
-            "publishedAt": "2026-10-28T13:08:26Z",
-            "viewCount": 1136,
-            "viewIncrease": 1136,
-            "likeCount": 4,
-            "likeIncrease": 4,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 209,
-            "durationSeconds": 7,
-            "isShort": true,
-            "rawScore": 47.7,
+            "rawScore": 49.4,
             "normalizedScore": 44.4,
             "genres": [
                 {
                     "slug": "travel",
                     "name": "旅行",
-                    "confidence": 0.7
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.4
+                    "confidence": 0.9
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 58.9,
-                "engagement": 11.8,
-                "subscriberRatio": 101.4,
-                "freshness": 32.6,
-                "formatAdjustment": 85.0
+                "velocity": 90.1,
+                "engagement": 35.5,
+                "subscriberRatio": 46.4,
+                "freshness": 28.7
             }
         },
         {
             "rank": 7,
-            "videoId": "kbfs833oFe0",
-            "title": "沖縄旅行の思い出がぜんぶマップに残るの最高",
-            "channelId": "UCLdE4LgLjuha2Bl8OFr-hig",
-            "channelName": "Moshieee",
-            "thumbnailUrl": "https://i.ytimg.com/vi/kbfs833oFe0/maxresdefault.jpg",
-            "publishedAt": "2026-10-28T13:08:03Z",
-            "viewCount": 1301,
-            "viewIncrease": 1301,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 1,
-            "durationSeconds": 10,
-            "isShort": true,
-            "rawScore": 46.6,
-            "normalizedScore": 33.3,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.6
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 61.0,
-                "engagement": 4.5,
-                "subscriberRatio": 102.9,
-                "freshness": 32.6,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 8,
+            "previousRank": 95,
+            "rankChange": 88,
             "videoId": "FjfMGaWiBBk",
             "title": "#海外一人旅 #travel #youtubeshorts #music #streetfood #女子旅 #海外旅行好きな人と繋がりたい #旅行 #メキシコ旅行 #メキシコ #comedy",
             "channelId": "UCTb7BwTQxicLaEfEQAPLrjg",
             "channelName": "旅ネコ",
             "thumbnailUrl": "https://i.ytimg.com/vi/FjfMGaWiBBk/maxresdefault.jpg",
             "publishedAt": "2026-10-28T13:59:17Z",
-            "viewCount": 830,
-            "viewIncrease": 830,
+            "viewCount": 1008,
+            "viewIncrease": 178,
             "likeCount": 0,
             "likeIncrease": 0,
             "commentCount": 0,
@@ -286,8 +259,8 @@
             "subscriberCount": 1160,
             "durationSeconds": 26,
             "isShort": true,
-            "rawScore": 43.8,
-            "normalizedScore": 22.2,
+            "rawScore": 31.6,
+            "normalizedScore": 33.3,
             "genres": [
                 {
                     "slug": "travel",
@@ -306,32 +279,34 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 54.3,
+                "velocity": 55.7,
                 "engagement": 0.0,
-                "subscriberRatio": 96.4,
-                "freshness": 34.2,
+                "subscriberRatio": 79.7,
+                "freshness": 27.5,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 9,
-            "videoId": "vTgSmp8GW_g",
-            "title": "中国东莞城市风景打卡。 #travel #china #chinatravel #中国 #旅行 #travelvlog #中国旅行",
-            "channelId": "UCzAfzQSdET_THL8E_WLVkAQ",
-            "channelName": "CHINA  Wan MR",
-            "thumbnailUrl": "https://i.ytimg.com/vi/vTgSmp8GW_g/maxresdefault.jpg",
-            "publishedAt": "2026-10-28T14:42:22Z",
-            "viewCount": 8,
-            "viewIncrease": 8,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 25,
-            "durationSeconds": 34,
+            "rank": 8,
+            "previousRank": 52,
+            "rankChange": 44,
+            "videoId": "Wc9koPom7s8",
+            "title": "一緒に旅行行く人をタグ付けして、これ持ってこさせて😂 #旅行 #友達 #トラベル",
+            "channelId": "UCkO4sLwif0PnP78_IqR6v3Q",
+            "channelName": "packsjapan",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Wc9koPom7s8/maxresdefault.jpg",
+            "publishedAt": "2026-10-28T15:44:14Z",
+            "viewCount": 1092,
+            "viewIncrease": 83,
+            "likeCount": 5,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 711,
+            "durationSeconds": 18,
             "isShort": true,
-            "rawScore": 35.1,
-            "normalizedScore": 11.1,
+            "rawScore": 29.5,
+            "normalizedScore": 22.2,
             "genres": [
                 {
                     "slug": "travel",
@@ -340,31 +315,77 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 4.4,
-                "engagement": 63.6,
-                "subscriberRatio": 47.7,
-                "freshness": 35.7,
+                "velocity": 44.6,
+                "engagement": 0.0,
+                "subscriberRatio": 73.0,
+                "freshness": 29.5,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 9,
+            "previousRank": 51,
+            "rankChange": 42,
+            "videoId": "E4wvhKc8bEs",
+            "title": "赤ちゃん連れの旅行者が日本の電車で泣いた理由｜世間話ショート #shorts",
+            "channelId": "UCT-QnfjhmD4kbaE85oDmPWQ",
+            "channelName": "世間話",
+            "thumbnailUrl": "https://i.ytimg.com/vi/E4wvhKc8bEs/maxresdefault.jpg",
+            "publishedAt": "2026-10-28T15:32:27Z",
+            "viewCount": 1214,
+            "viewIncrease": 27,
+            "likeCount": 6,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 10,
+            "durationSeconds": 32,
+            "isShort": true,
+            "rawScore": 22.3,
+            "normalizedScore": 11.1,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 29.1,
+                "engagement": 0.0,
+                "subscriberRatio": 60.8,
+                "freshness": 29.2,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 10,
-            "videoId": "rgBcWM817P4",
-            "title": "大阪旅行day1setlog🦭　#旅行 #setlog #海遊館 #大阪",
-            "channelId": "UC0YOdUi_7-IjR0TnVS5U6Xg",
-            "channelName": "スぺ90",
-            "thumbnailUrl": "https://i.ytimg.com/vi/rgBcWM817P4/maxresdefault.jpg",
-            "publishedAt": "2026-10-28T14:58:12Z",
-            "viewCount": 112,
-            "viewIncrease": 112,
-            "likeCount": 0,
+            "videoId": "vTgSmp8GW_g",
+            "title": "中国东莞城市风景打卡。 #travel #china #chinatravel #中国 #旅行 #travelvlog #中国旅行",
+            "channelId": "UCzAfzQSdET_THL8E_WLVkAQ",
+            "channelName": "CHINA  Wan MR",
+            "thumbnailUrl": "https://i.ytimg.com/vi/vTgSmp8GW_g/maxresdefault.jpg",
+            "publishedAt": "2026-10-28T14:42:22Z",
+            "viewCount": 11,
+            "viewIncrease": 3,
+            "likeCount": 1,
             "likeIncrease": 0,
-            "commentCount": 0,
+            "commentCount": 1,
             "commentIncrease": 0,
-            "subscriberCount": 17,
-            "durationSeconds": 43,
+            "subscriberCount": 25,
+            "durationSeconds": 34,
             "isShort": true,
-            "rawScore": 31.7,
+            "rawScore": 10.8,
             "normalizedScore": 0.0,
             "genres": [
                 {
@@ -374,10 +395,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 26.4,
+                "velocity": 7.5,
                 "engagement": 0.0,
-                "subscriberRatio": 76.2,
-                "freshness": 36.3,
+                "subscriberRatio": 37.3,
+                "freshness": 28.2,
                 "formatAdjustment": 85.0
             }
         }
