@@ -1,5 +1,5 @@
 {
-    "generatedAt": "2026-10-31T01:03:45.539636100Z",
+    "generatedAt": "2026-10-31T09:57:51.005614781Z",
     "period": "24h",
     "genre": {
         "slug": "entertainment",
@@ -7,123 +7,175 @@
         "confidence": 0.1
     },
     "status": "official",
-    "totalVideos": 51,
-    "totalChannels": 50,
+    "totalVideos": 52,
+    "totalChannels": 49,
     "ranking": [
         {
             "rank": 1,
-            "videoId": "6RhecgXxweA",
-            "title": "【雑談＆お礼】ハッピーハロウィンからはじまる雑談🐏🎃【角巻わため/ホロライブ４期生】",
-            "channelId": "UCqm3BQLlJfvkTsX_hvm0UmA",
-            "channelName": "Watame Ch. 角巻わため",
-            "thumbnailUrl": "https://i.ytimg.com/vi/6RhecgXxweA/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T22:41:47Z",
-            "viewCount": 225900,
-            "viewIncrease": 225900,
-            "likeCount": 6562,
-            "likeIncrease": 6562,
-            "commentCount": 37,
-            "commentIncrease": 37,
-            "subscriberCount": 1730000,
-            "durationSeconds": 20105,
-            "rawScore": 118.3,
+            "videoId": "H9tqBp5rmaU",
+            "title": "【 お料理配信 】ハッピーハロウィン🎃✨初めてのかぼちゃタルト【 絲依とい / ネオポルテ 】",
+            "channelId": "UCZrYHIPsKhYAXqOls2kQQNQ",
+            "channelName": "絲依とい / Itoi Toi",
+            "thumbnailUrl": "https://i.ytimg.com/vi/H9tqBp5rmaU/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T09:14:40Z",
+            "viewCount": 21696,
+            "viewIncrease": 21696,
+            "likeCount": 611,
+            "likeIncrease": 611,
+            "commentCount": 4,
+            "commentIncrease": 4,
+            "subscriberCount": 174000,
+            "durationSeconds": 12674,
+            "rawScore": 127.8,
             "normalizedScore": 100.0,
             "genres": [
                 {
                     "slug": "vtuber",
                     "name": "VTuber",
-                    "confidence": 0.7
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
                 },
                 {
                     "slug": "entertainment",
                     "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 103.5,
+                "engagement": 29.8,
+                "subscriberRatio": 77.4,
+                "freshness": 60.7
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "oc3bktI8oRY",
+            "title": "【チャレンジ】ボカロ歌詞乗っ取りゲーム！【小廻こま/ミリプロ】",
+            "channelId": "UC_upTZ0otpptV5KARBsnIPg",
+            "channelName": "小廻こま / Komawari Koma",
+            "thumbnailUrl": "https://i.ytimg.com/vi/oc3bktI8oRY/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T09:00:20Z",
+            "viewCount": 14959,
+            "viewIncrease": 14959,
+            "likeCount": 3105,
+            "likeIncrease": 3105,
+            "commentCount": 106,
+            "commentIncrease": 106,
+            "subscriberCount": 435000,
+            "durationSeconds": 53,
+            "isShort": true,
+            "rawScore": 107.6,
+            "normalizedScore": 98.0,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
                     "confidence": 0.3
                 },
                 {
                     "slug": "music",
                     "name": "音楽",
-                    "confidence": 0.2
+                    "confidence": 0.3
                 },
-                {
-                    "slug": "anime",
-                    "name": "アニメ",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 139.1,
-                "engagement": 29.7,
-                "subscriberRatio": 77.9,
-                "freshness": 47.9
-            }
-        },
-        {
-            "rank": 2,
-            "videoId": "Qz1HU0FS7qg",
-            "title": "皆は今年やられた？【#Vtuber #蝶恋乃ちゃこ 】",
-            "channelId": "UCrzgz4E3snMh02_1Ds8vZIQ",
-            "channelName": "蝶恋乃ちゃこ / Chocono Chaco",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Qz1HU0FS7qg/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T23:16:52Z",
-            "viewCount": 3512,
-            "viewIncrease": 3512,
-            "likeCount": 16,
-            "likeIncrease": 16,
-            "commentCount": 6,
-            "commentIncrease": 6,
-            "subscriberCount": 447,
-            "durationSeconds": 22,
-            "isShort": true,
-            "rawScore": 94.0,
-            "normalizedScore": 98.0,
-            "genres": [
                 {
                     "slug": "vtuber",
                     "name": "VTuber",
-                    "confidence": 0.9
+                    "confidence": 0.3
                 },
                 {
                     "slug": "entertainment",
                     "name": "エンタメ",
-                    "confidence": 0.3
+                    "confidence": 0.1
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 75.9,
-                "engagement": 25.2,
-                "subscriberRatio": 113.6,
-                "freshness": 51.5,
+                "velocity": 97.8,
+                "engagement": 56.2,
+                "subscriberRatio": 63.4,
+                "freshness": 58.2,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 3,
-            "videoId": "5qw2BRMOOiA",
-            "title": "【ホロ鯖ARK】写真家カワウソ先生！ハロウィンの香りを感じながらガルガンターテイムetc...！【白銀ノエル/ホロライブ】",
-            "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
-            "channelName": "Noel Ch. 白銀ノエル",
-            "thumbnailUrl": "https://i.ytimg.com/vi/5qw2BRMOOiA/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T19:17:01Z",
-            "viewCount": 426737,
-            "viewIncrease": 426737,
-            "likeCount": 8487,
-            "likeIncrease": 8487,
-            "commentCount": 37,
-            "commentIncrease": 37,
-            "subscriberCount": 2060000,
-            "durationSeconds": 34619,
-            "rawScore": 92.3,
-            "normalizedScore": 96.0,
+            "videoId": "sPiFuGGjpag",
+            "title": "【MV】Happy Halloween / いれいす【歌ってみた】",
+            "channelId": "UCf_C-0WsqsIyueQDovsSS0w",
+            "channelName": "いれいす【公式】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/sPiFuGGjpag/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T09:00:10Z",
+            "viewCount": 4660,
+            "viewIncrease": 4660,
+            "likeCount": 4031,
+            "likeIncrease": 4031,
+            "commentCount": 579,
+            "commentIncrease": 579,
+            "subscriberCount": 1220000,
+            "durationSeconds": 249,
+            "rawScore": 106.9,
+            "normalizedScore": 96.1,
             "genres": [
                 {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.5
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.8
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.6
                 },
                 {
                     "slug": "vtuber",
                     "name": "VTuber",
                     "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 80.2,
+                "engagement": 63.6,
+                "subscriberRatio": 39.8,
+                "freshness": 58.2
+            }
+        },
+        {
+            "rank": 4,
+            "videoId": "YPBQMyYMeC8",
+            "title": "TVアニメ『しろたん』 第5話「おいしいハロウィン」【公式】",
+            "channelId": "UCvJc2CvF7KIIXXNRnBtZ6fw",
+            "channelName": "TVアニメ『しろたん』",
+            "thumbnailUrl": "https://i.ytimg.com/vi/YPBQMyYMeC8/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T07:30:05Z",
+            "viewCount": 3471,
+            "viewIncrease": 3471,
+            "likeCount": 546,
+            "likeIncrease": 546,
+            "commentCount": 56,
+            "commentIncrease": 56,
+            "subscriberCount": 13200,
+            "durationSeconds": 61,
+            "rawScore": 105.1,
+            "normalizedScore": 94.1,
+            "genres": [
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.99
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
                 },
                 {
                     "slug": "entertainment",
@@ -132,302 +184,82 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 148.7,
-                "engagement": 25.6,
-                "subscriberRatio": 82.9,
-                "freshness": 35.9
-            }
-        },
-        {
-            "rank": 4,
-            "videoId": "CsB6weKIzMM",
-            "title": "おはようVTuber☀️日本茶の日🍵",
-            "channelId": "UCYscuD-Mdas_6S37uukmE-w",
-            "channelName": "猫見みゆ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/CsB6weKIzMM/maxresdefault.jpg",
-            "publishedAt": "2026-10-31T00:00:38Z",
-            "viewCount": 466,
-            "viewIncrease": 466,
-            "likeCount": 12,
-            "likeIncrease": 12,
-            "commentCount": 2,
-            "commentIncrease": 2,
-            "subscriberCount": 1000,
-            "durationSeconds": 44,
-            "isShort": true,
-            "rawScore": 87.3,
-            "normalizedScore": 94.0,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.99
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 45.8,
-                "engagement": 41.9,
-                "subscriberRatio": 91.7,
-                "freshness": 57.3,
-                "formatAdjustment": 85.0
+                "velocity": 75.7,
+                "engagement": 60.4,
+                "subscriberRatio": 85.5,
+                "freshness": 47.4
             }
         },
         {
             "rank": 5,
-            "videoId": "Y5UlOAxJGMg",
-            "title": "新人類チャーハン　#shorts #新人類  #vrchat #vtuber #チャーハン #町中華 ＃料理",
-            "channelId": "UCqg_ZmsKxzmXg7A0ESWOhJg",
-            "channelName": "新人類Vtuber宇宙もぐ太",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Y5UlOAxJGMg/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T23:23:15Z",
-            "viewCount": 1014,
-            "viewIncrease": 1014,
-            "likeCount": 2,
-            "likeIncrease": 2,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 56,
-            "durationSeconds": 130,
-            "rawScore": 86.7,
-            "normalizedScore": 92.0,
+            "videoId": "6BKCF7dYWzg",
+            "title": "一級品のスピーカーは『2,000万円』…高すぎる💰　#ガジェット #ヘッドホン #イヤホン #A10000 #final #切り抜き",
+            "channelId": "UCJafy9bpSZpSK67n59b4HIA",
+            "channelName": "final | オーディオマニア45年のイヤホン社長",
+            "thumbnailUrl": "https://i.ytimg.com/vi/6BKCF7dYWzg/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T09:00:04Z",
+            "viewCount": 659,
+            "viewIncrease": 659,
+            "likeCount": 15,
+            "likeIncrease": 15,
+            "commentCount": 2,
+            "commentIncrease": 2,
+            "subscriberCount": 1790,
+            "durationSeconds": 67,
+            "rawScore": 104.4,
+            "normalizedScore": 92.2,
             "genres": [
                 {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.99
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 57.3,
-                "engagement": 8.5,
-                "subscriberRatio": 100.2,
-                "freshness": 52.2
-            }
-        },
-        {
-            "rank": 6,
-            "videoId": "VMU4aD603cY",
-            "title": "よく聴く作業用BGM",
-            "channelId": "UCNBj7J-zbvtF1_mxHEQkDCw",
-            "channelName": "御中アイ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/VMU4aD603cY/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T22:03:10Z",
-            "viewCount": 748,
-            "viewIncrease": 748,
-            "likeCount": 6,
-            "likeIncrease": 6,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 398,
-            "durationSeconds": 120,
-            "rawScore": 79.3,
-            "normalizedScore": 90.0,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 52.8,
-                "engagement": 27.8,
-                "subscriberRatio": 96.8,
-                "freshness": 44.7
-            }
-        },
-        {
-            "rank": 7,
-            "videoId": "3i2QWj8_bZ0",
-            "title": "#x#SNS#shorts#ニュース#自炊#雑談#料理#ブロッコリー生活#底辺動画配信者",
-            "channelId": "UCpyCExjrBHIWhLtPUqmz6MQ",
-            "channelName": "はらぱんまんチャンネル",
-            "thumbnailUrl": "https://i.ytimg.com/vi/3i2QWj8_bZ0/maxresdefault.jpg",
-            "publishedAt": "2026-10-31T00:00:12Z",
-            "viewCount": 546,
-            "viewIncrease": 546,
-            "likeCount": 2,
-            "likeIncrease": 2,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 716,
-            "durationSeconds": 48,
-            "isShort": true,
-            "rawScore": 74.8,
-            "normalizedScore": 88.0,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
+                    "slug": "gadgets",
+                    "name": "ガジェット",
                     "confidence": 0.7
                 },
                 {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.5
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.3
                 },
                 {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
+                    "slug": "beauty",
+                    "name": "美容",
                     "confidence": 0.3
                 },
                 {
                     "slug": "learning",
                     "name": "学習・情報",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 48.1,
-                "engagement": 12.0,
-                "subscriberRatio": 93.4,
-                "freshness": 57.3,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 8,
-            "videoId": "XIViM0MGxqA",
-            "title": "東京のバスにスマホを忘れた旅行者、運転手の親切は電話だけで終わらなかった #日本の親切 #外国人の反応 #Shorts",
-            "channelId": "UCRRh-cQGiqhN7x_duWjWpig",
-            "channelName": "ひょんなことから日本",
-            "thumbnailUrl": "https://i.ytimg.com/vi/XIViM0MGxqA/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T23:00:13Z",
-            "viewCount": 838,
-            "viewIncrease": 838,
-            "likeCount": 10,
-            "likeIncrease": 10,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 110,
-            "durationSeconds": 41,
-            "isShort": true,
-            "rawScore": 72.9,
-            "normalizedScore": 86.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.5
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
                     "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 54.4,
-                "engagement": 20.0,
-                "subscriberRatio": 98.1,
-                "freshness": 49.7,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 9,
-            "videoId": "n_dxYalVCdo",
-            "title": "寄せ鍋は良いよな〜⁉️ #shortvideo #shorts #料理",
-            "channelId": "UCYoZpx9zsmfJpj8h9ouiLLA",
-            "channelName": "kei TV",
-            "thumbnailUrl": "https://i.ytimg.com/vi/n_dxYalVCdo/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T23:59:53Z",
-            "viewCount": 585,
-            "viewIncrease": 585,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 502,
-            "durationSeconds": 29,
-            "isShort": true,
-            "rawScore": 69.8,
-            "normalizedScore": 84.0,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
                 },
                 {
                     "slug": "entertainment",
                     "name": "エンタメ",
-                    "confidence": 0.3
+                    "confidence": 0.1
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 49.2,
-                "engagement": 0.0,
-                "subscriberRatio": 94.2,
-                "freshness": 57.3,
-                "formatAdjustment": 85.0
+                "velocity": 50.9,
+                "engagement": 39.3,
+                "subscriberRatio": 89.2,
+                "freshness": 58.2
             }
         },
         {
-            "rank": 10,
-            "previousRank": 2,
-            "rankChange": -8,
-            "videoId": "bHJ4IMV5cro",
-            "title": "「ストリートファイターリーグ JAPAN 2026」Division S 第6節　☆☆18時40分より初心者必見！SFリーグ: ウォームアップ☆☆",
-            "channelId": "UCu2Fxqf37DAZ0ZhIsd1FZwA",
-            "channelName": "Capcom Fighters JP",
-            "thumbnailUrl": "https://i.ytimg.com/vi/bHJ4IMV5cro/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T15:45:11Z",
-            "viewCount": 858660,
-            "viewIncrease": 21511,
-            "likeCount": 5722,
-            "likeIncrease": 139,
-            "commentCount": 149,
-            "commentIncrease": 34,
-            "subscriberCount": 289000,
-            "durationSeconds": 15413,
-            "rawScore": 67.4,
-            "normalizedScore": 82.0,
+            "rank": 6,
+            "videoId": "cvj4zn1lTf8",
+            "title": "訪問者は人間か人狼か 50人でかいぶつ人狼やってみた - マインクラフト【KUN】",
+            "channelId": "UCoQhX2O93MVTWfgIz-8wOmg",
+            "channelName": "KUNの50人クラフト",
+            "thumbnailUrl": "https://i.ytimg.com/vi/cvj4zn1lTf8/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T07:00:37Z",
+            "viewCount": 34113,
+            "viewIncrease": 34113,
+            "likeCount": 1416,
+            "likeIncrease": 1416,
+            "commentCount": 120,
+            "commentIncrease": 120,
+            "subscriberCount": 593000,
+            "durationSeconds": 5258,
+            "rawScore": 100.6,
+            "normalizedScore": 90.2,
             "genres": [
                 {
                     "slug": "gaming",
@@ -435,8 +267,8 @@
                     "confidence": 0.5
                 },
                 {
-                    "slug": "sports",
-                    "name": "スポーツ",
+                    "slug": "music",
+                    "name": "音楽",
                     "confidence": 0.2
                 },
                 {
@@ -448,37 +280,166 @@
                     "slug": "entertainment",
                     "name": "エンタメ",
                     "confidence": 0.1
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.1
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 127.5,
-                "engagement": 27.1,
-                "subscriberRatio": 71.8,
-                "freshness": 29.7
+                "velocity": 110.4,
+                "engagement": 44.5,
+                "subscriberRatio": 69.0,
+                "freshness": 44.9
             }
         },
         {
-            "rank": 11,
-            "videoId": "1dpPTjlhO3U",
-            "title": "Q.Vtuberでどのくらい稼いでますか？ #vtuber #shorts #アニメ",
-            "channelId": "UCdsZMw84uarX5cA0YJnmvgw",
-            "channelName": "明越千桐-Akigoe.CN.",
-            "thumbnailUrl": "https://i.ytimg.com/vi/1dpPTjlhO3U/maxresdefault.jpg",
-            "publishedAt": "2026-10-31T00:00:04Z",
-            "viewCount": 824,
-            "viewIncrease": 824,
-            "commentCount": 2,
-            "commentIncrease": 2,
-            "subscriberCount": 12700,
-            "durationSeconds": 8,
+            "rank": 7,
+            "videoId": "5DpI034XE4E",
+            "title": "コーミエさんと勝負してみた！ #プロスピa #ゲーム実況 #shorts",
+            "channelId": "UCEVX82XVtjWyQLnDgBbSd5A",
+            "channelName": "JapanT主",
+            "thumbnailUrl": "https://i.ytimg.com/vi/5DpI034XE4E/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T08:43:20Z",
+            "viewCount": 1688,
+            "viewIncrease": 1688,
+            "likeCount": 57,
+            "likeIncrease": 57,
+            "commentCount": 10,
+            "commentIncrease": 10,
+            "subscriberCount": 5330,
+            "durationSeconds": 60,
             "isShort": true,
-            "rawScore": 67.1,
-            "normalizedScore": 80.0,
+            "rawScore": 93.6,
+            "normalizedScore": 88.2,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.5
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 64.9,
+                "engagement": 45.6,
+                "subscriberRatio": 87.5,
+                "freshness": 55.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 8,
+            "videoId": "rqKdfs_y-18",
+            "title": "【MV】Happy Halloween / いれいす【歌ってみた】",
+            "channelId": "UCf_C-0WsqsIyueQDovsSS0w",
+            "channelName": "いれいす【公式】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/rqKdfs_y-18/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T09:15:14Z",
+            "viewCount": 4069,
+            "viewIncrease": 4069,
+            "likeCount": 2234,
+            "likeIncrease": 2234,
+            "commentCount": 155,
+            "commentIncrease": 155,
+            "subscriberCount": 1220000,
+            "durationSeconds": 35,
+            "isShort": true,
+            "rawScore": 93.2,
+            "normalizedScore": 86.3,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.8
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 78.1,
+                "engagement": 63.6,
+                "subscriberRatio": 38.4,
+                "freshness": 60.9,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 9,
+            "videoId": "tLYgq30JWxI",
+            "title": "【アニメ】オタクくん～見てる？ゾンビに...【漫画】",
+            "channelId": "UCGMG8BNfA8gsH9Rn_d_yW2A",
+            "channelName": "シクフォニ【SIXFONIA】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/tLYgq30JWxI/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T08:00:25Z",
+            "viewCount": 16043,
+            "viewIncrease": 16043,
+            "likeCount": 6956,
+            "likeIncrease": 6956,
+            "commentCount": 299,
+            "commentIncrease": 299,
+            "subscriberCount": 1320000,
+            "durationSeconds": 23,
+            "isShort": true,
+            "rawScore": 90.8,
+            "normalizedScore": 84.3,
+            "genres": [
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.99
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 98.9,
+                "engagement": 61.2,
+                "subscriberRatio": 52.2,
+                "freshness": 50.3,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 10,
+            "videoId": "xkCO6yD5n2E",
+            "title": "【検証】VTuberはリアルの顔と似せて作られてるのか？#vtuber #検証 #shorts",
+            "channelId": "UCVa16NIazDDCRsLZ1HMTawA",
+            "channelName": "猫音らむ / Nekone Ramu",
+            "thumbnailUrl": "https://i.ytimg.com/vi/xkCO6yD5n2E/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T09:00:36Z",
+            "viewCount": 1377,
+            "viewIncrease": 1377,
+            "likeCount": 58,
+            "likeIncrease": 58,
+            "commentCount": 8,
+            "commentIncrease": 8,
+            "subscriberCount": 27300,
+            "durationSeconds": 25,
+            "isShort": true,
+            "rawScore": 87.4,
+            "normalizedScore": 82.4,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -486,8 +447,47 @@
                     "confidence": 0.8
                 },
                 {
-                    "slug": "anime",
-                    "name": "アニメ",
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 61.8,
+                "engagement": 47.2,
+                "subscriberRatio": 67.6,
+                "freshness": 58.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 11,
+            "videoId": "wa9uk2D6Hmg",
+            "title": "HappyHalloween 歌ってみた / 赤彩みあ 七乃羽すず #vtuber #歌ってみた #cover #ボカロ #ハロウィン #shorts",
+            "channelId": "UCeTb2MQrm8UBChlecw7pQOA",
+            "channelName": "赤彩みあ / Akairo Mia Ch.【すずみあ】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/wa9uk2D6Hmg/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T09:00:18Z",
+            "viewCount": 1503,
+            "viewIncrease": 1503,
+            "likeCount": 172,
+            "likeIncrease": 172,
+            "commentCount": 10,
+            "commentIncrease": 10,
+            "subscriberCount": 128000,
+            "durationSeconds": 20,
+            "isShort": true,
+            "rawScore": 84.4,
+            "normalizedScore": 80.4,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.8
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
                     "confidence": 0.4
                 },
                 {
@@ -497,75 +497,116 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 54.2,
-                "engagement": 13.4,
-                "subscriberRatio": 70.3,
-                "freshness": 57.3,
+                "velocity": 63.1,
+                "engagement": 55.5,
+                "subscriberRatio": 51.8,
+                "freshness": 58.2,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 12,
-            "videoId": "Ip1Rb56QYBA",
-            "title": "青鬼とデート！？しかも閉園後のメリーゴーラウンド。 #ニュース #解説",
-            "channelId": "UC6Dml9qCpZp_NSrwDiLAJLQ",
-            "channelName": "ちょ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Ip1Rb56QYBA/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T21:00:27Z",
-            "viewCount": 425,
-            "viewIncrease": 425,
-            "likeCount": 8,
-            "likeIncrease": 8,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 96,
-            "durationSeconds": 87,
-            "rawScore": 64.5,
-            "normalizedScore": 78.0,
+            "videoId": "3_JvgwShS3c",
+            "title": "チャーハン【#夢咲しおり #女性VTuber #VTuber #バズれ #shorts】",
+            "channelId": "UC84FDfBrlX-PAcGg2so2Vjw",
+            "channelName": "夢咲しおり",
+            "thumbnailUrl": "https://i.ytimg.com/vi/3_JvgwShS3c/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T09:01:21Z",
+            "viewCount": 620,
+            "viewIncrease": 620,
+            "likeCount": 7,
+            "likeIncrease": 7,
+            "commentCount": 2,
+            "commentIncrease": 2,
+            "subscriberCount": 5850,
+            "durationSeconds": 12,
+            "isShort": true,
+            "rawScore": 79.4,
+            "normalizedScore": 78.4,
             "genres": [
                 {
-                    "slug": "learning",
-                    "name": "学習・情報",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.2
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.8
                 },
                 {
                     "slug": "entertainment",
                     "name": "エンタメ",
-                    "confidence": 0.1
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 44.5,
-                "engagement": 23.3,
-                "subscriberRatio": 90.7,
-                "freshness": 40.7
+                "velocity": 50.0,
+                "engagement": 34.4,
+                "subscriberRatio": 75.6,
+                "freshness": 58.4,
+                "formatAdjustment": 85.0
             }
         },
         {
             "rank": 13,
-            "videoId": "9HzEwT69k08",
-            "title": "VIVANTの名シーンで楽しく英語を勉強しよう！#shorts #英会話 #英語 #留学 #english #vivant",
-            "channelId": "UC0PToc6gxvL__8sxtXZFbZw",
-            "channelName": "バリリンガル@バリ島留学",
-            "thumbnailUrl": "https://i.ytimg.com/vi/9HzEwT69k08/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T22:00:10Z",
-            "viewCount": 839,
-            "viewIncrease": 839,
-            "likeCount": 5,
-            "likeIncrease": 5,
+            "videoId": "8bZ7NH-W4ok",
+            "title": "【衝撃】人気Vtuberのライブ、発売3日で全席無料へ、運営が謝罪して明かした本音　#ホロライブ #vtuber",
+            "channelId": "UCgJ8fkBtHJ2wppT4l0nSJGA",
+            "channelName": "Vtuberホロ速報",
+            "thumbnailUrl": "https://i.ytimg.com/vi/8bZ7NH-W4ok/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T09:30:35Z",
+            "viewCount": 443,
+            "viewIncrease": 443,
+            "likeCount": 3,
+            "likeIncrease": 3,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 894,
-            "durationSeconds": 29,
+            "subscriberCount": 7940,
+            "durationSeconds": 43,
             "isShort": true,
-            "rawScore": 63.4,
-            "normalizedScore": 76.0,
+            "rawScore": 70.5,
+            "normalizedScore": 76.5,
             "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.99
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 45.1,
+                "engagement": 16.0,
+                "subscriberRatio": 68.7,
+                "freshness": 63.9,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 14,
+            "videoId": "OhLApdlG10Q",
+            "title": "第192話 日本一周旅行 58日目【沖縄県 古宇利大橋②】#ハムジー #癒やし #ぬいぐるみ #毛糸 #旅行",
+            "channelId": "UCb6FShpobiQyPDSF1x_x4xw",
+            "channelName": "【ぬいぐるみ系YouTuber🐹】ハムジーがいっしょ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/OhLApdlG10Q/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T08:00:09Z",
+            "viewCount": 839,
+            "viewIncrease": 839,
+            "likeCount": 2,
+            "likeIncrease": 2,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 231,
+            "durationSeconds": 30,
+            "isShort": true,
+            "rawScore": 69.3,
+            "normalizedScore": 74.5,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                },
                 {
                     "slug": "vtuber",
                     "name": "VTuber",
@@ -579,32 +620,155 @@
             ],
             "scoreBreakdown": {
                 "velocity": 54.5,
-                "engagement": 15.2,
+                "engagement": 9.5,
                 "subscriberRatio": 98.1,
-                "freshness": 44.5,
+                "freshness": 50.3,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 14,
-            "previousRank": 14,
-            "rankChange": 0,
+            "rank": 15,
+            "videoId": "cOsdv4CaOKg",
+            "title": "Tool Item😍! New Viral Gadget, smart appliances, Kitchen Utensils/Home Inventions #shorts #gadgets",
+            "channelId": "UCbTISm8gGI25wfyWPZTAdGg",
+            "channelName": "shortsqueen1M ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/cOsdv4CaOKg/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T09:01:03Z",
+            "viewCount": 1339,
+            "viewIncrease": 1339,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 12300,
+            "durationSeconds": 9,
+            "isShort": true,
+            "rawScore": 68.2,
+            "normalizedScore": 72.5,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 61.4,
+                "engagement": 0.0,
+                "subscriberRatio": 75.9,
+                "freshness": 58.4,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 16,
+            "videoId": "-wiIaopTHFU",
+            "title": "Introducing the \"VitalWear SmartBand,\" a next-generation wearable gadget,😂",
+            "channelId": "UCRsKzlZ-Oow3k3oXtu_WK4w",
+            "channelName": "LadoPathak4578",
+            "thumbnailUrl": "https://i.ytimg.com/vi/-wiIaopTHFU/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T06:53:32Z",
+            "viewCount": 1239,
+            "viewIncrease": 1239,
+            "likeCount": 10,
+            "likeIncrease": 10,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 1310,
+            "durationSeconds": 60,
+            "isShort": true,
+            "rawScore": 66.8,
+            "normalizedScore": 70.6,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 60.2,
+                "engagement": 17.2,
+                "subscriberRatio": 99.4,
+                "freshness": 44.4,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 17,
+            "videoId": "OLPbM5G7Au0",
+            "title": "子どもと海外、不安じゃない？飛行機で寝かせるコツ #子連れ旅行 #ママ #密着 #",
+            "channelId": "UClP8QHtFXrjXQfasbj2Hp-Q",
+            "channelName": "愛沢えみり",
+            "thumbnailUrl": "https://i.ytimg.com/vi/OLPbM5G7Au0/maxresdefault.jpg",
+            "publishedAt": "2026-10-31T06:27:29Z",
+            "viewCount": 2960,
+            "viewIncrease": 2960,
+            "likeCount": 38,
+            "likeIncrease": 38,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 588000,
+            "durationSeconds": 73,
+            "rawScore": 60.4,
+            "normalizedScore": 68.6,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 73.3,
+                "engagement": 25.7,
+                "subscriberRatio": 42.8,
+                "freshness": 42.6
+            }
+        },
+        {
+            "rank": 18,
+            "previousRank": 70,
+            "rankChange": 52,
             "videoId": "Z-Swoh1rCQA",
             "title": "【iPhone Duo徹底検証】Apple初の折りたたみスマホ、正直まだ厳しい。1週間使用レビュー。",
             "channelId": "UCu8Jtlcv4Q2P4VeGwwiPnTg",
             "channelName": "さいちょう",
             "thumbnailUrl": "https://i.ytimg.com/vi/Z-Swoh1rCQA/maxresdefault.jpg",
             "publishedAt": "2026-10-30T11:27:03Z",
-            "viewCount": 333561,
-            "viewIncrease": 46586,
-            "likeCount": 4905,
-            "likeIncrease": 635,
-            "commentCount": 521,
-            "commentIncrease": 86,
+            "viewCount": 428234,
+            "viewIncrease": 94673,
+            "likeCount": 5875,
+            "likeIncrease": 970,
+            "commentCount": 678,
+            "commentIncrease": 157,
             "subscriberCount": 401000,
             "durationSeconds": 1754,
-            "rawScore": 63.0,
-            "normalizedScore": 74.0,
+            "rawScore": 51.7,
+            "normalizedScore": 66.7,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -623,197 +787,134 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 139.2,
-                "engagement": 33.1,
-                "subscriberRatio": 76.6,
-                "freshness": 25.3
-            }
-        },
-        {
-            "rank": 15,
-            "videoId": "wL7RCjhiKms",
-            "title": "【作業用BGM / 勉強用】Lofi Beats⚾｜集中・リラックス・睡眠【24時間LIVE】",
-            "channelId": "UCYwTrrHT_-J7QzNPzBXAu3g",
-            "channelName": "ブサギの野球チャンネル",
-            "thumbnailUrl": "https://i.ytimg.com/vi/wL7RCjhiKms/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T21:10:50Z",
-            "viewCount": 442,
-            "viewIncrease": 442,
-            "likeCount": 6,
-            "likeIncrease": 6,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 2300,
-            "durationSeconds": 42827,
-            "rawScore": 61.2,
-            "normalizedScore": 72.0,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 45.1,
-                "engagement": 20.9,
-                "subscriberRatio": 82.1,
-                "freshness": 41.3
-            }
-        },
-        {
-            "rank": 16,
-            "videoId": "1_U9RaLmmS8",
-            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearable gadget #aesthetic",
-            "channelId": "UC5AobHBFgKNupKomdBJRE6Q",
-            "channelName": "IOS PANEL. GAMER • 7K views • 5 minutes ago......",
-            "thumbnailUrl": "https://i.ytimg.com/vi/1_U9RaLmmS8/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T21:11:48Z",
-            "viewCount": 1720,
-            "viewIncrease": 1720,
-            "likeCount": 128,
-            "likeIncrease": 128,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 40400,
-            "durationSeconds": 53,
-            "isShort": true,
-            "rawScore": 60.4,
-            "normalizedScore": 70.0,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 65.1,
-                "engagement": 40.9,
-                "subscriberRatio": 65.8,
-                "freshness": 41.3,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 17,
-            "previousRank": 27,
-            "rankChange": 10,
-            "videoId": "to1bh7CHcvs",
-            "title": "IRIS OUT (COVER)",
-            "channelId": "UC5nxCVEWQLLfkPuMylpkYkA",
-            "channelName": "ロス",
-            "thumbnailUrl": "https://i.ytimg.com/vi/to1bh7CHcvs/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T12:00:11Z",
-            "viewCount": 55448,
-            "viewIncrease": 10555,
-            "likeCount": 5686,
-            "likeIncrease": 715,
-            "commentCount": 269,
-            "commentIncrease": 13,
-            "subscriberCount": 530000,
-            "durationSeconds": 149,
-            "rawScore": 56.1,
-            "normalizedScore": 68.0,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 116.7,
-                "engagement": 43.3,
-                "subscriberRatio": 57.5,
-                "freshness": 25.8
-            }
-        },
-        {
-            "rank": 18,
-            "videoId": "xhQQHbGjGqc",
-            "title": "中学生がシャーペンで#アーニャ 描いてみた！ #アニメ #イラスト #イラストメイキング #中学生 #spyfamily #art #anime #illustration #shorts",
-            "channelId": "UCB9TRjIlaQ_jgv4mJRDBGWw",
-            "channelName": "中学生youtuberの月星Kai🌙🐇",
-            "thumbnailUrl": "https://i.ytimg.com/vi/xhQQHbGjGqc/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T21:00:29Z",
-            "viewCount": 836,
-            "viewIncrease": 836,
-            "likeCount": 5,
-            "likeIncrease": 5,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 2190,
-            "durationSeconds": 38,
-            "isShort": true,
-            "rawScore": 55.0,
-            "normalizedScore": 66.0,
-            "genres": [
-                {
-                    "slug": "anime",
-                    "name": "アニメ",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 54.4,
-                "engagement": 15.2,
-                "subscriberRatio": 89.5,
-                "freshness": 40.7,
-                "formatAdjustment": 85.0
+                "velocity": 140.9,
+                "engagement": 30.5,
+                "subscriberRatio": 84.3,
+                "freshness": 20.2
             }
         },
         {
             "rank": 19,
-            "previousRank": 75,
-            "rankChange": 56,
+            "previousRank": 1,
+            "rankChange": -18,
+            "videoId": "6RhecgXxweA",
+            "title": "【雑談＆お礼】ハッピーハロウィンからはじまる雑談🐏🎃【角巻わため/ホロライブ４期生】",
+            "channelId": "UCqm3BQLlJfvkTsX_hvm0UmA",
+            "channelName": "Watame Ch. 角巻わため",
+            "thumbnailUrl": "https://i.ytimg.com/vi/6RhecgXxweA/maxresdefault.jpg",
+            "publishedAt": "2026-10-30T22:41:47Z",
+            "viewCount": 238665,
+            "viewIncrease": 12765,
+            "likeCount": 6704,
+            "likeIncrease": 142,
+            "commentCount": 47,
+            "commentIncrease": 10,
+            "subscriberCount": 1730000,
+            "durationSeconds": 20105,
+            "rawScore": 50.8,
+            "normalizedScore": 64.7,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.7
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 110.5,
+                "engagement": 27.8,
+                "subscriberRatio": 46.8,
+                "freshness": 27.5
+            }
+        },
+        {
+            "rank": 20,
+            "previousRank": 58,
+            "rankChange": 38,
+            "videoId": "bHJ4IMV5cro",
+            "title": "「ストリートファイターリーグ JAPAN 2026」Division S 第6節　☆☆18時40分より初心者必見！SFリーグ: ウォームアップ☆☆",
+            "channelId": "UCu2Fxqf37DAZ0ZhIsd1FZwA",
+            "channelName": "Capcom Fighters JP",
+            "thumbnailUrl": "https://i.ytimg.com/vi/bHJ4IMV5cro/maxresdefault.jpg",
+            "publishedAt": "2026-10-30T15:45:11Z",
+            "viewCount": 891476,
+            "viewIncrease": 32816,
+            "likeCount": 5868,
+            "likeIncrease": 146,
+            "commentCount": 179,
+            "commentIncrease": 30,
+            "subscriberCount": 289000,
+            "durationSeconds": 15413,
+            "rawScore": 49.7,
+            "normalizedScore": 62.7,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.5
+                },
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.1
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 124.8,
+                "engagement": 22.2,
+                "subscriberRatio": 76.4,
+                "freshness": 22.2
+            }
+        },
+        {
+            "rank": 21,
             "videoId": "3F63xzu3-G4",
             "title": "ニューヨークの男たちに挑戦した日本人女性",
             "channelId": "UC3WTuaUDRkdj7-TFoGZYq5A",
             "channelName": "家で見る世界",
             "thumbnailUrl": "https://i.ytimg.com/vi/3F63xzu3-G4/maxresdefault.jpg",
             "publishedAt": "2026-10-29T22:00:39Z",
-            "viewCount": 3176316,
-            "viewIncrease": 784072,
-            "likeCount": 39753,
-            "likeIncrease": 6573,
-            "commentCount": 435,
-            "commentIncrease": 72,
-            "subscriberCount": 10700,
+            "viewCount": 4377666,
+            "viewIncrease": 1201350,
+            "likeCount": 50225,
+            "likeIncrease": 10472,
+            "commentCount": 529,
+            "commentIncrease": 94,
+            "subscriberCount": 11200,
             "durationSeconds": 20,
             "isShort": true,
-            "rawScore": 54.9,
-            "normalizedScore": 64.0,
+            "rawScore": 48.3,
+            "normalizedScore": 60.8,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -827,171 +928,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 182.1,
+                "velocity": 179.6,
                 "engagement": 19.5,
-                "subscriberRatio": 146.6,
-                "freshness": 18.6,
+                "subscriberRatio": 150.8,
+                "freshness": 16.2,
                 "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 19,
-            "videoId": "4kXFuMqKoJc",
-            "title": "#葉月紗蘭　ハロウィンナイトパーティ歌ってみました🎃⸝꙳.⋆ #ハロウィンナイトパーティ #歌ってみた",
-            "channelId": "UC86daIZD0BCPaoi-VTnbKTg",
-            "channelName": "まふぃんの撮っちゃんねる",
-            "thumbnailUrl": "https://i.ytimg.com/vi/4kXFuMqKoJc/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T23:03:40Z",
-            "viewCount": 68,
-            "viewIncrease": 68,
-            "likeCount": 11,
-            "likeIncrease": 11,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 7630,
-            "durationSeconds": 32,
-            "isShort": true,
-            "rawScore": 54.9,
-            "normalizedScore": 64.0,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 20.4,
-                "engagement": 60.0,
-                "subscriberRatio": 48.9,
-                "freshness": 50.0,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 21,
-            "previousRank": 43,
-            "rankChange": 22,
-            "videoId": "KBNTUQAvEcI",
-            "title": "『細かすぎて伝わらない格ゲーモノマネ選手権』を見て爆笑するマゴ",
-            "channelId": "UCzlw0KD3Vg2LjWsShiLmBLA",
-            "channelName": "マゴ /MAGO",
-            "thumbnailUrl": "https://i.ytimg.com/vi/KBNTUQAvEcI/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T09:00:10Z",
-            "viewCount": 187568,
-            "viewIncrease": 22606,
-            "likeCount": 1672,
-            "likeIncrease": 179,
-            "commentCount": 51,
-            "commentIncrease": 8,
-            "subscriberCount": 145000,
-            "durationSeconds": 2418,
-            "rawScore": 54.3,
-            "normalizedScore": 60.0,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.5
-                },
-                {
-                    "slug": "anime",
-                    "name": "アニメ",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.1
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 128.2,
-                "engagement": 22.4,
-                "subscriberRatio": 79.8,
-                "freshness": 23.5
             }
         },
         {
             "rank": 22,
-            "previousRank": 9,
-            "rankChange": -13,
-            "videoId": "lY2lnWCoWoU",
-            "title": "『崩壊：スターレイル』Ver.4.7「いま、群星は笑いに包まれる」予告番組",
-            "channelId": "UCrzCIt5o0X88G9bCdrdbv6g",
-            "channelName": "崩壊：スターレイル",
-            "thumbnailUrl": "https://i.ytimg.com/vi/lY2lnWCoWoU/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T12:56:23Z",
-            "viewCount": 441932,
-            "viewIncrease": 11318,
-            "likeCount": 10684,
-            "likeIncrease": 199,
-            "commentCount": 242,
-            "commentIncrease": 7,
-            "subscriberCount": 1180000,
-            "durationSeconds": 3321,
-            "rawScore": 52.6,
-            "normalizedScore": 58.0,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 117.7,
-                "engagement": 30.2,
-                "subscriberRatio": 49.7,
-                "freshness": 26.6
-            }
-        },
-        {
-            "rank": 23,
-            "previousRank": 67,
-            "rankChange": 44,
             "videoId": "b30QuchpJwg",
             "title": "ウサギから糸を紡ぐ方法",
             "channelId": "UCQlzehqgTr0yfzxQZogbbCg",
             "channelName": "なんか気持ちいい",
             "thumbnailUrl": "https://i.ytimg.com/vi/b30QuchpJwg/maxresdefault.jpg",
             "publishedAt": "2026-10-30T04:39:28Z",
-            "viewCount": 1933260,
-            "viewIncrease": 265985,
-            "likeCount": 27232,
-            "likeIncrease": 5138,
-            "commentCount": 411,
-            "commentIncrease": 68,
+            "viewCount": 2917433,
+            "viewIncrease": 984173,
+            "likeCount": 42802,
+            "likeIncrease": 15570,
+            "commentCount": 599,
+            "commentIncrease": 188,
             "subscriberCount": 311000,
             "durationSeconds": 27,
             "isShort": true,
-            "rawScore": 52.4,
-            "normalizedScore": 56.0,
+            "rawScore": 47.8,
+            "normalizedScore": 58.8,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1005,33 +967,115 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 165.7,
-                "engagement": 27.8,
-                "subscriberRatio": 98.3,
-                "freshness": 21.1,
+                "velocity": 176.5,
+                "engagement": 25.6,
+                "subscriberRatio": 112.5,
+                "freshness": 17.9,
                 "formatAdjustment": 85.0
             }
         },
         {
+            "rank": 23,
+            "videoId": "to1bh7CHcvs",
+            "title": "IRIS OUT (COVER)",
+            "channelId": "UC5nxCVEWQLLfkPuMylpkYkA",
+            "channelName": "ロス",
+            "thumbnailUrl": "https://i.ytimg.com/vi/to1bh7CHcvs/maxresdefault.jpg",
+            "publishedAt": "2026-10-30T12:00:11Z",
+            "viewCount": 84254,
+            "viewIncrease": 28806,
+            "likeCount": 7370,
+            "likeIncrease": 1684,
+            "commentCount": 301,
+            "commentIncrease": 32,
+            "subscriberCount": 530000,
+            "durationSeconds": 149,
+            "rawScore": 47.6,
+            "normalizedScore": 56.9,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 122.9,
+                "engagement": 41.7,
+                "subscriberRatio": 68.4,
+                "freshness": 20.4
+            }
+        },
+        {
             "rank": 24,
-            "previousRank": 41,
-            "rankChange": 17,
+            "videoId": "KBNTUQAvEcI",
+            "title": "『細かすぎて伝わらない格ゲーモノマネ選手権』を見て爆笑するマゴ",
+            "channelId": "UCzlw0KD3Vg2LjWsShiLmBLA",
+            "channelName": "マゴ /MAGO",
+            "thumbnailUrl": "https://i.ytimg.com/vi/KBNTUQAvEcI/maxresdefault.jpg",
+            "publishedAt": "2026-10-30T09:00:10Z",
+            "viewCount": 236090,
+            "viewIncrease": 48522,
+            "likeCount": 1972,
+            "likeIncrease": 300,
+            "commentCount": 63,
+            "commentIncrease": 12,
+            "subscriberCount": 145000,
+            "durationSeconds": 2418,
+            "rawScore": 45.9,
+            "normalizedScore": 54.9,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.5
+                },
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 130.8,
+                "engagement": 19.6,
+                "subscriberRatio": 88.1,
+                "freshness": 19.3
+            }
+        },
+        {
+            "rank": 25,
             "videoId": "2Vty_NMVew8",
             "title": "なにわ男子 - Poppin' Hoppin' Lovin' [なにわ男子 1st DOME LIVE 'VoyAGE']",
             "channelId": "UCDtVdj7sm41Ysg3XSiSUH3w",
             "channelName": "なにわ男子",
             "thumbnailUrl": "https://i.ytimg.com/vi/2Vty_NMVew8/maxresdefault.jpg",
             "publishedAt": "2026-10-30T10:00:36Z",
-            "viewCount": 131300,
-            "viewIncrease": 13650,
-            "likeCount": 11045,
-            "likeIncrease": 932,
-            "commentCount": 443,
-            "commentIncrease": 16,
+            "viewCount": 177276,
+            "viewIncrease": 45976,
+            "likeCount": 12481,
+            "likeIncrease": 1436,
+            "commentCount": 476,
+            "commentIncrease": 33,
             "subscriberCount": 1900000,
             "durationSeconds": 158,
-            "rawScore": 50.9,
-            "normalizedScore": 54.0,
+            "rawScore": 44.1,
+            "normalizedScore": 52.9,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1045,32 +1089,67 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 120.6,
-                "engagement": 43.2,
-                "subscriberRatio": 46.6,
-                "freshness": 24.2
+                "velocity": 130.0,
+                "engagement": 35.1,
+                "subscriberRatio": 59.6,
+                "freshness": 19.6
             }
         },
         {
-            "rank": 25,
-            "previousRank": 58,
-            "rankChange": 33,
+            "rank": 26,
+            "videoId": "jA4M45Z90cs",
+            "title": "【命がけ】火事になった！すぐやるべきなのは！？【マイクラ】",
+            "channelId": "UCj4PjeVMnNTHIR5EeoNKPAw",
+            "channelName": "ドズル社",
+            "thumbnailUrl": "https://i.ytimg.com/vi/jA4M45Z90cs/maxresdefault.jpg",
+            "publishedAt": "2026-10-30T09:15:09Z",
+            "viewCount": 324081,
+            "viewIncrease": 63989,
+            "likeCount": 8017,
+            "likeIncrease": 1192,
+            "commentCount": 332,
+            "commentIncrease": 27,
+            "subscriberCount": 2930000,
+            "durationSeconds": 2608,
+            "rawScore": 43.1,
+            "normalizedScore": 51.0,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.5
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 135.0,
+                "engagement": 29.2,
+                "subscriberRatio": 58.5,
+                "freshness": 19.4
+            }
+        },
+        {
+            "rank": 27,
             "videoId": "cfjBo41Pyhc",
             "title": "YOASOBI「セブンティーン」 from 『YOASOBI LIVE AT OVO ARENA WEMBLEY』2025.6.9",
             "channelId": "UCvpredjG93ifbCP1Y77JyFA",
             "channelName": "YOASOBI",
             "thumbnailUrl": "https://i.ytimg.com/vi/cfjBo41Pyhc/maxresdefault.jpg",
             "publishedAt": "2026-10-30T11:00:09Z",
-            "viewCount": 176014,
-            "viewIncrease": 27071,
-            "likeCount": 4027,
-            "likeIncrease": 474,
-            "commentCount": 125,
-            "commentIncrease": 11,
+            "viewCount": 260202,
+            "viewIncrease": 84188,
+            "likeCount": 5007,
+            "likeIncrease": 980,
+            "commentCount": 144,
+            "commentIncrease": 19,
             "subscriberCount": 7470000,
             "durationSeconds": 216,
-            "rawScore": 49.6,
-            "normalizedScore": 52.0,
+            "rawScore": 42.9,
+            "normalizedScore": 49.0,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1089,198 +1168,30 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 131.0,
-                "engagement": 28.6,
-                "subscriberRatio": 39.3,
-                "freshness": 25.0
-            }
-        },
-        {
-            "rank": 26,
-            "previousRank": 52,
-            "rankChange": 26,
-            "videoId": "jA4M45Z90cs",
-            "title": "【命がけ】火事になった！すぐやるべきなのは！？【マイクラ】",
-            "channelId": "UCj4PjeVMnNTHIR5EeoNKPAw",
-            "channelName": "ドズル社",
-            "thumbnailUrl": "https://i.ytimg.com/vi/jA4M45Z90cs/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T09:15:09Z",
-            "viewCount": 260092,
-            "viewIncrease": 22554,
-            "likeCount": 6825,
-            "likeIncrease": 537,
-            "commentCount": 305,
-            "commentIncrease": 15,
-            "subscriberCount": 2930000,
-            "durationSeconds": 2608,
-            "rawScore": 49.4,
-            "normalizedScore": 50.0,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.5
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 128.2,
-                "engagement": 32.7,
-                "subscriberRatio": 47.3,
-                "freshness": 23.7
-            }
-        },
-        {
-            "rank": 27,
-            "previousRank": 86,
-            "rankChange": 59,
-            "videoId": "O3ZI9vP9Dwg",
-            "title": "スポーツで息が合わない瞬間TOP5！最後のハイタッチ、そこじゃないww",
-            "channelId": "UCacwWdVQyzOO7wXjh0vDfbg",
-            "channelName": "タヌキランキング",
-            "thumbnailUrl": "https://i.ytimg.com/vi/O3ZI9vP9Dwg/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T13:00:24Z",
-            "viewCount": 4726,
-            "viewIncrease": 1707,
-            "likeCount": 40,
-            "likeIncrease": 27,
-            "commentCount": 1,
-            "commentIncrease": 0,
-            "subscriberCount": 241,
-            "durationSeconds": 41,
-            "isShort": true,
-            "rawScore": 49.2,
-            "normalizedScore": 48.0,
-            "genres": [
-                {
-                    "slug": "sports",
-                    "name": "スポーツ",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 89.0,
-                "engagement": 22.1,
-                "subscriberRatio": 105.8,
-                "freshness": 26.7,
-                "formatAdjustment": 85.0
+                "velocity": 139.2,
+                "engagement": 23.8,
+                "subscriberRatio": 51.4,
+                "freshness": 20.0
             }
         },
         {
             "rank": 28,
-            "videoId": "L7jnH3nzUpQ",
-            "title": "ヨセフが車を奪った相手はジョン・ウィックだった",
-            "channelId": "UCHc9YrjdbTXH7aMiqqvglJA",
-            "channelName": "映画の余韻",
-            "thumbnailUrl": "https://i.ytimg.com/vi/L7jnH3nzUpQ/maxresdefault.jpg",
-            "publishedAt": "2026-10-28T23:32:31Z",
-            "viewCount": 2404449,
-            "viewIncrease": 198436,
-            "likeCount": 29938,
-            "likeIncrease": 2447,
-            "commentCount": 467,
-            "commentIncrease": 29,
-            "subscriberCount": 39000,
-            "durationSeconds": 134,
-            "rawScore": 42.1,
-            "normalizedScore": 46.0,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 161.3,
-                "engagement": 23.1,
-                "subscriberRatio": 117.7,
-                "freshness": 13.9
-            }
-        },
-        {
-            "rank": 29,
-            "videoId": "TRvvrkXY3oc",
-            "title": "アニメ「みっかさきの町」第７話切り抜き予告② #アニメ",
-            "channelId": "UCU5bvoA_fEU2nLm_W46Q8nw",
-            "channelName": "LEAF LAST",
-            "thumbnailUrl": "https://i.ytimg.com/vi/TRvvrkXY3oc/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T14:03:39Z",
-            "viewCount": 1218,
-            "viewIncrease": 1218,
-            "likeCount": 6,
-            "likeIncrease": 6,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 41,
-            "durationSeconds": 51,
-            "isShort": true,
-            "rawScore": 41.5,
-            "normalizedScore": 44.0,
-            "genres": [
-                {
-                    "slug": "anime",
-                    "name": "アニメ",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 60.0,
-                "engagement": 13.9,
-                "subscriberRatio": 102.1,
-                "freshness": 27.7,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 30,
-            "previousRank": 90,
-            "rankChange": 60,
-            "videoId": "s_4rDsqfpzE",
-            "title": "ナルトストーリーシーンで口が止まらない加藤純一【2026/10/29】",
-            "channelId": "UCH-lygWpHodDff3iQurnWnQ",
-            "channelName": "加藤純一切り抜き集",
-            "thumbnailUrl": "https://i.ytimg.com/vi/s_4rDsqfpzE/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T03:23:39Z",
-            "viewCount": 211617,
-            "viewIncrease": 12521,
-            "likeCount": 715,
-            "likeIncrease": 42,
-            "commentCount": 292,
-            "commentIncrease": 5,
-            "subscriberCount": 616000,
-            "durationSeconds": 4380,
-            "rawScore": 39.9,
-            "normalizedScore": 42.0,
+            "videoId": "lY2lnWCoWoU",
+            "title": "『崩壊：スターレイル』Ver.4.7「いま、群星は笑いに包まれる」予告番組",
+            "channelId": "UCrzCIt5o0X88G9bCdrdbv6g",
+            "channelName": "崩壊：スターレイル",
+            "thumbnailUrl": "https://i.ytimg.com/vi/lY2lnWCoWoU/maxresdefault.jpg",
+            "publishedAt": "2026-10-30T12:56:23Z",
+            "viewCount": 464028,
+            "viewIncrease": 22096,
+            "likeCount": 10983,
+            "likeIncrease": 299,
+            "commentCount": 253,
+            "commentIncrease": 11,
+            "subscriberCount": 1180000,
+            "durationSeconds": 3321,
+            "rawScore": 42.3,
+            "normalizedScore": 47.1,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1299,10 +1210,91 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 119.3,
-                "engagement": 17.2,
-                "subscriberRatio": 57.8,
-                "freshness": 20.6
+                "velocity": 118.8,
+                "engagement": 27.4,
+                "subscriberRatio": 56.9,
+                "freshness": 20.8
+            }
+        },
+        {
+            "rank": 29,
+            "previousRank": 6,
+            "rankChange": -23,
+            "videoId": "5qw2BRMOOiA",
+            "title": "【ホロ鯖ARK】写真家カワウソ先生！ハロウィンの香りを感じながらガルガンターテイムetc...！【白銀ノエル/ホロライブ】",
+            "channelId": "UCdyqAaZDKHXg4Ahi7VENThQ",
+            "channelName": "Noel Ch. 白銀ノエル",
+            "thumbnailUrl": "https://i.ytimg.com/vi/5qw2BRMOOiA/maxresdefault.jpg",
+            "publishedAt": "2026-10-30T19:17:01Z",
+            "viewCount": 437408,
+            "viewIncrease": 10671,
+            "likeCount": 8528,
+            "likeIncrease": 41,
+            "commentCount": 44,
+            "commentIncrease": 7,
+            "subscriberCount": 2060000,
+            "durationSeconds": 34619,
+            "rawScore": 41.8,
+            "normalizedScore": 45.1,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.5
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 107.8,
+                "engagement": 19.9,
+                "subscriberRatio": 43.1,
+                "freshness": 24.5
+            }
+        },
+        {
+            "rank": 30,
+            "videoId": "L7jnH3nzUpQ",
+            "title": "ヨセフが車を奪った相手はジョン・ウィックだった",
+            "channelId": "UCHc9YrjdbTXH7aMiqqvglJA",
+            "channelName": "映画の余韻",
+            "thumbnailUrl": "https://i.ytimg.com/vi/L7jnH3nzUpQ/maxresdefault.jpg",
+            "publishedAt": "2026-10-28T23:32:31Z",
+            "viewCount": 2827581,
+            "viewIncrease": 423132,
+            "likeCount": 34429,
+            "likeIncrease": 4491,
+            "commentCount": 529,
+            "commentIncrease": 62,
+            "subscriberCount": 39500,
+            "durationSeconds": 134,
+            "rawScore": 40.1,
+            "normalizedScore": 43.1,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 163.7,
+                "engagement": 22.0,
+                "subscriberRatio": 125.7,
+                "freshness": 12.9
             }
         },
         {
@@ -1313,16 +1305,16 @@
             "channelName": "原付二種（バイクいじり）",
             "thumbnailUrl": "https://i.ytimg.com/vi/7_CPbqrq-lg/maxresdefault.jpg",
             "publishedAt": "2026-10-29T08:30:20Z",
-            "viewCount": 866931,
-            "viewIncrease": 56095,
-            "likeCount": 7735,
-            "likeIncrease": 538,
-            "commentCount": 123,
-            "commentIncrease": 3,
-            "subscriberCount": 88000,
+            "viewCount": 1014416,
+            "viewIncrease": 147485,
+            "likeCount": 9267,
+            "likeIncrease": 1532,
+            "commentCount": 131,
+            "commentIncrease": 8,
+            "subscriberCount": 88300,
             "durationSeconds": 124,
-            "rawScore": 39.4,
-            "normalizedScore": 40.0,
+            "rawScore": 38.1,
+            "normalizedScore": 41.2,
             "genres": [
                 {
                     "slug": "music",
@@ -1346,10 +1338,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 142.1,
-                "engagement": 19.7,
-                "subscriberRatio": 95.1,
-                "freshness": 15.3
+                "velocity": 147.7,
+                "engagement": 20.3,
+                "subscriberRatio": 105.6,
+                "freshness": 13.9
             }
         },
         {
@@ -1360,16 +1352,16 @@
             "channelName": "きんぐのタメニナルハナシ",
             "thumbnailUrl": "https://i.ytimg.com/vi/16trI63PEeA/maxresdefault.jpg",
             "publishedAt": "2026-10-28T10:00:06Z",
-            "viewCount": 2121438,
-            "viewIncrease": 65379,
-            "likeCount": 32941,
-            "likeIncrease": 1735,
-            "commentCount": 1626,
-            "commentIncrease": 71,
-            "subscriberCount": 16700,
+            "viewCount": 2352668,
+            "viewIncrease": 231230,
+            "likeCount": 36218,
+            "likeIncrease": 3277,
+            "commentCount": 1781,
+            "commentIncrease": 155,
+            "subscriberCount": 16800,
             "durationSeconds": 70,
-            "rawScore": 36.6,
-            "normalizedScore": 38.0,
+            "rawScore": 36.3,
+            "normalizedScore": 39.2,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1383,31 +1375,107 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 144.4,
-                "engagement": 35.6,
-                "subscriberRatio": 114.8,
-                "freshness": 12.4
+                "velocity": 154.5,
+                "engagement": 28.9,
+                "subscriberRatio": 128.5,
+                "freshness": 11.6
             }
         },
         {
             "rank": 33,
+            "videoId": "mSuAZm9H2zA",
+            "title": "アメリカ生まれアメリカ育ちの友達が作る『フライドチキン』が日本と違いすぎてヤバい！#shorts",
+            "channelId": "UCg5ZU7dFNu2pmCIBAoaIjAQ",
+            "channelName": "とみビデオ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/mSuAZm9H2zA/maxresdefault.jpg",
+            "publishedAt": "2026-10-23T10:12:16Z",
+            "viewCount": 4137084,
+            "viewIncrease": 4137084,
+            "sevenDayViewIncrease": 2126162,
+            "likeCount": 93811,
+            "likeIncrease": 93811,
+            "commentCount": 904,
+            "commentIncrease": 904,
+            "subscriberCount": 1710000,
+            "durationSeconds": 179,
+            "rawScore": 33.1,
+            "normalizedScore": 37.3,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 183.3,
+                "engagement": 28.6,
+                "subscriberRatio": 109.6,
+                "freshness": 7.2,
+                "sevenDayVelocity": 10.0
+            }
+        },
+        {
+            "rank": 34,
+            "videoId": "MDTfraYvokc",
+            "title": "だるまいずごっどの近況を知るけんき",
+            "channelId": "UC7DIyixvlm7BThrw4iMRyiQ",
+            "channelName": "ショートケンキ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/MDTfraYvokc/maxresdefault.jpg",
+            "publishedAt": "2026-10-26T09:00:35Z",
+            "viewCount": 1652603,
+            "viewIncrease": 1652603,
+            "likeCount": 30004,
+            "likeIncrease": 30004,
+            "commentCount": 153,
+            "commentIncrease": 153,
+            "subscriberCount": 2480,
+            "durationSeconds": 62,
+            "rawScore": 32.9,
+            "normalizedScore": 35.3,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 169.3,
+                "engagement": 25.1,
+                "subscriberRatio": 170.6,
+                "freshness": 9.0
+            }
+        },
+        {
+            "rank": 35,
             "videoId": "m9zlUwCBfOM",
             "title": "悲鳴を上げた捕手何が起きたのか",
             "channelId": "UCIT0pzeHyWUonywCcHJZFnQ",
             "channelName": "バズリ星",
             "thumbnailUrl": "https://i.ytimg.com/vi/m9zlUwCBfOM/maxresdefault.jpg",
             "publishedAt": "2026-10-28T13:37:50Z",
-            "viewCount": 1537497,
-            "viewIncrease": 56758,
-            "likeCount": 10724,
-            "likeIncrease": 242,
-            "commentCount": 172,
-            "commentIncrease": 7,
-            "subscriberCount": 13700,
+            "viewCount": 1830318,
+            "viewIncrease": 292821,
+            "likeCount": 11533,
+            "likeIncrease": 809,
+            "commentCount": 188,
+            "commentIncrease": 16,
+            "subscriberCount": 13800,
             "durationSeconds": 18,
             "isShort": true,
-            "rawScore": 29.6,
-            "normalizedScore": 36.0,
+            "rawScore": 30.7,
+            "normalizedScore": 33.3,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1421,32 +1489,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 142.2,
-                "engagement": 15.5,
-                "subscriberRatio": 115.4,
-                "freshness": 12.8,
+                "velocity": 158.1,
+                "engagement": 11.6,
+                "subscriberRatio": 133.2,
+                "freshness": 11.9,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 34,
+            "rank": 36,
             "videoId": "tDCvsb8Btng",
             "title": "彼氏が居るとこんな感じ",
             "channelId": "UCAqKPuoiAWLN9Ycptt9yFDw",
             "channelName": "海外面白ショート",
             "thumbnailUrl": "https://i.ytimg.com/vi/tDCvsb8Btng/maxresdefault.jpg",
             "publishedAt": "2026-10-28T09:00:23Z",
-            "viewCount": 2226490,
-            "viewIncrease": 165839,
-            "likeCount": 26947,
-            "likeIncrease": 1400,
-            "commentCount": 160,
-            "commentIncrease": 6,
+            "viewCount": 2849251,
+            "viewIncrease": 622761,
+            "likeCount": 34399,
+            "likeIncrease": 7452,
+            "commentCount": 199,
+            "commentIncrease": 39,
             "subscriberCount": 127000,
             "durationSeconds": 13,
             "isShort": true,
-            "rawScore": 29.3,
-            "normalizedScore": 34.0,
+            "rawScore": 30.3,
+            "normalizedScore": 31.4,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1460,32 +1528,120 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 158.5,
-                "engagement": 18.4,
-                "subscriberRatio": 102.9,
-                "freshness": 12.3,
+                "velocity": 169.6,
+                "engagement": 21.5,
+                "subscriberRatio": 117.3,
+                "freshness": 11.6,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 35,
+            "rank": 37,
+            "videoId": "5Aa3GueoNlw",
+            "title": "過去一バズった！？運動音痴の瞬間TOP5",
+            "channelId": "UCSQ-nMQMG3PwPYdDXy4RDpA",
+            "channelName": "ペンギンランカー",
+            "thumbnailUrl": "https://i.ytimg.com/vi/5Aa3GueoNlw/maxresdefault.jpg",
+            "publishedAt": "2026-10-27T07:15:36Z",
+            "viewCount": 7703217,
+            "viewIncrease": 1099457,
+            "likeCount": 55068,
+            "likeIncrease": 9133,
+            "commentCount": 375,
+            "commentIncrease": 37,
+            "subscriberCount": 51400,
+            "durationSeconds": 36,
+            "isShort": true,
+            "rawScore": 27.9,
+            "normalizedScore": 29.4,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 178.2,
+                "engagement": 18.2,
+                "subscriberRatio": 133.3,
+                "freshness": 10.0,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 38,
+            "videoId": "SWzfm9PED6s",
+            "title": "Mrs. GREEN APPLE「シンデレラ」Official Music Video",
+            "channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
+            "channelName": "Mrs. GREEN APPLE",
+            "thumbnailUrl": "https://i.ytimg.com/vi/SWzfm9PED6s/maxresdefault.jpg",
+            "publishedAt": "2026-10-23T14:53:07Z",
+            "viewCount": 11092456,
+            "viewIncrease": 242856,
+            "sevenDayViewIncrease": 9044258,
+            "likeCount": 108039,
+            "likeIncrease": 1074,
+            "commentCount": 11440,
+            "commentIncrease": 158,
+            "subscriberCount": 6790000,
+            "durationSeconds": 291,
+            "rawScore": 27.4,
+            "normalizedScore": 27.5,
+            "genres": [
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.8
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 155.3,
+                "engagement": 20.8,
+                "subscriberRatio": 63.9,
+                "freshness": 7.3,
+                "sevenDayVelocity": 10.0
+            }
+        },
+        {
+            "rank": 39,
             "videoId": "goTHoidsvPs",
             "title": "【悲報】話題のiPhoneDuo全世界で壊れまくって終わるw【2ch面白いスレ】",
             "channelId": "UCp4_VYTZqBe41p5xQQXFHCg",
             "channelName": "おもしろニュース速報(おも速)",
             "thumbnailUrl": "https://i.ytimg.com/vi/goTHoidsvPs/maxresdefault.jpg",
             "publishedAt": "2026-10-29T08:00:23Z",
-            "viewCount": 225883,
-            "viewIncrease": 9892,
-            "likeCount": 4224,
-            "likeIncrease": 141,
-            "commentCount": 434,
-            "commentIncrease": 19,
+            "viewCount": 241991,
+            "viewIncrease": 16108,
+            "likeCount": 4466,
+            "likeIncrease": 242,
+            "commentCount": 456,
+            "commentIncrease": 22,
             "subscriberCount": 135000,
             "durationSeconds": 50,
             "isShort": true,
-            "rawScore": 28.6,
-            "normalizedScore": 32.0,
+            "rawScore": 26.3,
+            "normalizedScore": 25.5,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1504,120 +1660,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 115.7,
-                "engagement": 33.6,
-                "subscriberRatio": 71.6,
-                "freshness": 15.2,
+                "velocity": 114.0,
+                "engagement": 32.4,
+                "subscriberRatio": 76.9,
+                "freshness": 13.9,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 36,
-            "videoId": "5Aa3GueoNlw",
-            "title": "過去一バズった！？運動音痴の瞬間TOP5",
-            "channelId": "UCSQ-nMQMG3PwPYdDXy4RDpA",
-            "channelName": "ペンギンランカー",
-            "thumbnailUrl": "https://i.ytimg.com/vi/5Aa3GueoNlw/maxresdefault.jpg",
-            "publishedAt": "2026-10-27T07:15:36Z",
-            "viewCount": 6603760,
-            "viewIncrease": 238135,
-            "likeCount": 45935,
-            "likeIncrease": 2615,
-            "commentCount": 338,
-            "commentIncrease": 18,
-            "subscriberCount": 50500,
-            "durationSeconds": 36,
-            "isShort": true,
-            "rawScore": 26.8,
-            "normalizedScore": 30.0,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 164.0,
-                "engagement": 21.1,
-                "subscriberRatio": 116.8,
-                "freshness": 10.4,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 37,
-            "videoId": "SWzfm9PED6s",
-            "title": "Mrs. GREEN APPLE「シンデレラ」Official Music Video",
-            "channelId": "UCpFgmZm65yOU5X-hmWkWjuw",
-            "channelName": "Mrs. GREEN APPLE",
-            "thumbnailUrl": "https://i.ytimg.com/vi/SWzfm9PED6s/maxresdefault.jpg",
-            "publishedAt": "2026-10-23T14:53:07Z",
-            "viewCount": 10849600,
-            "viewIncrease": 47032,
-            "sevenDayViewIncrease": 10129491,
-            "likeCount": 106965,
-            "likeIncrease": 380,
-            "commentCount": 11282,
-            "commentIncrease": 33,
-            "subscriberCount": 6790000,
-            "durationSeconds": 291,
-            "rawScore": 25.7,
-            "normalizedScore": 28.0,
-            "genres": [
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.8
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "anime",
-                    "name": "アニメ",
-                    "confidence": 0.2
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 139.4,
-                "engagement": 25.1,
-                "subscriberRatio": 46.2,
-                "freshness": 7.5,
-                "sevenDayVelocity": 10.0
-            }
-        },
-        {
-            "rank": 38,
+            "rank": 40,
             "videoId": "yomO4ZZNe30",
             "title": "超特急「エトランス・フィーバー」10月12日(月)TBS系 CDTVライブ!ライブ!",
             "channelId": "UC3XrP1yEARz4_iFsmrdUfRA",
             "channelName": "超特急",
             "thumbnailUrl": "https://i.ytimg.com/vi/yomO4ZZNe30/maxresdefault.jpg",
             "publishedAt": "2026-10-23T11:00:31Z",
-            "viewCount": 1044187,
-            "viewIncrease": 9158,
-            "sevenDayViewIncrease": 879828,
-            "likeCount": 31926,
-            "likeIncrease": 81,
-            "commentCount": 1370,
-            "commentIncrease": 2,
+            "viewCount": 1084863,
+            "viewIncrease": 40676,
+            "sevenDayViewIncrease": 830269,
+            "likeCount": 32165,
+            "likeIncrease": 239,
+            "commentCount": 1382,
+            "commentIncrease": 12,
             "subscriberCount": 416000,
             "durationSeconds": 230,
-            "rawScore": 24.4,
-            "normalizedScore": 26.0,
+            "rawScore": 26.0,
+            "normalizedScore": 23.5,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1631,32 +1699,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 114.5,
-                "engagement": 21.7,
-                "subscriberRatio": 58.6,
-                "freshness": 7.4,
+                "velocity": 128.1,
+                "engagement": 19.8,
+                "subscriberRatio": 74.8,
+                "freshness": 7.2,
                 "sevenDayVelocity": 10.0
             }
         },
         {
-            "rank": 39,
+            "rank": 41,
             "videoId": "5vV1VmYMJ0o",
             "title": "コーン茶とONICHAを混ぜるミニキン ❤️❤️ #ヒカキン #切り抜き",
             "channelId": "UCZf__ehlCEBPop-_sldpBUQ",
             "channelName": "HikakinTV",
             "thumbnailUrl": "https://i.ytimg.com/vi/5vV1VmYMJ0o/maxresdefault.jpg",
             "publishedAt": "2026-10-28T09:26:46Z",
-            "viewCount": 2705323,
-            "viewIncrease": 115018,
-            "likeCount": 60607,
-            "likeIncrease": 3485,
-            "commentCount": 630,
-            "commentIncrease": 23,
+            "viewCount": 3210546,
+            "viewIncrease": 505223,
+            "likeCount": 66884,
+            "likeIncrease": 6277,
+            "commentCount": 639,
+            "commentIncrease": 9,
             "subscriberCount": 19900000,
             "durationSeconds": 26,
             "isShort": true,
-            "rawScore": 23.9,
-            "normalizedScore": 24.0,
+            "rawScore": 24.4,
+            "normalizedScore": 21.6,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1670,32 +1738,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 153.0,
-                "engagement": 30.5,
-                "subscriberRatio": 44.2,
-                "freshness": 12.3,
+                "velocity": 166.4,
+                "engagement": 20.7,
+                "subscriberRatio": 60.2,
+                "freshness": 11.6,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 40,
+            "rank": 42,
             "videoId": "hR1L64Ic8n8",
             "title": "原因は自分にある。「ラブリーズン」Music Video",
             "channelId": "UCz3x9qQNFcbc37R3ND0B8kw",
             "channelName": "原因は自分にある。Official",
             "thumbnailUrl": "https://i.ytimg.com/vi/hR1L64Ic8n8/maxresdefault.jpg",
             "publishedAt": "2026-10-19T12:00:09Z",
-            "viewCount": 2968901,
-            "viewIncrease": 16469,
-            "sevenDayViewIncrease": 1400884,
-            "likeCount": 59506,
-            "likeIncrease": 64,
-            "commentCount": 5804,
-            "commentIncrease": 9,
-            "subscriberCount": 281000,
+            "viewCount": 3037381,
+            "viewIncrease": 68480,
+            "sevenDayViewIncrease": 1372508,
+            "likeCount": 59740,
+            "likeIncrease": 234,
+            "commentCount": 5861,
+            "commentIncrease": 57,
+            "subscriberCount": 282000,
             "durationSeconds": 228,
-            "rawScore": 22.7,
-            "normalizedScore": 22.0,
+            "rawScore": 24.2,
+            "normalizedScore": 19.6,
             "genres": [
                 {
                     "slug": "music",
@@ -1714,32 +1782,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 123.4,
-                "engagement": 19.3,
-                "subscriberRatio": 69.2,
-                "freshness": 6.0,
+                "velocity": 136.0,
+                "engagement": 20.2,
+                "subscriberRatio": 84.6,
+                "freshness": 5.9,
                 "sevenDayVelocity": 10.0
             }
         },
         {
-            "rank": 41,
+            "rank": 43,
             "videoId": "qZ1AQ-mCo0I",
             "title": "【閲覧注意】アメリカ生まれアメリカ育ちの友達に『汚い』アメリカ料理作ってもらったらヤバすぎた！#shorts",
             "channelId": "UCg5ZU7dFNu2pmCIBAoaIjAQ",
             "channelName": "とみビデオ",
             "thumbnailUrl": "https://i.ytimg.com/vi/qZ1AQ-mCo0I/maxresdefault.jpg",
             "publishedAt": "2026-10-22T10:14:26Z",
-            "viewCount": 4135234,
-            "viewIncrease": 5651,
-            "sevenDayViewIncrease": 2036842,
-            "likeCount": 97043,
-            "likeIncrease": 130,
-            "commentCount": 1229,
-            "commentIncrease": 1,
+            "viewCount": 4154803,
+            "viewIncrease": 19569,
+            "sevenDayViewIncrease": 2056411,
+            "likeCount": 97508,
+            "likeIncrease": 465,
+            "commentCount": 1231,
+            "commentIncrease": 2,
             "subscriberCount": 1710000,
             "durationSeconds": 180,
-            "rawScore": 22.0,
-            "normalizedScore": 20.0,
+            "rawScore": 23.3,
+            "normalizedScore": 17.6,
             "genres": [
                 {
                     "slug": "cooking",
@@ -1758,32 +1826,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 107.2,
-                "engagement": 28.1,
-                "subscriberRatio": 38.3,
-                "freshness": 6.9,
+                "velocity": 117.0,
+                "engagement": 27.2,
+                "subscriberRatio": 51.6,
+                "freshness": 6.8,
                 "sevenDayVelocity": 10.0
             }
         },
         {
-            "rank": 42,
+            "rank": 44,
             "videoId": "k6lbsiBTdI8",
             "title": "世界で話題の木製ランニングマシーン",
             "channelId": "UC2TQFI_BmNtVBNRkZWlG-KQ",
             "channelName": "バズるワールド",
             "thumbnailUrl": "https://i.ytimg.com/vi/k6lbsiBTdI8/maxresdefault.jpg",
             "publishedAt": "2026-10-26T07:00:17Z",
-            "viewCount": 3993872,
-            "viewIncrease": 91994,
-            "likeCount": 39213,
-            "likeIncrease": 1232,
-            "commentCount": 669,
-            "commentIncrease": 12,
+            "viewCount": 4281109,
+            "viewIncrease": 287237,
+            "likeCount": 42419,
+            "likeIncrease": 3206,
+            "commentCount": 707,
+            "commentIncrease": 38,
             "subscriberCount": 189000,
             "durationSeconds": 20,
             "isShort": true,
-            "rawScore": 20.9,
-            "normalizedScore": 18.0,
+            "rawScore": 21.6,
+            "normalizedScore": 15.7,
             "genres": [
                 {
                     "slug": "entertainment",
@@ -1792,32 +1860,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 149.6,
-                "engagement": 23.5,
-                "subscriberRatio": 92.2,
-                "freshness": 9.3,
+                "velocity": 157.8,
+                "engagement": 22.2,
+                "subscriberRatio": 104.5,
+                "freshness": 8.9,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 43,
+            "rank": 45,
             "videoId": "dK1v7Cn3p1M",
             "title": "「真っ直ぐだから絶対に打てよ」新庄を大号泣させた谷繁の一言",
             "channelId": "UCt7HCqlqdVFcOd3aNr0hcgQ",
             "channelName": "ニッポン野球王国",
             "thumbnailUrl": "https://i.ytimg.com/vi/dK1v7Cn3p1M/maxresdefault.jpg",
             "publishedAt": "2026-10-25T10:00:38Z",
-            "viewCount": 3506214,
-            "viewIncrease": 92801,
-            "likeCount": 26160,
-            "likeIncrease": 1351,
-            "commentCount": 197,
-            "commentIncrease": 4,
-            "subscriberCount": 80500,
+            "viewCount": 3760201,
+            "viewIncrease": 253987,
+            "likeCount": 28272,
+            "likeIncrease": 2112,
+            "commentCount": 206,
+            "commentIncrease": 9,
+            "subscriberCount": 80600,
             "durationSeconds": 53,
             "isShort": true,
-            "rawScore": 19.9,
-            "normalizedScore": 16.0,
+            "rawScore": 20.2,
+            "normalizedScore": 13.7,
             "genres": [
                 {
                     "slug": "sports",
@@ -1831,33 +1899,33 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 149.7,
-                "engagement": 22.5,
-                "subscriberRatio": 101.5,
-                "freshness": 8.5,
+                "velocity": 155.9,
+                "engagement": 18.3,
+                "subscriberRatio": 112.5,
+                "freshness": 8.3,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 44,
+            "rank": 46,
             "videoId": "PJ5x7zHpvwk",
             "title": "iPhone Duoは片手で操作できるのか？",
             "channelId": "UCyxqA4wHX9MZv34_0YJL2ig",
             "channelName": "僕はバズ",
             "thumbnailUrl": "https://i.ytimg.com/vi/PJ5x7zHpvwk/maxresdefault.jpg",
             "publishedAt": "2026-10-22T10:28:08Z",
-            "viewCount": 1234478,
-            "viewIncrease": 1803,
-            "sevenDayViewIncrease": 850850,
-            "likeCount": 14552,
-            "likeIncrease": 24,
-            "commentCount": 471,
-            "commentIncrease": 0,
-            "subscriberCount": 89600,
+            "viewCount": 1242691,
+            "viewIncrease": 8213,
+            "sevenDayViewIncrease": 686989,
+            "likeCount": 14629,
+            "likeIncrease": 77,
+            "commentCount": 473,
+            "commentIncrease": 2,
+            "subscriberCount": 89800,
             "durationSeconds": 23,
             "isShort": true,
-            "rawScore": 18.4,
-            "normalizedScore": 14.0,
+            "rawScore": 20.0,
+            "normalizedScore": 11.8,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1871,33 +1939,33 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 89.8,
-                "engagement": 20.8,
-                "subscriberRatio": 57.6,
-                "freshness": 6.9,
+                "velocity": 103.8,
+                "engagement": 22.4,
+                "subscriberRatio": 74.0,
+                "freshness": 6.8,
                 "sevenDayVelocity": 10.0,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 45,
+            "rank": 47,
             "videoId": "XWFpSOpZJpA",
             "title": "人生初のマイホームに刻んだ最高に特別な足跡",
             "channelId": "UCDe_ZgBajW2MZzzaHckWDgg",
             "channelName": "1分間の迷惑客",
             "thumbnailUrl": "https://i.ytimg.com/vi/XWFpSOpZJpA/maxresdefault.jpg",
             "publishedAt": "2026-10-23T06:00:32Z",
-            "viewCount": 8060822,
-            "viewIncrease": 101597,
-            "likeCount": 107519,
-            "likeIncrease": 1845,
-            "commentCount": 547,
-            "commentIncrease": 6,
-            "subscriberCount": 15900,
+            "viewCount": 8446832,
+            "viewIncrease": 386010,
+            "likeCount": 111619,
+            "likeIncrease": 4100,
+            "commentCount": 558,
+            "commentIncrease": 11,
+            "subscriberCount": 16100,
             "durationSeconds": 24,
             "isShort": true,
-            "rawScore": 18.3,
-            "normalizedScore": 12.0,
+            "rawScore": 19.1,
+            "normalizedScore": 9.8,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1911,32 +1979,32 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 151.1,
-                "engagement": 24.4,
-                "subscriberRatio": 120.1,
-                "freshness": 7.3,
+                "velocity": 162.3,
+                "engagement": 19.9,
+                "subscriberRatio": 134.5,
+                "freshness": 7.1,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 46,
+            "rank": 48,
             "videoId": "44eYkFzHegY",
             "title": "サンシャイン池崎が保護猫を引き取らない理由　#サンシャイン池崎 #保護猫 #のりしお #感動する話",
             "channelId": "UCGe1sZLQtIr7PnXLgBUCoVw",
             "channelName": "感動エピソード【感動図書館】",
             "thumbnailUrl": "https://i.ytimg.com/vi/44eYkFzHegY/maxresdefault.jpg",
             "publishedAt": "2026-10-25T05:38:37Z",
-            "viewCount": 6755466,
-            "viewIncrease": 48671,
-            "likeCount": 72211,
-            "likeIncrease": 548,
-            "commentCount": 1139,
-            "commentIncrease": 9,
+            "viewCount": 6894875,
+            "viewIncrease": 139409,
+            "likeCount": 73379,
+            "likeIncrease": 1168,
+            "commentCount": 1165,
+            "commentIncrease": 26,
             "subscriberCount": 200000,
             "durationSeconds": 60,
             "isShort": true,
-            "rawScore": 17.7,
-            "normalizedScore": 10.0,
+            "rawScore": 18.3,
+            "normalizedScore": 7.8,
             "genres": [
                 {
                     "slug": "vtuber",
@@ -1950,75 +2018,68 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 139.9,
-                "engagement": 23.0,
-                "subscriberRatio": 84.7,
-                "freshness": 8.4,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 47,
-            "videoId": "CBiqb8RWXP0",
-            "title": "その毛穴、洗うだけで終わってない？👀【大人の毛穴ケア】 #美容 #キャロリーヌ #毛穴洗浄 #エステ  #スキンケア #小顔",
-            "channelId": "UCi5OCOlwW86ScIerkkV7M9w",
-            "channelName": "素肌のクリニックキャロリーヌ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/CBiqb8RWXP0/maxresdefault.jpg",
-            "publishedAt": "2026-10-30T14:30:26Z",
-            "viewCount": 1216,
-            "viewIncrease": 12,
-            "likeCount": 3,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 84,
-            "durationSeconds": 42,
-            "isShort": true,
-            "rawScore": 17.0,
-            "normalizedScore": 8.0,
-            "genres": [
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 18.8,
-                "engagement": 0.0,
-                "subscriberRatio": 52.1,
-                "freshness": 28.2,
+                "velocity": 146.8,
+                "engagement": 20.9,
+                "subscriberRatio": 96.1,
+                "freshness": 8.2,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 48,
+            "videoId": "97Yc7fISuJk",
+            "title": "【失敗】ノートパソコンのガワを壊しただけ【敗北】",
+            "channelId": "UCpewgkropQmuKSEUKXbV-1g",
+            "channelName": "tomo tomo",
+            "thumbnailUrl": "https://i.ytimg.com/vi/97Yc7fISuJk/maxresdefault.jpg",
+            "publishedAt": "2026-10-26T21:05:38Z",
+            "viewCount": 251060,
+            "viewIncrease": 4694,
+            "likeCount": 4199,
+            "likeIncrease": 57,
+            "commentCount": 109,
+            "commentIncrease": 2,
+            "subscriberCount": 65700,
+            "durationSeconds": 151,
+            "rawScore": 18.3,
+            "normalizedScore": 7.8,
+            "genres": [
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 95.3,
+                "engagement": 26.1,
+                "subscriberRatio": 71.4,
+                "freshness": 9.5
+            }
+        },
+        {
+            "rank": 50,
             "videoId": "IFjudT_uhyM",
             "title": "Hey! Say! JUMP - 再会愛 Lie 期待して Cry [Official Music Video]",
             "channelId": "UCFzXU6-djdXlDvXI3-2Appw",
             "channelName": "Hey! Say! JUMP",
             "thumbnailUrl": "https://i.ytimg.com/vi/IFjudT_uhyM/maxresdefault.jpg",
             "publishedAt": "2026-10-24T12:00:10Z",
-            "viewCount": 822031,
-            "viewIncrease": 27207,
-            "likeCount": 32193,
-            "likeIncrease": 64,
-            "commentCount": 3458,
-            "commentIncrease": 23,
+            "viewCount": 867072,
+            "viewIncrease": 45041,
+            "likeCount": 32355,
+            "likeIncrease": 162,
+            "commentCount": 3484,
+            "commentIncrease": 26,
             "subscriberCount": 897000,
             "durationSeconds": 241,
             "rawScore": 16.7,
-            "normalizedScore": 6.0,
+            "normalizedScore": 3.9,
             "genres": [
                 {
                     "slug": "music",
@@ -2032,91 +2093,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 131.1,
-                "engagement": 18.1,
-                "subscriberRatio": 62.1,
-                "freshness": 7.9
-            }
-        },
-        {
-            "rank": 49,
-            "videoId": "97Yc7fISuJk",
-            "title": "【失敗】ノートパソコンのガワを壊しただけ【敗北】",
-            "channelId": "UCpewgkropQmuKSEUKXbV-1g",
-            "channelName": "tomo tomo",
-            "thumbnailUrl": "https://i.ytimg.com/vi/97Yc7fISuJk/maxresdefault.jpg",
-            "publishedAt": "2026-10-26T21:05:38Z",
-            "viewCount": 246366,
-            "viewIncrease": 1729,
-            "likeCount": 4142,
-            "likeIncrease": 13,
-            "commentCount": 107,
-            "commentIncrease": 0,
-            "subscriberCount": 65600,
-            "durationSeconds": 151,
-            "rawScore": 16.5,
-            "normalizedScore": 4.0,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 89.2,
-                "engagement": 16.7,
-                "subscriberRatio": 60.6,
-                "freshness": 9.9
-            }
-        },
-        {
-            "rank": 50,
-            "videoId": "7ZDsA5_rMOg",
-            "title": "貧乏人のBBQ",
-            "channelId": "UCFdtn8AGwGxF6qLtTa-IeJQ",
-            "channelName": "お肉が好き",
-            "thumbnailUrl": "https://i.ytimg.com/vi/7ZDsA5_rMOg/maxresdefault.jpg",
-            "publishedAt": "2026-10-22T10:27:54Z",
-            "viewCount": 3058732,
-            "viewIncrease": 2916,
-            "likeCount": 60005,
-            "likeIncrease": 45,
-            "commentCount": 459,
-            "commentIncrease": 0,
-            "subscriberCount": 57600,
-            "durationSeconds": 35,
-            "isShort": true,
-            "rawScore": 11.0,
-            "normalizedScore": 2.0,
-            "genres": [
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 97.1,
-                "engagement": 21.9,
-                "subscriberRatio": 67.6,
-                "freshness": 6.9,
-                "formatAdjustment": 85.0
+                "velocity": 129.7,
+                "engagement": 19.0,
+                "subscriberRatio": 67.5,
+                "freshness": 7.7
             }
         }
     ]
