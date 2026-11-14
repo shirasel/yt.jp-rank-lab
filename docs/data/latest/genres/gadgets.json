@@ -1,121 +1,193 @@
 {
-    "generatedAt": "2026-11-14T01:48:22.288620220Z",
+    "generatedAt": "2026-11-14T10:56:45.007885990Z",
     "period": "24h",
     "genre": {
         "slug": "gadgets",
         "name": "ガジェット",
         "confidence": 0.1
     },
-    "status": "reference",
-    "totalVideos": 16,
-    "totalChannels": 16,
+    "status": "official",
+    "totalVideos": 21,
+    "totalChannels": 19,
     "ranking": [
         {
             "rank": 1,
-            "videoId": "0jtQnuQx7Zw",
-            "title": "【覇権】Logicool G PRO X3 SUPERSTRIKEについて紹介 #shorts #ゆっくり解説 #ガジェット #ゲーミングマウス #apex  #logicool #ロジクール",
-            "channelId": "UCirC0wYzrpk4_OcremaibDA",
-            "channelName": "ほうラボch",
-            "thumbnailUrl": "https://i.ytimg.com/vi/0jtQnuQx7Zw/maxresdefault.jpg",
-            "publishedAt": "2026-11-14T01:18:03Z",
-            "viewCount": 323,
-            "viewIncrease": 323,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 347,
-            "durationSeconds": 58,
-            "isShort": true,
-            "rawScore": 82.8,
+            "videoId": "FFFKhnVNyCw",
+            "title": "毎日10時間勉強、それでも甘え！？　#令和の虎youth #ビジネス #新しい挑戦 #挑戦 #切り抜き #成果を出す #受験 #浪人 #勉強",
+            "channelId": "UCHi1z6_BQLjUzNlZn_18CRQ",
+            "channelName": "令和若虎通信【切り抜き】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/FFFKhnVNyCw/maxresdefault.jpg",
+            "publishedAt": "2026-11-14T09:00:19Z",
+            "viewCount": 5603,
+            "viewIncrease": 5603,
+            "likeCount": 52,
+            "likeIncrease": 52,
+            "commentCount": 3,
+            "commentIncrease": 3,
+            "subscriberCount": 10400,
+            "durationSeconds": 107,
+            "rawScore": 101.5,
             "normalizedScore": 100.0,
             "genres": [
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
-                    "confidence": 0.7
+                    "confidence": 0.3
                 },
                 {
                     "slug": "learning",
                     "name": "学習・情報",
-                    "confidence": 0.5
-                },
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
                     "confidence": 0.2
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 40.6,
-                "engagement": 25.6,
-                "subscriberRatio": 87.7,
-                "freshness": 63.2,
-                "formatAdjustment": 85.0
+                "velocity": 83.0,
+                "engagement": 25.0,
+                "subscriberRatio": 93.3,
+                "freshness": 50.4
             }
         },
         {
             "rank": 2,
-            "videoId": "sZnEenv1kSA",
-            "title": "勉強不足で京大医学部に来た男【wakatte.TV切り抜き】#wakattetv名場面",
-            "channelId": "UCYh3ydQfq0d7XbskAMmrY9A",
-            "channelName": "wakatte.TV名場面集[wakatte.切り抜き]",
-            "thumbnailUrl": "https://i.ytimg.com/vi/sZnEenv1kSA/maxresdefault.jpg",
-            "publishedAt": "2026-11-13T21:30:18Z",
-            "viewCount": 39071,
-            "viewIncrease": 39071,
-            "likeCount": 497,
-            "likeIncrease": 497,
-            "commentCount": 14,
-            "commentIncrease": 14,
-            "subscriberCount": 31000,
-            "durationSeconds": 37,
-            "isShort": true,
-            "rawScore": 81.5,
-            "normalizedScore": 93.3,
+            "videoId": "kduHuZJe8YI",
+            "title": "【マレーシア旅行】憧れの5つ星『Wクアラルンプール』宿泊記｜ペトロナスツインタワー目の前の絶景プール・豪華朝食・正直レビュー",
+            "channelId": "UCmWkxQZ38jK1fO6xCyh3iQA",
+            "channelName": "スカートで旅するCHIERU",
+            "thumbnailUrl": "https://i.ytimg.com/vi/kduHuZJe8YI/maxresdefault.jpg",
+            "publishedAt": "2026-11-14T10:00:21Z",
+            "viewCount": 1291,
+            "viewIncrease": 1291,
+            "likeCount": 152,
+            "likeIncrease": 152,
+            "commentCount": 20,
+            "commentIncrease": 20,
+            "subscriberCount": 281000,
+            "durationSeconds": 1733,
+            "rawScore": 95.0,
+            "normalizedScore": 95.0,
             "genres": [
                 {
-                    "slug": "learning",
-                    "name": "学習・情報",
-                    "confidence": 0.3
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.8
+                },
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 60.9,
+                "engagement": 60.1,
+                "subscriberRatio": 41.8,
+                "freshness": 58.4
+            }
+        },
+        {
+            "rank": 3,
+            "videoId": "6in68MduwbE",
+            "title": "【VLOG】5時起きして勉強＆筋トレする男の朝活ルーティン | 早起きを自動化する方法 | 僕のコンディション管理術 | 31歳筋トレ大好き社会人の朝活ルーティン (声有り/日本語字幕)",
+            "channelId": "UCJ3zt9G0J0G5M65WAj_o9sg",
+            "channelName": "Nagi Routine / なぎるーてぃん",
+            "thumbnailUrl": "https://i.ytimg.com/vi/6in68MduwbE/maxresdefault.jpg",
+            "publishedAt": "2026-11-14T09:00:00Z",
+            "viewCount": 521,
+            "viewIncrease": 521,
+            "likeCount": 22,
+            "likeIncrease": 22,
+            "commentCount": 3,
+            "commentIncrease": 3,
+            "subscriberCount": 20800,
+            "durationSeconds": 604,
+            "rawScore": 78.0,
+            "normalizedScore": 90.0,
+            "genres": [
+                {
+                    "slug": "sports",
+                    "name": "スポーツ",
+                    "confidence": 0.5
                 },
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
                     "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 47.5,
+                "engagement": 47.1,
+                "subscriberRatio": 60.0,
+                "freshness": 50.4
+            }
+        },
+        {
+            "rank": 4,
+            "videoId": "-A2Ss7AcYj8",
+            "title": "iPhone Duoと一緒に使う厳選アイテム 6選 #ガジェット",
+            "channelId": "UCnoVkG8k4CtehdKVrOCl81w",
+            "channelName": "たいち | ガジェット紹介",
+            "thumbnailUrl": "https://i.ytimg.com/vi/-A2Ss7AcYj8/maxresdefault.jpg",
+            "publishedAt": "2026-11-14T09:54:20Z",
+            "viewCount": 952,
+            "viewIncrease": 952,
+            "likeCount": 18,
+            "likeIncrease": 18,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 83400,
+            "durationSeconds": 35,
+            "isShort": true,
+            "rawScore": 64.0,
+            "normalizedScore": 85.0,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.9
                 },
                 {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
+                    "slug": "music",
+                    "name": "音楽",
                     "confidence": 0.2
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 112.4,
-                "engagement": 25.8,
-                "subscriberRatio": 102.5,
-                "freshness": 39.8,
+                "velocity": 56.3,
+                "engagement": 23.4,
+                "subscriberRatio": 51.5,
+                "freshness": 57.4,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 3,
-            "videoId": "2MQ-z1GVfuk",
-            "title": "#PR 効率化ガジェット実験①｜議事録を書かないメガネ Even G2実機レビュー #Shorts",
-            "channelId": "UCvM-hDH6Gv4rJcdAvEvvckg",
-            "channelName": "ととのう男の研究所",
-            "thumbnailUrl": "https://i.ytimg.com/vi/2MQ-z1GVfuk/maxresdefault.jpg",
-            "publishedAt": "2026-11-14T01:14:42Z",
-            "viewCount": 223,
-            "viewIncrease": 223,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 2,
-            "commentIncrease": 2,
-            "subscriberCount": 5060,
-            "durationSeconds": 79,
-            "rawScore": 76.1,
-            "normalizedScore": 86.7,
+            "rank": 5,
+            "videoId": "FrvWXBPHgLg",
+            "title": "iPad mini8をシンデレラフィットで収納できるポーチと厳選ガジェット",
+            "channelId": "UChTGmJ0EeyeEYCkP_Ndualg",
+            "channelName": "KOBA MotoChannel",
+            "thumbnailUrl": "https://i.ytimg.com/vi/FrvWXBPHgLg/maxresdefault.jpg",
+            "publishedAt": "2026-11-14T08:00:21Z",
+            "viewCount": 382,
+            "viewIncrease": 382,
+            "likeCount": 10,
+            "likeIncrease": 10,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 5020,
+            "durationSeconds": 533,
+            "rawScore": 63.4,
+            "normalizedScore": 80.0,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -124,71 +196,100 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 35.4,
-                "engagement": 19.9,
-                "subscriberRatio": 66.1,
-                "freshness": 62.6
+                "velocity": 43.0,
+                "engagement": 25.8,
+                "subscriberRatio": 72.0,
+                "freshness": 45.0
             }
         },
         {
-            "rank": 4,
-            "videoId": "P7o4CPRR_mY",
-            "title": "スパガ潦の動画俺だけ説 #スプラトゥーン3#スパイガジェット #マニボン",
-            "channelId": "UC_-AUv9c5oaiADfZPCyKGFA",
-            "channelName": "マニボン(moneybon)",
-            "thumbnailUrl": "https://i.ytimg.com/vi/P7o4CPRR_mY/maxresdefault.jpg",
-            "publishedAt": "2026-11-13T23:30:36Z",
-            "viewCount": 748,
-            "viewIncrease": 748,
-            "likeCount": 5,
-            "likeIncrease": 5,
+            "rank": 6,
+            "videoId": "f-L_Li4MEhE",
+            "title": "このボールにマイクが108個 Blackmagic Ambisonic Microphone #ガジェット",
+            "channelId": "UCoim1_DZpE-s_O_uwFj4OuA",
+            "channelName": "Gadget Terminal",
+            "thumbnailUrl": "https://i.ytimg.com/vi/f-L_Li4MEhE/maxresdefault.jpg",
+            "publishedAt": "2026-11-14T08:00:21Z",
+            "viewCount": 758,
+            "viewIncrease": 758,
+            "likeCount": 2,
+            "likeIncrease": 2,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 181,
-            "durationSeconds": 29,
+            "subscriberCount": 25,
+            "durationSeconds": 17,
             "isShort": true,
-            "rawScore": 68.0,
-            "normalizedScore": 80.0,
+            "rawScore": 61.2,
+            "normalizedScore": 75.0,
             "genres": [
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
-                    "confidence": 0.7
-                },
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.3
+                    "confidence": 0.99
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 52.8,
-                "engagement": 15.9,
-                "subscriberRatio": 96.8,
-                "freshness": 48.3,
+                "velocity": 53.0,
+                "engagement": 10.1,
+                "subscriberRatio": 97.0,
+                "freshness": 45.0,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 5,
-            "previousRank": 3,
-            "rankChange": -2,
+            "rank": 7,
+            "videoId": "ecWK-qSG9B4",
+            "title": "休日の持ちもの｜日々持ち歩くガジェットと久々に持ち出したFUJIFILM X-E5",
+            "channelId": "UCeFoJgdfCsJk74cP4hxUDaA",
+            "channelName": "Harushika",
+            "thumbnailUrl": "https://i.ytimg.com/vi/ecWK-qSG9B4/maxresdefault.jpg",
+            "publishedAt": "2026-11-14T10:30:33Z",
+            "viewCount": 160,
+            "viewIncrease": 160,
+            "likeCount": 1,
+            "likeIncrease": 1,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 4850,
+            "durationSeconds": 10,
+            "isShort": true,
+            "rawScore": 59.6,
+            "normalizedScore": 70.0,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.9
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 31.0,
+                "engagement": 15.5,
+                "subscriberRatio": 63.0,
+                "freshness": 64.1,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 8,
+            "previousRank": 79,
+            "rankChange": 71,
             "videoId": "eNlppthzST4",
             "title": "「ストリートファイターリーグ JAPAN 2026」Division S 第8節　☆☆18時40分より初心者必見！SFリーグ: ウォームアップ☆☆",
             "channelId": "UCu2Fxqf37DAZ0ZhIsd1FZwA",
             "channelName": "Capcom Fighters JP",
             "thumbnailUrl": "https://i.ytimg.com/vi/eNlppthzST4/maxresdefault.jpg",
             "publishedAt": "2026-11-13T14:37:17Z",
-            "viewCount": 1064155,
-            "viewIncrease": 19559,
-            "likeCount": 6941,
-            "likeIncrease": 143,
-            "commentCount": 168,
-            "commentIncrease": 33,
-            "subscriberCount": 291000,
+            "viewCount": 1099093,
+            "viewIncrease": 34938,
+            "likeCount": 7127,
+            "likeIncrease": 186,
+            "commentCount": 216,
+            "commentIncrease": 48,
+            "subscriberCount": 292000,
             "durationSeconds": 17521,
-            "rawScore": 62.6,
-            "normalizedScore": 73.3,
+            "rawScore": 48.2,
+            "normalizedScore": 65.0,
             "genres": [
                 {
                     "slug": "gaming",
@@ -217,70 +318,75 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 128.5,
-                "engagement": 28.3,
-                "subscriberRatio": 70.7,
-                "freshness": 27.5
+                "velocity": 125.4,
+                "engagement": 25.2,
+                "subscriberRatio": 77.0,
+                "freshness": 21.2
             }
         },
         {
-            "rank": 6,
-            "videoId": "9vEu_t_EBfg",
-            "title": "今日のガジェットニュース一挙3選！Anker新作2機種発売・Skullcandy先行販売1億円突破｜ガジェ吉研究所",
-            "channelId": "UCvexhU0cqiZTXuRGoelIp3g",
-            "channelName": "ガジェ吉研究所",
-            "thumbnailUrl": "https://i.ytimg.com/vi/9vEu_t_EBfg/maxresdefault.jpg",
-            "publishedAt": "2026-11-14T00:16:31Z",
-            "viewCount": 18,
-            "viewIncrease": 18,
+            "rank": 9,
+            "videoId": "h2Ygg2P7JLs",
+            "title": "【AIニュース解説】AI が支払う財布 ChatGPT Wallet をざっくり",
+            "channelId": "UCWT0jd65NooJoWc2CVPuFcw",
+            "channelName": "hyper house",
+            "thumbnailUrl": "https://i.ytimg.com/vi/h2Ygg2P7JLs/maxresdefault.jpg",
+            "publishedAt": "2026-11-14T07:50:22Z",
+            "viewCount": 163,
+            "viewIncrease": 163,
             "likeCount": 0,
             "likeIncrease": 0,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 9,
-            "durationSeconds": 86,
-            "rawScore": 48.6,
-            "normalizedScore": 66.7,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 6,
+            "durationSeconds": 60,
+            "isShort": true,
+            "rawScore": 42.0,
+            "normalizedScore": 60.0,
             "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.7
-                },
                 {
                     "slug": "learning",
                     "name": "学習・情報",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
                     "confidence": 0.3
+                },
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.2
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 8.5,
-                "engagement": 26.1,
-                "subscriberRatio": 56.4,
-                "freshness": 53.3
+                "velocity": 31.2,
+                "engagement": 0.0,
+                "subscriberRatio": 80.3,
+                "freshness": 44.3,
+                "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 7,
-            "previousRank": 84,
-            "rankChange": 77,
+            "rank": 10,
             "videoId": "h8NbfE0q774",
             "title": "TORRASのiPhone Duoケースがすごいぞ！",
             "channelId": "UCGZN5iM08by_vcJMhnM_6-Q",
             "channelName": "ガジェットモ",
             "thumbnailUrl": "https://i.ytimg.com/vi/h8NbfE0q774/maxresdefault.jpg",
             "publishedAt": "2026-11-13T11:00:36Z",
-            "viewCount": 108614,
-            "viewIncrease": 18038,
-            "likeCount": 1813,
-            "likeIncrease": 272,
-            "commentCount": 35,
-            "commentIncrease": 5,
+            "viewCount": 142794,
+            "viewIncrease": 34180,
+            "likeCount": 2180,
+            "likeIncrease": 367,
+            "commentCount": 46,
+            "commentIncrease": 11,
             "subscriberCount": 159000,
             "durationSeconds": 42,
             "isShort": true,
-            "rawScore": 47.7,
-            "normalizedScore": 60.0,
+            "rawScore": 38.8,
+            "normalizedScore": 55.0,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -289,66 +395,66 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 127.3,
-                "engagement": 26.2,
-                "subscriberRatio": 76.4,
-                "freshness": 24.4,
+                "velocity": 125.1,
+                "engagement": 24.3,
+                "subscriberRatio": 83.3,
+                "freshness": 19.6,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 8,
-            "videoId": "sdTcmS46n-c",
-            "title": "【セール】UGREEN神ガジェット5選！ #セール #ガジェット",
-            "channelId": "UCzmcKw4ENxXDbFzAa4UFISA",
-            "channelName": "ガジェ速ch",
-            "thumbnailUrl": "https://i.ytimg.com/vi/sdTcmS46n-c/maxresdefault.jpg",
-            "publishedAt": "2026-11-13T23:09:17Z",
-            "viewCount": 93,
-            "viewIncrease": 93,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 49,
-            "durationSeconds": 36,
+            "rank": 11,
+            "videoId": "oGMpA2AQ9C4",
+            "title": "大人も思わず見入る赤ちゃん向けの本",
+            "channelId": "UCcYIWRvuaPoNrXQDv7qYfRQ",
+            "channelName": "パパラボ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/oGMpA2AQ9C4/maxresdefault.jpg",
+            "publishedAt": "2026-11-12T13:47:12Z",
+            "viewCount": 520199,
+            "viewIncrease": 388874,
+            "likeCount": 7103,
+            "likeIncrease": 5395,
+            "commentCount": 142,
+            "commentIncrease": 109,
+            "subscriberCount": 53800,
+            "durationSeconds": 35,
             "isShort": true,
-            "rawScore": 47.0,
-            "normalizedScore": 53.3,
+            "rawScore": 38.3,
+            "normalizedScore": 50.0,
             "genres": [
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
-                    "confidence": 0.99
+                    "confidence": 0.1
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 24.1,
-                "engagement": 20.9,
-                "subscriberRatio": 74.2,
-                "freshness": 46.4,
+                "velocity": 162.0,
+                "engagement": 25.7,
+                "subscriberRatio": 121.5,
+                "freshness": 14.6,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 9,
+            "rank": 12,
             "videoId": "CE9M7itQWY4",
             "title": "わがまま御曹司がたった一杯で心を開いた理由 #映画紹介",
             "channelId": "UCXjQZnKRnj56WTzsm8eTgrQ",
             "channelName": "ベベムービー映画レビュー",
             "thumbnailUrl": "https://i.ytimg.com/vi/CE9M7itQWY4/maxresdefault.jpg",
             "publishedAt": "2026-11-12T00:00:06Z",
-            "viewCount": 2719752,
-            "viewIncrease": 182259,
-            "likeCount": 55045,
-            "likeIncrease": 4893,
-            "commentCount": 843,
-            "commentIncrease": 83,
-            "subscriberCount": 70200,
+            "viewCount": 3261890,
+            "viewIncrease": 542138,
+            "likeCount": 65247,
+            "likeIncrease": 10202,
+            "commentCount": 960,
+            "commentIncrease": 117,
+            "subscriberCount": 70500,
             "durationSeconds": 56,
             "isShort": true,
-            "rawScore": 36.0,
-            "normalizedScore": 46.7,
+            "rawScore": 34.5,
+            "normalizedScore": 45.0,
             "genres": [
                 {
                     "slug": "anime",
@@ -367,101 +473,70 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 162.4,
-                "engagement": 32.2,
-                "subscriberRatio": 110.4,
-                "freshness": 13.9,
+                "velocity": 167.1,
+                "engagement": 27.2,
+                "subscriberRatio": 122.1,
+                "freshness": 12.8,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 10,
-            "videoId": "oGMpA2AQ9C4",
-            "title": "大人も思わず見入る赤ちゃん向けの本",
-            "channelId": "UCcYIWRvuaPoNrXQDv7qYfRQ",
-            "channelName": "パパラボ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/oGMpA2AQ9C4/maxresdefault.jpg",
-            "publishedAt": "2026-11-12T13:47:12Z",
-            "viewCount": 131325,
-            "viewIncrease": 21763,
-            "likeCount": 1708,
-            "likeIncrease": 629,
-            "commentCount": 33,
-            "commentIncrease": 16,
-            "subscriberCount": 53700,
-            "durationSeconds": 35,
+            "rank": 13,
+            "videoId": "A1RMQK2_X3U",
+            "title": "11/12 ガジェットニュース｜Google Pixel Tagが日本発売、単品5,010円",
+            "channelId": "UCNdZe5s5VwhUzqtWbG8j_zA",
+            "channelName": "zari _ai_studio",
+            "thumbnailUrl": "https://i.ytimg.com/vi/A1RMQK2_X3U/maxresdefault.jpg",
+            "publishedAt": "2026-11-14T07:36:03Z",
+            "viewCount": 16,
+            "viewIncrease": 16,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 16,
+            "durationSeconds": 55,
             "isShort": true,
-            "rawScore": 35.1,
+            "rawScore": 23.2,
             "normalizedScore": 40.0,
             "genres": [
                 {
                     "slug": "gadgets",
                     "name": "ガジェット",
-                    "confidence": 0.1
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 130.1,
-                "engagement": 34.6,
-                "subscriberRatio": 90.2,
-                "freshness": 16.2,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 11,
-            "videoId": "L6ruXflry4M",
-            "title": "Mummy ke liye ये 4 Cleaning Gadgets for Diwali #gadgets #diwalispecial #amazonfinds #techiela",
-            "channelId": "UCOTGVctbHD4UJK3R6Evfx9Q",
-            "channelName": "TECH-iELA Shorts",
-            "thumbnailUrl": "https://i.ytimg.com/vi/L6ruXflry4M/maxresdefault.jpg",
-            "publishedAt": "2026-11-01T06:55:54Z",
-            "viewCount": 4363083,
-            "viewIncrease": 4363083,
-            "sevenDayViewIncrease": 1432908,
-            "likeCount": 67774,
-            "likeIncrease": 67774,
-            "commentCount": 149,
-            "commentIncrease": 149,
-            "subscriberCount": 10900000,
-            "durationSeconds": 58,
-            "isShort": true,
-            "rawScore": 22.9,
-            "normalizedScore": 33.3,
-            "genres": [
+                    "confidence": 0.99
+                },
                 {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
+                    "slug": "learning",
+                    "name": "学習・情報",
                     "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 184.1,
-                "engagement": 22.8,
-                "subscriberRatio": 90.1,
-                "freshness": 5.7,
-                "sevenDayVelocity": 10.0,
+                "velocity": 7.8,
+                "engagement": 0.0,
+                "subscriberRatio": 55.2,
+                "freshness": 43.3,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 12,
+            "rank": 14,
             "videoId": "HVjFZMPGYC0",
             "title": "ほぼ全てが壊れているDSliteを全て直しつつ、TYPE-C改造までします！",
             "channelId": "UCiBXkgUQ5rWeNehXsMimYRg",
             "channelName": "和田【Retro Games】",
             "thumbnailUrl": "https://i.ytimg.com/vi/HVjFZMPGYC0/maxresdefault.jpg",
             "publishedAt": "2026-11-10T09:00:26Z",
-            "viewCount": 562701,
-            "viewIncrease": 7435,
-            "likeCount": 13800,
-            "likeIncrease": 212,
-            "commentCount": 247,
-            "commentIncrease": 1,
+            "viewCount": 583104,
+            "viewIncrease": 20403,
+            "likeCount": 14206,
+            "likeIncrease": 406,
+            "commentCount": 253,
+            "commentIncrease": 6,
             "subscriberCount": 279000,
             "durationSeconds": 166,
-            "rawScore": 21.4,
-            "normalizedScore": 26.7,
+            "rawScore": 21.7,
+            "normalizedScore": 35.0,
             "genres": [
                 {
                     "slug": "gaming",
@@ -475,31 +550,31 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 113.8,
-                "engagement": 29.1,
-                "subscriberRatio": 60.7,
-                "freshness": 10.5
+                "velocity": 117.2,
+                "engagement": 28.5,
+                "subscriberRatio": 71.6,
+                "freshness": 10.0
             }
         },
         {
-            "rank": 13,
+            "rank": 14,
             "videoId": "roOiOV3DlO4",
             "title": "欠損だらけのゴミ基板から動くSwitchを作ることは出来るのか？",
             "channelId": "UCCWLJImQvwHTXTe5Z_88zmw",
             "channelName": "おじおじ ジャパン",
             "thumbnailUrl": "https://i.ytimg.com/vi/roOiOV3DlO4/maxresdefault.jpg",
             "publishedAt": "2026-11-06T11:00:16Z",
-            "viewCount": 476137,
-            "viewIncrease": 1153,
-            "sevenDayViewIncrease": 264026,
-            "likeCount": 5808,
-            "likeIncrease": 9,
-            "commentCount": 563,
-            "commentIncrease": 0,
+            "viewCount": 481015,
+            "viewIncrease": 4878,
+            "sevenDayViewIncrease": 193993,
+            "likeCount": 5826,
+            "likeIncrease": 18,
+            "commentCount": 564,
+            "commentIncrease": 1,
             "subscriberCount": 429000,
             "durationSeconds": 5043,
-            "rawScore": 20.2,
-            "normalizedScore": 20.0,
+            "rawScore": 21.7,
+            "normalizedScore": 35.0,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -513,33 +588,33 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 85.5,
-                "engagement": 17.0,
-                "subscriberRatio": 36.1,
-                "freshness": 7.4,
+                "velocity": 95.5,
+                "engagement": 15.8,
+                "subscriberRatio": 51.5,
+                "freshness": 7.2,
                 "sevenDayVelocity": 10.0
             }
         },
         {
-            "rank": 14,
+            "rank": 16,
             "videoId": "RssuQeofM7Q",
             "title": "声でマスクが自動開閉！？マーベル公式アイアンマンイヤホンが凄すぎる",
             "channelId": "UCATv06SWiBTAyyf07mrRydA",
             "channelName": "ガジェット兄さん",
             "thumbnailUrl": "https://i.ytimg.com/vi/RssuQeofM7Q/maxresdefault.jpg",
             "publishedAt": "2026-11-01T08:30:23Z",
-            "viewCount": 2920276,
-            "viewIncrease": 16431,
-            "sevenDayViewIncrease": 930274,
-            "likeCount": 35159,
-            "likeIncrease": 300,
-            "commentCount": 407,
-            "commentIncrease": 2,
+            "viewCount": 2968876,
+            "viewIncrease": 48600,
+            "sevenDayViewIncrease": 903084,
+            "likeCount": 35570,
+            "likeIncrease": 411,
+            "commentCount": 408,
+            "commentIncrease": 1,
             "subscriberCount": 101000,
             "durationSeconds": 26,
             "isShort": true,
-            "rawScore": 19.7,
-            "normalizedScore": 13.3,
+            "rawScore": 20.0,
+            "normalizedScore": 25.0,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -548,32 +623,145 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 125.9,
-                "engagement": 25.6,
-                "subscriberRatio": 80.3,
-                "freshness": 5.7,
+                "velocity": 130.4,
+                "engagement": 18.1,
+                "subscriberRatio": 92.1,
+                "freshness": 5.6,
                 "sevenDayVelocity": 10.0,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 15,
-            "videoId": "OW2yM0z5guI",
-            "title": "ななのガジェット紹介｜AIがガジェット雑談をしています",
-            "channelId": "UCPD3GwcZGswsHqFeA2wrLKA",
-            "channelName": "ななのガジェットラボ",
-            "thumbnailUrl": "https://i.ytimg.com/vi/OW2yM0z5guI/maxresdefault.jpg",
-            "publishedAt": "2026-11-13T20:29:44Z",
+            "rank": 17,
+            "videoId": "L6ruXflry4M",
+            "title": "Mummy ke liye ये 4 Cleaning Gadgets for Diwali #gadgets #diwalispecial #amazonfinds #techiela",
+            "channelId": "UCOTGVctbHD4UJK3R6Evfx9Q",
+            "channelName": "TECH-iELA Shorts",
+            "thumbnailUrl": "https://i.ytimg.com/vi/L6ruXflry4M/maxresdefault.jpg",
+            "publishedAt": "2026-11-01T06:55:54Z",
+            "viewCount": 4430814,
+            "viewIncrease": 67731,
+            "sevenDayViewIncrease": 1368557,
+            "likeCount": 68626,
+            "likeIncrease": 852,
+            "commentCount": 151,
+            "commentIncrease": 2,
+            "subscriberCount": 10900000,
+            "durationSeconds": 58,
+            "isShort": true,
+            "rawScore": 18.1,
+            "normalizedScore": 20.0,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 135.5,
+                "engagement": 21.1,
+                "subscriberRatio": 45.0,
+                "freshness": 5.6,
+                "sevenDayVelocity": 10.0,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 18,
+            "videoId": "T6N6FDg2ILw",
+            "title": "【AIニュース解説】ChatGPT Wallet とは？｜AI がカード番号を渡さずに支払う財布｜グプタ先生がざっくり解説【2026年11月版】",
+            "channelId": "UCWT0jd65NooJoWc2CVPuFcw",
+            "channelName": "hyper house",
+            "thumbnailUrl": "https://i.ytimg.com/vi/T6N6FDg2ILw/maxresdefault.jpg",
+            "publishedAt": "2026-11-14T07:30:13Z",
             "viewCount": 1,
             "viewIncrease": 1,
             "likeCount": 0,
             "likeIncrease": 0,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 1,
-            "durationSeconds": 62,
+            "subscriberCount": 6,
+            "durationSeconds": 125,
+            "rawScore": 11.4,
+            "normalizedScore": 15.0,
+            "genres": [
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.8
+                },
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "anime",
+                    "name": "アニメ",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 0.6,
+                "engagement": 0.0,
+                "subscriberRatio": 26.0,
+                "freshness": 42.9
+            }
+        },
+        {
+            "rank": 19,
+            "videoId": "VoJB8jOG6lQ",
+            "title": "モバイルバッテリー#スマホ #ガジェット #バッテリー",
+            "channelId": "UCS5ZeuT2vP8xPl7hf38wxRA",
+            "channelName": "Ana Moraes👑",
+            "thumbnailUrl": "https://i.ytimg.com/vi/VoJB8jOG6lQ/maxresdefault.jpg",
+            "publishedAt": "2026-11-14T08:42:14Z",
+            "viewCount": 1,
+            "viewIncrease": 1,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 4,
+            "durationSeconds": 19,
+            "isShort": true,
+            "rawScore": 11.0,
+            "normalizedScore": 10.0,
+            "genres": [
+                {
+                    "slug": "gadgets",
+                    "name": "ガジェット",
+                    "confidence": 0.99
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 0.6,
+                "engagement": 0.0,
+                "subscriberRatio": 26.0,
+                "freshness": 48.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 20,
+            "videoId": "Do8BgvkEbCI",
+            "title": "11/13 ガジェットニュース｜Pixel Tag、4個セットの1個あたりは？",
+            "channelId": "UCNdZe5s5VwhUzqtWbG8j_zA",
+            "channelName": "zari _ai_studio",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Do8BgvkEbCI/maxresdefault.jpg",
+            "publishedAt": "2026-11-14T07:43:48Z",
+            "viewCount": 1,
+            "viewIncrease": 1,
+            "likeCount": 0,
+            "likeIncrease": 0,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 16,
+            "durationSeconds": 59,
+            "isShort": true,
             "rawScore": 9.9,
-            "normalizedScore": 6.7,
+            "normalizedScore": 5.0,
             "genres": [
                 {
                     "slug": "gadgets",
@@ -581,35 +769,36 @@
                     "confidence": 0.99
                 },
                 {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.1
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
                 "velocity": 0.6,
                 "engagement": 0.0,
                 "subscriberRatio": 26.0,
-                "freshness": 37.0
+                "freshness": 43.9,
+                "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 16,
+            "rank": 21,
             "videoId": "9JTSIX3tA6M",
             "title": "視聴者がこれだけは絶対にうめえから食べろって言った熊本の【赤龍】、本当に美味しいのか料理研究がジャッジします #リュウジ #熊本 #ラーメン #レビュー #バズレシピ",
             "channelId": "UCW01sMEVYQdhcvkrhbxdBpw",
             "channelName": "料理研究家リュウジのバズレシピ",
             "thumbnailUrl": "https://i.ytimg.com/vi/9JTSIX3tA6M/maxresdefault.jpg",
             "publishedAt": "2026-11-01T08:00:21Z",
-            "viewCount": 2370448,
-            "viewIncrease": 1334,
-            "likeCount": 29133,
-            "likeIncrease": 19,
+            "viewCount": 2375942,
+            "viewIncrease": 5494,
+            "likeCount": 29187,
+            "likeIncrease": 54,
             "commentCount": 598,
             "commentIncrease": 0,
             "subscriberCount": 5710000,
             "durationSeconds": 62,
-            "rawScore": 7.0,
+            "rawScore": 8.0,
             "normalizedScore": 0.0,
             "genres": [
                 {
@@ -634,10 +823,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 87.7,
-                "engagement": 21.3,
-                "subscriberRatio": 13.1,
-                "freshness": 5.7
+                "velocity": 97.3,
+                "engagement": 18.6,
+                "subscriberRatio": 25.7,
+                "freshness": 5.6
             }
         }
     ]
