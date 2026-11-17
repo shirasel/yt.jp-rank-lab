@@ -1,75 +1,109 @@
 {
-    "generatedAt": "2026-11-17T12:28:48.493377518Z",
+    "generatedAt": "2026-11-17T23:10:02.038294487Z",
     "period": "24h",
     "genre": {
         "slug": "beauty",
         "name": "美容",
-        "confidence": 0.3
+        "confidence": 0.2
     },
     "status": "reference",
-    "totalVideos": 19,
-    "totalChannels": 19,
+    "totalVideos": 18,
+    "totalChannels": 16,
     "ranking": [
         {
             "rank": 1,
-            "videoId": "f0v8HPRLjOo",
-            "title": "【2026年ベスコス候補】プチプラで大人気のコスメを検証してみた。本音の正直レビューでご紹介するぞ。",
-            "channelId": "UCAuXeTGFOwvQd450otPYXHQ",
-            "channelName": "美容ノゆうや",
-            "thumbnailUrl": "https://i.ytimg.com/vi/f0v8HPRLjOo/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T11:17:01Z",
-            "viewCount": 3452,
-            "viewIncrease": 3452,
-            "likeCount": 184,
-            "likeIncrease": 184,
-            "commentCount": 11,
-            "commentIncrease": 11,
-            "subscriberCount": 234000,
-            "durationSeconds": 83,
-            "rawScore": 98.6,
+            "videoId": "GoIVhKFeicc",
+            "title": "【GTAV】もうすぐ新作来る前にたくさん遊びたい！【ホロライブ/さくらみこ】",
+            "channelId": "UC-hM6YJuNYVAmUWxeIr9FeA",
+            "channelName": "Miko Ch. さくらみこ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/GoIVhKFeicc/maxresdefault.jpg",
+            "publishedAt": "2026-11-17T14:19:25Z",
+            "viewCount": 396405,
+            "viewIncrease": 396405,
+            "likeCount": 14016,
+            "likeIncrease": 14016,
+            "commentCount": 194,
+            "commentIncrease": 194,
+            "subscriberCount": 2460000,
+            "durationSeconds": 7339,
+            "rawScore": 79.7,
             "normalizedScore": 100.0,
+            "genres": [
+                {
+                    "slug": "gaming",
+                    "name": "ゲーム",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.2
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.1
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 147.6,
+                "engagement": 34.5,
+                "subscriberRatio": 80.2,
+                "freshness": 30.4
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "eJpTlNpK4Z4",
+            "title": "【唇の救世主】タイプ別！おすすめ美容液リップ5選💄 👇ご紹介商品はこちら👇 ①LANEIGE/ラネージュ リップスリーピングマスク 2,3...",
+            "channelId": "UCF4YPz2RlowjoNB8cGQyJJw",
+            "channelName": "cosme美容部員",
+            "thumbnailUrl": "https://i.ytimg.com/vi/eJpTlNpK4Z4/sddefault.jpg",
+            "publishedAt": "2026-11-17T19:56:40Z",
+            "viewCount": 338,
+            "viewIncrease": 338,
+            "likeCount": 3,
+            "likeIncrease": 3,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 28,
+            "durationSeconds": 82,
+            "rawScore": 64.5,
+            "normalizedScore": 94.1,
             "genres": [
                 {
                     "slug": "beauty",
                     "name": "美容",
                     "confidence": 0.99
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.2
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 75.6,
-                "engagement": 46.0,
-                "subscriberRatio": 54.3,
-                "freshness": 56.0
+                "velocity": 41.2,
+                "engagement": 17.9,
+                "subscriberRatio": 88.2,
+                "freshness": 43.8
             }
         },
         {
             "rank": 2,
+            "previousRank": 23,
+            "rankChange": 21,
             "videoId": "GT57q_WopRY",
             "title": "【衝撃展開】美容のプロ2人のバッグの中身を見せ合ったら、意外すぎた　かずのすけさんと夢のコラボ実現！",
             "channelId": "UCX65aRSQMMpgcVH4dlirwAA",
             "channelName": "現役化粧品研究員としくん",
             "thumbnailUrl": "https://i.ytimg.com/vi/GT57q_WopRY/maxresdefault.jpg",
             "publishedAt": "2026-11-17T12:00:22Z",
-            "viewCount": 653,
-            "viewIncrease": 653,
-            "likeCount": 53,
-            "likeIncrease": 53,
-            "commentCount": 6,
-            "commentIncrease": 6,
+            "viewCount": 19564,
+            "viewIncrease": 18911,
+            "likeCount": 506,
+            "likeIncrease": 453,
+            "commentCount": 61,
+            "commentIncrease": 55,
             "subscriberCount": 112000,
             "durationSeconds": 1424,
-            "rawScore": 95.3,
-            "normalizedScore": 94.4,
+            "rawScore": 64.5,
+            "normalizedScore": 94.1,
             "genres": [
                 {
                     "slug": "beauty",
@@ -78,35 +112,36 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 50.8,
-                "engagement": 54.5,
-                "subscriberRatio": 44.3,
-                "freshness": 63.7
+                "velocity": 113.7,
+                "engagement": 39.4,
+                "subscriberRatio": 80.7,
+                "freshness": 27.6
             }
         },
         {
-            "rank": 3,
-            "videoId": "X4-elcBAagM",
-            "title": "「新・煮たまご」「たまごを殻から出して茹でる」 #料理",
-            "channelId": "UCEiY4EVOoZo9d8kO5b9Xijw",
-            "channelName": "「よだきんぼうキッチン」「新作料理、創作料理、受け継いだ料理、おいしいと思った料理をお届けします」",
-            "thumbnailUrl": "https://i.ytimg.com/vi/X4-elcBAagM/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T11:00:38Z",
-            "viewCount": 919,
-            "viewIncrease": 919,
-            "likeCount": 15,
-            "likeIncrease": 15,
+            "rank": 4,
+            "videoId": "5xNdtlfkW9A",
+            "title": "Paper stays put, tape’s right there 🎁 #giftwrapping #gadget #need #holidayseason #momlife #hacks",
+            "channelId": "UCj_X5D_2fOi0Y-0xXnRWVcw",
+            "channelName": "Little ELF Products, Inc.",
+            "thumbnailUrl": "https://i.ytimg.com/vi/5xNdtlfkW9A/maxresdefault.jpg",
+            "publishedAt": "2026-11-17T18:04:41Z",
+            "viewCount": 5651,
+            "viewIncrease": 5651,
+            "likeCount": 57,
+            "likeIncrease": 57,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 346,
-            "durationSeconds": 101,
-            "rawScore": 95.2,
-            "normalizedScore": 88.9,
+            "subscriberCount": 126000,
+            "durationSeconds": 10,
+            "isShort": true,
+            "rawScore": 53.7,
+            "normalizedScore": 82.4,
             "genres": [
                 {
                     "slug": "cooking",
                     "name": "料理",
-                    "confidence": 0.99
+                    "confidence": 0.3
                 },
                 {
                     "slug": "beauty",
@@ -115,74 +150,37 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 55.8,
-                "engagement": 22.3,
-                "subscriberRatio": 99.1,
-                "freshness": 53.7
-            }
-        },
-        {
-            "rank": 4,
-            "videoId": "6J7NCdLLcCw",
-            "title": "短音【ゼルダの伝説 時のオカリナリメイク】#ゲーム実況 #ゼルダの伝説時のオカリナ #nintendo",
-            "channelId": "UC2kIzx-DZ5_R2gY4tsDLGWw",
-            "channelName": "ぜんざい",
-            "thumbnailUrl": "https://i.ytimg.com/vi/6J7NCdLLcCw/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T11:26:07Z",
-            "viewCount": 905,
-            "viewIncrease": 905,
-            "likeCount": 11,
-            "likeIncrease": 11,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 2280,
-            "durationSeconds": 25,
-            "isShort": true,
-            "rawScore": 85.6,
-            "normalizedScore": 83.3,
-            "genres": [
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.8
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 55.6,
-                "engagement": 29.9,
-                "subscriberRatio": 90.0,
-                "freshness": 57.4,
+                "velocity": 83.1,
+                "engagement": 18.8,
+                "subscriberRatio": 66.3,
+                "freshness": 37.6,
                 "formatAdjustment": 85.0
             }
         },
         {
             "rank": 5,
-            "videoId": "1J_5fvMpKJM",
-            "title": "あと一口が止まらない！明太ポテサラ #料理 #簡単レシピ #副菜 #ポテサラ#shorts",
-            "channelId": "UC5BfSfkZxE9lyXJN1nLvXgQ",
-            "channelName": "moguの料理帖",
-            "thumbnailUrl": "https://i.ytimg.com/vi/1J_5fvMpKJM/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T11:00:35Z",
-            "viewCount": 522,
-            "viewIncrease": 522,
-            "likeCount": 3,
-            "likeIncrease": 3,
+            "videoId": "9LqVFEMa0Os",
+            "title": "The easiest way to cut wrapping paper 🎁 #giftwrapping #gadget #need #holidayseason #momlife #hacks",
+            "channelId": "UCj_X5D_2fOi0Y-0xXnRWVcw",
+            "channelName": "Little ELF Products, Inc.",
+            "thumbnailUrl": "https://i.ytimg.com/vi/9LqVFEMa0Os/maxresdefault.jpg",
+            "publishedAt": "2026-11-17T18:03:35Z",
+            "viewCount": 5619,
+            "viewIncrease": 5619,
+            "likeCount": 39,
+            "likeIncrease": 39,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 213,
-            "durationSeconds": 62,
-            "rawScore": 83.4,
-            "normalizedScore": 77.8,
+            "subscriberCount": 126000,
+            "durationSeconds": 11,
+            "isShort": true,
+            "rawScore": 52.8,
+            "normalizedScore": 76.5,
             "genres": [
                 {
                     "slug": "cooking",
                     "name": "料理",
-                    "confidence": 0.99
+                    "confidence": 0.3
                 },
                 {
                     "slug": "beauty",
@@ -191,273 +189,64 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 47.5,
-                "engagement": 14.9,
-                "subscriberRatio": 92.9,
-                "freshness": 53.7
+                "velocity": 83.0,
+                "engagement": 16.2,
+                "subscriberRatio": 66.3,
+                "freshness": 37.5,
+                "formatAdjustment": 85.0
             }
         },
         {
             "rank": 6,
-            "videoId": "_c4uavXrmtA",
-            "title": "50K TV ni Kapadé Chinna Gadget! ⚡ Voltage Protector Review | Telugu #shorts  #experiment",
-            "channelId": "UCzaFCD9TZPnSfyYoh-wGukA",
-            "channelName": "My Choice",
-            "thumbnailUrl": "https://i.ytimg.com/vi/_c4uavXrmtA/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T11:30:33Z",
-            "viewCount": 5041,
-            "viewIncrease": 5041,
-            "likeCount": 268,
-            "likeIncrease": 268,
+            "videoId": "Z4P10u-YIog",
+            "title": "正直やらなくてよかった外見磨き3選 #メンズ美容 #垢抜け #外見磨き",
+            "channelId": "UCw2JJWtkjgKXSFEBIuLi5Kw",
+            "channelName": "とき│大学生のリアルな垢抜け美容",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Z4P10u-YIog/maxresdefault.jpg",
+            "publishedAt": "2026-11-17T12:00:18Z",
+            "viewCount": 584,
+            "viewIncrease": 584,
+            "likeCount": 7,
+            "likeIncrease": 7,
             "commentCount": 1,
             "commentIncrease": 1,
-            "subscriberCount": 535000,
-            "durationSeconds": 48,
-            "isShort": true,
-            "rawScore": 81.7,
-            "normalizedScore": 72.2,
+            "subscriberCount": 41,
+            "durationSeconds": 61,
+            "rawScore": 48.3,
+            "normalizedScore": 70.6,
             "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
                 {
                     "slug": "beauty",
                     "name": "美容",
-                    "confidence": 0.3
+                    "confidence": 0.6
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 81.4,
-                "engagement": 34.8,
-                "subscriberRatio": 49.5,
-                "freshness": 58.1,
-                "formatAdjustment": 85.0
+                "velocity": 49.1,
+                "engagement": 31.8,
+                "subscriberRatio": 94.2,
+                "freshness": 27.6
             }
         },
         {
             "rank": 7,
-            "videoId": "Z930Ur9cYLo",
-            "title": "【衝撃】意外と知られていない美容の真実5選 #雑学 #shorts #美容",
-            "channelId": "UCGiosgkQrwZhKmZfOWeGrlw",
-            "channelName": "意外と知らない〇〇な真実",
-            "thumbnailUrl": "https://i.ytimg.com/vi/Z930Ur9cYLo/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T11:19:08Z",
-            "viewCount": 580,
-            "viewIncrease": 580,
-            "likeCount": 5,
-            "likeIncrease": 5,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 10,
-            "durationSeconds": 52,
-            "isShort": true,
-            "rawScore": 77.0,
-            "normalizedScore": 66.7,
-            "genres": [
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.9
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 49.0,
-                "engagement": 17.7,
-                "subscriberRatio": 94.1,
-                "freshness": 56.3,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 8,
-            "videoId": "JKG1k7Av6XM",
-            "title": "【自分に合ったコスメの選び方】 #美容鍼 #たるみ #アンチエイジング #老化 #老化防止",
-            "channelId": "UCxKpYXtpy5ZqqCtiIv03i3A",
-            "channelName": "大阪美容鍼灸師 IKEZAKI",
-            "thumbnailUrl": "https://i.ytimg.com/vi/JKG1k7Av6XM/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T11:05:06Z",
-            "viewCount": 615,
-            "viewIncrease": 615,
-            "likeCount": 4,
-            "likeIncrease": 4,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 386,
-            "durationSeconds": 48,
-            "isShort": true,
-            "rawScore": 74.1,
-            "normalizedScore": 61.1,
-            "genres": [
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.99
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 49.9,
-                "engagement": 15.8,
-                "subscriberRatio": 94.7,
-                "freshness": 54.4,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 9,
-            "videoId": "8f5vZjstz2U",
-            "title": "レイヤーカットを極めた20代美容師のカット技術にMC2人も驚愕...【BEAUTY ROAD】#shorts",
-            "channelId": "UC63ztuXmI9nti9dG3EgzUkg",
-            "channelName": "BEAUTY ROAD【美容リアリティ番組】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/8f5vZjstz2U/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T11:48:50Z",
-            "viewCount": 492,
-            "viewIncrease": 492,
-            "likeCount": 2,
-            "likeIncrease": 2,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 30900,
-            "durationSeconds": 150,
-            "rawScore": 70.3,
-            "normalizedScore": 55.6,
-            "genres": [
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.8
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 46.6,
-                "engagement": 12.7,
-                "subscriberRatio": 55.1,
-                "freshness": 61.4
-            }
-        },
-        {
-            "rank": 10,
-            "videoId": "BH35cSKXzSA",
-            "title": "【40代】キャンメイクだけでメイクをしたら、、 #40代 #美容 #メイク #コスメ",
-            "channelId": "UCsKpPQiTjZl03ulOCdiLsXw",
-            "channelName": "MAI TAKASUGI",
-            "thumbnailUrl": "https://i.ytimg.com/vi/BH35cSKXzSA/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T11:54:53Z",
-            "viewCount": 1508,
-            "viewIncrease": 1508,
-            "likeCount": 16,
-            "likeIncrease": 16,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 159000,
-            "durationSeconds": 34,
-            "isShort": true,
-            "rawScore": 70.2,
-            "normalizedScore": 50.0,
-            "genres": [
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.99
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 63.2,
-                "engagement": 19.2,
-                "subscriberRatio": 49.5,
-                "freshness": 62.6,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 11,
-            "videoId": "JHx7zp2y7fc",
-            "title": "ガジェット第７研究所 第3弾 完成版",
-            "channelId": "UCGmx0YEBcSTj9pcqCHsNPIA",
-            "channelName": "ガジェット第7研究室",
-            "thumbnailUrl": "https://i.ytimg.com/vi/JHx7zp2y7fc/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T12:00:15Z",
-            "viewCount": 139,
-            "viewIncrease": 139,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 11,
-            "durationSeconds": 35,
-            "isShort": true,
-            "rawScore": 67.2,
-            "normalizedScore": 44.4,
-            "genres": [
-                {
-                    "slug": "gadgets",
-                    "name": "ガジェット",
-                    "confidence": 0.99
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 29.1,
-                "engagement": 16.4,
-                "subscriberRatio": 78.6,
-                "freshness": 63.7,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 12,
             "videoId": "Mbfly9_u0lA",
             "title": "【超速報】ラメ好き必見のリプモン限定色🎄✨ #美容 #コスメレビュー #コスメレポ #垢抜け #プチプラコスメ #新作コスメ #リップモンスター #makeup #shorts",
             "channelId": "UCqKxCTSCBhOl8FvkAvua6Qw",
             "channelName": "めるも【ステマしません⚠️】",
             "thumbnailUrl": "https://i.ytimg.com/vi/Mbfly9_u0lA/maxresdefault.jpg",
             "publishedAt": "2026-11-17T12:00:32Z",
-            "viewCount": 546,
-            "viewIncrease": 546,
-            "likeCount": 12,
-            "likeIncrease": 12,
+            "viewCount": 6384,
+            "viewIncrease": 5838,
+            "likeCount": 147,
+            "likeIncrease": 135,
             "commentCount": 0,
             "commentIncrease": 0,
             "subscriberCount": 58500,
             "durationSeconds": 24,
             "isShort": true,
-            "rawScore": 66.0,
-            "normalizedScore": 38.9,
+            "rawScore": 45.9,
+            "normalizedScore": 64.7,
             "genres": [
                 {
                     "slug": "beauty",
@@ -471,63 +260,77 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 48.1,
-                "engagement": 24.5,
-                "subscriberRatio": 49.4,
-                "freshness": 63.7,
+                "velocity": 95.8,
+                "engagement": 24.9,
+                "subscriberRatio": 75.0,
+                "freshness": 27.6,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 13,
-            "videoId": "r2fUdYsohlQ",
-            "title": "みなさんは何問分かりましたか？#東京リフトクリニック #美肌 #美容 #アンチエイジング #美容医療",
-            "channelId": "UCVPDieLYHeM2ZNqpaPk34Bw",
-            "channelName": "Dr.よしと【Tokyo Lift Clinic】",
-            "thumbnailUrl": "https://i.ytimg.com/vi/r2fUdYsohlQ/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T11:04:52Z",
-            "viewCount": 293,
-            "viewIncrease": 293,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 1,
-            "commentIncrease": 1,
-            "subscriberCount": 10700,
-            "durationSeconds": 65,
-            "rawScore": 62.7,
-            "normalizedScore": 33.3,
+            "rank": 8,
+            "previousRank": 93,
+            "rankChange": 85,
+            "videoId": "BH35cSKXzSA",
+            "title": "【40代】キャンメイクだけでメイクをしたら、、 #40代 #美容 #メイク #コスメ",
+            "channelId": "UCsKpPQiTjZl03ulOCdiLsXw",
+            "channelName": "MAI TAKASUGI",
+            "thumbnailUrl": "https://i.ytimg.com/vi/BH35cSKXzSA/maxresdefault.jpg",
+            "publishedAt": "2026-11-17T11:54:53Z",
+            "viewCount": 12265,
+            "viewIncrease": 10757,
+            "likeCount": 99,
+            "likeIncrease": 83,
+            "commentCount": 2,
+            "commentIncrease": 2,
+            "subscriberCount": 159000,
+            "durationSeconds": 34,
+            "isShort": true,
+            "rawScore": 45.8,
+            "normalizedScore": 58.8,
             "genres": [
                 {
                     "slug": "beauty",
                     "name": "美容",
-                    "confidence": 0.6
+                    "confidence": 0.99
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 39.2,
-                "engagement": 15.1,
-                "subscriberRatio": 61.0,
-                "freshness": 54.4
+                "velocity": 105.1,
+                "engagement": 20.4,
+                "subscriberRatio": 70.8,
+                "freshness": 27.5,
+                "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 14,
+            "rank": 9,
             "videoId": "5ZiaJMvhlOo",
             "title": "美容の常識⭕️❌ウーロン茶は食前と食後で働きが違う？ #shorts #美容  #クイズ",
             "channelId": "UC1Qz_eWlQfcpWUKz87YARJA",
             "channelName": "【公式】脱・税理士スガワラくんのFuture Leaders Voice",
             "thumbnailUrl": "https://i.ytimg.com/vi/5ZiaJMvhlOo/maxresdefault.jpg",
             "publishedAt": "2026-11-17T12:15:13Z",
-            "viewCount": 167,
-            "viewIncrease": 167,
-            "likeCount": 0,
-            "likeIncrease": 0,
+            "viewCount": 1510,
+            "viewIncrease": 1343,
+            "likeCount": 4,
+            "likeIncrease": 4,
             "commentCount": 0,
             "commentIncrease": 0,
             "subscriberCount": 11600,
             "durationSeconds": 70,
-            "rawScore": 57.5,
-            "normalizedScore": 27.8,
+            "rawScore": 44.8,
+            "normalizedScore": 52.9,
             "genres": [
                 {
                     "slug": "beauty",
@@ -546,29 +349,99 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 31.5,
-                "engagement": 0.0,
-                "subscriberRatio": 54.0,
-                "freshness": 67.2
+                "velocity": 73.6,
+                "engagement": 10.8,
+                "subscriberRatio": 76.6,
+                "freshness": 27.8
             }
         },
         {
-            "rank": 15,
-            "videoId": "KNmFfTZIN4s",
-            "title": "目の下のたるみやゴルゴ線が気になる方に。朝の洗顔前にやる用に保存してね。#更年期 #美容 #40代ショート #50代美容 #スキンケア #リフトアップ #垢抜け #たるみ",
-            "channelId": "UCtyu7oIKI993n9hnRmPHvHg",
-            "channelName": "Rita 【幸せ1分引き上げ↑↑たるみ老け見え】女性ホルモンx巡りケア専門家",
-            "thumbnailUrl": "https://i.ytimg.com/vi/KNmFfTZIN4s/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T11:45:15Z",
-            "viewCount": 337,
-            "viewIncrease": 337,
+            "rank": 10,
+            "videoId": "AgkmbnhGXRg",
+            "title": "アウトバストリートメント、正しく使えてる？美容師が教える付け方 #ヘアケア",
+            "channelId": "UCQQ-kj6oYWDQ6q6977ZdFzA",
+            "channelName": "髪の研究室",
+            "thumbnailUrl": "https://i.ytimg.com/vi/AgkmbnhGXRg/maxresdefault.jpg",
+            "publishedAt": "2026-11-17T15:31:55Z",
+            "viewCount": 945,
+            "viewIncrease": 945,
+            "likeCount": 1,
+            "likeIncrease": 1,
             "commentCount": 0,
             "commentIncrease": 0,
-            "subscriberCount": 11900,
-            "durationSeconds": 38,
+            "subscriberCount": 3,
+            "durationSeconds": 51,
             "isShort": true,
-            "rawScore": 52.9,
-            "normalizedScore": 22.2,
+            "rawScore": 44.2,
+            "normalizedScore": 47.1,
+            "genres": [
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 56.2,
+                "engagement": 5.6,
+                "subscriberRatio": 99.4,
+                "freshness": 32.2,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 11,
+            "videoId": "wItOlGx8wH0",
+            "title": "#美容",
+            "channelId": "UCDtFdT0I-FJco4U9ReW_wUg",
+            "channelName": "ラメールクリニック🐚🩵",
+            "thumbnailUrl": "https://i.ytimg.com/vi/wItOlGx8wH0/maxresdefault.jpg",
+            "publishedAt": "2026-11-17T15:00:23Z",
+            "viewCount": 804,
+            "viewIncrease": 804,
+            "likeCount": 4,
+            "likeIncrease": 4,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 68,
+            "durationSeconds": 23,
+            "isShort": true,
+            "rawScore": 44.1,
+            "normalizedScore": 41.2,
+            "genres": [
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 53.8,
+                "engagement": 14.0,
+                "subscriberRatio": 97.6,
+                "freshness": 31.4,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 12,
+            "videoId": "Zl6aPlWAR8Y",
+            "title": "風邪、免疫力強化！# #ツボ押し #ツボ #美容 #マッサージ#セルフケア#風邪",
+            "channelId": "UCwQnLOPz7xsJ5zr4zXlaK4Q",
+            "channelName": "めぐツボ【頭と足から体を変えるウェルネスケア】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/Zl6aPlWAR8Y/maxresdefault.jpg",
+            "publishedAt": "2026-11-17T13:44:46Z",
+            "viewCount": 1755,
+            "viewIncrease": 1755,
+            "likeCount": 1,
+            "likeIncrease": 1,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 906,
+            "durationSeconds": 20,
+            "isShort": true,
+            "rawScore": 44.0,
+            "normalizedScore": 35.3,
             "genres": [
                 {
                     "slug": "beauty",
@@ -576,116 +449,43 @@
                     "confidence": 0.4
                 },
                 {
-                    "slug": "learning",
-                    "name": "学習・情報",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 41.2,
-                "engagement": 0.0,
-                "subscriberRatio": 61.3,
-                "freshness": 60.7,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 16,
-            "videoId": "x1-RD-ArmBw",
-            "title": "サウナに閉じ込められたのに息子が熱石に水ぶっかけて「なんでロウリュウするの！？」",
-            "channelId": "UCM950EmnQ7RirCdhjLbfLRA",
-            "channelName": "オタク二郎",
-            "thumbnailUrl": "https://i.ytimg.com/vi/x1-RD-ArmBw/maxresdefault.jpg",
-            "publishedAt": "2026-11-15T09:00:00Z",
-            "viewCount": 2418657,
-            "viewIncrease": 110472,
-            "likeCount": 33545,
-            "likeIncrease": 2951,
-            "commentCount": 293,
-            "commentIncrease": 15,
-            "subscriberCount": 335000,
-            "durationSeconds": 50,
-            "isShort": true,
-            "rawScore": 29.6,
-            "normalizedScore": 16.7,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
+                    "slug": "vtuber",
+                    "name": "VTuber",
                     "confidence": 0.3
                 },
                 {
-                    "slug": "beauty",
-                    "name": "美容",
+                    "slug": "entertainment",
+                    "name": "エンタメ",
                     "confidence": 0.3
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 138.0,
-                "engagement": 28.7,
-                "subscriberRatio": 88.0,
-                "freshness": 13.7,
+                "velocity": 65.4,
+                "engagement": 3.5,
+                "subscriberRatio": 106.1,
+                "freshness": 29.6,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 17,
-            "videoId": "sYnETolF_Xo",
-            "title": "一発で釣り歴30年っぽく見せる方法   #釣り#釣り好きな人と繋がりたい#海釣り#釣りファッション#釣り歴30年",
-            "channelId": "UCNwDToUy58K0G43y5yAnawA",
-            "channelName": "IDEABANK",
-            "thumbnailUrl": "https://i.ytimg.com/vi/sYnETolF_Xo/maxresdefault.jpg",
-            "publishedAt": "2026-11-12T11:09:05Z",
-            "viewCount": 9635058,
-            "viewIncrease": 499506,
-            "likeCount": 60735,
-            "likeIncrease": 2986,
-            "commentCount": 582,
-            "commentIncrease": 31,
-            "subscriberCount": 32900,
-            "durationSeconds": 13,
-            "isShort": true,
-            "rawScore": 23.5,
-            "normalizedScore": 11.1,
-            "genres": [
-                {
-                    "slug": "beauty",
-                    "name": "美容",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 160.9,
-                "engagement": 16.6,
-                "subscriberRatio": 129.5,
-                "freshness": 9.0,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 18,
-            "videoId": "jCTIzvRI6TE",
-            "title": "キューピー3分クッキング奥田シェフのゆで論",
-            "channelId": "UC4tVPl8hCZXK7D-L5YPsxnQ",
-            "channelName": "世界ビックリ雑学",
-            "thumbnailUrl": "https://i.ytimg.com/vi/jCTIzvRI6TE/maxresdefault.jpg",
-            "publishedAt": "2026-11-10T05:15:17Z",
-            "viewCount": 10681541,
-            "viewIncrease": 309461,
-            "likeCount": 93105,
-            "likeIncrease": 3763,
-            "commentCount": 1830,
-            "commentIncrease": 57,
-            "subscriberCount": 180000,
+            "rank": 13,
+            "videoId": "f9svXFMRt8g",
+            "title": "羊毛フェルト添削アドバイス｜勉強会切り抜き",
+            "channelId": "UC0PNjMwxdZfO4P2B6jGHE3Q",
+            "channelName": "山本まゆみ | 羊毛フェルトの世界",
+            "thumbnailUrl": "https://i.ytimg.com/vi/f9svXFMRt8g/maxresdefault.jpg",
+            "publishedAt": "2026-11-17T13:17:30Z",
+            "viewCount": 1153,
+            "viewIncrease": 1153,
+            "likeCount": 6,
+            "likeIncrease": 6,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 2210,
             "durationSeconds": 29,
             "isShort": true,
-            "rawScore": 18.1,
-            "normalizedScore": 5.6,
+            "rawScore": 41.1,
+            "normalizedScore": 29.4,
             "genres": [
                 {
                     "slug": "cooking",
@@ -704,31 +504,189 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 153.6,
-                "engagement": 23.5,
-                "subscriberRatio": 105.9,
-                "freshness": 7.5,
+                "velocity": 59.2,
+                "engagement": 14.3,
+                "subscriberRatio": 92.9,
+                "freshness": 29.0,
                 "formatAdjustment": 85.0
             }
         },
         {
-            "rank": 19,
+            "rank": 14,
+            "videoId": "VK7-NLW2VhQ",
+            "title": "【DAY45】 96.9kg🌹天敵は乾燥よ💢 #ダイエット #オネエ #美容 #shorts",
+            "channelId": "UCT85ymoZa5F_qySZZ7KHn4g",
+            "channelName": "デューイ様🌹33歳オネエのガチダイエット",
+            "thumbnailUrl": "https://i.ytimg.com/vi/VK7-NLW2VhQ/maxresdefault.jpg",
+            "publishedAt": "2026-11-17T12:46:00Z",
+            "viewCount": 1134,
+            "viewIncrease": 1134,
+            "likeCount": 1,
+            "likeIncrease": 1,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 82,
+            "durationSeconds": 23,
+            "isShort": true,
+            "rawScore": 39.9,
+            "normalizedScore": 23.5,
+            "genres": [
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 58.9,
+                "engagement": 4.9,
+                "subscriberRatio": 101.4,
+                "freshness": 28.4,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 15,
+            "videoId": "x1-RD-ArmBw",
+            "title": "サウナに閉じ込められたのに息子が熱石に水ぶっかけて「なんでロウリュウするの！？」",
+            "channelId": "UCM950EmnQ7RirCdhjLbfLRA",
+            "channelName": "オタク二郎",
+            "thumbnailUrl": "https://i.ytimg.com/vi/x1-RD-ArmBw/maxresdefault.jpg",
+            "publishedAt": "2026-11-15T09:00:00Z",
+            "viewCount": 2537736,
+            "viewIncrease": 119079,
+            "likeCount": 36082,
+            "likeIncrease": 2537,
+            "commentCount": 306,
+            "commentIncrease": 13,
+            "subscriberCount": 336000,
+            "durationSeconds": 50,
+            "isShort": true,
+            "rawScore": 27.3,
+            "normalizedScore": 17.6,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 141.7,
+                "engagement": 26.5,
+                "subscriberRatio": 88.7,
+                "freshness": 12.5,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 16,
+            "videoId": "jCTIzvRI6TE",
+            "title": "キューピー3分クッキング奥田シェフのゆで論",
+            "channelId": "UC4tVPl8hCZXK7D-L5YPsxnQ",
+            "channelName": "世界ビックリ雑学",
+            "thumbnailUrl": "https://i.ytimg.com/vi/jCTIzvRI6TE/maxresdefault.jpg",
+            "publishedAt": "2026-11-10T05:15:17Z",
+            "viewCount": 10944663,
+            "viewIncrease": 263122,
+            "sevenDayViewIncrease": 9520345,
+            "likeCount": 95426,
+            "likeIncrease": 2321,
+            "commentCount": 1873,
+            "commentIncrease": 43,
+            "subscriberCount": 180000,
+            "durationSeconds": 29,
+            "isShort": true,
+            "rawScore": 25.8,
+            "normalizedScore": 11.8,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "learning",
+                    "name": "学習・情報",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 153.7,
+                "engagement": 21.0,
+                "subscriberRatio": 104.1,
+                "freshness": 7.3,
+                "sevenDayVelocity": 10.0,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 17,
+            "videoId": "sYnETolF_Xo",
+            "title": "一発で釣り歴30年っぽく見せる方法   #釣り#釣り好きな人と繋がりたい#海釣り#釣りファッション#釣り歴30年",
+            "channelId": "UCNwDToUy58K0G43y5yAnawA",
+            "channelName": "IDEABANK",
+            "thumbnailUrl": "https://i.ytimg.com/vi/sYnETolF_Xo/maxresdefault.jpg",
+            "publishedAt": "2026-11-12T11:09:05Z",
+            "viewCount": 9797766,
+            "viewIncrease": 162708,
+            "likeCount": 61690,
+            "likeIncrease": 955,
+            "commentCount": 590,
+            "commentIncrease": 8,
+            "subscriberCount": 33200,
+            "durationSeconds": 13,
+            "isShort": true,
+            "rawScore": 20.5,
+            "normalizedScore": 5.9,
+            "genres": [
+                {
+                    "slug": "beauty",
+                    "name": "美容",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 146.4,
+                "engagement": 16.2,
+                "subscriberRatio": 117.3,
+                "freshness": 8.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 18,
             "videoId": "FXLvsTqSw4M",
             "title": "The best gift wrapping gadget I own 🎁✂️ #giftwrapping #christmas #gadgets #giftwraphack #momlife",
             "channelId": "UCj_X5D_2fOi0Y-0xXnRWVcw",
             "channelName": "Little ELF Products, Inc.",
             "thumbnailUrl": "https://i.ytimg.com/vi/FXLvsTqSw4M/maxresdefault.jpg",
             "publishedAt": "2026-11-10T17:39:07Z",
-            "viewCount": 10689655,
-            "viewIncrease": 151157,
-            "likeCount": 32021,
-            "likeIncrease": 563,
+            "viewCount": 10869976,
+            "viewIncrease": 180321,
+            "likeCount": 32401,
+            "likeIncrease": 380,
             "commentCount": 55,
             "commentIncrease": 0,
-            "subscriberCount": 125000,
+            "subscriberCount": 126000,
             "durationSeconds": 10,
             "isShort": true,
-            "rawScore": 17.0,
+            "rawScore": 16.7,
             "normalizedScore": 0.0,
             "genres": [
                 {
@@ -743,10 +701,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 142.7,
-                "engagement": 12.1,
-                "subscriberRatio": 102.1,
-                "freshness": 7.8,
+                "velocity": 148.0,
+                "engagement": 8.9,
+                "subscriberRatio": 103.9,
+                "freshness": 7.5,
                 "formatAdjustment": 85.0
             }
         }
