@@ -1,33 +1,475 @@
 {
-    "generatedAt": "2026-11-17T23:10:02.038294487Z",
+    "generatedAt": "2026-11-18T12:15:04.540837019Z",
     "period": "24h",
     "genre": {
         "slug": "travel",
         "name": "旅行",
-        "confidence": 0.2
+        "confidence": 0.3
     },
     "status": "reference",
-    "totalVideos": 12,
-    "totalChannels": 12,
+    "totalVideos": 13,
+    "totalChannels": 13,
     "ranking": [
         {
             "rank": 1,
+            "videoId": "QU8jdlJE-EI",
+            "title": "😋絕品美食 | Delicious Food | 맛있는 음식 | 美味しい料理",
+            "channelId": "UC70ccY6Y1e0GqkDKJexTMFw",
+            "channelName": "真真娱乐",
+            "thumbnailUrl": "https://i.ytimg.com/vi/QU8jdlJE-EI/maxresdefault.jpg?v=1",
+            "publishedAt": "2026-11-18T12:06:14Z",
+            "viewCount": 1608,
+            "viewIncrease": 1608,
+            "likeCount": 45,
+            "likeIncrease": 45,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 28800,
+            "rawScore": 109.0,
+            "normalizedScore": 100.0,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 64.1,
+                "engagement": 26.3,
+                "subscriberRatio": 68.7,
+                "freshness": 68.5
+            }
+        },
+        {
+            "rank": 2,
+            "videoId": "CMsD-o1YpVE",
+            "title": "絶望の状況に #ブチギレ氏原 #上田 #サカモト #旅行",
+            "channelId": "UC8vf-BGaUJntN1LxjfjGFmw",
+            "channelName": "うじとうえだ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/CMsD-o1YpVE/maxresdefault.jpg",
+            "publishedAt": "2026-11-18T11:00:11Z",
+            "viewCount": 10334,
+            "viewIncrease": 10334,
+            "likeCount": 305,
+            "likeIncrease": 305,
+            "commentCount": 9,
+            "commentIncrease": 9,
+            "subscriberCount": 1080000,
+            "durationSeconds": 58,
+            "isShort": true,
+            "rawScore": 83.8,
+            "normalizedScore": 91.7,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 92.2,
+                "engagement": 35.5,
+                "subscriberRatio": 49.6,
+                "freshness": 55.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 3,
+            "videoId": "eGQJ2t4RV9A",
+            "title": "【近江八幡】お菓子のテーマパーク♡#旅行#vlog #旅行",
+            "channelId": "UCVJVMxhQ5wJ3Kr3ertD9Anw",
+            "channelName": "さちアイス🍦アラフォーの旅",
+            "thumbnailUrl": "https://i.ytimg.com/vi/eGQJ2t4RV9A/maxresdefault.jpg",
+            "publishedAt": "2026-11-18T10:30:34Z",
+            "viewCount": 848,
+            "viewIncrease": 848,
+            "likeCount": 12,
+            "likeIncrease": 12,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 1020,
+            "durationSeconds": 38,
+            "isShort": true,
+            "rawScore": 80.9,
+            "normalizedScore": 83.3,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.99
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 54.6,
+                "engagement": 31.3,
+                "subscriberRatio": 98.0,
+                "freshness": 51.8,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 4,
+            "videoId": "PnXVH7FCinQ",
+            "title": "がん治療中、温泉や旅行に行ってもいいですか？",
+            "channelId": "UCaeVlkc4c2NfPGga35rsOIg",
+            "channelName": " 新見正則 | がんと人生の相談室",
+            "thumbnailUrl": "https://i.ytimg.com/vi/PnXVH7FCinQ/maxresdefault.jpg",
+            "publishedAt": "2026-11-18T11:00:33Z",
+            "viewCount": 324,
+            "viewIncrease": 324,
+            "likeCount": 7,
+            "likeIncrease": 7,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 3150,
+            "durationSeconds": 71,
+            "rawScore": 78.0,
+            "normalizedScore": 75.0,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 40.6,
+                "engagement": 24.4,
+                "subscriberRatio": 75.3,
+                "freshness": 55.6
+            }
+        },
+        {
+            "rank": 5,
+            "videoId": "epaU_nQw_EA",
+            "title": "這黃山燒餅到底是啥味……#黃山燒餅 #黃山 #美食 #旅行 #萬萬沒想到",
+            "channelId": "UC2_MYdZQSePc1IMQ1w1sgIA",
+            "channelName": "巨星娱乐",
+            "thumbnailUrl": "https://i.ytimg.com/vi/epaU_nQw_EA/hqdefault.jpg",
+            "publishedAt": "2026-11-18T10:24:17Z",
+            "viewCount": 354,
+            "viewIncrease": 354,
+            "likeCount": 13,
+            "likeIncrease": 13,
+            "commentCount": 1,
+            "commentIncrease": 1,
+            "subscriberCount": 1500,
+            "durationSeconds": 41,
+            "isShort": true,
+            "rawScore": 73.3,
+            "normalizedScore": 66.7,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.7
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 41.9,
+                "engagement": 42.5,
+                "subscriberRatio": 84.3,
+                "freshness": 51.1,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 6,
+            "videoId": "F7bvi_Q5G3o",
+            "title": "😱💜【衝撃】ジョングクが台湾旅行で忘れかけたものとは！？驚きの事実が明らかに #ジョングク #bts #jungkook",
+            "channelId": "UCkb7jRvFJh_yrexEJcjfEaQ",
+            "channelName": "Bts japan world",
+            "thumbnailUrl": "https://i.ytimg.com/vi/F7bvi_Q5G3o/maxresdefault.jpg",
+            "publishedAt": "2026-11-18T10:22:21Z",
+            "viewCount": 1045,
+            "viewIncrease": 1045,
+            "likeCount": 12,
+            "likeIncrease": 12,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 3310,
+            "durationSeconds": 16,
+            "isShort": true,
+            "rawScore": 71.3,
+            "normalizedScore": 58.3,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 57.7,
+                "engagement": 19.7,
+                "subscriberRatio": 87.5,
+                "freshness": 50.9,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 7,
+            "videoId": "ml6BptAQYfg",
+            "title": "韓国旅行、2027年から入国が変わる？K-ETA #韓国旅行 #KETA",
+            "channelId": "UCOzAlASJHFKk9jhBdEw9iHw",
+            "channelName": "旅のなぜ",
+            "thumbnailUrl": "https://i.ytimg.com/vi/ml6BptAQYfg/maxresdefault.jpg",
+            "publishedAt": "2026-11-18T10:30:32Z",
+            "viewCount": 502,
+            "viewIncrease": 502,
+            "likeCount": 4,
+            "likeIncrease": 4,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 4,
+            "durationSeconds": 30,
+            "isShort": true,
+            "rawScore": 68.9,
+            "normalizedScore": 50.0,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.99
+                },
+                {
+                    "slug": "music",
+                    "name": "音楽",
+                    "confidence": 0.2
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 46.9,
+                "engagement": 17.1,
+                "subscriberRatio": 92.5,
+                "freshness": 51.8,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 8,
+            "videoId": "daPe0UAMg78",
+            "title": "18切符で2日間かけてたどり着いた青森旅行は地獄の展開だった#旅行 #ひとり旅",
+            "channelId": "UCW_KzmL3ug_x1SSthTHz9Rg",
+            "channelName": "ティモライフ【アラサー１人旅】",
+            "thumbnailUrl": "https://i.ytimg.com/vi/daPe0UAMg78/maxresdefault.jpg",
+            "publishedAt": "2026-11-18T11:14:09Z",
+            "viewCount": 601,
+            "viewIncrease": 601,
+            "likeCount": 1,
+            "likeIncrease": 1,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 4650,
+            "durationSeconds": 35,
+            "isShort": true,
+            "rawScore": 66.3,
+            "normalizedScore": 41.7,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.7
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 49.5,
+                "engagement": 7.7,
+                "subscriberRatio": 77.8,
+                "freshness": 57.7,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 9,
+            "videoId": "8KDzzNtTZ2w",
+            "title": "多洛米蒂公路旅行 Dolomites road trip #travel #旅行 #多洛米蒂 #自駕 #自由行 #公路旅行",
+            "channelId": "UCeWno8KUZxSpBbHCCo8sCzw",
+            "channelName": "柴犬戰隊",
+            "thumbnailUrl": "https://i.ytimg.com/vi/8KDzzNtTZ2w/maxresdefault.jpg",
+            "publishedAt": "2026-11-18T10:21:38Z",
+            "viewCount": 328,
+            "viewIncrease": 328,
+            "likeCount": 5,
+            "likeIncrease": 5,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 27,
+            "durationSeconds": 18,
+            "isShort": true,
+            "rawScore": 64.9,
+            "normalizedScore": 33.3,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.4
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 40.8,
+                "engagement": 21.8,
+                "subscriberRatio": 87.9,
+                "freshness": 50.7,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 10,
+            "videoId": "WF_WjVKnNQg",
+            "title": "9回目のスイス旅行で見つけたチーズフォンデュのお店 #スイス旅行",
+            "channelId": "UCVFub_Hq2sx5bjHK-8UuY2w",
+            "channelName": "パイナップルりょう",
+            "thumbnailUrl": "https://i.ytimg.com/vi/WF_WjVKnNQg/maxresdefault.jpg",
+            "publishedAt": "2026-11-18T11:00:30Z",
+            "viewCount": 553,
+            "viewIncrease": 553,
+            "likeCount": 16,
+            "likeIncrease": 16,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 25300,
+            "durationSeconds": 47,
+            "isShort": true,
+            "rawScore": 63.1,
+            "normalizedScore": 25.0,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.7
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 48.3,
+                "engagement": 26.6,
+                "subscriberRatio": 58.5,
+                "freshness": 55.6,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 11,
+            "videoId": "nQ-7DAGil9k",
+            "title": "19歳の東京旅行がやばすぎたww #shorts #チャンネル登録お願いします #おすすめ #急上昇 #おもしろ #tiktok #拡散希望 #伸びろ #底辺youtuber #東京 #vlog",
+            "channelId": "UCskGlmPz8VHocFatPxPg15Q",
+            "channelName": "YAMASHITADAIKINGPARK-山下ダイキングパーク",
+            "thumbnailUrl": "https://i.ytimg.com/vi/nQ-7DAGil9k/maxresdefault.jpg",
+            "publishedAt": "2026-11-18T10:00:04Z",
+            "viewCount": 584,
+            "viewIncrease": 584,
+            "likeCount": 10,
+            "likeIncrease": 10,
+            "commentCount": 0,
+            "commentIncrease": 0,
+            "subscriberCount": 72300,
+            "durationSeconds": 57,
+            "isShort": true,
+            "rawScore": 49.3,
+            "normalizedScore": 16.7,
+            "genres": [
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.6
+                },
+                {
+                    "slug": "vtuber",
+                    "name": "VTuber",
+                    "confidence": 0.3
+                },
+                {
+                    "slug": "entertainment",
+                    "name": "エンタメ",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 49.1,
+                "engagement": 22.6,
+                "subscriberRatio": 47.8,
+                "freshness": 48.5,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 12,
+            "previousRank": 78,
+            "rankChange": 66,
+            "videoId": "NBItS5ywT78",
+            "title": "料理が品切れのときにお客さんが来たら",
+            "channelId": "UCda5Yg1PFryBps36XHOPXAw",
+            "channelName": "KAIRI-沖縄ch-",
+            "thumbnailUrl": "https://i.ytimg.com/vi/NBItS5ywT78/maxresdefault.jpg",
+            "publishedAt": "2026-11-17T02:20:13Z",
+            "viewCount": 2962953,
+            "viewIncrease": 485969,
+            "likeCount": 46643,
+            "likeIncrease": 7893,
+            "commentCount": 317,
+            "commentIncrease": 31,
+            "subscriberCount": 64100,
+            "durationSeconds": 43,
+            "isShort": true,
+            "rawScore": 43.4,
+            "normalizedScore": 8.3,
+            "genres": [
+                {
+                    "slug": "cooking",
+                    "name": "料理",
+                    "confidence": 0.4
+                },
+                {
+                    "slug": "travel",
+                    "name": "旅行",
+                    "confidence": 0.3
+                }
+            ],
+            "scoreBreakdown": {
+                "velocity": 159.9,
+                "engagement": 23.7,
+                "subscriberRatio": 122.0,
+                "freshness": 16.7,
+                "formatAdjustment": 85.0
+            }
+        },
+        {
+            "rank": 13,
+            "previousRank": 37,
+            "rankChange": 24,
             "videoId": "iUF7uNJVLMQ",
             "title": "【#ホロじゃん】４人でいざホロじゃん対決！！カスタムルールでカオス麻雀！！【ホロライブ/白上フブキ/猫又おかゆ/大神ミオ/鷹嶺ルイ】",
             "channelId": "UCdn5BQ06XqgXoAxIhbqw5Rg",
             "channelName": "フブキCh。白上フブキ",
             "thumbnailUrl": "https://i.ytimg.com/vi/iUF7uNJVLMQ/maxresdefault.jpg",
             "publishedAt": "2026-11-17T13:52:17Z",
-            "viewCount": 305251,
-            "viewIncrease": 305251,
-            "likeCount": 7339,
-            "likeIncrease": 7339,
-            "commentCount": 69,
-            "commentIncrease": 69,
+            "viewCount": 325301,
+            "viewIncrease": 20050,
+            "likeCount": 7573,
+            "likeIncrease": 234,
+            "commentCount": 75,
+            "commentIncrease": 6,
             "subscriberCount": 2690000,
             "durationSeconds": 6306,
-            "rawScore": 74.2,
-            "normalizedScore": 100.0,
+            "rawScore": 37.1,
+            "normalizedScore": 0.0,
             "genres": [
                 {
                     "slug": "gaming",
@@ -51,410 +493,10 @@
                 }
             ],
             "scoreBreakdown": {
-                "velocity": 143.7,
-                "engagement": 29.1,
-                "subscriberRatio": 76.4,
-                "freshness": 29.8
-            }
-        },
-        {
-            "rank": 2,
-            "videoId": "A3T_4eBcz0I",
-            "title": "尾崎神社に行ってみた　#パワースポット #今日から開運 #旅行 #神社 #観光 #開運 #金運",
-            "channelId": "UC5wBRWCz6tC0muQjNqwjwjA",
-            "channelName": "ルームのライフチャンネル",
-            "thumbnailUrl": "https://i.ytimg.com/vi/A3T_4eBcz0I/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T22:45:26Z",
-            "viewCount": 139,
-            "viewIncrease": 139,
-            "likeCount": 1,
-            "likeIncrease": 1,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 269,
-            "durationSeconds": 52,
-            "isShort": true,
-            "rawScore": 68.1,
-            "normalizedScore": 90.9,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.7
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 29.1,
-                "engagement": 16.4,
-                "subscriberRatio": 78.6,
-                "freshness": 64.5,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 3,
-            "videoId": "r_TzkauwL8s",
-            "title": "【スマブラSP】温泉旅行最高でしたVIP【11/17】",
-            "channelId": "UCtlAfOQoDvjyeqwpdtqo3Tw",
-            "channelName": "無名ちゃんねる",
-            "thumbnailUrl": "https://i.ytimg.com/vi/r_TzkauwL8s/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T17:01:42Z",
-            "viewCount": 19837,
-            "viewIncrease": 19837,
-            "likeCount": 45,
-            "likeIncrease": 45,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 217000,
-            "durationSeconds": 15217,
-            "rawScore": 65.0,
-            "normalizedScore": 81.8,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "gaming",
-                    "name": "ゲーム",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 102.1,
-                "engagement": 9.3,
-                "subscriberRatio": 74.0,
-                "freshness": 35.1
-            }
-        },
-        {
-            "rank": 4,
-            "previousRank": 62,
-            "rankChange": 58,
-            "videoId": "NBItS5ywT78",
-            "title": "料理が品切れのときにお客さんが来たら",
-            "channelId": "UCda5Yg1PFryBps36XHOPXAw",
-            "channelName": "KAIRI-沖縄ch-",
-            "thumbnailUrl": "https://i.ytimg.com/vi/NBItS5ywT78/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T02:20:13Z",
-            "viewCount": 2476984,
-            "viewIncrease": 1121028,
-            "likeCount": 38750,
-            "likeIncrease": 13178,
-            "commentCount": 286,
-            "commentIncrease": 91,
-            "subscriberCount": 63900,
-            "durationSeconds": 43,
-            "isShort": true,
-            "rawScore": 58.5,
-            "normalizedScore": 72.7,
-            "genres": [
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.4
-                },
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 175.7,
-                "engagement": 21.7,
-                "subscriberRatio": 131.1,
-                "freshness": 20.9,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 5,
-            "videoId": "9suaA0pHxIM",
-            "title": "跟風旅行團｜杜如風用五百蚊體驗做機師 超足料三文魚當麵食｜#美食 #旅遊 #TVB綜藝",
-            "channelId": "UCD2SNRlEjxJODlwaKx-BoRw",
-            "channelName": "TVB (official)",
-            "thumbnailUrl": "https://i.ytimg.com/vi/9suaA0pHxIM/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T14:00:38Z",
-            "viewCount": 16480,
-            "viewIncrease": 16480,
-            "likeCount": 103,
-            "likeIncrease": 103,
-            "commentCount": 10,
-            "commentIncrease": 10,
-            "subscriberCount": 1430000,
-            "durationSeconds": 679,
-            "rawScore": 52.0,
-            "normalizedScore": 63.6,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.6
-                },
-                {
-                    "slug": "vtuber",
-                    "name": "VTuber",
-                    "confidence": 0.3
-                },
-                {
-                    "slug": "entertainment",
-                    "name": "エンタメ",
-                    "confidence": 0.3
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 99.3,
-                "engagement": 22.8,
-                "subscriberRatio": 51.6,
-                "freshness": 29.9
-            }
-        },
-        {
-            "rank": 6,
-            "videoId": "lxW-0VYQ9RY",
-            "title": "日本旅行から帰ったらこうなった😂 体はアメリカ、心はまだ日本！",
-            "channelId": "UCo6IpI-06ntUSCjwrdw6pmQ",
-            "channelName": "サクラプリズム",
-            "thumbnailUrl": "https://i.ytimg.com/vi/lxW-0VYQ9RY/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T22:00:18Z",
-            "viewCount": 210,
-            "viewIncrease": 210,
-            "likeCount": 0,
-            "likeIncrease": 0,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 4710,
-            "durationSeconds": 25,
-            "isShort": true,
-            "rawScore": 48.3,
-            "normalizedScore": 54.5,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.6
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 34.6,
-                "engagement": 0.0,
-                "subscriberRatio": 66.3,
-                "freshness": 56.3,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 7,
-            "videoId": "uiZkMKDQZI8",
-            "title": "この景色が好き #旅行  #立山 #剱岳#今年のシルバーウイーク#あと何回行けるか#おばちゃん頑張る",
-            "channelId": "UCX5SHeDpP2qEAOKyZju800w",
-            "channelName": "HOHO",
-            "thumbnailUrl": "https://i.ytimg.com/vi/uiZkMKDQZI8/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T15:52:16Z",
-            "viewCount": 1038,
-            "viewIncrease": 1038,
-            "likeCount": 5,
-            "likeIncrease": 5,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 54,
-            "durationSeconds": 21,
-            "isShort": true,
-            "rawScore": 47.9,
-            "normalizedScore": 45.5,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 57.6,
-                "engagement": 13.8,
-                "subscriberRatio": 100.4,
-                "freshness": 32.8,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 8,
-            "videoId": "UYf5U2JkSao",
-            "title": "【Snow Man】一度の旅行で同じ大聖堂へ3回。佐久間もツッコミ #Shorts",
-            "channelId": "UCFpu4mWTOGhrtGfiCgve_CQ",
-            "channelName": "すののひと幕",
-            "thumbnailUrl": "https://i.ytimg.com/vi/UYf5U2JkSao/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T15:00:02Z",
-            "viewCount": 1202,
-            "viewIncrease": 1202,
-            "likeCount": 2,
-            "likeIncrease": 2,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 5,
-            "durationSeconds": 24,
-            "isShort": true,
-            "rawScore": 45.2,
-            "normalizedScore": 36.4,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.6
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 59.8,
-                "engagement": 7.7,
-                "subscriberRatio": 102.0,
-                "freshness": 31.4,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 9,
-            "videoId": "jaJEHWhOMcw",
-            "title": "群馬ってパスタが有名なの知ってた？ #旅行 #観光 #群馬県 #高崎 #グルメ",
-            "channelId": "UCgu9h8HUEBI4g2a-ajhuBzQ",
-            "channelName": "はゆなゆ。",
-            "thumbnailUrl": "https://i.ytimg.com/vi/jaJEHWhOMcw/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T14:31:24Z",
-            "viewCount": 1201,
-            "viewIncrease": 1201,
-            "likeCount": 3,
-            "likeIncrease": 3,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 517,
-            "durationSeconds": 60,
-            "isShort": true,
-            "rawScore": 44.7,
-            "normalizedScore": 27.3,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.99
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 59.8,
-                "engagement": 9.8,
-                "subscriberRatio": 102.0,
-                "freshness": 30.7,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 10,
-            "videoId": "wYuRMDeoABc",
-            "title": "#グリーンリッチホテル徳山駅前 #山口 #徳山 #周南 #ふく #ビジネスホテル #旅行 #お宿 #温泉",
-            "channelId": "UCrM9t-cipSp6TJAvOlvIVPg",
-            "channelName": "温泉ソムリエマスターの極上リトリート〜客室露天×Music",
-            "thumbnailUrl": "https://i.ytimg.com/vi/wYuRMDeoABc/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T13:14:06Z",
-            "viewCount": 1028,
-            "viewIncrease": 1028,
-            "likeCount": 8,
-            "likeIncrease": 8,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 9740,
-            "durationSeconds": 73,
-            "rawScore": 43.5,
-            "normalizedScore": 18.2,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.7
-                },
-                {
-                    "slug": "music",
-                    "name": "音楽",
-                    "confidence": 0.15
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 57.5,
-                "engagement": 17.0,
-                "subscriberRatio": 75.6,
-                "freshness": 29.0
-            }
-        },
-        {
-            "rank": 11,
-            "videoId": "GftaYmYyO7A",
-            "title": "韓国旅行で絶対食べて！ 東大門のナッコプセがヤバい！",
-            "channelId": "UCtQI3YzjgO4uIM3-AZej0Rw",
-            "channelName": "77年生まれ コプドリジョンゴル食堂 東大門",
-            "thumbnailUrl": "https://i.ytimg.com/vi/GftaYmYyO7A/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T13:00:24Z",
-            "viewCount": 1220,
-            "viewIncrease": 1220,
-            "likeCount": 6,
-            "likeIncrease": 6,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 17,
-            "durationSeconds": 17,
-            "isShort": true,
-            "rawScore": 42.9,
-            "normalizedScore": 9.1,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.8
-                },
-                {
-                    "slug": "cooking",
-                    "name": "料理",
-                    "confidence": 0.2
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 60.0,
-                "engagement": 13.9,
-                "subscriberRatio": 102.2,
-                "freshness": 28.7,
-                "formatAdjustment": 85.0
-            }
-        },
-        {
-            "rank": 12,
-            "videoId": "-X1hokR79Rc",
-            "title": "重慶太美了 下次我約你一起. #重慶 #旅行",
-            "channelId": "UCwNX9zfkYbXGOTQ_8CT-Mmw",
-            "channelName": "aopsjhhklasfhausf",
-            "thumbnailUrl": "https://i.ytimg.com/vi/-X1hokR79Rc/maxresdefault.jpg",
-            "publishedAt": "2026-11-17T12:36:35Z",
-            "viewCount": 1126,
-            "viewIncrease": 1126,
-            "likeCount": 6,
-            "likeIncrease": 6,
-            "commentCount": 0,
-            "commentIncrease": 0,
-            "subscriberCount": 15,
-            "durationSeconds": 12,
-            "isShort": true,
-            "rawScore": 41.9,
-            "normalizedScore": 0.0,
-            "genres": [
-                {
-                    "slug": "travel",
-                    "name": "旅行",
-                    "confidence": 0.4
-                }
-            ],
-            "scoreBreakdown": {
-                "velocity": 58.8,
-                "engagement": 14.4,
-                "subscriberRatio": 101.3,
-                "freshness": 28.2,
-                "formatAdjustment": 85.0
+                "velocity": 111.5,
+                "engagement": 24.6,
+                "subscriberRatio": 47.0,
+                "freshness": 20.3
             }
         }
     ]
